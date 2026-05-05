@@ -1,0 +1,595 @@
+<<<Page 385>>>
+
+Maximum penalty: tier E monetary penalty. 
+
+(4) All major incidents and major incident hazards identified and documented under regulation 554 in relation to the major hazard facility are taken to have been identified and documented under this regulation. 
+
+565 Safety assessment 
+
+The operator of a licensed major hazard facility must keep a copy of the safety assessment documented under regulation 555 as revised under Part 9.3 and this Part at the facility. 
+
+Maximum penalty: tier E monetary penalty. 
+
+<<<PAGE 386>>>
+
+Part 9.4 Licensed Major Hazard Facilities—Risk Management 
+
+566 Control of risk 
+
+(1) The operator of a licensed major hazard facility must implement risk control measures that: 
+
+(a) eliminate, so far as is reasonably practicable, the risk of a major incident occurring; or   
+(b) if it is not reasonably practicable to eliminate that risk— minimise that risk so far as is reasonably practicable. 
+
+Note 
+
+WHS Act—section 20 (see regulation 9). 
+
+(2) The operator of a licensed major hazard facility must implement risk control measures designed to minimise, in the event of a major incident occurring, its magnitude and the severity of its consequences to persons both on-site and off-site. 
+
+Maximum penalty: tier E monetary penalty. 
+
+567 Emergency plan 
+
+(1) The operator of a licensed major hazard facility must keep a copy of the major hazard facility's emergency plan prepared under regulation 557 as revised under Part 9.3 and this Part at the facility. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) The operator must test the emergency plan in accordance with the recommendations made by the emergency service organisations referred to in regulation 557(2). 
+
+Maximum penalty: tier E monetary penalty. 
+
+(3) The operator must immediately implement the emergency plan if: 
+
+(a) a major incident occurs in the course of the operation of the major hazard facility; or   
+(b) an event occurs that could reasonably be expected to lead to a major incident. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(4) The operator must notify the regulator and the emergency service organisations referred to in regulation 557(2) of the occurrence of an incident or event referred to in regulation 557(3) as soon as practicable after the incident or event occurs. 
+
+Maximum penalty: tier G monetary penalty. 
+
+<<<PAGE 387>>>
+
+Part 9.4 Licensed Major Hazard Facilities—Risk Management 
+
+568 Safety management system 
+
+(1) The operator of a licensed major hazard facility must implement the major hazard facility's safety management system established under regulation 558 as revised under Part 9.3 and this Part. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) The operator must use the safety management system as the primary means of: 
+
+(a) ensuring the health and safety of workers engaged or caused to be engaged by the operator and workers whose activities in carrying out work are influenced or directed by the operator while the workers are at work in the operation of the major hazard facility; and   
+(b) ensuring that the health and safety of other persons is not put at risk from work carried out as part of the operation of the major hazard facility. 
+
+Note 
+
+The operator of a licensed major hazard facility is required to notify the regulator of any change in relation to certain information about the licence (see regulation 588). 
+
+569 Review of risk management 
+
+(1) The operator of a licensed major hazard facility must review and as necessary revise the following, in accordance with this regulation: 
+
+(a) the safety assessment for the facility in order to ensure the adequacy of the control measures to be implemented by the operator;   
+(b) the major hazard facility's emergency plan;   
+(c) the major hazard facility's safety management system. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) Without limiting subregulation (1), the operator must conduct a review and revision in the following circumstances: 
+
+(a) a modification to the major hazard facility is proposed;   
+(b) a control measure implemented under regulation 566 does not minimise the relevant risk so far as is reasonably practicable; Example An effectiveness test indicates a deficiency in the control measure. 
+
+(c) a new major hazard risk is identified; 
+
+<<<PAGE 388>>>
+
+Model Work Health and Safety Regulations 
+
+Part 9.4 Licensed Major Hazard Facilities—Risk Management 
+
+(d) the results of consultation by the operator under Part 9.5 indicate that a review is necessary;   
+(e) a health and safety representative requests a review under subregulation (5);   
+(f) the regulator requires the review;   
+(g) at least once every 5 years. 
+
+(3) In reviewing and revising the safety assessment, the operator must comply with the requirements set out in regulation 555(2), (3) and (4). 
+
+(4) In reviewing and revising the emergency plan, the operator must consult with the emergency service organisations referred to in regulation 557(2). 
+
+(5) A health and safety representative for workers at a major hazard facility may request a review if the representative reasonably believes that: 
+
+(a) a circumstance referred to in subregulation (2)(a), (b), (c) or (d) affects or may affect the health and safety of a member of the work group represented by the health and safety representative; and   
+(b) the operator has not adequately conducted a review in response to the circumstance. 
+
+570 Safety case—review 
+
+The operator of a licensed major hazard facility must review and as necessary revise the safety case after any review is conducted under regulation 569. 
+
+Maximum penalty: tier G monetary penalty. 
+
+Note 
+
+The operator of a licensed major hazard facility is required to notify the regulator of any change in relation to certain information about the licence. See regulation 588. 
+
+571 Information for visitors 
+
+The operator of a licensed major hazard facility must ensure that a person other than a worker who enters the major hazard facility is as soon as practicable: 
+
+(a) informed about hazards at the major hazard facility that may affect that person; and (b) instructed in safety precautions the person should take; and 
+
+<<<PAGE 389>>>
+
+Model Work Health and Safety Regulations 
+
+Part 9.4 Licensed Major Hazard Facilities—Risk Management 
+
+(c) instructed in the actions the person should take if the emergency plan is implemented while the person is on-site. 
+
+Maximum penalty: tier E monetary penalty. 
+
+572 Information for local community—general 
+
+(1) The operator of a licensed major hazard facility must ensure the provision of the following information to the local community and the local authority: 
+
+(a) the name and location of the major hazard facility;   
+(b) the name, position and contact details of a contact person from whom information may be obtained;   
+(c) a general description of the major hazard facility's operations;   
+(d) the means by which the local community will be informed of a major incident occurring;   
+(e) the actions, as specified in the major hazard facility's emergency plan, that members of the local community should take if a major incident occurs;   
+(f) a summary of the safety case for the major hazard facility. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) The operator must ensure that the information provided under subregulation (1) is: 
+
+(a) set out and expressed in a way that is readily accessible and understandable to persons who are not familiar with the major hazard facility and its operations; and   
+(b) reviewed and as necessary revised if a modification is made to the major hazard facility; and   
+(c) sent in writing to any community or public library serving the local community. 
+
+(3) In complying with subregulation (1), the operator is not required to disclose information that may expose the major hazard facility to a major incident hazard in relation to the security of the major hazard facility. 
+
+(4) The operator of a licensed major hazard facility who receives a written request from a person who reasonably believes that the occurrence of a major incident at the major hazard facility may adversely affect his or her health or safety must give that person a copy of the information provided to the local community under this regulation. 
+
+<<<PAGE 390>>>
+
+
+
+Maximum penalty: tier I monetary penalty. 
+
+573 Information for local community—major incident 
+
+(1) As soon as practicable after a major incident occurs, the operator of the major hazard facility must take all reasonable steps to provide the persons specified in subregulation (2) with information about the major incident, including: 
+
+(a) a general description of the major incident; and   
+(b) a description of the actions the operator has taken and proposes to take to prevent any recurrence of the major incident or the occurrence of a similar major incident; and   
+(c) recommended actions that the local authority and members of the local community should take to eliminate or minimise risks to health and safety. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) The persons to whom information about a major incident must be given are: 
+
+(a) the local community, if a member of the local community was affected by the major incident; and   
+(b) the local authority; and   
+(c) any government department or agency with a regulatory role in relation to major hazard facilities. 
+
+<<<PAGE 391>>>
+
+Part 9.5 Consultation and Workers' Safety Role 
+
+574 Safety role for workers 
+
+(1) The operator of a determined major hazard facility must, within the time specified in the safety case outline for the major hazard facility, implement a safety role for the workers at the major hazard facility that enables them to contribute to: 
+
+(a) the identification of major incidents and major incident hazards under regulation 554; and   
+(b) the consideration of control measures in the conduct of the safety assessment under regulation 555; and   
+(c) the conduct of a review under regulation 559. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) The operator of a licensed major hazard facility must implement a safety role for workers at the facility so as to enable them to contribute to the conduct of a review under regulation 569. Maximum penalty: tier E monetary penalty. 
+
+575 Operator of major hazard facility must consult with workers 
+
+(1) For the purposes of section 49(f) of the Act, the operator of a determined major hazard facility must consult with workers at the major hazard facility in relation to the following: 
+
+(a) the preparation of the safety case outline for the major hazard facility;   
+(b) the preparation, testing and implementation of the major hazard facility's emergency plan;   
+(c) the establishment and implementation of the major hazard facility's safety management system;   
+(d) the conduct of a review under regulation 559;   
+(e) the implementation of the workers' safety role under regulation 574(1);   
+(f) the preparation and review of the major hazard facility's safety case. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) For the purposes of section 49(f) of the Act, the operator of a licensed major hazard facility must consult with workers at the major hazard facility in relation to the following: 
+
+<<<PAGE 392>>>
+
+Model Work Health and Safety Regulations 
+
+Part 9.5 Consultation and Workers' Safety Role 
+
+(a) the testing and implementation of the major hazard facility's emergency plan;   
+(b) the implementation of the major hazard facility's safety management system;   
+(c) the conduct of a review under regulation 569;   
+(d) the implementation of the workers' safety role under regulation 574(2);   
+(e) a review of the major hazard facility's safety case. 
+
+Maximum penalty: tier E monetary penalty. 
+
+Note 
+
+See section 49 of the Act for other consultation duties of a person conducting a business or undertaking. 
+
+<<<PAGE 393>>>
+
+Part 9.6 Duties of Workers at Licensed Major Hazard Facilities 
+
+Part 9.6 Duties of Workers at Licensed Major Hazard Facilities 
+
+576 Duties 
+
+(1) While at work, a worker at a licensed major hazard facility must: 
+
+(a) comply with any procedure imposed by the operator as a control measure in relation to major incidents, including the taking of corrective action under the procedure; and   
+(b) comply with any procedure in the emergency plan, including the taking of corrective action under the plan; and   
+(c) immediately inform the operator about any circumstance that the worker believes may cause a major incident; and   
+(d) inform his or her supervisor about any corrective action taken by the worker. 
+
+Maximum penalty: tier G monetary penalty. 
+
+(2) A worker is not required to comply with subregulation (1) if to do so would risk the health or safety of the worker or of another worker or other person. 
+
+<<<PAGE 394>>>
+
+Part 9.7 Licensing of Major Hazard Facilities 
+
+Note 
+
+See the jurisdictional notes in the Appendix. 
+
+Division 1 Licensing process 
+
+577 Who may apply for a licence 
+
+Only an operator of a determined major hazard facility who is taken to be a suitable operator under regulation 543 may apply for a major hazard facility licence for that facility. 
+
+578 Application for major hazard facility licence 
+
+(1) An application for a major hazard facility licence must be made in the manner and form required by the regulator. 
+
+(2) The application must include the following information: 
+
+(a) the operator's name;   
+(b) whether or not the operator is a body corporate;   
+(c) if the operator conducts the business or undertaking under a business name—that business name and a certificate or other written evidence of the registration of the business name;   
+(d) any other evidence of the operator's identity required by the regulator;   
+(e) the safety case prepared under Division 4 of Part 9.3;   
+(f) if the operator is an individual:   
+(i) a declaration as to whether or not the operator has ever been convicted or found guilty of any offence under the Act or these Regulations or under any corresponding WHS law; and Note See the jurisdictional note in the Appendix.   
+(ii) details of any conviction or finding of guilt declared under subparagraph (i); and   
+(iii) a declaration as to whether or not the operator has ever entered into an enforceable undertaking under the Act or under any corresponding WHS law; and   
+(iv) details of any enforceable undertaking declared under subparagraph (iii); and 
+
+
+
+<<<PAGE 395>>>
+
+Model Work Health and Safety Regulations 
+
+Part 9.7 Licensing of Major Hazard Facilities (v) if the operator has previously been refused a major hazard facility licence under a corresponding WHS law, a declaration giving details of that refusal; and 
+
+
+
+(vi) if the operator has previously held a major hazard facility licence under the Act or these Regulations or under a corresponding WHS law, a declaration: 
+
+(A) describing any condition imposed on that licence; and   
+(B) stating whether or not that licence had been suspended or cancelled and, if so, whether or not the operator had been disqualified from applying for a major hazard facility licence; and   
+(C) giving details of any suspension, cancellation or disqualification; 
+
+(g) if the operator is a body corporate, the information referred to in paragraph (f) in relation to: 
+
+(i) the operator; and (ii) each officer of the operator. 
+
+Note 
+
+See section 268 of the Act for offences relating to the giving of false or misleading information under the Act or these Regulations. 
+
+(3) The application must be accompanied by the relevant fee. 
+
+Note 
+
+See the jurisdictional note in the Appendix. 
+
+579 Additional information 
+
+(1) If an application for a major hazard facility licence does not contain sufficient information to enable the regulator to make a decision whether or not to grant the licence, the regulator may ask the operator to provide additional information. 
+
+(2) A request for additional information must: 
+
+(a) specify the date (not being less than 28 days after the request) by which the additional information is to be given; and (b) be confirmed in writing. 
+
+(3) If an operator does not provide the additional information by the date specified, the application is to be taken to have been withdrawn. 
+
+<<<PAGE 396>>>
+
+Model Work Health and Safety Regulations (4) The regulator may make more than 1 request for additional information under this regulation. 
+
+
+
+Note 
+
+See section 268 of the Act for offences relating to the giving of false or misleading information under the Act or these Regulations. 
+
+580 Decision on application 
+
+(1) Subject to this regulation, the regulator must grant a major hazard facility licence if satisfied about the matters referred to in subregulation (2). 
+
+(2) The regulator must be satisfied about the following: 
+
+(a) the application has been made in accordance with these Regulations;   
+(b) the safety case for the facility has been prepared in accordance with Division 4 of Part 9.3;   
+(c) the operator is able to operate the major hazard facility safely and competently;   
+(d) the operator is able to comply with any conditions that will apply to the licence. 
+
+(3) The regulator may refuse to grant a major hazard facility licence if it becomes aware of circumstances that satisfy it that the following persons are not suitable persons to exercise management or control over the major hazard facility: 
+
+(a) if the operator is an individual—the operator; (b) if the operator is a body corporate—any officer of the body corporate. 
+
+(4) The regulator must refuse to grant a major hazard facility licence if satisfied that the operator, in making the application, has: 
+
+(a) given information that is false or misleading in a material particular; or   
+(b) failed to give any material information that should have been given. 
+
+(5) If the regulator decides to grant the licence, it must notify the operator within 14 days after making the decision. 
+
+(6) If the regulator does not make a decision within 6 months after receiving the application or the additional information requested under regulation 579, the regulator is taken to have refused to grant the licence applied for. 
+
+<<<PAGE 397>>>
+
+Model Work Health and Safety Regulations 
+
+Part 9.7 Licensing of Major Hazard Facilities 
+
+Note 
+
+A refusal to grant a major hazard facility licence (including under subregulation (6)) is a reviewable decision (see regulation 676). 
+
+581 Matters to be taken into account 
+
+(1) For the purposes of regulation 580(3), if the operator is an individual, the regulator must have regard to all relevant matters, including the following: 
+
+(a) any offence under the Act or these Regulations or under a corresponding WHS law of which the operator has been convicted or found guilty; Note See the jurisdictional note in the Appendix.   
+(b) any enforceable undertaking the operator has entered into under the Act or under a corresponding WHS law;   
+(c) in relation to a major hazard facility licence applied for or held by the operator under the Act or these Regulations or under a corresponding WHS law: (i) any refusal to grant the licence; and (ii) any condition imposed on the licence, if granted, and the reason the condition was imposed; and (iii) any suspension or cancellation of the licence, if granted, including any disqualification from applying for any licence;   
+(d) the operator's record in relation to any matters arising under the Act or these Regulations or under a corresponding WHS law;   
+(e) any advice or recommendations received from any agency of the Crown with responsibility in relation to national security. Note See the jurisdictional note in the Appendix. 
+
+(2) For the purposes of regulation 580(3), if the operator is a body corporate, the regulator must have regard to all relevant matters, including the matters referred to in subregulation (1), in relation to: 
+
+(a) the body corporate; and (b) each officer of the body corporate. 
+
+<<<PAGE 398>>>
+
+582 When decision is to be made 
+
+The regulator must make a decision in relation to an application for a major hazard facility licence within 6 months after receiving the application or the additional information requested under regulation 579. 
+
+583 Refusal to grant major hazard facility licence—process 
+
+(1) If the regulator proposes to refuse to grant a major hazard facility licence, the regulator must give a written notice to the operator: 
+
+(a) informing the operator of the reasons for the proposed refusal; and   
+(b) advising the operator that the operator may, by a specified date (being not less than 28 days after giving the notice), make a submission to the regulator in relation to the proposed refusal. 
+
+(2) After the date specified in a notice under subregulation (1), the regulator must: 
+
+(a) if the operator has made a submission in relation to the proposed refusal to grant the licence—consider that submission; and   
+(b) whether or not the operator has made a submission—decide whether to grant or refuse to grant the licence; and   
+(c) within 14 days after making the decision, give the operator written notice of the decision, including the reasons for the decision. 
+
+584 Conditions of licence 
+
+(1) The regulator may impose any conditions it considers appropriate on a major hazard facility licence.   
+(2) Without limiting subregulation (1), the regulator may impose conditions in relation to 1 or more of the following: (a) additional control measures which must be implemented in relation to the carrying out of work or activities under the licence; (b) the recording or keeping of additional information; (c) the provision of additional information, training and instruction or the giving of specified information, training and instruction to additional persons or classes of persons; (d) the provision of additional information to the regulator; 
+
+<<<PAGE 399>>>
+
+Model Work Health and Safety Regulations 
+
+Part 9.7 Licensing of Major Hazard Facilities 
+
+(e) if the operator is a person conducting a business or undertaking, the additional class of persons who may carry out work or activities on the operator's behalf. 
+
+Notes 
+
+1 A person must comply with the conditions of a licence (see section 45 of the Act). 2 A decision to impose a condition on a licence is a reviewable decision (see regulation 676). 
+
+585 Duration of licence 
+
+Subject to this Part, a major hazard facility licence takes effect on the day it is granted and, unless cancelled earlier, expires on the day determined by the regulator, which must be not more than 5 years after the day the licence was granted. 
+
+586 Licence document 
+
+(1) If the regulator grants a major hazard facility licence, the regulator must issue to the operator a licence document in the form determined by the regulator. 
+
+(2) The licence document must include the following: 
+
+(a) the name of the operator;   
+(b) if the operator conducts the business or undertaking under a business name—that business name;   
+(c) the location of the major hazard facility;   
+(d) any conditions imposed on the licence by the regulator;   
+(e) the date on which the licence was granted;   
+(f) the expiry date of the licence. 
+
+587 Licence document to be available 
+
+(1) The operator of the major hazard facility must keep the licence document available for inspection under the Act. Maximum penalty: tier I monetary penalty.   
+(2) Subregulation (1) does not apply if the licence document is not in the operator's possession because: (a) it has been returned to the regulator under regulation 593; and (b) the operator has applied for, but has not received, a replacement licence under regulation 594. 
+
+<<<PAGE 400>>>
+
+Division 2 Amendment of licence and licence document 
+
+588 Changes to information 
+
+(1) The operator of a licensed major hazard facility must give the regulator written notice of any change to any material particular in any information given at any time by the operator to the regulator in relation to the licence within 14 days after the operator becomes aware of the change. 
+
+Maximum penalty: tier I monetary penalty. 
+
+Example 
+
+A change to the quantity of the hazardous chemicals present or likely to be present at the facility. 
+
+(2) Subregulation (1) applies whether the information was given in the application for grant or renewal of the licence or in any other circumstance. 
+
+589 Amendment imposed by regulator 
+
+(1) The regulator may, on its own initiative, amend a major hazard facility licence, including by amending the licence to: 
+
+(a) vary or delete a condition of the licence; or (b) impose a new condition on the licence. 
+
+(2) If the regulator proposes to amend a licence, the regulator must give the operator a written notice: 
+
+(a) setting out the proposed amendment and the reasons for it; and   
+(b) advising the operator that the operator may, by a specified date (being not less than 28 days after giving the notice), make a submission to the regulator in relation to the proposed amendment. 
+
+(3) After the date specified in a notice under subregulation (2), the regulator must: 
+
+(a) if the operator has made a submission in relation to the proposed amendment—consider that submission; and (b) whether or not the operator has made a submission—decide: 
+
+
+
+(i) to make the proposed amendment; or   
+(ii) not to make any amendment; or   
+(iii) to make a different amendment that results from consideration of any submission made by the operator; and 
+
+<<<PAGE 401>>>
+
+Part 9.7 Licensing of Major Hazard Facilities (c) within 14 days after making that decision, give the operator written notice that: 
+
+
+
+(i) sets out the amendment if any; and   
+(ii) if a submission was made in relation to the proposed amendment—sets out the regulator's reasons for making the amendment; and   
+(iii) specifies the date (being not less than 28 days after the operator is given the notice) on which the amendment, if any, takes effect. 
+
+Note 
+
+A decision to amend a licence is a reviewable decision (see regulation 676). 
+
+590 Amendment on application by operator 
+
+(1) The regulator, on application by the operator of a licensed major hazard facility, may amend the major hazard facility licence, including by amending the licence to vary or delete a condition of the licence. 
+
+(2) If the regulator proposes to refuse to amend the licence, the regulator must give the operator a written notice: 
+
+(a) informing the operator of the proposed refusal to amend the licence and the reasons for the proposed refusal; and   
+(b) advising the operator that the operator may, by a specified date (being not less than 28 days after giving the notice), make a submission to the regulator in relation to the proposed refusal. 
+
+(3) After the date specified in a notice under subregulation (2), the regulator must: 
+
+(a) if the operator has made a submission in relation to the proposed refusal—consider that submission; and 
+
+(b) whether or not the operator has made a submission—decide: 
+
+(i) to make the amendment applied for; or   
+(ii) not to make any amendment; or   
+(iii) to make a different amendment that results from consideration of any submission made by the operator; and 
+
+(c) within 14 days after making that decision, give the operator written notice of the decision in accordance with this regulation. 
+
+<<<PAGE 402>>>
+
+Model Work Health and Safety Regulations 
+
+Part 9.7 Licensing of Major Hazard Facilities (4) If the regulator makes the amendment applied for, the notice under subregulation (3)(c) must specify the date (not being less than 28 days after the operator is given the decision notice) on which the amendment takes effect. 
+
+
+
+(5) If the regulator refuses to make the amendment applied for or makes a different amendment, the notice under subregulation (3)(c) must: 
+
+(a) if a submission was made in relation to the proposed refusal of the amendment applied for—set out the reasons for the regulator's decision; and   
+(b) if the regulator makes a different amendment: (i) set out the amendment; and (ii) specify the date (being not less than 28 days after the operator is given the decision notice) on which the amendment takes effect. 
+
+Note 
+
+A refusal to make the amendment applied for, or a decision to make a different amendment, is a reviewable decision (see regulation 676). 
+
+591 Minor corrections to major hazard facility licence 
+
+The regulator may make minor amendments to a major hazard facility licence, including an amendment: 
+
+(a) to correct an obvious error; or   
+(b) to change an address; or   
+(c) that does not impose a significant burden on the operator. 
+
+592 Regulator to give amended licence document to operator 
+
+If the regulator amends a major hazard facility licence and considers that the licence document requires amendment, the regulator must give the operator an amended licence document within 14 days after making the decision to amend the licence. 
+
+593 Operator to return licence 
+
+If a major hazard facility licence is amended, the operator of the licensed major hazard facility must return the licence document to the regulator for amendment at the written request of the regulator and within the time specified in the request. 
+
+Maximum penalty: tier I monetary penalty. 
+
+<<<PAGE 403>>>
+
+Model Work Health and Safety Regulations 
+
+Part 9.7 Licensing of Major Hazard Facilities 
+
+594 Replacement licence document 
+
+(1) The operator of a licensed major hazard facility must give written notice to the regulator as soon as practicable if the licence document is lost, stolen or destroyed. 
+
+Maximum penalty: tier I monetary penalty. 
+
+(2) If a licence document for a licensed major hazard facility is lost, stolen or destroyed, the operator may apply to the regulator for a replacement document. 
+
+Note 
+
+An operator is required to keep the licence document available for inspection (see regulation 587). 
+
+(3) An application for a replacement licence document must be made in the manner and form required by the regulator. 
+
+(4) The application must: 
+
+(a) include a declaration describing the circumstances in which the original document was lost, stolen or destroyed; and Note See section 268 of the Act for offences relating to the giving of false or misleading information under the Act or these Regulations.   
+(b) be accompanied by the relevant fee. 
+
+(5) The regulator must issue a replacement licence document if satisfied that the original document was lost, stolen or destroyed. 
+
+(6) If the regulator refuses to issue a replacement licence document, it must give the operator written notice of this decision, including the reasons for the decision, within 14 days after making the decision. 
+
+Note 
+
+A refusal to issue a replacement licence document is a reviewable decision (see regulation 676). 
+
+Division 3 Renewal of major hazard facility licence 
+
+595 Regulator may renew licence 
+
+The regulator may renew a major hazard facility licence on application by the operator. 
+
+596 Application for renewal 
+
+(1) An application for renewal of a major hazard facility licence must be made in the manner and form required by the regulator. 
+
+<<<PAGE 404>>>
+
+Model Work Health and Safety Regulations 
+
+Part 9.7 Licensing of Major Hazard Facilities 
+
+(2) The application must include a copy of the safety case for the major hazard facility as revised under regulation 570. 
+
+Note 
+
+See section 268 of the Act for offences relating to the giving of false or misleading information under the Act or these Regulations. 

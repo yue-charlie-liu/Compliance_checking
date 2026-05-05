@@ -1,0 +1,350 @@
+{
+    "title": "Road Rules 2014 [NSW]",
+    "enactedOn": "01-12-2014",
+    "jurisdiction": "New South Wales, Australia",
+    "implementedBy": "NSW Parliamentary Counsel's Office; enforced by NSW Police and relevant authorities",
+    "numberedSegments": [
+        "Part",
+        "Division",
+        "Rule",
+        "Schedule"
+    ],
+    "unnumberedSegments": [
+        "Notes",
+        "Examples",
+        "Introductory note",
+        "Dictionary"
+    ],
+    "headerSkipped": "Road Rules 2014 [NSW]\nCurrent version for 9 May 2025 to date (accessed 7 August 2025 at 15:18)",
+    "footerSkipped": "Page X of 479",
+    "llmSummary": "The NSW Road Rules 2014 consolidate and adapt the Australian Road Rules for New South Wales. They set out definitions, general principles, speed limits, behaviour at intersections, traffic control devices, rules for pedestrians, bicycle and e-scooter riders, parking and stopping restrictions, special purpose lanes, roundabouts, level crossings, driving conduct, and exemptions for emergency and other vehicles. The 2025 consolidation includes NSW-specific provisions, including e-scooter trials, school bus warning systems, special event parking, and additional penalties and exemptions.",
+    "content": [
+        {
+            "type": "Part",
+            "id": "1",
+            "title": "Introductory",
+            "text": "",
+            "subsegments": [
+                {
+                    "type": "Division",
+                    "id": "1",
+                    "title": "General",
+                    "text": "",
+                    "subsegments": [
+                        {
+                            "type": "Rule",
+                            "id": "1",
+                            "title": "Name of Rules",
+                            "text": "These Rules are the Road Rules 2014.",
+                            "subsegments": []
+                        },
+                        {
+                            "type": "Rule",
+                            "id": "2",
+                            "title": "Commencement",
+                            "text": "These Rules commence on 1 December 2014.",
+                            "subsegments": []
+                        },
+                        {
+                            "type": "Rule",
+                            "id": "3",
+                            "title": "Objects of these Rules",
+                            "text": "The objects of these Rules are—\n(a) to consolidate in a single instrument the road rules that are applicable in New South Wales, and\n(b) to provide for road rules that are based on the Australian Road Rules so as to ensure that the road rules applicable in this State are substantially uniform with road rules applicable elsewhere in Australia, and\n(c) to provide for other road rules to be observed in this State in relation to matters that are not otherwise dealt with in the Australian Road Rules.\nNote.\nThis rule is not uniform with the corresponding rule 3 of the Australian Road Rules.",
+                            "subsegments": []
+                        }
+                    ]
+                },
+                {
+                    "type": "Division",
+                    "id": "2",
+                    "title": "Some features of these Rules",
+                    "text": "",
+                    "subsegments": [
+                        {
+                            "type": "Rule",
+                            "id": "4",
+                            "title": "Definitions—the Dictionary etc",
+                            "text": "(1) The Dictionary at the end of these Rules defines certain words and expressions, and includes references to certain words and expressions defined elsewhere in these Rules (signpost definitions).\nExample.\nThe signpost definition “road related area—see rule 13” means that the expression road related area is defined in rule 13 of these Rules.\nNote.\nThe Dictionary only includes a signpost definition for a word or expression if the word or expression is used in 2 or more rules of these Rules.\n(2) The Dictionary is part of these Rules.\n(3) A definition in these Rules applies to each use of the word or expression in these Rules, unless the contrary intention appears.\n(3–1) If a word or expression used in a provision of these Rules is defined in the Act, it has the same meaning as in the Act, unless the word or expression is defined in these Rules for the purposes of the provision or these Rules generally.\nNote 1.\nThe Act is defined in the Dictionary. A number of words or expressions used in these Rules are also defined in the Act.\nNote 2.\nThis subrule is an additional NSW subrule. There is no corresponding subrule in rule 4 of the Australian Road Rules.",
+                            "subsegments": []
+                        },
+                        {
+                            "type": "Rule",
+                            "id": "5",
+                            "title": "Diagrams",
+                            "text": "A diagram in these Rules is part of these Rules.\nNote 1.\nIf a diagram of a traffic control device, traffic-related item or symbol is in black and white in a rule of these Rules, the diagram may be a black and white version of the device, item or symbol—see rule 314. If so, the colour version of the device, item or symbol will be in Schedule 2, 3 or 4.\nNote 2.\nA diagram may be an example—see rule 6(1).",
+                            "subsegments": []
+                        },
+                        {
+                            "type": "Rule",
+                            "id": "6",
+                            "title": "Examples",
+                            "text": "(1) An example (whether or not in the form of a diagram) in these Rules is part of these Rules.\n(2) If these Rules include an example of the operation of a provision of these Rules—\n(a) the example is not exhaustive, and\n(b) the example does not limit, but may extend, the meaning of the provision.",
+                            "subsegments": []
+                        },
+                        {
+                            "type": "Rule",
+                            "id": "7",
+                            "title": "Australian Road Rule not reproduced",
+                            "text": "* * * * *\nNote.\nRule 7 (Headings) of the Australian Road Rules has not been reproduced in these Rules because section 35 of the Interpretation Act 1987 makes provision for the status of headings in legislation of this jurisdiction.",
+                            "subsegments": []
+                        },
+                        {
+                            "type": "Rule",
+                            "id": "8",
+                            "title": "Notes",
+                            "text": "A note in these Rules is explanatory and is not part of these Rules.",
+                            "subsegments": []
+                        },
+                        {
+                            "type": "Rule",
+                            "id": "9",
+                            "title": "Australian Road Rule not reproduced",
+                            "text": "* * * * *\nNote.\nRule 9 (Reader’s Guide) of the Australian Road Rules has not been reproduced in these Rules because the Reader’s Guide to which that rule refers has not been included in these Rules. This rule has been left blank in order to preserve uniformity of numbering with the Australian Road Rules.",
+                            "subsegments": []
+                        },
+                        {
+                            "type": "Rule",
+                            "id": "10",
+                            "title": "Australian Road Rule not reproduced",
+                            "text": "* * * * *\nNote 1.\nRule 10 (Offences) of the Australian Road Rules has not been reproduced in these Rules because it is unnecessary. This rule has been left blank in order to preserve uniformity of numbering with the Australian Road Rules.\nNote 2.\nThese Rules indicate whether a contravention of a rule is an offence by the use of the words “penalty” or “maximum penalty” as appropriate—see rule 10–1(4) and sections 17 (Penalty units) and 18 (Interpretation of provisions imposing penalties) of the Crimes (Sentencing Procedure) Act 1999.",
+                            "subsegments": []
+                        },
+                        {
+                            "type": "Rule",
+                            "id": "10–1",
+                            "title": "NSW rule: determination of criminal responsibility",
+                            "text": "(1) Application of Commonwealth Criminal Code Subject to this rule, Chapter 2 of the Criminal Code set out in the Schedule to the Criminal Code Act 1995 of the Commonwealth (the Commonwealth Criminal Code) applies to an offence against these Rules as if the Chapter were in force as a law of New South Wales.\nNote.\nChapter 2 of the Commonwealth Criminal Code codifies the general principles of criminal responsibility.\n(2) Offences are strict liability offences An offence against these Rules is a strict liability offence for the purposes of Chapter 2 of the Commonwealth Criminal Code (as applied by subrule (1)), except where these Rules expressly provide otherwise.\n(3) General defence of accident or reasonable effort Without limiting any defence under Chapter 2 of the Commonwealth Criminal Code (as applied by subrule (1)), a person is not liable to a penalty for any offence under these Rules if the person proves to the satisfaction of the court dealing with the case that the offence—\n(a) was the result of an accident, or\n(b) could not have been avoided by any reasonable efforts on the person’s part.\n(4) Operation of Crimes (Sentencing Procedure) Act 1999 not affected Nothing in these Rules affects the application of the Crimes (Sentencing Procedure) Act 1999 in relation to these Rules (particularly, Divisions 4 and 5 of Part 2 of that Act).\nNote 1.\nDivisions 4 and 5 of Part 2 of the Crimes (Sentencing Procedure) Act 1999 contain provisions relating to how offence provisions are to be interpreted. For instance, section 17 of that Act defines the amount of a penalty unit. Similarly, section 18 of that Act sets out rules for interpreting provisions in legislation that impose penalties.\nNote 2.\nThis rule is an additional NSW road rule. There is no corresponding rule in the Australian Road Rules. However, it is intended that each Australian jurisdiction that adopts the Australian Road Rules is to apply the provisions of the Commonwealth Criminal Code to offences against the uniform rules.",
+                            "subsegments": []
+                        },
+                        {
+                            "type": "Rule",
+                            "id": "10–2",
+                            "title": "NSW rule: penalties and disqualifications for speeding offences",
+                            "text": "(1) Definitions In this rule—\nheavy motor vehicle means—\n(a) a motor vehicle with a GVM over 12 tonnes, or\n(b) a motor vehicle and trailer combination with a GCM over 12 tonnes.\nlarge motor vehicle means—\n(a) a coach, or\n(b) a motor vehicle with a GVM over 4.5 tonnes, or\n(c) a motor vehicle and trailer combination with a GCM over 4.5 tonnes.\nspeed limit, in relation to a speeding offence, means the speed limit that was contravened in committing the offence.\nspeeding offence means an offence under Part 3 (Speed limits).\nNote.\nMotor vehicle, combination and trailer are defined in the Dictionary, and coach, GCM and GVM are defined in the Act.\n(2) Penalties and disqualifications for speeding offence A driver who commits a speeding offence in any of the circumstances referred to in subrule (3), (5) or (6) is—\n(a) liable to the maximum penalty specified in this rule for an offence committed in those circumstances, and\n(b) disqualified from holding a driver licence for the period specified in this rule for an offence committed in those circumstances.\nNote.\nDriver licence is defined in the Act.\n(3) Exceeding speed limit by more than 45 kilometres per hour A driver who commits a speeding offence by exceeding a speed limit by more than 45 kilometres per hour—\n(a) is liable to a maximum penalty of 50 penalty units (in the case of a heavy motor vehicle or coach) or 30 penalty units (in any other case), and\n(b) is disqualified from holding a driver licence by a conviction for the offence (and without any specific order) for 6 months or, if the court on the conviction thinks fit to order a different period of disqualification determined in accordance with subrule (4), is disqualified for the period specified in the order.\nNote.\nCoach is defined in the Act.\n(4) Court-ordered disqualification periods under subrule (3) In determining a different period of disqualification under subrule (3) for a driver who commits a speeding offence, the court may specify a period that is—\n(a) more than 6 months, or\n(b) less than 6 months, but only if—\n(i) the person’s driver licence or authority to drive in New South Wales has been suspended for a period (the suspension period) under Division 4 of Part 7.4 of the Act for that offence, and\n(ii) the specified disqualification period when added to the suspension period results in a total period of no less than 6 months.\n(5) Exceeding speed limit by more than 30 kilometres per hour A driver who commits a speeding offence by exceeding a speed limit by more than 30 kilometres per hour—\n(a) is liable to a maximum penalty of 20 penalty units, and\n(b) is disqualified from holding a driver licence by a conviction for the offence (and without any specific order) for 3 months or, if the court on the conviction thinks fit to order a different period of disqualification determined in accordance with subrule (5A), is disqualified for the period specified in the order.\n(5A) Court-ordered disqualification periods under subrule (5) In determining a different period of disqualification under subrule (5) for a driver who commits a speeding offence, the court may specify a period that is—\n(a) more than 3 months, or\n(b) less than 3 months, but only if—\n(i) the person’s driver licence or authority to drive in New South Wales has been suspended for a period (the suspension period) under Division 4 of Part 7.4 of the Act for that offence, and\n(ii) the specified disqualification period when added to the suspension period results in a total period of no less than 3 months.\n(6) Exceeding speed limit on road by 30 kilometres per hour or less A driver who commits a speeding offence by exceeding a speed limit by 30 kilometres per hour or less is liable to a maximum penalty of 20 penalty units.\n(7) Alternative verdicts in prosecutions for speeding by more than 45 kilometres per hour If a driver is prosecuted under subrule (3) for a speeding offence in circumstances where the court—\n(a) is satisfied that the person exceeded the relevant speed limit, but\n(b) is not satisfied that it was exceeded by more than 45 kilometres per hour,\nthe court may instead convict the driver of an offence in accordance with subrule (5) if satisfied that the speed limit was exceeded by more than 30 kilometres per hour, or in accordance with subrule (6) if satisfied that the speed limit was exceeded by 30 kilometres per hour or less.\n(8) Alternative verdicts in prosecutions for speeding by more than 30 kilometres per hour If a driver is prosecuted under subrule (5) for a speeding offence in circumstances where the court—\n(a) is satisfied that the person exceeded the relevant speed limit, but\n(b) is not satisfied that the speed limit was exceeded by more than 30 kilometres per hour,\nthe court may instead convict the driver of an offence in accordance with subrule (6).\n(9) Disqualification period commences on date of conviction A period of disqualification imposed by or under this rule commences on the date of conviction for the offence to which it relates.\nNote.\nThis rule is an additional NSW road rule. There is no corresponding rule in the Australian Road Rules. However, the Australian Road Rules allow another law of this jurisdiction to make provision for penalties.",
+                            "subsegments": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "Part",
+            "id": "2",
+            "title": "Application of these Rules",
+            "text": "",
+            "subsegments": [
+                {
+                    "type": "Division",
+                    "id": "1",
+                    "title": "Roads and road related areas",
+                    "text": "",
+                    "subsegments": [
+                        {
+                            "type": "Rule",
+                            "id": "11",
+                            "title": "Rules apply to vehicles and road users on roads and road related areas",
+                            "text": "(1) These Rules apply to vehicles and road users on roads and road related areas.\nNote.\nRoad is defined in rule 12, road related area is defined in rule 13, road user is defined in rule 14, and vehicle is defined in rule 15.\n(2) Each reference in these Rules (except in this Division) to a road includes a reference to a road related area, unless otherwise expressly stated in these Rules.\nExamples for subrule (2).\n1 A reference in rule 146 (which deals with driving within a single marked lane or line of traffic) to the road includes a reference to the road related area of the road.\n2 A reference in rule 200(1) (which deals with certain heavy or long vehicles stopping on roads) to a length of road includes a reference to the road related area of the length of road.\n3 A reference in rule 31 (which deals with starting a right turn from a road, except a multi-lane road) to a road does not include a reference to a road related area, because of the definition in subrule (5) of that rule.",
+                            "subsegments": []
+                        },
+                        {
+                            "type": "Rule",
+                            "id": "12",
+                            "title": "What is a road",
+                            "text": "(1) A road is an area that is open to or used by the public and is developed for, or has as one of its main uses, the driving or riding of motor vehicles.\nNote.\nMotor vehicle is defined in the Dictionary.\n(2) However, unless the contrary intention appears, a reference in these Rules (except in this Division) to a road does not include a reference to—\n(a) an area so far as the area is declared, under another law of this jurisdiction, not to be a road for these Rules, or\n(b) any shoulder of the road.\nNote.\nThe Minister administering the Act may, by order under section 18 of that Act, declare that provisions of the road transport legislation do not apply to a road or do apply to a specified area of the State that is open to or used by the public. The road transport legislation includes these Rules.\n(3) The shoulder of the road includes any part of the road that is not designed to be used by motor vehicles in travelling along the road, and includes—\n(a) for a kerbed road—any part of the kerb, and\n(b) for a sealed road—any unsealed part of the road, and any sealed part of the road outside an edge line on the road,\nbut does not include a bicycle path, footpath or shared path.\nNote.\nBicycle path is defined in rule 239, edge line and footpath are defined in the Dictionary, and shared path is defined in rule 242.",
+                            "subsegments": []
+                        },
+                        {
+                            "type": "Rule",
+                            "id": "13",
+                            "title": "What is a road related area",
+                            "text": "(1) A road related area is any of the following—\n(a) an area that divides a road,\n(b) a footpath or nature strip adjacent to a road,\n(c) an area that is not a road and that is open to the public and designated for use by cyclists or animals,\n(d) an area that is not a road and that is open to or used by the public for driving, riding or parking vehicles.\nNote.\nVehicle is defined in rule 15.\n(2) However, unless the contrary intention appears, a reference in these Rules (except in this Division) to a road related area includes a reference to—\n(a) an area so far as the area is declared, under another law of this jurisdiction, to be a road related area for these Rules, or\n(b) any shoulder of a road, or\n(c) any other area that is a footpath or nature strip as defined in the Dictionary,\nbut does not include a reference to an area so far as the area is declared, under another law of this jurisdiction, not to be a road related area for these Rules.\nNote 1.\nShoulder is defined in rule 12.\nNote 2.\nThe Minister administering the Act may, by order under section 18 of that Act, declare that provisions of the road transport legislation do not apply to a road or do apply to a specified area of the State that is open to or used by the public. The road transport legislation includes these Rules.",
+                            "subsegments": []
+                        }
+                    ]
+                },
+                {
+                    "type": "Division",
+                    "id": "2",
+                    "title": "Road users and vehicles",
+                    "text": "",
+                    "subsegments": [
+                        {
+                            "type": "Rule",
+                            "id": "14",
+                            "title": "Road users",
+                            "text": "A road user is a driver, rider, passenger or pedestrian.\nNote.\nDriver is defined in rule 16, pedestrian is defined in rule 18, and rider is defined in rule 17.",
+                            "subsegments": []
+                        },
+                        {
+                            "type": "Rule",
+                            "id": "15",
+                            "title": "What is a vehicle",
+                            "text": "A vehicle includes—\n(a) a motor vehicle, trailer and tram, and\n(b) a bicycle, and\n(c) an animal-drawn vehicle, and an animal that is being ridden or drawing a vehicle, and\n(d) a combination, and\n(e) a motorised wheelchair that can travel at over 10 kilometres per hour (on level ground), and\n(f) an electric skateboard, unless a person is driving the electric skateboard in the circumstances set out in rule 228–1,\nbut does not include another kind of wheelchair, a train, or a wheeled recreational device or wheeled toy.\nNote 1.\nVarious terms mentioned in this rule are defined in the Dictionary.\nNote 2—\nThis rule is not uniform with the corresponding rule 15 of the Australian Road Rules.",
+                            "subsegments": []
+                        },
+                        {
+                            "type": "Rule",
+                            "id": "16",
+                            "title": "Who is a driver",
+                            "text": "(1) A driver is the person who is driving a vehicle (except a motor bike, bicycle, animal or animal-drawn vehicle).\nNote 1.\nBicycle and motor bike are defined in the Dictionary, and vehicle is defined in rule 15.\nNote 2.\nDrive includes be in control of—see the definition in the Dictionary.\n(2) However, a driver does not include a person pushing a motorised wheelchair.\nNote.\nWheelchair is defined in the Dictionary.",
+                            "subsegments": []
+                        },
+                        {
+                            "type": "Rule",
+                            "id": "17",
+                            "title": "Who is a rider",
+                            "text": "(1) A rider is the person who is riding a motor bike, bicycle, animal or animal-drawn vehicle.\nNote 1.\nBicycle and motor bike are defined in the Dictionary.\nNote 2.\nRide, for the rider of a motor bike or animal-drawn vehicle, includes be in control of—see the definition in the Dictionary.\n(2) A rider does not include—\n(a) a passenger, or\n(b) a person walking beside and pushing a bicycle.",
+                            "subsegments": []
+                        },
+                        {
+                            "type": "Rule",
+                            "id": "18",
+                            "title": "Who is a pedestrian",
+                            "text": "A pedestrian includes—\n(a) a person driving a motorised wheelchair that cannot travel at over 10 kilometres per hour (on level ground), and\n(b) a person in a non-motorised wheelchair, and\n(c) a person pushing a motorised or non-motorised wheelchair, and\n(d) a person in or on a wheeled recreational device or wheeled toy, and\n(e) a person driving an electric skateboard, in the circumstances set out in rule 228–1.\nNote 1.\nElectric skateboard, wheelchair, wheeled recreational device and wheeled toy are defined in the Dictionary.\nNote 2—\nThis rule is not uniform with the corresponding rule 18 of the Australian Road Rules.",
+                            "subsegments": []
+                        },
+                        {
+                            "type": "Rule",
+                            "id": "19",
+                            "title": "References to driver includes rider etc",
+                            "text": "Unless otherwise expressly stated in these Rules, each reference in these Rules (except in this Division) to a driver includes a reference to a rider, and each reference in these Rules (except in this Division) to driving includes a reference to riding.",
+                            "subsegments": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "Part",
+            "id": "3",
+            "title": "Speed limits",
+            "text": "",
+            "subsegments": [
+                {
+                    "type": "Rule",
+                    "id": "20",
+                    "title": "Obeying the speed limit",
+                    "text": "A driver must not drive at a speed over the speed limit applying to the driver for the length of road where the driver is driving.\nPenalty and disqualification: a driver who contravenes this rule is guilty of an offence and is liable to a maximum penalty and a period of disqualification (if any) determined in accordance with rule 10–2.\nNote 1.\nThe rules about speed limits are as follows—\n• rule 21—speed limit where a speed limit sign applies\n• rule 21–1—NSW rule: school bus stop zone sign is speed limit sign\n• rule 22—speed limit in a speed limited area\n• rule 23—speed limit in a school zone\n• rule 24—speed limit in a shared zone\n• rule 24–1—NSW rule: speed limits for learner and provisional licence holders\n• rule 24–2—NSW rule: speed limit on Lord Howe Island\n• rule 24–3—NSW rule: speed limit when bus displaying when lights flash speed limit sign\n• rule 24–4—NSW rule: speed limits for small motor bikes during periods of darkness\n• rule 25—speed limit elsewhere.\nNote 2.\nRoad includes a road related area—see rule 11(2).\nNote 3.\nLength of road includes a marked lane, a part of a marked lane, or another part of a length of road—see the definition in the Dictionary.\nNote 4.\nPart 20, Division 2 deals with the way in which a traffic sign applies to a length of road. Part 20, Division 3 deals with the way in which the traffic sign applies to drivers driving on the length of road.\nNote 5.\nDivision 3 of Part 5.3 of the Act provides that a person bringing proceedings or issuing a penalty notice in which it is alleged that the driver of a vehicle committed a speeding offence may rely on the average speed at which the vehicle travelled between different points on a road as evidence of the offence.\nIf there is more than one speed limit applicable to the driver between the different points, Division 3 of Part 5.3 of the Act provides that for the purposes of such proceedings the speed limit that applied to the driver between those points is taken to be the average speed limit calculated in accordance with that Division.",
+                    "subsegments": []
+                },
+                {
+                    "type": "Rule",
+                    "id": "21",
+                    "title": "Speed limit where a speed limit sign applies",
+                    "text": "(1) The speed limit applying to a driver for a length of road to which a speed limit sign applies is the number of kilometres per hour indicated by the number on the sign.\nNote.\nLength of road is defined in the Dictionary.\n(2) However, if the number on the speed limit sign is over 100 and the driver is driving a vehicle with a GVM over 4.5 tonnes or a vehicle and trailer combination with a GCM over 4.5 tonnes, the speed limit applying to the driver for the length of road is 100 kilometres per hour.\nNote 1.\nCombination and trailer are defined in the Dictionary, vehicle is defined in rule 15, and GCM and GVM are defined in the Act.\nNote 2.\nThis subrule is not uniform with the corresponding subrule in rule 21 of the Australian Road Rules. Different rules may apply in other Australian jurisdictions.\n(3) A speed limit sign on a road applies to the length of road beginning at the sign and ending at the nearest of the following—\n(a) a speed limit sign on the road with a different number on the sign,\n(b) an end speed limit sign or speed derestriction sign on the road,\n(c) if the road ends at a T-intersection or dead end—the end of the road.\nNote 1.\nT-intersection is defined in the Dictionary.\nNote 2.\nRule 322(1) and (2) deal with the meaning of a traffic sign on a road.",
+                    "subsegments": []
+                }
+            ]
+        },
+        {
+            "type": "Part",
+            "id": "15–1",
+            "title": "Additional rules for electric scooter riders",
+            "text": "",
+            "subsegments": [
+                {
+                    "type": "Division",
+                    "id": "1",
+                    "title": "General prohibition on electric scooters",
+                    "text": "",
+                    "subsegments": [
+                        {
+                            "type": "Rule",
+                            "id": "262–1",
+                            "title": "NSW rule: Electric scooter use on roads prohibited",
+                            "text": "A person must not ride an electric scooter on a road.\nMaximum penalty—20 penalty units.\nNote 1—\nRoad includes a road related area—see rule 11(2).\nNote 2—\nThis rule is an additional NSW rule. There is no corresponding rule in the Australian Road Rules.",
+                            "subsegments": []
+                        },
+                        {
+                            "type": "Rule",
+                            "id": "262–2",
+                            "title": "NSW rule: Exemption to prohibition",
+                            "text": "For the Act, section 21(1)(b), Transport for NSW may, by notice published in the Gazette, exempt a person, or a class of persons, from rule 262–1 if the road is within an area specified in the notice.\nNote—\nThis rule is an additional NSW rule. There is no corresponding rule in the Australian Road Rules.",
+                            "subsegments": []
+                        }
+                    ]
+                },
+                {
+                    "type": "Division",
+                    "id": "2",
+                    "title": "Use of electric scooters",
+                    "text": "Note—\nThe use of an electric scooter on a road that is not within an area specified by Transport for NSW is prohibited—see Division 1.",
+                    "subsegments": [
+                        {
+                            "type": "Rule",
+                            "id": "262–3",
+                            "title": "NSW rule: Application of Rules to electric scooters",
+                            "text": "(1) In these Rules, particularly Part 15—\n(a) a reference to a bicycle is taken to include a reference to an electric scooter, and\n(b) a reference to a bicycle rider is taken to include a reference to an electric scooter rider.\n(2) Subrule (1)—\n(a) applies even if a rule, or a subrule, is an offence, but\n(b) does not apply to the extent that a rule is disapplied or modified by, or otherwise inconsistent with, this Part.\nNote 1—\nBicycle is defined in the Dictionary.\nNote 2—\nRules applicable to drivers of vehicles apply to riders of electric scooters because a reference in these Rules to a driver includes a reference to a rider, and a reference to driving includes a reference to riding—see rule 19.\nNote 3—\nThis rule is an additional NSW rule. There is no corresponding rule in the Australian Road Rules.",
+                            "subsegments": []
+                        },
+                        {
+                            "type": "Rule",
+                            "id": "262–4",
+                            "title": "NSW rule: Riding on footpaths prohibited",
+                            "text": "(1) A rider of an electric scooter must not ride on a footpath.\nMaximum penalty—20 penalty units.\n(2) In this rule—\nfootpath does not include a separated footpath.\nNote 1—\nFootpath is defined in the Dictionary and separated footpath is defined in rule 239.\nNote 2—\nThis rule is an additional NSW rule. There is no corresponding rule in the Australian Road Rules.",
+                            "subsegments": []
+                        },
+                        {
+                            "type": "Rule",
+                            "id": "262–8",
+                            "title": "NSW rule: Speed limits",
+                            "text": "A person must not ride an electric scooter at a speed greater than—\n(a) for a road—the lower of the following—\n(i) 20 kilometres per hour,\n(ii) for a length of road to which a speed limit sign applies—the number of kilometres per hour indicated by the number on the sign, or\n(b) for a shared path—10 kilometres per hour.\nMaximum penalty—20 penalty units.\nNote 1—\nShared path is defined in rule 242.\nNote 2—\nThis rule is an additional NSW rule. There is no corresponding rule in the Australian Road Rules.",
+                            "subsegments": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "Part",
+            "id": "21",
+            "title": "General",
+            "text": "",
+            "subsegments": [
+                {
+                    "type": "Rule",
+                    "id": "347",
+                    "title": "Meaning of abbreviations and symbols",
+                    "text": "(1) Schedule 1 provides the meaning of certain abbreviations and symbols used in these Rules and on traffic control devices and traffic-related items.\nNote.\nTraffic control device and traffic related item are defined in the Dictionary.\n(2) Another law of this jurisdiction may provide the meaning of other abbreviations or symbols on traffic control devices and traffic-related items.",
+                    "subsegments": []
+                },
+                {
+                    "type": "Rule",
+                    "id": "348",
+                    "title": "References to a driver doing something etc",
+                    "text": "If the context permits, a reference in these Rules to a driver doing or not doing something is a reference to the driver causing the driver’s vehicle to do or not to do the thing.\nExample.\nThe reference in rule 27 to a driver turning left at an intersection is a reference to the driver causing the driver’s vehicle to turn left at the intersection.\nNote.\nDriver’s vehicle is defined in the Dictionary.",
+                    "subsegments": []
+                },
+                {
+                    "type": "Rule",
+                    "id": "349",
+                    "title": "References to certain kinds of roads",
+                    "text": "A reference in these Rules to a road of a particular kind is a reference to a road of that kind at any relevant place.\nExample.\nRule 31 deals with a driver starting a right turn at an intersection from a road (except a multi-lane road). The rule applies to a particular driver only if the road from which the driver is turning is not a multi-lane road at the intersection. In applying the rule to the driver, it is irrelevant that the road is, or is not, a multi-lane road at another place away from the intersection.",
+                    "subsegments": []
+                }
+            ]
+        },
+        {
+            "type": "Schedule",
+            "id": "1",
+            "title": "Abbreviations and symbols",
+            "text": "Abbreviation/Symbol Meaning\nMON Monday\nTUE Tuesday\nWED Wednesday\nTHU Thursday\nFRI Friday\nSAT Saturday\nSUN Sunday\nJAN January\nFEB February\nMAR March\nAPR April\nJUN June\nJUL July\nAUG August\nSEP September\nOCT October\nNOV November\nDEC December\nAM the time after midnight and ending at noon\nPM the time after noon and ending at midnight\nHOLS holidays\nMAX maximum\nMINS minutes\nPUB public\nVEH vehicle\nt tonnes\nm metres\nkm kilometres\nkm/h kilometres per hour\n° degree",
+            "subsegments": []
+        },
+        {
+            "type": "Dictionary",
+            "id": "",
+            "title": "Dictionary",
+            "text": "",
+            "subsegments": [
+                {
+                    "type": "Unnumbered",
+                    "id": "",
+                    "title": "Excerpted definitions",
+                    "text": "bicycle means a vehicle with 2 or more wheels that is built to be propelled by human power through a belt, chain or gears (whether or not it has an auxiliary motor), and includes—\n(a) a pedicab, penny-farthing and tricycle, and\n(b) a power-assisted pedal cycle within the meaning of national road vehicle standards, as amended from time to time, determined under the Road Vehicle Standards Act 2018 of the Commonwealth, section 12 other than one that has an internal combustion engine or engines, and\n(b1) an electrically power-assisted bicycle that has a maximum continued rated power of 500 watts, if the power output—\n(i) progressively reduces as the bicycle’s speed increases above 6 kilometres per hour, and\n(ii) is cut off when—\n(A) the bicycle reaches a speed of 25 kilometres per hour, or\n(B) the rider of the bicycle stops pedalling and the speed is more than 6 kilometres per hour,\nbut does not include—\n(c) a wheelchair, wheeled recreational device, wheeled toy, or\n(d) any vehicle with an auxiliary motor capable of generating a power output over 200 watts (whether or not the motor is operating), other than a vehicle referred to in paragraph (b) or (b1), or\n(e) any vehicle that has an internal combustion engine or engines.",
+                    "subsegments": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,624 @@
+<<<Page 147>>>
+
+(a) a risk assessment is conducted in relation to the proposed work; and 
+
+(b) control measures implemented are consistent with: 
+
+(i) the risk assessment; and 
+
+(ii) if an electricity supply authority is responsible for the electric line, any requirements of the authority. 
+
+Maximum penalty: tier E monetary penalty. 
+
+Notes 
+
+1 [Relevant electricity safety legislation] will also apply to the person conducting the business or undertaking. 
+
+<<<PAGE 148>>>
+
+OFFICIAL 
+
+Model Work Health and Safety Regulations 
+
+Part 4.7 General Electrical Safety in Workplaces and Energised Electrical Work 
+
+<<<PAGE 149>>>
+
+Part 4.8 Diving Work 
+
+Division 1 Preliminary 
+
+167 Purpose of Part 4.8 
+
+The purpose of this Part is to impose duties on a person conducting a business or undertaking at a workplace to ensure: 
+
+(a) the fitness and competence of persons who carry out general diving work and high risk diving work; and   
+(b) the health and safety of persons who carry out general diving work and high risk diving work; and   
+(c) the health and safety of other persons at workplaces where general diving work or high risk diving work is carried out. 
+
+Division 2 General diving work—Fitness and competence of worker 
+
+168 Person conducting business or undertaking must ensure fitness of workers 
+
+(1) A person conducting a business or undertaking at a workplace must not direct or allow a worker to carry out general diving work or undergo training for general diving work unless the worker holds a current certificate of medical fitness. Maximum penalty: tier E monetary penalty.   
+(2) The person must not direct or allow a worker to carry out general diving work or undergo training for diving work unless the work or training complies with any conditions on the current certificate of medical fitness of the worker. Maximum penalty: tier E monetary penalty. 
+
+169 Certificate of medical fitness 
+
+A certificate of medical fitness must: 
+
+(a) be issued by a registered medical practitioner with training in underwater medicine; and 
+
+(b) state the following: 
+
+(i) the name of the person to whom it is issued;   
+(ii) its date of issue and its expiry date;   
+(iii) whether or not the person to whom it is issued is, in accordance with the fitness criteria, medically fit to carry out diving work; 
+
+<<<PAGE 150>>>
+
+Model Work Health and Safety Regulations 
+
+Part 4.8 Diving Work 
+
+(iv) any conditions in relation to the type of diving work the person to whom it is issued is fit to carry out, or the circumstances in which the person is fit to carry out general diving work, including, in the case of a person who is under 18 years of age, any particular conditions applicable to the age of the person. 
+
+170 Duty to keep certificate of medical fitness 
+
+A person conducting a business or undertaking at a workplace must keep the certificate of medical fitness of a worker who carries out general diving work for 1 year after the work is carried out. 
+
+Maximum penalty: tier I monetary penalty. 
+
+171 Competence of worker—general diving work—qualifications 
+
+(1) A person must not carry out any type of general diving work unless the person holds a certificate for general diving work, issued by a training organisation, that demonstrates that the person has acquired the relevant competencies for that type of general diving work.   
+(2) This regulation does not apply in relation to incidental diving work or limited scientific diving work.   
+(3) In subregulation (1), relevant competencies means the competencies specified in AS/NZS 2815 (Training and certification of occupational divers) that are relevant to the type of general diving work to which subregulation (1) applies. 
+
+Notes 
+
+1 See section 44 of the Act.   
+2 See the jurisdictional note in the Appendix. 
+
+171A Competence of worker—general diving work—knowledge and skill 
+
+(1) A person must not carry out general diving work unless the person has, through training, qualification or experience, acquired sound knowledge and skill in relation to the following: 
+
+(a) the application of diving physics;   
+(b) the use, inspection and maintenance of diving equipment (including emergency equipment) and air supply of the type to be used in the proposed general diving work;   
+(c) the use of decompression tables or dive computers;   
+(d) dive planning;   
+(e) ways of communicating with another diver and with persons at the surface during general diving work; 
+
+<<<PAGE 151>>>
+
+Model Work Health and Safety Regulations 
+
+Part 4.8 Diving Work 
+
+(f) how to safely carry out general diving work of the type proposed to be carried out; (g) diving physiology, emergency procedures and first aid. 
+
+Note 
+
+See section 44 of the Act. 
+
+(2) (Repealed) 
+
+172 Competence of worker—incidental diving work 
+
+(1) A person must not carry out incidental diving work unless the person: 
+
+(a) has the knowledge and skill referred to in regulation 171A; and   
+(b) has relevant diving experience; and   
+(c) is accompanied and supervised in the water by a person who has the competencies referred to in regulation 171. 
+
+Note 
+
+See section 44 of the Act. 
+
+(2) In this regulation, a person has relevant diving experience if the person has logged at least 15 hours of diving, of which at least 8 hours and 20 minutes were spent diving between 10 metres above and any depth below the maximum depth at which the diving work is to be carried out. 
+
+173 Competence of worker—limited scientific diving work 
+
+(1) A person must not carry out limited scientific diving work unless the person has: 
+
+(a) the training, qualification or experience referred to in regulation 171A; and   
+(b) if the person is not permanently resident in Australia—relevant diving experience, including relevant diving experience obtained outside Australia. 
+
+Note 
+
+See section 44 of the Act. 
+
+(2) In this regulation, a person has relevant diving experience if the person has logged at least 60 hours diving of which at least 8 hours and 20 minutes were spent diving between 10 metres above and any depth below the maximum depth at which the limited scientific diving work is to be carried out. 
+
+<<<PAGE 152>>>
+
+174 Competence of competent person supervising general diving work 
+
+A person appointed under regulation 177 must not perform any function associated with that appointment unless the person has: 
+
+(a) the qualification specified in regulation 171; and (b) experience in the type of diving work to be supervised. 
+
+Note 
+
+See section 44 of the Act. 
+
+175 Evidence of competence—duty of person conducting business or undertaking 
+
+(1) A person conducting a business or undertaking at a workplace must not direct or allow a worker to carry out general diving work unless the person sees written evidence provided by the worker that the worker has the relevant competence required under this Division. 
+
+Maximum penalty: tier I monetary penalty. 
+
+(2) A person conducting a business or undertaking at a workplace must not direct or allow a person appointed under regulation 177 to perform any of the functions associated with that appointment unless the person conducting the business or undertaking sees written evidence provided by the person appointed that the person appointed has the competence required under regulation 174. 
+
+Maximum penalty: tier I monetary penalty. 
+
+(3) A person conducting a business or undertaking must keep the written evidence given to the person: (a) under subregulation (1)—for at least 1 year after the diving work is carried out; (b) under subregulation (2)—for at least 1 year after the last occasion on which the person performs a function associated with the appointment. 
+
+Maximum penalty: tier I monetary penalty. 
+
+Division 3 Managing risks—general diving work 
+
+176 Management of risks to health and safety 
+
+(1) A person conducting a business or undertaking at a workplace must manage risks to health and safety associated with general diving work, in accordance with Part 3.1. 
+
+Note 
+
+<<<PAGE 153>>>
+
+Model Work Health and Safety Regulations 
+
+Part 4.8 Diving Work 
+
+WHS Act—section 19 (see regulation 9). 
+
+(2) A person conducting a business or undertaking must ensure that a risk assessment is conducted by a competent person for the purposes of subregulation (1). Maximum penalty: tier G monetary penalty.   
+(3) The person must ensure that a risk assessment conducted under subregulation (2) is recorded in writing. Maximum penalty: tier I monetary penalty. 
+
+177 Appointment of competent person to supervise diving work 
+
+A person conducting a business or undertaking at a workplace must appoint 1 or more competent persons to: 
+
+(a) supervise general diving work carried out in the business or undertaking; and (b) perform other functions under this Division. 
+
+Maximum penalty: tier E monetary penalty. 
+
+Note 
+
+See regulation 174 for the qualifications of the competent person. 
+
+178 Additional control—dive plan 
+
+(1) A person conducting a business or undertaking at a workplace must not direct or allow general diving work to be carried out unless a dive plan for the dive: 
+
+(a) is prepared by a competent person appointed under regulation 177; or   
+(b) has been prepared by a competent person appointed under regulation 177 on an earlier occasion for a similar dive. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) A dive plan must state the following: 
+
+(a) the method of carrying out the diving work to which it relates;   
+(b) the tasks and duties of each person involved in the dive;   
+(c) the diving equipment, breathing gases and procedures to be used in the dive;   
+(d) as applicable, dive times, bottom times and decompression profiles; 
+
+<<<PAGE 154>>>
+
+Model Work Health and Safety Regulations 
+
+Part 4.8 Diving Work 
+
+(e) hazards relating to the dive and measures to be implemented in the control of risks associated with those hazards; (f) emergency procedures. 
+
+179 Dive plan must be complied with 
+
+(1) A person conducting a business or undertaking at a workplace must ensure, so far as is reasonably practicable, that general diving work is carried out in accordance with the dive plan prepared for it. Maximum penalty: tier E monetary penalty.   
+(2) A person conducting a business or undertaking must ensure that a competent person appointed by the person under regulation 177 gives workers instruction in relation to the dive plan before commencing the diving work to which the plan relates. Maximum penalty: tier E monetary penalty. 
+
+180 Additional control—dive safety log to be kept 
+
+A person conducting a business or undertaking at a workplace where general diving work is carried out must keep a dive safety log that contains the following information about each dive carried out by a worker: 
+
+(a) the name of the worker who carries out the dive;   
+(b) the name of any other person with whom the dive is carried out;   
+(c) the name of the competent person appointed under regulation 177 to supervise the diving work;   
+(d) the date and location of the dive;   
+(e) the time each diver enters and leaves the water;   
+(f) the maximum depth of the dive;   
+(g) any incident, difficulty, discomfort or injury that occurs or is experienced during the dive;   
+(h) if the dive was carried out using a dive computer—the dive time;   
+(i) if the dive was carried out using dive tables—the repetitive dive group, if available, and either the bottom time or the dive time;   
+(j) if the repetitive group and surface interval result in a repetitive factor—the surface interval and the repetitive factor; 
+
+<<<PAGE 155>>>
+
+Part 4.8 Diving Work (k) if the dive is carried out using EANx: 
+
+
+
+(i) the oxygen content of the EANx; and (ii) the maximum operating depth of the EANx; 
+
+(l) if the dive is carried out using mixed gas: 
+
+(i) the oxygen content and the nitrogen content (if any) of the gas; and (ii) the maximum operating depth of the mixed gas; and (iii) the minimum operating depth of the bottom mix. 
+
+Maximum penalty: tier I monetary penalty. 
+
+181 Use of dive safety log 
+
+(1) This regulation applies to a person conducting a business or undertaking at a workplace where general diving work is carried out. 
+
+(2) The person conducting the business or undertaking must ensure that, after each dive carried out in connection with the general diving work is completed, the return of each diver is verified in the dive safety log, as soon as practicable after the return, by: 
+
+(a) the diver; and   
+(b) a competent person appointed under regulation 177 to supervise the diving work. 
+
+Maximum penalty: tier I monetary penalty. 
+
+(3) If workers are carrying out general diving work from a vessel, the person conducting the business or undertaking must ensure that a competent person appointed under regulation 177 to supervise the diving work makes and verifies entries in the dive safety log of the number of workers and other persons on board the vessel: 
+
+(a) before the diving work commences; and   
+(b) before the vessel leaves the location after the diving work is completed. 
+
+Maximum penalty: tier I monetary penalty. 
+
+(4) The person conducting the business or undertaking must ensure that the dive safety log is kept for at least 1 year after the last entry is made. Maximum penalty: tier I monetary penalty. 
+
+(5) In this regulation, an event is verified in the dive safety log: 
+
+<<<PAGE 156>>>
+
+Model Work Health and Safety Regulations 
+
+Part 4.8 Diving Work 
+
+(a) by signing; or   
+(b) if the log is electronic, by entering the verifier's unique identifier. 
+
+182 Record keeping 
+
+(1) This regulation applies if a person conducting a business or undertaking prepares: 
+
+(a) a risk assessment under regulation 176; or (b) a dive plan under regulation 178. 
+
+(2) Subject to subregulation (3), the person must keep: 
+
+(a) a copy of the risk assessment until at least 28 days after the work to which it relates is completed; and   
+(b) a copy of the dive plan until the work to which it relates is completed. 
+
+Maximum penalty: tier I monetary penalty. 
+
+(3) If a notifiable incident occurs in connection with the work to which the assessment or dive plan relates, the person must keep the assessment or dive plan (as applicable) for at least 2 years after the incident occurs. 
+
+Maximum penalty: tier I monetary penalty. 
+
+(4) The person must ensure that, for the period for which the assessment or dive plan must be kept under this regulation, a copy is readily accessible to any worker engaged by the person to carry out the work to which the assessment or dive plan relates. 
+
+Maximum penalty: tier G monetary penalty. 
+
+(5) The person must ensure that, for the period for which the assessment or dive plan must be kept under this regulation, a copy is available for inspection under the Act. 
+
+Maximum penalty: tier I monetary penalty. 
+
+Division 4 High risk diving work 
+
+Note 
+
+See the jurisdictional note in the Appendix. 
+
+183 Duties of person conducting business or undertaking 
+
+A person conducting a business or undertaking at a workplace where high risk diving work is carried out must ensure that the 
+
+<<<PAGE 157>>>
+
+Model Work Health and Safety Regulations following are in accordance with AS/NZS 2299.1:2015 (Occupational diving operations—Standard operational practice): 
+
+
+
+(a) the fitness of persons carrying out the work;   
+(b) the competence of persons carrying out the work; Note See section 44 of the Act.   
+(c) the carrying out of the work. 
+
+Maximum penalty: tier E monetary penalty. 
+
+184 Duty of worker—competence 
+
+A person must not carry out high risk diving work unless the person has the qualifications, knowledge, skills and experience required by AS/NZS 2299.1:2015 (Occupational diving operations—Standard operational practice) for work of the kind to be carried out by the person. 
+
+Note 
+
+See section 44 of the Act. 
+
+<<<PAGE 158>>>
+
+Part 4.9 (Repealed) 184A (Repealed) 
+
+<<<PAGE 159>>>
+
+CHAPTER 5 PLANT AND STRUCTURES 
+
+Part 5.1 General Duties for Plant and Structures 
+
+Note 
+
+If a jurisdiction enacts Schedule 1 of the Act, this Part will extend to plant outside the workplace as provided for in that Schedule. 
+
+Division 1 Preliminary 
+
+185 Application of Part 5.1 to plant 
+
+(1) Subject to this regulation, this Part applies to all plant.   
+(2) Subject to subregulation (3), this Part does not apply to plant that: (a) relies exclusively on manual power for its operation; and (b) is designed to be primarily supported by hand.   
+(3) This Part applies to explosive power tools that are designed to be supported by hand. 
+
+186 Application of Part 5.1 to structures 
+
+This Part applies to structures as provided in this Part. 
+
+Division 2 Duties of persons conducting businesses or undertakings that design plant 
+
+187 Provision of information to manufacturer 
+
+A designer of plant must ensure, when the design of the plant is made available to the manufacturer of the plant, that the manufacturer is provided with: 
+
+(a) information to enable the plant to be manufactured in accordance with the design specifications; and 
+
+(b) if applicable, information about: 
+
+(i) the installation, commissioning, decommissioning, use, handling, storage and, if the plant is capable of being dismantled, dismantling of the plant; and   
+(ii) the hazards and risks associated with the use of the plant that the designer has identified; and   
+(iii) testing or inspections to be carried out on the plant; and   
+(iv) the systems of work and competency of operators that are necessary for the safe use of the plant; and 
+
+<<<PAGE 160>>>
+
+Model Work Health and Safety Regulations 
+
+Part 5.1 General Duties for Plant and Structures 
+
+(v) the emergency procedures (if any) that are required to be implemented if there is a malfunction of the plant. 
+
+Maximum penalty: tier G monetary penalty. 
+
+Note 
+
+A designer also has duties under section 22 of the Act. 
+
+188 Hazard identified in design during manufacture 
+
+If a manufacturer of plant informs the designer of the plant that there is a hazard in the design of plant for which the designer has not provided a control measure, the designer must: 
+
+(a) revise the information originally supplied to the manufacturer to ensure that: 
+
+(i) the risk is eliminated so far as is reasonably practicable; or   
+(ii) if it is not reasonably practicable to eliminate the risk, the risk is minimised so far as is reasonably practicable; or 
+
+(b) notify the manufacturer, in writing, that the designer is of the opinion that it is not necessary to revise the information originally supplied to the manufacturer to ensure compliance with this Part. 
+
+Maximum penalty: tier G monetary penalty. 
+
+Note 
+
+A designer also has duties under section 22 of the Act. 
+
+189 Guarding 
+
+(1) This regulation applies if a designer of plant uses guarding as a control measure.   
+(2) The designer must ensure, so far as is reasonably practicable, that the guarding designed for that purpose will prevent access to the danger point or danger area of the plant. Maximum penalty: tier E monetary penalty. 
+
+(3) The designer must ensure that: 
+
+(a) if access to the area of the plant requiring guarding is not necessary during operation, maintenance or cleaning of the plant—the guarding is a permanently fixed physical barrier; or   
+(b) if access to the area of the plant requiring guarding is necessary during operation, maintenance or cleaning of the plant—the guarding is an interlocked physical barrier that 
+
+<<<PAGE 161>>>
+
+allows access to the area being guarded at times when that area does not present a risk and prevents access to that area at any other time; or 
+
+(c) if it is not reasonably practicable to use guarding referred to in paragraph (a) or (b)—the guarding used is a physical barrier that can only be altered or removed by the use of tools; or 
+
+(d) if it is not reasonably practicable to use guarding referred to in paragraph (a), (b) or (c)—the design includes a presencesensing safeguarding system that eliminates any risk arising from the area of the plant requiring guarding while a person or any part of a person is in the area being guarded. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(4) The designer must ensure that the guarding is designed: 
+
+(a) to be of solid construction and securely mounted so as to resist impact or shock; and   
+(b) to make bypassing or disabling of the guarding, whether deliberately or by accident, as difficult as is reasonably practicable; and   
+(c) so as not to cause a risk in itself. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(5) If the plant to be guarded contains moving parts and those parts may break or cause workpieces to be ejected from the plant, the designer must ensure, so far as is reasonably practicable, that the guarding will control any risk from those broken or ejected parts and workpieces. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(6) Despite anything to the contrary in this regulation, the designer must ensure: 
+
+(a) that the guarding is of a kind that can be removed to allow maintenance and cleaning of the plant at any time that the plant is not in normal operation; and   
+(b) if the guarding is removed, that, so far as is reasonably practicable, the plant cannot be restarted unless the guarding is replaced. 
+
+Maximum penalty: tier E monetary penalty. 
+
+<<<PAGE 162>>>
+
+190 Operational controls 
+
+(1) A designer of plant must ensure that the design provides for any operator's controls for the plant to be: 
+
+(a) identified on the plant so as to indicate their nature and function and direction of operation; and   
+(b) located so as to be readily and conveniently operated by each person using the plant; and   
+(c) located or guarded to prevent unintentional activation; and   
+(d) able to be locked into the "off" position to enable the disconnection of all motive power. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) If the need for plant to be operated during maintenance or cleaning cannot be eliminated, the designer of the plant must ensure that the design provides for operator's controls that: 
+
+(a) permit operation of the plant while a person is undertaking the maintenance or cleaning of the plant; and   
+(b) while the plant is being maintained or cleaned, cannot be operated by any person other than the person who is carrying out the maintenance or cleaning of the plant; and   
+(c) will allow operation of the plant in such a way that any risk associated with the activities in relation to any person who is carrying out the maintenance or cleaning: (i) is eliminated so far as is reasonably practicable; or (ii) if it is not reasonably practicable to eliminate the risk, is minimised so far as is reasonably practicable. 
+
+Maximum penalty: tier E monetary penalty. 
+
+191 Emergency stop controls 
+
+(1) If plant is designed to be operated or attended by more than 1 person and more than 1 emergency stop control is fitted, the designer of the plant must ensure that the design provides for the multiple emergency stop controls to be of the "stop and lock-off" type so that the plant cannot be restarted after an emergency stop control has been used unless that emergency stop control is reset. Maximum penalty: tier E monetary penalty. 
+
+(2) If the design of the plant includes an emergency stop control for the plant, the designer of the plant must ensure that the design provides: 
+
+<<<PAGE 163>>>
+
+Part 5.1 General Duties for Plant and Structures 
+
+(a) for the stop control to be prominent, clearly and durably marked and immediately accessible to each operator of the plant; and   
+(b) for any handle, bar or push button associated with the stop control to be coloured red; and   
+(c) that the stop control cannot be adversely affected by electrical or electronic circuit malfunction. 
+
+Maximum penalty: tier E monetary penalty. 
+
+192 Warning devices 
+
+(1) This regulation applies if the design of plant includes an emergency warning device or it is necessary to include an emergency warning device to minimise risk.   
+(2) The designer of the plant must ensure that the design provides for the device to be positioned on the plant to ensure the device will work to best effect. Maximum penalty: tier E monetary penalty. 
+
+Division 3 Duties of persons conducting businesses or undertakings that manufacture plant 
+
+193 Control of risk 
+
+(1) A manufacturer of plant must ensure the following: 
+
+(a) that the plant is manufactured and inspected having regard to the information provided to the manufacturer by the designer of the plant under the Act and these Regulations; 
+
+(b) if the information provided to the manufacturer by the designer of the plant under the Act and these Regulations requires the plant to be tested—that the plant is tested in accordance with that information; 
+
+(c) if, during the manufacturing process, any hazard is identified in the design of the plant for which the designer has not provided a control measure: 
+
+(i) that the hazard is not incorporated into the manufacture of the plant; and   
+(ii) that the designer of the plant is given written notice of the hazard as soon as practicable; and 
+
+<<<PAGE 164>>>
+
+Model Work Health and Safety Regulations 
+
+Part 5.1 General Duties for Plant and Structures 
+
+(iii) that all reasonable steps are taken to consult with the designer of the plant in relation to the alteration of the design to rectify the hazard. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) A manufacturer of plant must ensure that, if it is not possible to inform the designer about the hazard in accordance with subregulation (1): 
+
+(a) the risk is eliminated, so far as is reasonably practicable; or (b) if it is not reasonably practicable to eliminate the risk, the risk is minimised so far as is reasonably practicable. 
+
+Note 
+
+WHS Act—section 23 (see regulation 9). 
+
+(3) A manufacturer to whom subregulation (1)(c) applies must not manufacture the plant until: 
+
+(a) the designer gives the manufacturer the revised information or written instruction under regulation 188; or   
+(b) the manufacturer eliminates or minimises the risk under subregulation (2). 
+
+Note 
+
+WHS Act—section 23 (see regulation 9). 
+
+(4) If the designer notifies a manufacturer of plant under regulation 188, the manufacturer may proceed in accordance with the designer's original information. 
+
+194 Guarding 
+
+(1) A manufacturer of plant must ensure that guarding used as a control measure is of solid construction and securely mounted so as to resist impact or shock. Maximum penalty: tier E monetary penalty. 
+
+(2) A manufacturer of plant must ensure: 
+
+(a) that any guarding used as a control measure in relation to plant is of a kind that can be removed to allow maintenance and cleaning of the plant at any time that the plant is not in normal operation; and   
+(b) if the guarding is removed—that, so far as is reasonably practicable, the plant cannot be restarted unless the guarding is replaced. 
+
+<<<PAGE 165>>>
+
+Part 5.1 General Duties for Plant and Structures 
+
+Maximum penalty: tier E monetary penalty. 
+
+195 Information must be obtained and provided 
+
+A manufacturer of plant must: 
+
+(a) take all reasonable steps to obtain the information required to be provided to the manufacturer by the designer of the plant under section 22(4)(a) and (c) of the Act and regulations 187 and 188; and 
+
+(b) ensure that a person to whom the manufacturer supplies the plant is, at the time of supply, provided with the information provided to the manufacturer by the designer under section 22(4)(a) and (c) of the Act and regulation 187; and (c) if the manufacturer acts in accordance with regulation 193(1)(c), ensure that a person to whom the manufacturer supplies the plant is provided with the information, applicable to the plant, that is required to be provided by the designer under sections 22(4)(a) and (c) of the Act and regulation 188. 
+
+
+
+Maximum penalty: tier G monetary penalty. 
+
+Division 4 Duties of persons conducting businesses or undertakings that import plant 
+
+196 Information to be obtained and provided by importer 
+
+An importer of plant must: 
+
+(a) take all reasonable steps to obtain: 
+
+(i) the information that would be required to be provided by a manufacturer under section 23(4)(a) and (c) of the Act; and   
+(ii) the information that would be required to be provided by the designer of the plant to the manufacturer under regulations 187 and 188; and 
+
+(b) give that information to any person to whom the importer supplies the plant. 
+
+Maximum penalty: tier G monetary penalty. 
+
+197 Control of risk 
+
+An importer of plant must: 
+
+(a) ensure that the plant is inspected having regard to the information provided by the manufacturer; and 
+
+<<<PAGE 166>>>
+
+Part 5.1 General Duties for Plant and Structures (b) if the information provided by the manufacturer requires the plant to be tested—ensure that the plant is tested in accordance with that information; and 
+
+
+
+(c) if any hazards are identified: 
+
+(i) ensure that the plant is not supplied until the risks have been eliminated so far as is reasonably practicable; and   
+(ii) if it is not reasonably practicable to eliminate the risks, inform the person to whom the plant is supplied about the risks; and 
+
+(d) take all reasonable steps to ensure that the designer and manufacturer of the plant are consulted in relation to any alteration made to the plant to control the risk. 
+
+Maximum penalty: tier E monetary penalty. 
+
+Division 5 Duties of persons conducting businesses or undertakings that supply plant 
+
+198 Information to be obtained and provided by supplier 
+
+A supplier of plant must: 
+
+(a) take all reasonable steps to obtain the information required to be provided by the manufacturer under section 23(4)(a) and (c) of the Act and these Regulations; and   
+(b) ensure that, when the plant is supplied, the person to whom the plant is supplied is given the information obtained by the supplier under paragraph (a). 
+
+Maximum penalty: tier G monetary penalty. 
+
+199 Supply of second-hand plant—duties of supplier 
+
+(1) A supplier of second-hand plant must ensure, so far as is reasonably practicable, that any faults in the plant are identified. Maximum penalty: tier E monetary penalty. 
+
+(2) A supplier of second-hand plant must ensure that the person to whom the plant is supplied is, before the plant is supplied, given written notice: 
+
+(a) of the condition of the plant; and   
+(b) of any faults identified under subregulation (1); and   
+(c) if appropriate, that the plant should not be used until the faults are rectified. 
+
+<<<PAGE 167>>>
+
+Model Work Health and Safety Regulations 
+
+Part 5.1 General Duties for Plant and Structures 
+
+Maximum penalty: tier E monetary penalty. 
+
+(3) This regulation does not apply to plant to be used for scrap or spare parts. 

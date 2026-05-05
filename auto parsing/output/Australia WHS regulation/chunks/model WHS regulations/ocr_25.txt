@@ -1,0 +1,667 @@
+<<<Page 466>>>
+
+(i) the proper shipping name as stated in Table 3.2.3 of the ADG Code for the chemical; and   
+(ii) the UN number as stated in Table 3.2.3 of the ADG Code for the hazardous chemical; and 
+
+<<<PAGE 467>>>
+
+Model Work Health and Safety Regulations 
+
+Schedule 12 Manifest requirements 
+
+(iii) the class and division of the hazardous chemical as stated in Table 3.2.3 of the ADG Code; and 
+
+(b) for a flammable liquid category 4: 
+
+(i) the product identifier; and (ii) the words 'combustible liquid'; and 
+
+(c) for an unstable explosive, organic peroxide type A or selfreactive substance type A: 
+
+(i) the name of the hazardous chemical stated in the ADG Code, Appendix A; and (ii) the words 'goods too dangerous to be transported'. 
+
+4 Manifest—storage area for packaged hazardous chemicals 
+
+(1) This clause applies if: 
+
+(a) a storage area: 
+
+(b) the hazardous chemicals are dangerous goods under the ADG Code. 
+
+(2) The manifest of hazardous chemicals must include: 
+
+(a) the identification number or code for the storage area; and   
+(b) for hazardous chemicals with an assigned class specified in Table 3.2.3 of the ADG Code—the largest quantity of each class of hazardous chemicals likely to be kept in the storage area; and 
+
+(c) for the specified hazardous chemicals that are likely to be kept in the storage area: 
+
+(i) the proper shipping name of the hazardous chemical as specified in Table 3.2.3 of the ADG Code; and   
+(ii) the class to which the hazardous chemical is assigned as specified in Table 3.2.3 of the ADG Code; and   
+(iii) the largest quantity of the hazardous chemical likely to be kept in the storage area; and 
+
+(d) for an unstable explosive, organic peroxide type A or selfreactive substance type A that is likely to be kept in the storage area: 
+
+<<<PAGE 468>>>
+
+Model Work Health and Safety Regulations 
+
+(i) the name of the hazardous chemical; and   
+(ii) the words 'goods too dangerous to be transported'; and   
+(iii) the largest quantity of the hazardous chemical likely to be kept in the storage area; and   
+(e) for hazardous chemicals with an assigned class specified in Table 3.2.3 of the ADG Code—the class to which the hazardous chemical is assigned; and   
+(f) for flammable liquids category 4—the words 'combustible liquid'. 
+
+
+
+(3) In this clause, specified hazardous chemicals means any of the following: 
+
+(a) flammable liquid category 1;   
+(b) self-reactive substances type B;   
+(c) substances which in contact with water emit flammable gas category 1;   
+(d) pyrophoric liquids category 1;   
+(e) pyrophoric solids category 1;   
+(f) organic peroxides type B;   
+(g) acute toxicity category 1;   
+(h) oxidising solids category 1;   
+(i) oxidising liquids category 1;   
+(j) skin corrosion category 1A;   
+(k) gases under pressure with acute toxicity categories 1, 2 or 3 o skin corrosion categories 1A, 1B or 1C. 
+
+5 Manifest—hazardous chemicals being manufactured 
+
+For each area in which hazardous chemicals are manufactured, the manifest must include: 
+
+(a) the identification number or code of the area; and   
+(b) a description of the hazardous chemicals manufactured in the area; and   
+(c) the average and largest quantity of each hazardous chemical likely to be manufactured in the area. 
+
+<<<PAGE 469>>>
+
+6 Manifest—hazardous chemicals in transit 
+
+(1) This clause applies to hazardous chemicals at a workplace if the hazardous chemicals are: 
+
+(a) dangerous goods under the ADG Code in transit at the workplace; and   
+(b) accompanied by dangerous goods transport documents (the transport documents) in relation to the hazardous chemicals that comply with the ADG Code. 
+
+(2) The person conducting a business or undertaking at the workplace is taken to comply with clauses 4 and 5 in relation to the hazardous chemicals if the manifest includes a compilation of the transport documents. 
+
+7 Manifest—plan of workplace 
+
+The manifest of hazardous chemicals at a workplace must include a scale plan of the workplace that: 
+
+(a) shows the location of: 
+
+(i) containers and other storage of hazardous chemicals in bulk; and   
+(ii) storage areas for packaged hazardous chemicals and IBCs; and   
+(iii) each area where hazardous chemicals are manufactured or generated; and 
+
+(b) includes a description in words of the location of: 
+
+(i) the things referred to in paragraph (a); and (ii) hazardous chemicals in transit; and 
+
+(c) provides the identification number or code, and a legend for the identification numbers and codes, for the things referred to in paragraph (a); and 
+
+(d) shows the location of: 
+
+(i) the main entrance and other places of entry to and exit from the workplace; and   
+(ii) essential site services, including fire services and isolation points for fuel and power; and   
+(iii) all drains on the site; and   
+(iv) the manifest; and 
+
+<<<PAGE 470>>>
+
+Model Work Health and Safety Regulations 
+
+Schedule 12 Manifest requirements 
+
+(e) includes the direction of true north; and   
+(f) describes the nature of the occupancy of adjoining sites or premises. 
+
+<<<PAGE 471>>>
+
+Schedule 13 Placard requirements 
+
+Regulations 349(2) and 350(2) 
+
+1 Displaying placards 
+
+(1) This clause applies if a person conducting a business or undertaking at a workplace must display a placard at the workplace in relation to a hazardous chemical. 
+
+(2) The person must ensure that the placard is: 
+
+(a) clearly legible by persons approaching the placard; and   
+(b) separate from any other sign or writing that contradicts, qualifies or distracts attention from the placard; and   
+(c) if a placard quantity of the hazardous chemical is contained in a building: (i) located as close as is reasonably practicable to the main entrance of the building; and (ii) located at the entrance to each room or walled section of the building in which the hazardous chemical is used, handled or stored; and   
+(d) if the hazardous chemical is contained in a container or outside storage area—located next to the container or outside storage area; and   
+(e) for a placard to which clause 3 applies—located at each entrance to the workplace where an emergency service organisation may enter the workplace; and   
+(f) for a placard to which clause 4 applies—located on or next to each container or storage area in which the hazardous chemicals are stored; and   
+(g) for a placard to which clause 6 applies—located at each entrance to a storage area in which the hazardous chemicals are stored. 
+
+
+
+2 Maintaining placards 
+
+A person who is required to display a placard must: 
+
+(a) amend the placard as soon as practicable if: 
+
+(i) the type or quantity of hazardous chemical used, handled or stored at the workplace changes; and   
+(ii) the change requires the information displayed on the placard to be amended; and 
+
+<<<PAGE 472>>>
+
+Model Work Health and Safety Regulations 
+
+(b) ensure that the placard is: 
+
+(i) kept clean; and (ii) maintained in good repair; and (iii) not covered or obscured. 
+
+3 Outer warning placards—requirements 
+
+(1) This clause applies if a person conducting a business or undertaking at a workplace must display an outer warning placard at the workplace in relation to a hazardous chemical. 
+
+Note 
+
+Regulation 349 sets out when an outer warning placard is required, and states that it is not required for retail fuel outlets. 
+
+(2) The outer warning placard must: 
+
+(a) comply with the form shown in figure 13.1; and (b) display the word 'HAZCHEM' in red letters on a white or silver background. 
+
+(3) In this clause, red means the colour 'signal red' in accordance with AS 2700S–2011 (R13) (Colour standards for general purposes— signal red). 
+
+4 Placards for particular hazardous chemicals stored in bulk 
+
+(1) This clause applies if a person conducting a business or undertaking at a workplace must display a placard at the workplace in relation to the storage in bulk of any of the following hazardous chemicals: 
+
+(a) gases under pressure, including flammable gases and flammable aerosols;   
+(b) flammable liquids category 1, 2 or 3;   
+(c) flammable solids category 1 or 2, self-reactive substances types B to F, self-heating substances category 1 or 2 or substances that, in contact with water, emit flammable gases;   
+(d) organic peroxides types B to F, oxidising solids and oxidising liquids category 1, 2 or 3; 
+
+<<<PAGE 473>>>
+
+Model Work Health and Safety Regulations 
+
+(e) acute toxicity category 1, 2 or 3;   
+(f) skin corrosion category 1A, 1B or 1C and corrosive to metals category 1. 
+
+(2) The placard must: 
+
+(a) comply with the template in figure 13.2; and (b) subject to subclause (4)(b) and (c), have dimensions not less than those shown in figure 13.2. 
+
+(3) The placard must include the following in figure 13.2 for the hazardous chemical: 
+
+(a) in space (p)—the proper shipping name for the hazardous chemical as specified in Table 3.2.3 of the ADG Code;   
+(b) in space (q)—the UN Number for the hazardous chemical as specified in Table 3.2.3 of the ADG Code;   
+(c) in space (r)—the Hazchem Code for the hazardous chemical as specified in Table 3.2.3 of the ADG Code;   
+(d) in space (s)—the class label and subsidiary risk label for the hazardous chemical as specified in Table 3.2.3 of the ADG Code. 
+
+(4) For subclause (3)(a) to (c), the numerals and letters used for showing the proper shipping name, UN number and Hazchem Code must be: 
+
+(a) black on a white background, unless a letter of the Hazchem Code is white on a black background; and 
+
+<<<PAGE 474>>>
+
+Model Work Health and Safety Regulations 
+
+Schedule 13 Placard requirements 
+
+(b) if the proper shipping name requires a single line only—at least 100mm high; and   
+(c) if the proper shipping name requires 2 lines—at least 50mm high. 
+
+(5) For subclause (3)(d): 
+
+(a) the class label and subsidiary risk label (if any) must have the form and colouring stated in the ADG Code for the hazardous chemical; and 
+
+(b) the class label must have: 
+
+(i) if there is a subsidiary risk label—sides not less than 200mm; or (ii) in any other case—sides of not less than 250mm; and (c) if there is a subsidiary risk label—the subsidiary risk label must have sides of not less than 150mm; and 
+
+
+
+(d) if there are 2 or more subsidiary risk labels—the width of the right hand part of the placard may be extended. 
+
+5 Placards for unstable explosives, organic peroxides type A or self-reactive substances type A stored in bulk 
+
+(1) This clause applies if a person conducting a business or undertaking at a workplace must display a placard at the workplace in relation to unstable explosives, organic peroxides type A or self-reactive substances type A that are stored in bulk. 
+
+(2) The placard must: 
+
+(a) comply with the form in figure 13.2; and (b) have dimensions not less than those shown in figure 13.2. 
+
+(3) The placard must include the following, as indicated in figure 13.2, for the hazardous chemical: 
+
+(a) in space (p)—the name stated in the ADG Code for the hazardous chemical;   
+(b) in space (q)—the space left blank;   
+(c) in space (r)—the space left blank;   
+(d) in space (s)—the label in figure 13.3. 
+
+<<<PAGE 475>>>
+
+Model Work Health and Safety Regulations 
+
+(4) For subclause (3)(a), the letters used for showing the name must be: 
+
+(a) black on a white background; and   
+(b) if the name requires a single line only—at least 100mm high; and   
+(c) if the name requires 2 lines—at least 50mm high. 
+
+(5) For subclause (3)(d), the label must have sides of not less than 250mm. 
+
+6 Placards for packaged Schedule 11 hazardous chemicals (other than flammable liquids category 4) and IBCs 
+
+(1) This clause applies if a person conducting a business or undertaking at a workplace must display a placard at the workplace in relation to the storage of: 
+
+(a) packaged Schedule 11 hazardous chemicals (other than flammable liquids category 4); or (b) a Schedule 11 hazardous chemical in an IBC. 
+
+(2) The placard must: 
+
+(a) be in the form shown in figure 13.4; and   
+(b) be of sufficient size to accommodate the labels to be included on the placard; and   
+(c) have a white or silver background; and 
+
+<<<PAGE 476>>>
+
+Model Work Health and Safety Regulations 
+
+(d) include each required class label: 
+
+(i) in the form and colouring stated in the ADG Code for the hazardous chemical; and   
+(ii) with sides not less than 100mm. 
+
+(3) The placard must include the following: 
+
+(a) for a Schedule 11 hazardous chemical (other than unstable explosive, organic peroxide type A, self-reactive substance type A) present in a storage area at the workplace—the class label as stated in the ADG Code for each category of hazardous chemicals present in at least the placard quantity; or   
+(b) for a flammable liquid category 4 stored with flammable liquids in a storage area at the workplace—a class 3 class label as stated in the ADG Code; or   
+(c) for an unstable explosive, organic peroxide type A or selfreactive substance type A—the label in figure 13.3. 
+
+(4) If hazardous chemicals in an IBC at the workplace are Schedule 11 hazardous chemicals intended for transport, and not intended for use at the workplace: 
+
+(a) the IBC must display a placard in accordance with the ADG Code; and   
+(b) the storage area at the workplace must display a placard in accordance with this clause. 
+
+7 Placards for flammable liquids category 4 packaged or in bulk 
+
+(1) This clause applies if a person conducting a business or undertaking at a workplace must display a placard at the workplace in relation to the storage of: 
+
+(a) a packaged flammable liquid category 4; or (b) a flammable liquid category 4 in bulk. 
+
+(2) The placard must: 
+
+<<<PAGE 477>>>
+
+Model Work Health and Safety Regulations 
+
+Schedule 13 Placard requirements 
+
+(a) be in the form shown in figure 13.5; and (b) have dimensions not less than those shown in figure 13.5; and (c) have black letters on a white or silver background. 
+
+<<<PAGE 478>>>
+
+Model Work Health and Safety Regulations 
+
+Schedule 14 Requirements for health monitoring 
+
+Schedule 14 Requirements for health monitoring 
+
+Regulations 368, 370 and 406 
+
+<<<PAGE 479>>>
+
+Model Work Health and Safety Regulations 
+
+<<<PAGE 480>>>
+
+Model Work Health and Safety Regulations 
+
+<<<PAGE 481>>>
+
+Model Work Health and Safety Regulations 
+
+Schedule 15 Hazardous chemicals at major hazard facilities (and their threshold quantity) 
+
+1 Definitions 
+
+In this Schedule: 
+
+Class has the same meaning as in the ADG Code. 
+
+Division has the same meaning as in the ADG Code. 
+
+Packing Group has the same meaning as in the ADG Code. 
+
+subsidiary risk has the same meaning as in the ADG Code. 
+
+2 Relevant hazardous chemicals 
+
+The hazardous chemicals that characterise a workplace as a facility for the purposes of these Regulations are the chemicals specifically referred to in table 15.1 and chemicals that belong to the types, classes and categories referred to in table 15.2. 
+
+3 Threshold quantity of one hazardous chemical 
+
+(1) In relation to each hazardous chemical referred to in clause 2, column 3 of Tables 15.1 and 15.2 provides a quantity that is described as the "threshold quantity" of that chemical. 
+
+(2) If a hazardous chemical is referred to in table 15.1, the threshold quantity of the chemical is that described in table 15.1, whether or not the chemical also belongs to a type, class or category referred to in table 15.2. 
+
+(3) If a hazardous chemical is not referred to in table 15.1, and the chemical belongs to a type, class or category referred to in table 15.2, the threshold quantity of that chemical is that of the type, class or category to which it belongs. 
+
+(4) If a hazardous chemical is not referred to in table 15.1, and the chemical appears to belong to more than 1 of the types, classes or categories referred to in table 15.2, the threshold quantity of that chemical is that of the relevant type, class or category which has the lower or lowest threshold quantity. 
+
+4 Threshold quantity of more than 1 hazardous chemical 
+
+If there is more than 1 hazardous chemical, a threshold quantity of chemicals exists where, if a number of chemicals are present, the result of the following aggregation formula exceeds 1: 
+
+<<<PAGE 482>>>
+
+Model Work Health and Safety Regulations 
+
+Schedule 15 Hazardous chemicals at major hazard facilities (and their threshold quantity) 
+
+Where— 
+
+(a) x, y, [....] and n are the hazardous chemicals present or likely to be present; 
+
+(b) qx, qy, [....] and qn is the total quantity of hazardous chemicals x, y, [....] and n present or likely to be present, other than: 
+
+(i) a hazardous chemical that is present or likely to be present in an isolated quantity less than 2% of its threshold quantity; 
+
+(ii) hazardous chemicals that are solely the subject of intermediate temporary storage, while in transit by road or rail (unless it is reasonably foreseeable that, despite the transitory nature of the storage, hazardous chemicals are or are likely to be present frequently or in significant quantities); 
+
+(c) Qx, Qy, [....] and Qn is the individual threshold quantity for each hazardous chemical x, y, [....] and n;   
+(d) a hazardous chemical is present or likely to be present in an isolated quantity, for the purposes of paragraph (b)(i), if its location at the facility is such that it cannot, on its own, act as an initiator of a major incident. 
+
+5 How table 15.1 must be used 
+
+(1) The UN number listed in table 15.1 against the named hazardous chemical does not restrict the meaning of the name, which also applies to hazardous chemicals that fall outside the UN number. 
+
+Examples 
+
+1 The hazardous chemicals are too dangerous to be transported. 2 The hazardous chemicals are part of mixtures covered by a different UN number. (2) Any hazardous chemicals that are covered by the listed UN numbers must be included in the quantity of the chemical named. 
+
+6 How table 15.2 must be used 
+
+(1) The quantities specified for explosives in table 15.2 relate to the weight of explosive exclusive of packagings, casings and other nonexplosive components. 
+
+<<<PAGE 483>>>
+
+Model Work Health and Safety Regulations 
+
+Schedule 15 Hazardous chemicals at major hazard facilities (and their threshold quantity) 
+
+(2) If explosives of different hazard divisions are present in the same area or storage, all of the explosives must, before table 15.2 is applied, be classified in accordance with the following table: 
+
+<<<PAGE 484>>>
+
+Model Work Health and Safety Regulations 
+
+<<<PAGE 485>>>
+
+Model Work Health and Safety Regulations 
+
+<<<PAGE 486>>>
+
+Model Work Health and Safety Regulations 
+
+<<<PAGE 487>>>
+
+Model Work Health and Safety Regulations 
+
+Schedule 15 Hazardous chemicals at major hazard facilities (and their threshold quantity) 
+
+Key 
+
+1 In rats   
+2 In rats or rabbits   
+3 4 hours in rats 
+
+<<<PAGE 488>>>
+
+Model Work Health and Safety Regulations 
+
+Schedule 16 Matters to be included in emergency plan for major hazard facility 
+
+Schedule 16 Matters to be included in emergency plan for major hazard facility 
+
+Regulation 557 
+
+1 Site and hazard detail 
+
+1.1 The location of the facility, including its street address and the nearest intersection (if any). 
+
+Note 
+
+Sufficient detail must be provided to enable a person not familiar with the site to find it. 
+
+1.2 A map: 
+
+(a) showing the site of the major hazard facility; and   
+(b) showing land use and occupancy in the surrounding area, and any other closely located major hazard facilities and hazardous chemical storage sites; and   
+(c) identifying all potentially hazardous inventories in the area that are known to the operator and the location of all staging points for emergency service organisations. 
+
+1.3 An inventory of all hazardous chemicals present or likely to be present at the facility, and their location. 
+
+1.4 A brief description of the nature of the facility and its operation. 
+
+1.5 The maximum number of persons, including workers, likely to be present at the facility on a normal working day. 
+
+1.6 The emergency planning assumptions, including emergency measures planned for identified incidents and likely areas affected. 
+
+1.7 The protective resources available to control an incident. 
+
+1.8 The emergency response procedures. 
+
+1.9 The infrastructure (on-site and off-site) likely to be affected by a major incident. 
+
+2 Command structure and site personnel 
+
+2.1 The command philosophy and structure to be activated in an emergency, so that it is clear what actions will be taken, who will take these actions and how, when and where they will be taken. 
+
+2.2 Details of the person who can clarify the content of the emergency plan if necessary. 
+
+<<<PAGE 489>>>
+
+Model Work Health and Safety Regulations 
+
+Schedule 16 Matters to be included in emergency plan for major hazard facility 
+
+2.3 The contact details of, and the means of contacting, the persons at the facility responsible for liaising with emergency service organisations. 
+
+2.4 A list of 24 hour emergency contacts. 
+
+2.5 Arrangements for assisting emergency service organisations and nearby facilities with control actions taken in the surrounding area. 
+
+3 Notifications 
+
+3.1 In the event of the occurrence of a major incident or an event that could reasonably be expected to lead to a major incident, procedures for notifying the emergency service organisations with which the emergency plan was prepared under regulation 557. 
+
+3.2 After a major incident has occurred, procedures for providing the local community and the local authority for the local authority area in which the facility and the surrounding area are located with information about the major incident under regulation 573. 
+
+3.3 On-site and off-site warning systems. 
+
+3.4 Contact details for emergency service organisations and other support services that can assist in providing resources and implementing evacuation plans in the event of a major incident. 
+
+3.5 On-site communication systems. 
+
+4 Resources and equipment 
+
+4.1 On-site emergency resources, including emergency equipment, personnel, gas detectors, wind velocity detectors, sand, lime, neutralising agents, absorbents, spill bins and decontamination equipment. 
+
+4.2 Off-site emergency resources, including arrangements for obtaining additional external resources (specific to the likely major incidents) to assist the control of major incidents and major incident hazards. 
+
+5 Procedures 
+
+5.1 Procedures for the safe evacuation of, and accounting for, all people on site.   
+5.2 Procedures and control points for utilities, including gas, water and electricity.   
+5.3 Procedures for the control of any incident involving Schedule 15 chemicals.   
+5.4 Procedures for decontamination following an incident involving Schedule 15 chemicals. 
+
+<<<PAGE 490>>>
+
+Model Work Health and Safety Regulations 
+
+Schedule 17 Additional matters to be included in safety management system of major hazard facility 
+
+Schedule 17 Additional matters to be included in safety management system of major hazard facility 
+
+Regulation 558 
+
+1 Safety policy and safety objectives 
+
+1.1 A description of the means by which the operator's safety policy and specific safety objectives are to be communicated to all persons who are to participate in the implementation of the safety management system. 
+
+1.2 The safety policy must include an express commitment to ongoing improvement of all aspects of the safety management system. 
+
+2 Organisation and personnel 
+
+2.1 The identification (according to position description and location) of the persons who are to participate in the implementation of the safety management system, and a description of the command structure in which these persons work and of the specific tasks and responsibilities allocated to them. 
+
+2.2 A description of the means of ensuring that these persons have the knowledge and skills necessary to enable them to undertake their allocated tasks and discharge their allocated responsibilities, and that they retain such knowledge and skills. 
+
+3 Operational controls 
+
+3.1 A description of the procedures and instructions for: 
+
+(a) the safe operation of plant (including as to inspection and maintenance); and   
+(b) the mechanical integrity of plant; and   
+(c) plant processes; and   
+(d) the control of abnormal operations and emergency shut down or decommissioning. 
+
+3.2 Provision of adequate means of achieving isolation of the major hazard facility or any part of the major hazard facility in the event of an emergency. 
+
+3.3 Provision of adequate means of gaining access for service and maintenance of the major hazard facility or any part of the major hazard facility. 
+
+3.4 A description of the roles of persons and of the interfaces between persons and plant. 
+
+<<<PAGE 491>>>
+
+Schedule 17 Additional matters to be included in safety management system of major hazard facility 
+
+3.5 Provision for alarm systems. 
+
+4 Duties of operators 
+
+4.1 A description of the means by which the operator proposes to comply with the Act and with Division 3 of Part 9.3, Part 9.4 and Part 9.5 of these Regulations. 
+
+4.2 In relation to each part of the documented safety management system that describes the means of compliance with a provision of Chapter 9, an annotation or cross-reference identifying the specific provision being complied with. 
+
+5 Management of change 
+
+A description of the procedures for planning modifications to major hazard facilities. 
+
+6 Principles and standards 
+
+6.1 A statement of the principles, especially the design principles and engineering standards, being used to ensure the safe operation of the major hazard facility. 
+
+6.2 A description of any technical standards, whether published or proprietary, being relied on in relation to such principles and standards. 
+
+7 Performance monitoring 
+
+7.1 Performance standards for measuring the effectiveness of the safety management system, that: 
+
+(a) relate to all aspects of the safety management system; and   
+(b) are sufficiently detailed to ensure that the ability of the operator to ensure the effectiveness of all aspects of the safety management system is apparent from the documentation; and   
+(c) include steps to be taken to continually improve all aspects of the safety management system. 
+
+7.2 A description of the way in which these performance standards are to be met. 
+
+7.3 Performance indicators for the effectiveness of control measures implemented, including: 
+
+(a) tests of the effectiveness of the control measures; and (b) indicators of the failure of any control measure; and (c) actions to be taken in reporting any such failure; and 
+
+<<<PAGE 492>>>
+
+Model Work Health and Safety Regulations 
+
+Schedule 17 Additional matters to be included in safety management system of major hazard facility 
+
+(d) other corrective actions to be taken in the event of any such failure. 
+
+8 Audit 
+
+Provision for the auditing of performance against the performance standards, including the methods, frequency and results of the audit process. 
+
+<<<PAGE 493>>>
+
+Schedule 18 Additional matters to be included in safety case for a major hazard facility 
+
+Schedule 18 Additional matters to be included in safety case for a major hazard facility 
+
+Regulation 561 
+
+Part 1 Facility description 
+
+1 The facility 
+
+1.1 A brief description of the nature of the facility and its operation, including a description of on-site activities and processes that involve or will involve Schedule 15 chemicals. 
+
+1.2 A description of the Schedule 15 chemicals and any other hazardous chemicals present or likely to be present at the facility, including: 
+
+(a) their identification by name and by any other means necessary for a clear identification; and   
+(b) the quantity present or likely to be present at the major hazard facility; and   
+(c) their physical, chemical and toxicological characteristics, and any other hazardous characteristics, both immediate and delayed; and   
+(d) their physical and chemical behaviour under normal conditions of use or under foreseeable abnormal conditions. 
+
+1.3 A description of the chemical and physical processes associated with any Schedule 15 chemicals present or likely to be present at the facility, including: 
+
+(a) the main units of plant used in those processes; and (b) a process flow drawing, or set of flow drawings, describing the processes. 
+
+1.4 A drawing of the major hazard facility's general layout, containing the location of: 
+
+(a) the main process units; and   
+(b) the main storage areas; and   
+(c) major incident hazards and major incident initiators. 
+
+1.5 In relation to proposed changes at the major hazard facility for which no new control measures are implemented: 
+
+(a) a description of any proposed changes to the major hazard facility that would: 
+
+<<<PAGE 494>>>
+
+Model Work Health and Safety Regulations 
+
+Schedule 18 Additional matters to be included in safety case for a major hazard facility 
+
+(i) alter the production capacity or profile of the major hazard facility; or   
+(ii) involve the deletion, addition or modification of any processes; and 
+
+(b) a statement as to how existing control measures and WHS management systems are capable of maintaining the safe operation of the major hazard facility. 
+
+2 The surrounding area 
+
+2.1 A detailed scale plan of the facility and its surrounding area showing: 
+
+(a) the location of the facility within the surrounding area; and   
+(b) topographical information; and   
+(c) land use, occupancy and activities in the surrounding area and any other closely located major hazard facilities and hazardous chemical storage sites; and   
+(d) the location of any identified external conditions (including other major hazard facilities or other facilities that could affect the safety of the major hazard facility). 
+
+2.2 Graphically presented demographic information for the local community, including surrounding land uses permitted by the local authority. 
+
+2.3 Meteorological data relevant to the estimation of the effects of any major incident. 
+
+<<<PAGE 495>>>
+
+Model Work Health and Safety Regulations 
+
+Schedule 18 Additional matters to be included in safety case for a major hazard facility 
+
+Part 2 Safety information 
+
+3 Control measures to limit the consequences of major incidents 
+
+3.1 A detailed description of: 
+
+(a) the instrumentation and other equipment installed in the facility and the processes and procedures in place that are the control measures to be implemented by the operator; and   
+(b) the critical operating parameters for those control measures; and   
+(c) key personnel and resources (internal and external) available to intervene in the event of any failure of a control measure, whether or not that failure results in a major incident; and   
+(d) a summary of the emergency plan, including specific information about how the plan can be expected to limit the consequences of a major incident; and   
+(e) the means of ensuring that there is at all times in place a command structure for the major hazard facility that applies in the event of an emergency, and that this command structure has been communicated to workers throughout the major hazard facility. 
+
+3.2 In item 3.1: 
+
+critical operating parameters means the upper or lower performance limits of any equipment, process or procedure, compliance with which is necessary to avoid a major incident. 
+
+failure of a control measure means: 
+
+(a) if the control measure is a positive action or event—the non-occurrence or the defective occurrence of that action or event; or   
+(b) if the control measure consists of a limitation on an operational activity, process or procedure—the breach of that limitation. 

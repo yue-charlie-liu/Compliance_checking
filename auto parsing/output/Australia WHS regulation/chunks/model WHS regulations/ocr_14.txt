@@ -1,0 +1,553 @@
+<<<Page 240>>>
+
+Maximum penalty: tier E monetary penalty. 
+
+335 Labelling hazardous chemicals 
+
+(1) The manufacturer or importer of a hazardous chemical must ensure that the hazardous chemical is correctly labelled as soon as practicable after manufacturing or importing the hazardous chemical. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) A hazardous chemical is correctly labelled if: 
+
+(a) the selection and use of label elements is in accordance with the GHS and it complies with Part 3 of Schedule 9; or   
+(b) the label includes content that complies with another labelling requirement imposed by these Regulations or by another law [of this State or] of the Commonwealth and the content is the same, or substantially the same, as the content that is required by Part 3 of Schedule 9. 
+
+(3) This regulation does not apply to a hazardous chemical if: 
+
+(a) the hazardous chemical is a consumer product that is labelled in accordance with the Poisons Standard; and   
+(b) the container for the hazardous chemical has its original label; and   
+(c) it is reasonably foreseeable that the hazardous chemical will be used in a workplace only in: (i) a quantity that is consistent with household use; and (ii) a way that is consistent with household use; and (iii) a way that is incidental to the nature of the work carried out by a worker using the hazardous chemical. 
+
+(4) This regulation does not apply to hazardous chemicals in transit. 
+
+(5) This regulation does not apply to a hazardous chemical that: 
+
+<<<PAGE 241>>>
+
+Model Work Health and Safety Regulations 
+
+(a) is therapeutic goods within the meaning of the Therapeutic Goods Act 1989 of the Commonwealth; and   
+(b) is in a form intended for human consumption, for administration to or by a person or use by a person for therapeutic purposes; and   
+(c) is labelled in accordance with that Act or an order made under that Act. 
+
+(6) This regulation does not apply to cosmetics and toiletries. 
+
+(7) This regulation does not apply to a hazardous chemical that is: 
+
+(a) a veterinary chemical product within the meaning of the Agvet Code; and   
+(b) listed in: (i) the Poisons Standard, Part 4, Schedule 4, if the chemical product is packaged and supplied in a form intended for direct administration to an animal for therapeutic purposes; or (ii) the Poisons Standard, Part 4, Schedule 8. 
+
+(8) In this regulation: 
+
+Poisons Standard means the Standard for the Uniform Scheduling of Medicines and Poisons November 2016 published by the Commonwealth, as in force or remade from time to time. 
+
+Subdivision 2 Obligations of suppliers 
+
+Notes 
+
+1 A supplier of hazardous chemicals may also be a person conducting a business or undertaking at a workplace.   
+2 A supplier is defined in section 25 of the Act as a person who conducts a business or undertaking of supplying.   
+3 An operator of a major hazard facility is required to notify certain quantities of hazardous chemicals under Part 9.2. 
+
+336 Restriction on age of person who can supply hazardous chemicals 
+
+A person conducting a business or undertaking must not direct or allow a worker to supply a hazardous chemical that is a flammable gas or flammable liquid to another person into any container or vehicle provided by that other person unless the worker is at least 16 years of age. 
+
+Maximum penalty: tier G monetary penalty. 
+
+<<<PAGE 242>>>
+
+Model Work Health and Safety Regulations 
+
+Part 7.1 Hazardous Chemicals 
+
+Examples 
+
+1 Decanting fuel into a fuel container.   
+2 Refuelling a car. 
+
+337 Retailer or supplier packing hazardous chemicals 
+
+(1) The supplier of a hazardous chemical must not supply the hazardous chemical for use at another workplace if the supplier knows or ought reasonably to know that the hazardous chemical is not correctly packed. Maximum penalty: tier G monetary penalty.   
+(2) A retailer who supplies a hazardous chemical in a container provided by the person supplied with the chemical must ensure that the hazardous chemical is correctly packed. Maximum penalty: tier G monetary penalty. 
+
+338 Supplier labelling hazardous chemicals 
+
+(1) The supplier of a hazardous chemical must not supply the hazardous chemical to another workplace if the supplier knows or ought reasonably to know that the hazardous chemical is not correctly labelled in accordance with regulation 335. Maximum penalty: tier G monetary penalty.   
+(2) Subregulation (1) does not apply to a hazardous chemical manufactured or imported before 1 January 2023 that was, at the time it was manufactured or imported, labelled in accordance with GHS 3. 
+
+339 Supplier to provide safety data sheets 
+
+(1) The supplier of a hazardous chemical to a workplace must ensure that the current safety data sheet for the hazardous chemical is provided with the hazardous chemical: 
+
+(a) when the hazardous chemical is first supplied to the workplace; and   
+(b) if the safety data sheet for the hazardous chemical is amended—when the hazardous chemical is first supplied to the workplace after the safety data sheet is amended. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) A hazardous chemical is taken to be first supplied to a workplace if the supply is the first supply of the hazardous chemical to the workplace for 5 years. 
+
+<<<PAGE 243>>>
+
+Model Work Health and Safety Regulations (3) The supplier of a hazardous chemical to a workplace must ensure that the current safety data sheet for the hazardous chemical is provided to a person at the workplace if the person asks for the safety data sheet. Maximum penalty: tier E monetary penalty. 
+
+
+
+(4) This regulation does not apply to a supplier of a hazardous chemical if: 
+
+(a) the hazardous chemical is a consumer product; or (b) the supplier is a retailer. 
+
+Note 
+
+A manufacturer or importer is required to prepare a safety data sheet under regulation 330. 
+
+340 Supply of prohibited and restricted carcinogens 
+
+(1) The supplier of a prohibited carcinogen referred to in an item in Schedule 10, table 10.1 must not supply the substance unless the person to be supplied with the substance gives the supplier evidence that: 
+
+(a) the substance is to be used, handled or stored for genuine research or analysis; and 
+
+(b) either: 
+
+(i) the regulator has authorised the person to use, handle or store the substance under regulation 384; or   
+(ii) the regulator has granted an exemption under Part 11.2 to the person to use, handle or store the substance. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) The supplier of a restricted carcinogen referred to in an item in Schedule 10, table 10.2, column 2 must not supply the substance for a use referred to in column 3 for the item unless the person to be supplied with the substance gives the supplier evidence that: 
+
+(a) the regulator has authorised the person to use, handle or store the substance under regulation 384; or   
+(b) the regulator has granted an exemption to the person under Part 11.2 to use, handle or store the substance. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(3) A supplier under subregulation (1) or (2) must keep a record of: (a) the name of the person supplied; and 
+
+<<<PAGE 244>>>
+
+Model Work Health and Safety Regulations 
+
+(b) the name and quantity of the substance supplied. 
+
+Maximum penalty: tier I monetary penalty. 
+
+(4) The supplier must keep the record for 5 years after the substance was last supplied to the person. Maximum penalty: tier I monetary penalty. 
+
+Subdivision 3 Obligations of persons conducting businesses or undertakings 
+
+341 Labelling hazardous chemicals—general requirement 
+
+(1) A person conducting a business or undertaking at a workplace must ensure that a hazardous chemical used, handled or stored at the workplace is correctly labelled in accordance with regulation 335. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) Subregulation (1) does not apply to a hazardous chemical: 
+
+(a) supplied before 1 January 2017 that was, at the time it was supplied, labelled in accordance with the National Code of Practice for the Labelling of Workplace Substances [NOHSC: 2012 (1994)] as in force at that time; or   
+(b) supplied before 1 January 2023 that was, at the time it was supplied, labelled in accordance with GHS 3; or   
+(c) manufactured or imported before 1 January 2023 that was, at the time it was manufactured or imported, labelled in accordance with GHS 3. 
+
+Note 
+
+Regulation 338 applies if the chemical is being supplied to another workplace. 
+
+342 Labelling hazardous chemicals—containers 
+
+(1) A person conducting a business or undertaking at a workplace must ensure that a hazardous chemical is correctly labelled in accordance with regulation 335 if the hazardous chemical is: 
+
+(a) manufactured at the workplace; or (b) transferred or decanted from its original container at the workplace. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(1A) Subregulation (1) does not apply to a hazardous chemical: 
+
+(a) manufactured at the workplace, or transferred or decanted from its original container at the workplace, before 1 January 
+
+<<<PAGE 245>>>
+
+Model Work Health and Safety Regulations 
+
+2017 that was, at the time it was manufactured, or transferred or decanted from its original container, labelled in accordance with the National Code of Practice for the Labelling of Workplace Substances [NOHSC: 2012 (1994)] as in force at that time; or 
+
+(b) manufactured at the workplace before 1 January 2023 that was, at the time it was manufactured, labelled in accordance with GHS 3; or 
+
+(c) transferred or decanted from its original container at the workplace that was: 
+
+(i) manufactured or imported before 1 January 2023; and (ii) at the time it was manufactured or imported, labelled in accordance with GHS 3. 
+
+
+
+Note 
+
+Regulation 338 applies if the chemical is being supplied to another workplace. 
+
+(2) A person conducting a business or undertaking at a workplace must ensure, so far as is reasonably practicable, that a container that stores a hazardous chemical is correctly labelled in accordance with regulation 335 while the container contains the hazardous chemical. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2A) Subregulation (2) does not apply to a container: 
+
+(a) supplied before 1 January 2017 that was, at the time it was supplied, labelled in accordance with the National Code of Practice for the Labelling of Workplace Substances [NOHSC: 2012 (1994)] as in force at that time; or 
+
+(b) supplied before 1 January 2023 that was, at the time it was supplied, labelled in accordance with GHS 3; or 
+
+(c) manufactured or imported before 1 January 2023 that was, at the time it was manufactured or imported, labelled in accordance with GHS 3. 
+
+Note 
+
+Regulation 338 applies if the chemical in the container is being supplied to another workplace. 
+
+(3) A person conducting a business or undertaking at a workplace must ensure that a container labelled for a hazardous chemical is used only for the use, handling or storage of the hazardous chemical. 
+
+Maximum penalty: tier E monetary penalty. 
+
+<<<PAGE 246>>>
+
+Model Work Health and Safety Regulations 
+
+(4) This regulation does not apply to a container if: 
+
+(a) the hazardous chemical in the container is used immediately after it is put in the container; and   
+(b) the container is thoroughly cleaned immediately after the hazardous chemical is used, handled or stored so that the container is in the condition it would be in if it had never contained the hazardous chemical. 
+
+343 Labelling hazardous chemicals—pipe work 
+
+A person conducting a business or undertaking at a workplace must ensure, so far as is reasonably practicable, that a hazardous chemical in pipe work is identified by a label, sign or another way on or near the pipe work. 
+
+Maximum penalty: tier E monetary penalty. 
+
+344 Person conducting business or undertaking to obtain and give access to safety data sheets 
+
+(1) A person conducting a business or undertaking at a workplace must obtain the current safety data sheet for a hazardous chemical prepared in accordance with these Regulations from the manufacturer, importer or supplier of the hazardous chemical in the following circumstances: 
+
+(a) either: 
+
+(i) not later than when the hazardous chemical is first supplied for use at the workplace; or   
+(ii) if the person is not able to obtain the safety data sheet under subparagraph (i)—as soon as practicable after the hazardous chemical is first supplied to the workplace but before the hazardous chemical is used at the workplace; 
+
+(b) if the safety data sheet for the hazardous chemical is amended either: 
+
+(i) not later than when the hazardous chemical is first supplied to the workplace after the safety data sheet is amended; or   
+(ii) if the person is not able to obtain the amended safety data sheet under subparagraph (i)—as soon as practicable after the hazardous chemical is first supplied to the workplace after the safety data sheet is amended and before the hazardous chemical supplied is used at the workplace. 
+
+<<<PAGE 247>>>
+
+Model Work Health and Safety Regulations 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) The hazardous chemical is taken to be first supplied to a workplace if the supply is the first supply of the hazardous chemical to the workplace for 5 years. 
+
+(3) The person must ensure that the current safety data sheet for the hazardous chemical is readily accessible to: 
+
+(a) a worker who is involved in using, handling or storing the hazardous chemical at the workplace; and   
+(b) an emergency service worker, or anyone else, who is likely to be exposed to the hazardous chemical at the workplace. 
+
+Maximum penalty: tier G monetary penalty. 
+
+(4) Subregulations (1) and (3) do not apply to a hazardous chemical that: 
+
+(a) is in transit; or   
+(b) if the person conducting the business or undertaking at the workplace is a retailer—is: (i) a consumer product; and (ii) intended for supply to other premises; or 
+
+(c) is a consumer product and it is reasonably foreseeable that the hazardous chemical will be used at the workplace only in: 
+
+(i) quantities that are consistent with household use; and (ii) a way that is consistent with household use; and (iii) a way that is incidental to the nature of the work carried out by a worker using the hazardous chemical. 
+
+(5) In the circumstances referred to in subregulation (4), the person must ensure that sufficient information about the safe use, handling and storage of the hazardous chemical is readily accessible to: 
+
+(a) a worker at the workplace; and (b) an emergency service worker, or anyone else, who is likely to be exposed to the hazardous chemical at the workplace. 
+
+Maximum penalty: tier G monetary penalty. 
+
+(6) The person must ensure that the current safety data sheet for the hazardous chemical is readily accessible to a person at the workplace if the person: 
+
+(a) is likely to be affected by the hazardous chemical; and 
+
+<<<PAGE 248>>>
+
+Model Work Health and Safety Regulations (b) asks for the safety data sheet. 
+
+
+
+Maximum penalty: tier G monetary penalty. 
+
+345 Changes to safety data sheets 
+
+A person conducting a business or undertaking at a workplace may change a safety data sheet for a hazardous chemical only if: 
+
+(a) the person: 
+
+(i) is an importer or manufacturer of the hazardous chemical; and   
+(ii) changes the safety data sheet in a way that is consistent with the duties of the importer or manufacturer under regulation 330; or 
+
+(b) the change is only the attachment of a translation of the safety data sheet, and clearly states that the translation is not part of the original safety data sheet. 
+
+Maximum penalty: tier E monetary penalty. 
+
+Note 
+
+The manufacturer or importer of a hazardous chemical must amend a safety data sheet as necessary to ensure the information is correct and current (see regulation 330(3)(b)). 
+
+Division 3 Register and manifest of hazardous chemicals 
+
+Subdivision 1 Hazardous chemicals register 
+
+346 Hazardous chemicals register 
+
+(1) A person conducting a business or undertaking at a workplace must ensure that: 
+
+(a) a register of hazardous chemicals used, handled or stored at the workplace is prepared and kept at the workplace; and   
+(b) the register is maintained to ensure the information in the register is up to date. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) The register must include: 
+
+(a) a list of hazardous chemicals used, handled or stored; and (b) the current safety data sheet for each hazardous chemical listed. 
+
+(3) The person must ensure that the register is readily accessible to: 
+
+<<<PAGE 249>>>
+
+Model Work Health and Safety Regulations 
+
+(a) a worker involved in using, handling or storing a hazardous chemical; and   
+(b) anyone else who is likely to be affected by a hazardous chemical at the workplace. 
+
+Maximum penalty: tier G monetary penalty. 
+
+(4) This regulation does not apply to a hazardous chemical if: 
+
+(a) the hazardous chemical is in transit, unless there is a significant or frequent presence of the hazardous chemical in transit at the workplace; or   
+(b) the hazardous chemical is a consumer product and the person is not required to obtain a safety data sheet for the hazardous chemical under regulation 344. Note See regulation 344(4). 
+
+Subdivision 2 Manifest of Schedule 11 hazardous chemicals 
+
+Note 
+
+Regulation 361 requires an emergency plan to be prepared if the quantity of hazardous chemicals used, handled or stored at a workplace exceeds the manifest quantity for that hazardous chemical. 
+
+347 Manifest of hazardous chemicals 
+
+(1) A person conducting a business or undertaking at a workplace must, if the quantity of a Schedule 11 hazardous chemical or group of Schedule 11 hazardous chemicals used, handled or stored at the workplace exceeds the manifest quantity for the Schedule 11 hazardous chemical or group of Schedule 11 hazardous chemicals: 
+
+(a) prepare a manifest of Schedule 11 hazardous chemicals; and (b) amend the manifest as soon as practicable if: 
+
+(i) the type or quantity of Schedule 11 hazardous chemical or group of Schedule 11 hazardous chemicals that must be listed in the manifest changes; or   
+(ii) there is a significant change in the information required to be recorded in the manifest. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) A manifest of Schedule 11 hazardous chemicals must comply with Schedule 12. 
+
+(3) The person must keep the manifest: 
+
+<<<PAGE 250>>>
+
+Model Work Health and Safety Regulations 
+
+Part 7.1 Hazardous Chemicals 
+
+(a) in a place determined in agreement with the primary emergency service organisation; and (b) available for inspection under the Act; and (c) readily accessible to the emergency service organisation. 
+
+Maximum penalty: tier G monetary penalty. 
+
+348 Regulator must be notified if manifest quantities to be exceeded 
+
+(1) A person conducting a business or undertaking at a workplace must ensure that the regulator is given written notice if a quantity of a Schedule 11 hazardous chemical or group of Schedule 11 hazardous chemicals that exceeds the manifest quantity is used, handled or stored, or is to be used, handled or stored, at the workplace. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) The notice under subregulation (1) must be given: 
+
+(a) immediately after the person knows that the Schedule 11 hazardous chemical or group of Schedule 11 hazardous chemicals is to be first used, handled or stored at the workplace or at least 14 days before that first use handling or storage (whichever is earlier); and   
+(b) immediately after the person knows that there will be a significant change in the risk of using, handling or storing the Schedule 11 hazardous chemical or group of Schedule 11 hazardous chemicals at the workplace or at least 14 days before that change (whichever is earlier). 
+
+(3) The notice under subregulation (1) must include the following: 
+
+(a) the name and ABN of the person conducting the business or undertaking;   
+(b) the type of business or undertaking conducted;   
+(c) if the workplace was previously occupied by someone else— the name of the most recent previous occupier, if known;   
+(d) the activities of the business or undertaking that involve using, handling or storing Schedule 11 hazardous chemicals;   
+(e) the manifest prepared by the person conducting the business or undertaking under regulation 347;   
+(f) in the case of a notice under subregulation (2)(b)—details of the changes to the manifest. 
+
+<<<PAGE 251>>>
+
+Model Work Health and Safety Regulations (4) A person conducting a business or undertaking at a workplace must ensure that the regulator is given written notice as soon as practicable after the Schedule 11 hazardous chemical or group of Schedule 11 hazardous chemicals ceases to be used, handled or stored at the workplace if it is not likely to be used, handled or stored at the workplace in the future. 
+
+
+
+Maximum penalty: tier E monetary penalty. 
+
+(5) The notice under subregulation (4) must include the information referred to in subregulation (3)(a), (b) and (d). 
+
+(6) If the regulator asks for any further information about the manifest quantity of a Schedule 11 hazardous chemical or group of Schedule 11 hazardous chemicals, the person must ensure that the information is given to the regulator. 
+
+Maximum penalty: tier E monetary penalty. 
+
+Note 
+
+See the jurisdictional note in the Appendix. 
+
+Division 4 Placards 
+
+349 Outer warning placards—requirement to display 
+
+(1) A person conducting a business or undertaking at a workplace must ensure that an outer warning placard is prominently displayed at the workplace if the total quantity of a Schedule 11 hazardous chemical or group of Schedule 11 hazardous chemicals used, handled or stored at the workplace exceeds the placard quantity for the Schedule 11 hazardous chemical or group of Schedule 11 hazardous chemicals. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) An outer warning placard must comply with Schedule 13. 
+
+(3) This regulation does not apply to a workplace if: 
+
+(a) the workplace is a retail outlet; and   
+(b) the Schedule 11 hazardous chemical or group of Schedule 11 hazardous chemicals is used to refuel a vehicle, and is either: (i) a flammable gas; or (ii) a flammable liquid. 
+
+<<<PAGE 252>>>
+
+350 Placard—requirement to display 
+
+(1) A person conducting a business or undertaking at a workplace must ensure that a placard is prominently displayed at the workplace if the total quantity of a Schedule 11 hazardous chemical or group of Schedule 11 hazardous chemicals stored at the workplace exceeds the placard quantity for the Schedule 11 hazardous chemical or group of Schedule 11 hazardous chemicals. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) A placard must comply with Schedule 13. 
+
+(3) This regulation does not apply to a Schedule 11 hazardous chemical or group of Schedule 11 hazardous chemicals if: 
+
+(a) the Schedule 11 hazardous chemical or group of Schedule 11 hazardous chemicals is in bulk in a container, including an IBC, that is intended for transport and a placard is displayed on the container in accordance with the ADG Code; or 
+
+(b) the Schedule 11 hazardous chemical or group of Schedule 11 hazardous chemicals is a flammable liquid stored in an underground tank at a retail outlet and used to refuel a vehicle. 
+
+Division 5 Control of risk—obligations of persons conducting businesses or undertakings 
+
+Subdivision 1 General obligations relating to management of risk 
+
+351 Management of risks to health or safety 
+
+(1) A person conducting a business or undertaking must manage, in accordance with Part 3.1, risks to health and safety associated with using, handling, generating or storing a hazardous chemical at a workplace. 
+
+Note 
+
+WHS Act—section 19 (see regulation 9). 
+
+(2) In managing risks the person must have regard to the following: 
+
+(a) the hazardous properties of the hazardous chemical;   
+(b) any potentially hazardous chemical or physical reaction between the hazardous chemical and another substance or mixture, including a substance that may be generated by the reaction;   
+(c) the nature of the work to be carried out with the hazardous chemical; 
+
+<<<PAGE 253>>>
+
+Model Work Health and Safety Regulations 
+
+(d) any structure, plant or system of work: 
+
+(i) that is used in the use, handling, generation or storage of the hazardous chemical; or   
+(ii) that could interact with the hazardous chemical at the workplace. 
+
+352 Review of control measures 
+
+In addition to the circumstances in regulation 38, a person conducting a business or undertaking at a workplace must ensure that any measures implemented to control risks in relation to a hazardous chemical at the workplace are reviewed and as necessary revised in any of the following circumstances: 
+
+(a) following any change to the safety data sheet for the hazardou chemical or the register of hazardous chemicals;   
+(b) if the person obtains a health monitoring report for a worker under Division 6 that contains: (i) test results that indicate that the worker has been exposed to the hazardous chemical and has an elevated level of metabolites in his or her body for that hazardous chemical; or (ii) any advice that test results indicate that the worker may have contracted a disease, injury or illness as a result of carrying out the work using, handling, generating or storing the hazardous chemical that triggered the requirement for health monitoring; or (iii) any recommendation that the person conducting the business or undertaking take remedial measures, including whether the worker can continue to carry out the work using, handling, generating or storing the hazardous chemical that triggered the requirement for health monitoring;   
+(c) if monitoring carried out under regulation 50 determines that the airborne concentration of the hazardous chemical at the workplace exceeds the relevant exposure standard;   
+(d) at least once every 5 years. 
+
+Maximum penalty: tier E monetary penalty. 
+
+<<<PAGE 254>>>
+
+353 Safety signs 
+
+(1) This regulation applies if a safety sign is required to control an identified risk in relation to using, handling, generating or storing hazardous chemicals at a workplace. 
+
+(2) A person conducting a business or undertaking at the workplace must display a safety sign at the workplace to: 
+
+(a) warn of a particular hazard associated with the hazardous chemicals; or 
+
+(b) state the responsibilities of a particular person in relation to the hazardous chemicals. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(3) The person must ensure that the safety sign is: 
+
+(a) located next to the hazard; and (b) clearly visible to a person approaching the hazard. 
+
+(4) In this regulation, safety sign does not include a placard. 
+
+354 Identification of risk of physical or chemical reaction 
+
+(1) A person conducting a business or undertaking at a workplace must identify any risk of a physical or chemical reaction in relation to a hazardous chemical used, handled, generated or stored at a workplace. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) Subregulation (1) does not apply if the hazardous chemical undergoes the physical or chemical reaction in a manufacturing process or as part of a deliberate process or activity at the workplace. 
+
+(3) A person conducting a business or undertaking at a workplace must take all reasonable steps to ensure that a hazardous chemical is used, handled, generated or stored so as not to contaminate food, food packaging or personal use products. 
+
+Maximum penalty: tier E monetary penalty. 
+
+Examples 
+
+Personal use products: 
+
+• cosmetics; 
+
+• face washer. 
+
+<<<PAGE 255>>>
+
+Part 7.1 Hazardous Chemicals 
+
+(4) Subregulation (3) does not apply to the use of a hazardous chemical for agricultural purposes when used in accordance with [insert relevant enactment] Note See the jurisdictional note in the Appendix. 
+
+355 Specific control—fire and explosion 
+
+A person conducting a business or undertaking at a workplace must, if there is a possibility of fire or explosion in a hazardous area being caused by an ignition source being introduced into the area, ensure that the ignition source is not introduced into the area (from outside or within the space). 
+
+Maximum penalty: tier E monetary penalty. 
+
+356 Keeping hazardous chemicals stable 
+
+(1) A person conducting a business or undertaking at a workplace must ensure, so far as is reasonably practicable, that a hazardous chemical used, handled or stored at the workplace does not become unstable, decompose or change so as to: 
+
+(a) create a hazard that is different from the hazard originally created by the hazardous chemical; or   
+(b) significantly increase the risk associated with any hazard in relation to the hazardous chemical. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) A person conducting a business or undertaking at a workplace must ensure that: 
+
+(a) if the stability of a hazardous chemical used, handled or stored at the workplace is dependent on the maintenance of the proportions of the ingredients of the hazardous chemical—the proportions are maintained as stated in the safety data sheet for the chemical or by the manufacturer of the hazardous chemical; and   
+(b) if a hazardous chemical used, handled or stored at the workplace is known to be unstable above a particular temperature—the hazardous chemical is used, handled or stored at or below that temperature. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(3) This regulation does not apply if: 
+
+<<<PAGE 256>>>
+
+Model Work Health and Safety Regulations 
+
+Part 7.1 Hazardous Chemicals 
+
+(a) the hazardous chemical is changed or allowed to become unstable, without risk to health or safety, as part of a deliberate process or activity at the workplace; or   
+(b) the hazardous chemical undergoes a chemical reaction in a manufacturing process or as part of a deliberate process or activity at the workplace. 
+
+Subdivision 2 Spills and damage 
+
+357 Containing and managing spills 
+
+(1) A person conducting a business or undertaking at a workplace must ensure, so far as is reasonably practicable, that where there is a risk from a spill or leak of a hazardous chemical in a solid or liquid form, provision is made in each part of the workplace where the hazardous chemical is used, handled, generated or stored for a spill containment system that contains within the workplace any part of the hazardous chemical that spills or leaks, and any resulting effluent. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) The person must ensure that the spill containment system does not create a hazard by bringing together different hazardous chemicals that are not compatible. Maximum penalty: tier E monetary penalty.   
+(3) The person must ensure that the spill containment system provides for the cleanup and disposal of a hazardous chemical that spills or leaks, and any resulting effluent. Maximum penalty: tier E monetary penalty.   
+(4) In subregulation (2), compatible, for 2 or more substances, mixtures or items, means that the substances, mixtures or items do not react together to cause a fire, explosion, harmful reaction or evolution of flammable, toxic or corrosive vapour. 

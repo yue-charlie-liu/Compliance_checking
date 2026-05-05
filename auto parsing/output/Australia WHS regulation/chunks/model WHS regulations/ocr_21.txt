@@ -1,0 +1,601 @@
+<<<Page 368>>>
+
+Note 
+
+See section 268 of the Act for offences relating to the giving of false or misleading information under the Act or these Regulations. 
+
+(3) The information given under subregulation (2)(b) must include the following: 
+
+(a) the operator's name; 
+
+(b) whether or not the operator is a body corporate; 
+
+(c) any other evidence of the operator's identity required by the regulator; 
+
+(d) if the operator is an individual: 
+
+(i) a declaration as to whether or not the operator has ever been convicted or found guilty of any offence under the Act or these Regulations or under any corresponding WHS law; and 
+
+Note 
+
+See the jurisdictional note in the Appendix. 
+
+(ii) details of any conviction or finding of guilt declared under subparagraph (i); and 
+
+(iii) a declaration as to whether or not the operator has ever entered into an enforceable undertaking under the Act or under any corresponding WHS law; and 
+
+(iv) details of any enforceable undertaking declared under subparagraph (iii); and 
+
+<<<PAGE 369>>>
+
+Model Work Health and Safety Regulations 
+
+Part 9.2 Determinations about Major Hazard Facilities 
+
+(A) describing any condition imposed on that licence; and   
+(B) stating whether or not that licence had been suspended or cancelled and, if so, whether or not the operator had been disqualified from applying for a major hazard facility licence; and   
+(C) giving details of any suspension, cancellation or disqualification; 
+
+(e) if the operator is a body corporate, the information specified in paragraph (d) in relation to: 
+
+(i) the operator; and (ii) each officer of the operator. 
+
+(4) The notification must be accompanied by the relevant fee. 
+
+539 When regulator may conduct inquiry 
+
+The regulator may conduct an inquiry under this Division if a notification under regulation 536 or 537 discloses, or if for some other reason the regulator reasonably suspects, that: 
+
+(a) the quantity of Schedule 15 chemicals present or likely to be present at a facility (or proposed facility) exceeds 10% of their threshold quantity but does not exceed their threshold quantity; or   
+(b) the operator of the facility (or proposed facility) may not be a suitable person to operate the facility (or proposed facility). 
+
+540 Inquiry procedure 
+
+(1) This regulation sets out the procedure for an inquiry. 
+
+(2) The regulator must give a written notice to the person referred to in subregulation (3): 
+
+(a) informing the person of the reasons for the inquiry; and   
+(b) advising the person that the person may, by a specified date (being not less than 28 days after the notice is given), make a submission to the regulator in relation to the inquiry. 
+
+(3) Notice under subregulation (2) must be given: 
+
+(a) for an inquiry about a facility in relation to which a notification has been given under regulation 536 or 537—to the contact person identified in the notification; and   
+(b) in any other case—to the operator of the facility. 
+
+<<<PAGE 370>>>
+
+Model Work Health and Safety Regulations 
+
+Part 9.2 Determinations about Major Hazard Facilities 
+
+(4) The regulator must: 
+
+(a) if the recipient of the notice has made a submission in relation to the inquiry—consider that submission; and   
+(b) consult with interested persons including: (i) health and safety representatives at the facility; and (ii) the emergency service organisations that have responsibility for the area in which the facility is located; and (iii) any government department or agency with a regulatory role in relation to major hazard facilities; and   
+(c) decide whether or not to make a determination under regulation 541 or 542; and   
+(d) if it decides to make a determination under regulation 541 or 542—decide whether or not to make a determination in relation to the operator under regulation 543. 
+
+541 Determination in relation to facility, on inquiry 
+
+(1) This regulation applies if an inquiry discloses that the quantity of Schedule 15 chemicals present or likely to be present at a facility or proposed facility exceeds 10% of their threshold quantity, but does not exceed their threshold quantity. 
+
+(2) The regulator may determine the facility or proposed facility to be a major hazard facility if the regulator considers that there is a potential for a major incident to occur at the facility or proposed facility having regard to all relevant matters, including: 
+
+(a) the quantity and combination of Schedule 15 chemicals present or likely to be present at the facility; and   
+(b) the type of activity at the facility that involves the Schedule 15 chemicals; and   
+(c) land use and other activities in the surrounding area. 
+
+Notes 
+
+1 If an inquiry discloses that the quantity of Schedule 15 chemicals present or likely to be present at a facility exceeds their threshold quantity, the facility is a major hazard facility. See definition of major hazard facility in regulation 5(1).   
+2 A determination that a facility is a major hazard facility, or that a proposed facility is not a major hazard facility, is a reviewable decision (see regulation 676). 
+
+<<<PAGE 371>>>
+
+Model Work Health and Safety Regulations 
+
+Part 9.2 Determinations about Major Hazard Facilities 
+
+542 Determination in relation to over-threshold facility 
+
+(1) This regulation applies if a notification under regulation 536 or 537 discloses that the quantity of Schedule 15 chemicals present or likely to be present at a facility (or proposed facility) exceeds their threshold quantity. 
+
+(2) The regulator must make a determination confirming the facility (or proposed facility) to be a major hazard facility. 
+
+Note 
+
+A determination that a facility is a major hazard facility is a reviewable decision (see regulation 676). 
+
+543 Suitability of facility operator 
+
+(1) This regulation applies if the regulator determines a facility or a proposed facility to be a major hazard facility under regulation 541 or 542. 
+
+(2) The regulator may determine that the operator of the major hazard facility or proposed major hazard facility is not a suitable person to operate the major hazard facility if the regulator: 
+
+(a) has conducted an inquiry under regulation 540 into the suitability of the operator; and   
+(b) is satisfied on reasonable grounds that the operator is not a suitable person to operate the major hazard facility or proposed major hazard facility. 
+
+(3) If no determination is made under this regulation, the operator of the major hazard facility or proposed major hazard facility is taken to be a suitable person to operate the major hazard facility and to apply for a major hazard facility licence. 
+
+Note 
+
+A determination that a person is not a suitable operator is a reviewable decision (see regulation 676). 
+
+544 Conditions on determination of major hazard facility 
+
+(1) The regulator may impose any conditions it considers appropriate on a determination made under regulation 541 or 542.   
+(2) Without limiting subregulation (1), the regulator may impose conditions in relation to 1 or more of the following: (a) additional control measures that must be implemented in relation to the carrying out of work or activities at the determined major hazard facility; 
+
+<<<PAGE 372>>>
+
+Model Work Health and Safety Regulations 
+
+Part 9.2 Determinations about Major Hazard Facilities 
+
+(b) the recording or keeping of additional information;   
+(c) the provision of additional information, training and instruction or the provision of specified information, training and instruction to additional persons or classes of persons;   
+(d) the provision of additional information to the regulator;   
+(e) if the operator is a person conducting a business or undertaking, the additional class of persons who may carry out work or activities on the operator's behalf. 
+
+(3) The operator of a determined major hazard facility, in relation to which conditions are imposed under this regulation, must ensure that the conditions are complied with. 
+
+Note 
+
+A decision to impose a condition on a determination is a reviewable decision (see regulation 676). 
+
+545 Notice and effect of determinations 
+
+(1) If the regulator makes a determination under this Part, the regulator must give the operator of the determined major hazard facility a written notice of the determination, stating: 
+
+(a) the reasons for the determination; and   
+(b) the date on which the determination takes effect, which must be at least 28 days after the date of the notice; and   
+(c) any conditions imposed on the determination under regulation 544. 
+
+(2) The notice must be given within 14 days of the making of the determination. 
+
+(3) The effect of a determination under regulation 543 is that: 
+
+(a) the operator is not taken to be a suitable person to operate the determined major hazard facility; and   
+(b) the exemption provided by regulation 535(3) does not apply to the determined major hazard facility. 
+
+Note 
+
+For the effect of a determination under regulation 541 or 542, see definition of determined major hazard facility in regulation 5(1). 
+
+(4) A determination takes effect on the date specified in the notice. 
+
+(5) A determination is of unlimited duration unless it is revoked. 
+
+Note 
+
+<<<PAGE 373>>>
+
+Model Work Health and Safety Regulations 
+
+See the jurisdictional notes in the Appendix. 
+
+546 When regulator may revoke a determination 
+
+The regulator may revoke a determination under this Part if, after consultation with the major hazard facility's contact person or operator (as applicable), the regulator is satisfied that the reasons for the determination no longer apply. 
+
+547 Re-notification if quantity of Schedule 15 chemicals increases 
+
+(1) This regulation applies to a facility or proposed facility: 
+
+(a) at which the quantity of Schedule 15 chemicals present or likely to be present exceeds 10% of their threshold quantity but does not exceed their threshold quantity; and 
+
+(b) in relation to which notification was given under regulation 536 or 537; and 
+
+(c) in relation to which the regulator: 
+
+(i) has not conducted an inquiry under this Division; or   
+(ii) on conducting an inquiry, has not determined the facility or proposed facility to be a major hazard facility under regulation 541. 
+
+(2) The operator of the facility or proposed facility must re-notify the regulator in accordance with this Part if the quantity of Schedule 15 chemicals present or likely to be present at the facility or proposed facility increases, or is likely to increase, to a level that exceeds the level previously notified to the regulator. 
+
+Maximum penalty: tier G monetary penalty. 
+
+(3) The provisions of this Part apply, to the extent that they relate to a re-notification under this regulation, as if the re-notification were a notification under regulation 536. 
+
+548 Notification by new operator 
+
+(1) This regulation applies: 
+
+(a) in relation to a determined major hazard facility that is proposed to be operated by a new operator;   
+(b) whether or not a determination under regulation 543 was made in relation to the current operator. 
+
+(2) A proposed new operator of the determined major hazard facility must give the regulator a notification that contains the information 
+
+<<<PAGE 374>>>
+
+Part 9.2 Determinations about Major Hazard Facilities specified in regulation 538(2) in relation to the proposed new operator. 
+
+
+
+Maximum penalty: tier G monetary penalty. 
+
+(3) The provisions of this Part apply, to the extent that they relate to the suitability of an operator, as if the notification under subregulation (2) were a notification under regulation 536. 
+
+549 Time in which major hazard facility licence must be applied for 
+
+(1) Subject to this regulation, the operator of a determined major hazard facility must apply for a major hazard facility licence within 24 months after the determination of the facility. 
+
+(2) The regulator may extend the time in which the operator of a determined major hazard facility must apply for a licence if satisfied, on application by the operator, that there has not been sufficient time to comply with Part 9.3. 
+
+Note 
+
+The exemption from the requirement to be licensed is conditional on an application for a licence being made within the time specified by this regulation (see regulation 535(3) and (5)). 
+
+<<<PAGE 375>>>
+
+Part 9.3 Duties of Operators of Determined Major Hazard Facilities 
+
+Notes 
+
+1 The operator of a determined major hazard facility is required to comply with this Part for a specified period and to prepare a safety case in order to apply for a major hazard facility licence.   
+2 The Act and Chapter 7 of these Regulations (Hazardous Chemicals) continue to apply to a determined major hazard facility. 
+
+Division 1 Application of Part 9.3 
+
+550 Application of Part 9.3 
+
+This Part ceases to apply to a determined major hazard facility at the end of the exemption period applying to that facility under regulation 535. 
+
+Division 2 Safety case outline 
+
+551 Safety case outline must be provided 
+
+The operator of a determined major hazard facility must provide the regulator with a safety case outline for the major hazard facility within 3 months after the facility is determined to be a major hazard facility. 
+
+Maximum penalty: tier G monetary penalty. 
+
+552 Content 
+
+A safety case outline provided under regulation 551 must include the following: 
+
+(a) a written plan for the preparation of the safety case, including key steps and timelines, with reference being made to each element of the safety case;   
+(b) a description of the methods to be used in preparing the safety case, including methods for ensuring that all the information contained in the safety case is accurate and up to date when the safety case is provided to the regulator;   
+(c) details of the resources that will be applied to the preparation of the safety case, including the number of persons involved, their relevant knowledge and experience and sources of technical information; 
+
+(d) a description of the consultation with workers that: 
+
+(i) occurred in the preparation of the safety case outline; and 
+
+<<<PAGE 376>>>
+
+Model Work Health and Safety Regulations 
+
+Part 9.3 Duties of Operators of Determined Major Hazard Facilities 
+
+(ii) will occur in the preparation of the safety case; 
+
+(e) a draft of the emergency plan prepared or to be prepared under regulation 557; 
+
+(f) a summary of any arrangements that are to be made in relation to the security of the major hazard facility. 
+
+Example 
+
+Arrangements for preventing unauthorised access to the major hazard facility. 
+
+Note 
+
+See the jurisdictional notes in the Appendix. 
+
+553 Alteration 
+
+(1) If the regulator is not satisfied that a safety case outline provided by the operator of a determined major hazard facility will lead to the development of a safety case that complies with regulation 561, the regulator may require the operator to alter the outline. 
+
+(2) If the regulator proposes to require an operator to alter a safety case outline, the regulator must give the operator a written notice: 
+
+(a) informing the operator of the proposed requirement and the reasons for it; and   
+(b) advising the operator that the operator may make a submission to the regulator in relation to the proposed requirement; and   
+(c) specifying the date (being not less than 28 days) by which the submission must be made. 
+
+(3) The regulator must: 
+
+(a) if the operator has made a submission in relation to the proposed requirement to alter a safety case outline—consider that submission; and   
+(b) whether or not the operator has made a submission—decide whether or not to require the operator to alter the outline; and   
+(c) within 14 days after deciding, give the operator written notice of the decision, including details of the alteration required and the reasons why it is required. 
+
+(4) The operator must alter the outline as required. Maximum penalty: tier G monetary penalty. 
+
+(5) The operator must give the regulator a copy of a safety case outline that has been altered: 
+
+<<<PAGE 377>>>
+
+Model Work Health and Safety Regulations 
+
+Part 9.3 Duties of Operators of Determined Major Hazard Facilities 
+
+(a) under this regulation; or (b) by the operator on the operator's initiative. 
+
+Maximum penalty: tier G monetary penalty. 
+
+(6) The safety case outline as altered becomes the safety case outline for the major hazard facility. 
+
+Division 3 Management of risk 
+
+554 Identification of major incidents and major incident hazards 
+
+(1) The operator of a determined major hazard facility must identify: 
+
+(a) all major incidents that could occur in the course of the operation of the major hazard facility; and   
+(b) all major incident hazards for the major hazard facility, including major incident hazards relating to the security of the major hazard facility. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) In complying with subregulation (1), the operator must have regard to any advice and recommendations given by: 
+
+(a) the emergency service organisations with responsibility for the area in which the major hazard facility is located; and   
+(b) any government department or agency with a regulatory role in relation to major hazard facilities. 
+
+(3) The operator must document: 
+
+(a) all identified major incidents and major incident hazards; and   
+(b) the criteria and methods used in identifying the major incidents and major incident hazards; and   
+(c) any external conditions under which the major incident hazards, including those relating to the security of the major hazard facility, might give rise to the major incidents. 
+
+Maximum penalty: tier E monetary penalty. 
+
+555 Safety assessment 
+
+(1) The operator of a determined major hazard facility must conduct a safety assessment in relation to the operation of the major hazard facility. 
+
+Maximum penalty: tier E monetary penalty. 
+
+<<<PAGE 378>>>
+
+(2) In order to provide the operator with a detailed understanding of all aspects of risks to health and safety associated with major incidents, a safety assessment must involve a comprehensive and systematic investigation and analysis of all aspects of risks to health and safety associated with all major incidents that could occur in the course of the operation of the major hazard facility, including the following: 
+
+(a) the nature of each major incident and major incident hazard;   
+(b) the likelihood of each major incident hazard causing a major incident;   
+(c) in the event of a major incident occurring, its potential magnitude and the severity of its potential health and safety consequences;   
+(d) the range of control measures considered;   
+(e) the control measures the operator decides to implement. 
+
+(3) In conducting a safety assessment, the operator must: 
+
+(a) consider major incidents and major incident hazards cumulatively as well as individually; and   
+(b) use assessment methods (whether quantitative or qualitative, or both), that are suitable for the major incidents and major incident hazards being considered. 
+
+(4) The operator must document all aspects of the safety assessment, including: 
+
+(a) the methods used in the investigation and analysis; and (b) the reasons for deciding which control measures to implemen 
+
+Maximum penalty: tier E monetary penalty. 
+
+(5) The operator must keep a copy of the safety assessment at the major hazard facility. Maximum penalty: tier G monetary penalty. 
+
+556 Control of risk 
+
+(1) The operator of a determined major hazard facility must implement control measures that: 
+
+(a) eliminate, so far as is reasonably practicable, the risk of a major incident occurring; or   
+(b) if it is not reasonably practicable to eliminate that risk— minimise that risk so far as is reasonably practicable. 
+
+<<<PAGE 379>>>
+
+Part 9.3 Duties of Operators of Determined Major Hazard Facilities 
+
+Note 
+
+WHS Act—section 20 (see regulation 9). 
+
+(2) The operator of a determined major hazard facility must implement risk control measures designed to minimise, in the event of a major incident occurring, its magnitude and the severity of its consequences to persons both on-site and off-site. Maximum penalty: tier E monetary penalty. 
+
+557 Emergency plan 
+
+(1) The operator of a determined major hazard facility must prepare an emergency plan for the major hazard facility that: 
+
+(a) addresses all health and safety consequences of a major incident occurring; and   
+(b) includes all matters specified in Schedule 16; and   
+(c) provides for testing of emergency procedures, including the frequency of testing. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) In preparing an emergency plan, the operator must consult with: 
+
+(a) the emergency service organisations with responsibility for the area in which the major hazard facility is located; and Note See the jurisdictional note in the Appendix.   
+(b) in relation to the off-site health and safety consequences of a major incident occurring—the local authority. 
+
+(3) The operator must ensure that the emergency plan addresses any recommendation made by the emergency service organisations consulted under subregulation (2) in relation to: 
+
+(a) the testing of the emergency plan, including the manner in which it will be tested, the frequency of testing and whether or not the emergency service organisations will participate in the testing; and   
+(b) what incidents or events at the major hazard facility should be notified to the emergency service organisations. 
+
+(4) The operator must have regard to any other recommendation or advice given by a person consulted under subregulation (2). 
+
+(5) The operator must: 
+
+<<<PAGE 380>>>
+
+Part 9.3 Duties of Operators of Determined Major Hazard Facilities (a) keep a copy of the plan at the major hazard facility; and (b) give a copy of the plan to: 
+
+
+
+(i) the emergency service organisations consulted under subregulation (2); and (ii) any other relevant emergency service organisations. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(6) The operator must test the emergency plan in accordance with the recommendations made by the emergency service organisations consulted under subregulation (2) before applying for a licence for the major hazard facility. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(7) The operator must immediately implement the emergency plan if: 
+
+(a) a major incident occurs in the course of the operation of the major hazard facility; or   
+(b) an event occurs that could reasonably be expected to lead to a major incident. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(8) The operator must notify the emergency service organisations consulted under subregulation (2) of the occurrence of an incident or event referred to in subregulation (3)(b). Maximum penalty: tier G monetary penalty. 
+
+Note 
+
+This regulation applies in addition to regulation 43. 
+
+558 Safety management system 
+
+(1) The operator of a determined major hazard facility must establish a safety management system for the operation of the major hazard facility, in accordance with this regulation. Maximum penalty: tier E monetary penalty. 
+
+(2) The operator of a determined major hazard facility must implement the safety management system for the major hazard facility, so far as is reasonably practicable. Maximum penalty: tier E monetary penalty. 
+
+(3) The safety management system must: 
+
+(a) provide a comprehensive and integrated system for the management of all aspects of risk control in relation to the 
+
+<<<PAGE 381>>>
+
+occurrence and potential occurrence of major incidents at the major hazard facility; and (b) be designed to be used by the operator as the primary means of ensuring the safe operation of the major hazard facility. 
+
+(4) The safety management system must: 
+
+(a) be documented; and   
+(b) state the operator's safety policy, including the operator's broad aims in relation to the safe operation of the major hazard facility; and   
+(c) state the operator's specific safety objectives and describe the systems and procedures that will be used to achieve those objectives; and   
+(d) include the matters specified in Schedule 17; and   
+(e) be readily accessible to persons who use it. 
+
+559 Review of risk management 
+
+(1) The operator of a determined major hazard facility must review and as necessary revise the following, in accordance with this regulation: 
+
+(a) the safety assessment conducted under regulation 555 in order to ensure the adequacy of the control measures to be implemented by the operator;   
+(b) the major hazard facility's emergency plan;   
+(c) the major hazard facility's safety management system. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) Without limiting subregulation (1), the operator must conduct a review and revision in the following circumstances: 
+
+(a) a modification to the major hazard facility is proposed;   
+(b) a control measure implemented under regulation 556 does not minimise the relevant risk so far as is reasonably practicable; Example An effectiveness test indicates a deficiency in the control measure.   
+(c) a new major hazard risk is identified;   
+(d) the results of consultation by the operator under Part 9.5 indicate that a review is necessary; 
+
+<<<PAGE 382>>>
+
+Model Work Health and Safety Regulations 
+
+Part 9.3 Duties of Operators of Determined Major Hazard Facilities 
+
+(e) a health and safety representative requests a review under subregulation (4);   
+(f) the regulator requires the review. 
+
+(3) In reviewing and revising the emergency plan, the operator must consult with the emergency service organisations referred to in regulation 557(2). 
+
+(4) A health and safety representative for workers at a major hazard facility may request a review if the representative reasonably believes that: 
+
+(a) a circumstance referred to in subregulation (2)(a), (b), (c) or (d) affects or may affect the health and safety of a member of the work group represented by the health and safety representative; and   
+(b) the operator has not adequately conducted a review in response to the circumstance. 
+
+Division 4 Safety case 
+
+560 Safety case must be provided 
+
+The operator of a determined major hazard facility must provide the regulator with a completed safety case for the major hazard facility, that has been prepared in accordance with regulation 561, within 24 months after the facility was determined to be a major hazard facility. 
+
+Maximum penalty: tier G monetary penalty. 
+
+561 Content 
+
+(1) The operator must prepare the safety case in accordance with the safety case outline prepared or altered under this Division. 
+
+(2) A safety case must contain the following: 
+
+(a) a summary of the identification conducted under regulation 554, including a list of all major incidents identified;   
+(b) a summary of the safety assessment conducted under regulation 555;   
+(c) a summary of the major hazard facility's emergency plan;   
+(d) a summary of the major hazard facility's safety management system;   
+(e) a description of any arrangements made in relation to the security of the major hazard facility; 
+
+<<<PAGE 383>>>
+
+Part 9.3 Duties of Operators of Determined Major Hazard Facilities 
+
+Note 
+
+See the jurisdictional notes in the Appendix. 
+
+(f) a description of the consultation with workers that took place under regulation 575 in the preparation of the safety case; 
+
+(g) the additional matters specified in Schedule 18. 
+
+(3) The safety case must include any further information that is necessary to ensure that all information contained in the safety case is accurate and up to date. 
+
+(4) A safety case must demonstrate: 
+
+(a) that the major hazard facility's safety management system will, once implemented, control risks arising from major incidents and major incident hazards; and   
+(b) the adequacy of the measures to be implemented by the operator to control risks associated with the occurrence and potential occurrence of major incidents. 
+
+(5) The operator must include in the safety case a signed statement that: 
+
+(a) the information provided under subregulations (1) and (2) is accurate and up to date; and   
+(b) as a consequence of conducting the safety assessment, the operator has a detailed understanding of all aspects of risk to health and safety associated with major incidents that may occur; and 
+
+(c) the control measures to be implemented by the operator: 
+
+(i) will eliminate the risk of a major incident occurring, so far as is reasonably practicable; and   
+(ii) if it is not reasonably practicable to eliminate the risk of a major incident occurring—will minimise the risk so far as is reasonably practicable; and   
+(iii) in the event of a major incident occurring—will minimise its magnitude and the severity of its health and safety consequences so far as is reasonably practicable; and 
+
+(d) all persons to be involved in the implementation of the safety management system have the knowledge and skills necessary to enable them to carry out their role safely and competently. 
+
+(6) If the operator is a body corporate, the safety case must be signed by the most senior executive officer of the body corporate who resides in [this jurisdiction]. 
+
+<<<PAGE 384>>>
+
+Model Work Health and Safety Regulations 
+
+Part 9.3 Duties of Operators of Determined Major Hazard Facilities 
+
+Note 
+
+See the jurisdictional notes in the Appendix. 
+
+562 Co-ordination for multiple facilities 
+
+(1) The regulator may require the operators of 2 or more major hazard facilities to co-ordinate the preparation of the safety cases for their major hazard facilities if the regulator is satisfied on reasonable grounds that such co-ordination is necessary in the interests of the safe operation and effective safety management of any or all of those major hazard facilities. 
+
+(2) If the regulator requires the co-ordinated preparation of safety cases, each operator must provide the other operators with information concerning any circumstances at the operator's facility that could constitute a major incident hazard in relation to any of the other major hazard facilities. 
+
+Maximum penalty: tier G monetary penalty. 
+
+(3) In complying with this regulation, the operator is not required to disclose information that may expose the major hazard facility to a major incident hazard in relation to the security of the major hazard facility. 
+
+563 Review 
+
+The operator of a determined major hazard facility must review and as necessary revise the major hazard facility's safety case after any review is conducted under regulation 559. 
+
+Maximum penalty: tier G monetary penalty. 
+
+Note 
+
+The operator of a licensed major hazard facility is required to notify the regulator of any change in relation to certain information about the licence (see regulation 588). 
+
+<<<PAGE 385>>>
+
+Part 9.4 Licensed Major Hazard Facilities—Risk Management 
+
+Note This Part applies to a major hazard facility that is licensed under Part 9.7. 
+
+564 Identification of major incidents and major incident hazards 
+
+(1) The operator of a licensed major hazard facility must identify: 
+
+(a) all major incidents that could occur in the course of the operation of the major hazard facility; and   
+(b) all major incident hazards for the major hazard facility, including major incident hazards relating to the security of the major hazard facility. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) In complying with subregulation (1), the operator must have regard to any advice and recommendations given by: 
+
+(a) the emergency service organisations with responsibility for the area in which the major hazard facility is located; and   
+(b) any government department or agency with a regulatory role in relation to major hazard facilities. 
+
+(3) The operator must document: 
+
+(a) all identified major incidents and major incident hazards; and   
+(b) the criteria and methods used in identifying the major incidents and major incident hazards; and   
+(c) any external conditions under which the major incident hazards, including those relating to the security of the major hazard facility, might give rise to the major incidents. 

@@ -1,0 +1,12 @@
+python-dotenv==1.2.1
+openai==2.6.0
+google-genai==1.56.0
+mineru[core]==2.6.4
+pdfplumber==0.11.7
+torch==2.9.0
+joblib==1.5.2
+rapidfuzz==3.14.3
+pymupdf==1.26.7
+pikepdf==10.1.0
+PyPDF2==3.0.1
+weasyprint==68.1

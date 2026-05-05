@@ -1,0 +1,240 @@
+<<<Page 21>>>
+
+Upon completion of the work, the equipment must be electrically tested and tagged and certified prior to it being commissioned. 
+
+8.3 Disposal of electrical equipment 
+
+It is important that electrical equipment is made safe before it is disposed of to prevent any risk of injury to workers or public when handling the equipment. 
+
+Prior to disposing of electrical equipment, consider the following: 
+
+ How can the equipment be made safe and ready for disposal i.e. can the electrical cord be cut/removed to prevent further use?   
+ Does the equipment contain chemicals or radiation sources that need to be managed before it is disposed?   
+ Can the equipment be disposed of through an e-waste stream?   
+ Is there an alternate energy source within the equipment that retains residual energy, i.e. a capacitor? 
+
+<<<PAGE 22>>>
+
+8.4 Inspection, testing and tagging 
+
+A person in control of electrical equipment at the workplace must ensure that the electrical equipment is regularly inspected and tested by a competent person if it is: 
+
+ supplied with electricity through an electrical socket outlet; and   
+ is used in an environment in which the normal use of electrical equipment exposes it to an environment that are likely to result in damage to that equipment or it reduces its expected life (e.g. conditions that involve exposure to moisture, heat, vibration, mechanical damage, corrosive chemicals or dust.) 
+
+Visual inspections of electrical equipment should be carried out each time the equipment is used to help determine whether it is safe. Regular visual inspections can identify any signs of damage, wear and tear or other defects and if present (even if there is doubt), must be isolated or taken out of service until repaired and tested as safe. 
+
+Scheduled testing and tagging of electrical equipment can detect electrical faults and deterioration that cannot be detected by visual inspection. The frequency of testing must be conducted in accordance with AS3760 In-service safety inspection and testing of electrical equipment. 
+
+New Equipment 
+
+Brand-new electrical equipment that has never been put into use does not have to be tested before its first use. However, a ‘new to service’ tag must be attached to the equipment by a person with control or management of that equipment before it goes into service. 
+
+It is advisable to conduct a visual inspection of the electrical equipment to ensure that it hasn’t been damaged during transportation, delivery, installation or commissioning. 
+
+Once new electrical equipment has been connected for use, it will require testing and tagging at the next scheduled test interval. 
+
+<<<PAGE 23>>>
+
+9 Electrical Safety Officers (ESO) 
+
+Electrical Safety Procedure Section 5 – Electrical Safety Officers (ESOs) 
+
+A business unit MUST appoint an ESO if recurring electrical work is conducted within the business unit. In all other circumstances, ESOs may be appointed if a business unit determines that an ESO is required to assist the business unit manage its electrical safety risks. 
+
+Persons appointed as ESOs MUST be competent electrical workers and be familiar with the electrical work being performed in their areas of responsibility 
+
+9.1 Business Unit and Site Electrical Safety Officers 
+
+The primary purpose of an ESO is to provide advice and support to the business unit regarding CSIRO electrical work requirements and safe electrical work practices. 
+
+The ESO is not responsible for managing or approving electrical work and safety activites on site and/or across a business unit. 
+
+A senior manager of a business unit/function MUST appoint a Site Electrical Safety Officer (Site ESO) at each site where recurring electrical work is carried out by staff members or affiliates within the business unit. 
+
+A senior manager of a business unit/function may also appoint a Business Unit Electrical Safety Officer (BU ESO) where recurring electrical work is carried out by staff members and affiliates across multiple sites within the business unit. 
+
+Note: A Site ESO does not need to be appointed for work on extra low voltage equipment or installations. 
+
+9.2 Electrical Safety Officer competencies 
+
+Individuals appointed to a BU or Site ESO role must have a level of training, qualification, licencing, etc that is commensurate to the competencies required for electrical work that is carried out on the site they primarily work at. 
+
+Example - ESO competency 
+
+CASS conducts electrical work on 2 different sites Marsfield and Narrabri. 
+
+At Marsfield they conduct work on portable electrical equipment and at Narrabri they conduct work on fixed and portable electrical equipment. Based on this information, a BU or Site ESO located at: 
+
+ Marsfield will need to have completed an electrical competency assessment.   
+ Narrabri will need to hold an appropriate electrical licence. 
+
+<<<PAGE 24>>>
+
+9.3 Letters of appointment 
+
+A formal letter of appointment to the position of BU ESO or Site ESO is to be issued by the Business Unit/Function Director. 
+
+Prior to the appointment taking place, the proposed candidates completed verification of electrical competency should be reviewed to confirm they meet the applicable competency requirements. 
+
+On the appointment of a new BU and/or Site ESO, notify your HSE Manager and/or local HSE Advisor to ensure the ESO contact list on MyCSIRO is updated. 
+
+9.4 Duties of Electrical Safety Officers 
+
+Business Unit Electrical Safety Officer (BU ESO) Duties 
+
+The BU ESO primarily provides: 
+
+ advice to business unit senior and line managers regarding the management of electrical work conducted by staff members and affiliates within the business unit; and  support the business unit with meeting its electrical work obligations under the CSIRO Electrical Safety Procedure and applicable laws. 
+
+Persons in this role have the following duties: 
+
+ Ensure business unit senior management are educated in their responsibilities under the CSIRO Electrical Safety Procedure. 
+
+ Upon request, 
+
+Assess and advise the business unit on the nature of electrical risks arising from work by the business unit, and the controls necessary to eliminate or minimise those risks; Inform senior management of electrical work matters within the business unit; and Assist with the investigation of electrical related incidents. 
+
+ Assist line managers with reviewing Verification of electrical competency forms and subsequently endorse them, if required. 
+
+ Together with site ESOs, ensure all energised electrical work undertaken in the business unit is covered by an approved Application to undertake energised electrical work. 
+
+ Assist Group Leaders and Directors with reviewing Applications to undertake energised electrical work. 
+
+ Advise other business unit ESOs when electrical competency assessments plan to be organised within the business unit. 
+
+ If observed, notify and advise relevant managers of possible remedial actions required where electrical licence conditions, the CSIRO Electrical Safety Procedure or any SWIs are not being effectively implemented. 
+
+ Organise regular meetings with Site ESOs within the business unit. 
+
+ Maintain competence and training to fulfil this role. 
+
+<<<PAGE 25>>>
+
+Site Electrical Safety Officer (Site ESO) Duties 
+
+The Site ESO primarily provides advice and support to business unit staff members and affiliates on a site regarding CSIRO electrical work requirements and safe work practices. 
+
+Persons in this role have the following duties: 
+
+ Maintain and manage a list of CSIRO electrical workers for the business unit located on site and the type(s) of electrical work they are verified to carry out. 
+
+ Advise electrical workers on site of their responsibilities: 
+
+under the CSIRO Electrical Safety Procedure and Work Health and Safety Regulations 2011 (Cth); and   
+to record and maintain their individual competency status, e.g. competency assessments, electrical licences, utilising LMS. 
+
+ Assist and advise line managers: 
+
+on appropriate electrical qualifications, training and knowledge required by staff members and affiliates to undertake required electrical work; and with reviewing Verification of electrical competency forms for electrical workers on site. 
+
+ Endorse Verification of electrical competency forms for electrical workers on site. 
+
+ Provide advice on electrical licencing and competency assessment requirements as well as CSIRO preferred electrical competency assessment training providers. 
+
+ Assist Group Leaders and Directors with reviewing applications to undertake energised electrical work for activities undertaken on site, if required. 
+
+ Ensure all energised electrical work undertaken in the business unit on site is covered by an approved Application to undertake energised electrical work. 
+
+ Review risk assessments and Safe Work Instructions for all electrical work conducted within the Business Unit on site. 
+
+ If observed, notify the relevant manager where electrical licence conditions, the CSIRO Electrical Safety Procedure or any SWIs are not being effectively implemented and provide advice on possible remedial action. 
+
+ Upon request, 
+
+assess and advise the business unit on the nature of electrical risks arising from work occurring on site by the business unit, and the controls necessary to eliminate or minimise those risks. assist with the investigation of electrical related incidents that occur on site. 
+
+ Maintain competence and training to fulfil this role. 
+
+<<<PAGE 26>>>
+
+10 Referenced Documents 
+
+Work Health and Safety Act 2011 (Cth) 
+
+Work Health and Safety Regulation 2011 (Cth) 
+
+Code of Practice 2018 Managing electrical risks in the workplace, Safe Work Australia 
+
+AS/NZS2978: Insulating mats for electrical purposes 
+
+AS/NZS 3000 Electrical installations ‘Wiring Rules’ 
+
+AS/NZS 3017 Electrical installations – Verification guidelines 
+
+AS/NZS 4836 Safe working on or near low voltage installations and equipment 
+
+AS61010.1 Safety requirements for electrical equipment for measurement, control and laboratory use – General requirements 
+
+AS/NZS 3820 Essential safety requirements for electrical equipment 
+
+<<<PAGE 27>>>
+
+A.1 Key electrical regulatory and Australian Standards definitions 
+
+Electrical Equipment (S.144 WHS Reg Cth) 
+
+1. Electrical equipment means any apparatus, appliance, cable, conductor, fitting, insulator, material, meter or wire that: 
+
+a. Is used for controlling, generating, supplying, transforming or transmitting electricity at a voltage greater than extra-low voltage (>50VAC or >120VDC) or   
+b. Is operated by electricity at a voltage great than extra-low voltage; or   
+c. Is part of an electrical installation located in an area in which the atmosphere presents a risk to health and safety from fire or explosion; or   
+d. Is, or is part of, an active impressed current cathodic protection system within the meaning of AS2832.1:2004 (Cathodic protection of metals – Pipes and cables). 
+
+2. Electrical equipment does not include any apparatus, appliance, cable, conductor, fitting, insulator, material or wire that is part of a vehicle that is a motor car or motorcycle if: 
+
+a. The equipment is part of a unit of the vehicle that provides propulsion for the vehicle; or b. The electricity source for the equipment is a unit of the vehicle that provides propulsion for the vehicle. 
+
+Electrical installation (S.145 WHS Reg Cth) 
+
+1. Electrical installation means a group of items of electrical equipment that: 
+
+a. Are permanently connected together, and   
+b. Can be supplied with electricity from the works of an electricity supply authority or from a generating source. 
+
+2. An item of electrical equipment may be part of more than electrical installation. 
+
+3. In paragraph 1(a) 
+
+a. An item of electrical equipment connected by a plug and socket outlet is not permanently electrically connected; and   
+b. Connection achieved through using works of an electricity supply authority is not a consideration in determining whether or not electrical equipment is electrically connected. 
+
+Voltage 
+
+AS 3000: Section 1.4.128 Defines Voltage as the differences of potential normally existing between conductors or between conductor and earth as follows: 
+
+a. Extra-low voltage, not exceeding 50V a.c. or 120V ripple free d.c.   
+b. Low voltage exceeding extra low voltage, but not exceeding 1000V a.c. or 1500V d.c.   
+c. High voltage exceeding low voltage. 
+
+<<<PAGE 28>>>
+
+A.2 Electrical Competency Assessment template 
+
+The Assessment identifies the applicable tasks and associated task criteria for the Electrical Competency Assessment. 
+
+Instruction for student 
+
+The student will be required to demonstrate the required level of knowledge and skills by completing the Electrical Competency Assessment tasks and providing verbal responses to underpinning knowledge questions, where applicable. 
+
+Instruction of assessor 
+
+The assessor will be required to a make a judgement on whether the student meets the requirements of the Task Criteria and annotate accordingly by ticking either the C (competent), NYC (not yet competent) or the N/A (not applicable) box. The assessor must also provide feedback to the student, as required. A final task sign-off will be completed by the Assessor once the student is deemed competent. 
+
+PART 2: AGREEMENT TO UNDERTAKE ASSESSMENT 
+
+The Assessor has explained the assessment process, and I agree to undertake the assessment in the knowledge that information gathered will only be used for the purpose of the Electrical Competency Assessment. 
+
+<<<PAGE 29>>>
+
+<<<PAGE 30>>>
+
+<<<PAGE 31>>>
+
+<<<PAGE 32>>>
+
+<<<PAGE 33>>>
+
+As Australia’s national science agency and innovation catalyst, CSIRO is solving the greatest challenges through innovative science and technology. 
+
+CSIRO. Unlocking a better future for everyone. 

@@ -1,0 +1,571 @@
+<<<Page 273>>>
+
+Note 
+
+A decision that a process is a lead process is a reviewable decision (see regulation 676). 
+
+<<<PAGE 274>>>
+
+Part 7.2 Lead 
+
+(3) The regulator must, within 14 days after a decision is made under subregulation (1), give written notice of the decision to the person conducting a business or undertaking at the workplace. 
+
+394 Meaning of lead risk work 
+
+In this Part, lead risk work means work carried out in a lead process that is likely to cause the blood lead level of a worker carrying out the work to exceed: 
+
+(a) for a female of reproductive capacity—5μg/dL (0.24μmol/L); or   
+(b) in any other case—20μg/dL (0.97μmol/L). 
+
+395 Duty to give information about health risks of lead process 
+
+(1) A person conducting a business or undertaking that carries out a lead process must give information about the lead process to: 
+
+(a) a person who is likely to be engaged to carry out the lead process—before the person is engaged; and   
+(b) a worker for the business or undertaking—before the worker commences the lead process. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) If work is identified as lead risk work after a worker commences the work, the person conducting a business or undertaking must give information about the lead process to the worker as soon as practicable after it is identified as lead risk work and before health monitoring of the worker is provided under Division 4 of this Part. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(3) The information that must be given is: 
+
+(a) information about the health risks and toxic effects associated with exposure to lead; and   
+(b) if the lead process involves lead risk work—the need for, and details of, health monitoring under Division 4 of this Part. 
+
+Division 2 Control of risk 
+
+396 Containment of lead contamination 
+
+A person conducting a business or undertaking at a workplace must ensure, so far as is reasonably practicable, that contamination by lead is confined to a lead process area at the workplace. 
+
+Maximum penalty: tier E monetary penalty. 
+
+<<<PAGE 275>>>
+
+397 Cleaning methods 
+
+(1) A person conducting a business or undertaking at a workplace must ensure, so far as is reasonably practicable, that a lead process area at the workplace is kept clean. Maximum penalty: tier E monetary penalty. 
+
+(2) The person must ensure that the methods used to clean a lead process area: 
+
+(a) do not create a risk to the health of persons in the immediate vicinity of the area; and (b) do not have the potential to spread the contamination of lead. 
+
+Maximum penalty: tier E monetary penalty. 
+
+398 Prohibition on eating, drinking and smoking 
+
+(1) A person conducting a business or undertaking at a workplace must take all reasonable steps to ensure that a person does not eat, drink, chew gum, smoke or carry materials used for smoking in a lead process area at the workplace. Maximum penalty: tier E monetary penalty.   
+(2) A person conducting a business or undertaking at a workplace must provide workers with an eating and drinking area that, so far as is reasonably practicable, cannot be contaminated with lead from a lead process. Maximum penalty: tier G monetary penalty. 
+
+399 Provision of changing and washing facilities 
+
+(1) A person conducting a business or undertaking at a workplace must provide and maintain in good working order changing rooms and washing, showering and toilet facilities at the workplace so as to: 
+
+(a) minimise secondary lead exposure from contaminated clothing; and   
+(b) minimise ingestion of lead; and   
+(c) avoid the spread of lead contamination. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) The person must ensure, so far as is reasonably practicable, that workers at the workplace remove clothing and equipment that is or is likely to be contaminated with lead, and wash their hands and faces, before entering an eating or drinking area at the workplace. 
+
+<<<PAGE 276>>>
+
+Maximum penalty: tier E monetary penalty. 
+
+400 Laundering, disposal and removal of personal protective equipment 
+
+(1) A person conducting a business or undertaking at a workplace must ensure that personal protective equipment that is likely to be contaminated with lead dust: 
+
+(a) is sealed in a container before being removed from the lead process area; and 
+
+(b) so far as is reasonably practicable, is disposed of on the completion of the lead process work at a site equipped to accept lead-contaminated equipment; and 
+
+(c) if it is not reasonably practicable to dispose of the personal protective equipment that is clothing: 
+
+(i) is laundered at a laundry, whether on-site or off-site, equipped to launder lead-contaminated clothing; or   
+(ii) if it is not practicable to launder the clothing—is kept in the sealed container until it is re-used for lead process work; and 
+
+(d) if it is not reasonably practicable to dispose of the personal protective equipment that is not clothing: 
+
+(i) is decontaminated before it is removed from the lead process area; or   
+(ii) if it is not practicable to decontaminate the equipment in the lead process area—is kept in the sealed container until it is re-used for lead process work. 
+
+Maximum penalty: tier E monetary penalty. 
+
+Example 
+
+Work boots. 
+
+(2) The person must ensure that a sealed container referred to in subregulation (1) is decontaminated before being removed from the lead process area. 
+
+Maximum penalty: tier E monetary penalty. 
+
+Note 
+
+Regulation 335 also requires the container to be labelled to indicate the presence of lead. 
+
+<<<PAGE 277>>>
+
+Part 7.2 Lead 
+
+(3) The person must take all reasonable steps to ensure that clothing contaminated with lead-dust is not removed from the workplace unless it is to be: 
+
+(a) laundered in accordance with this regulation; or (b) disposed of. 
+
+Maximum penalty: tier E monetary penalty. 
+
+401 Review of control measures 
+
+(1) A person conducting a business or undertaking at a workplace must ensure that any measures implemented to control health risks from exposure to lead at the workplace are reviewed and as necessary revised in the following circumstances: 
+
+(a) a worker is removed from carrying out lead risk work at the workplace under regulation 415;   
+(b) the person obtains a health monitoring report for a worker under Division 4 that contains: (i) test results that indicate that the worker has reached or exceeded the relevant blood lead level for that worker under regulation 415; and (ii) any advice that test results indicate that the worker may have contracted a disease, injury or illness as a result of carrying out the lead risk work that triggered the requirement for health monitoring; and (iii) any recommendation that the person conducting the business or undertaking take remedial measures, including a recommendation that the worker be removed from carrying out lead risk work at the workplace; 
+
+(c) the control measure does not control the risk it was implemented to control so far as is reasonably practicable; 
+
+Examples 
+
+1 Results of any monitoring.   
+2 A notifiable incident occurs because of the risk. 
+
+(d) before a change at the workplace that is likely to give rise to a new or different risk to health or safety that the measure may not effectively control; 
+
+(e) a new relevant hazard or risk is identified; 
+
+(f) the results of consultation by the person under the Act or these Regulations indicate that a review is necessary; 
+
+<<<PAGE 278>>>
+
+Model Work Health and Safety Regulations 
+
+Part 7.2 Lead 
+
+(g) a health and safety representative requests a review under subregulation (3);   
+(h) the regulator requires the review;   
+(i) at least once every 5 years. 
+
+Maximum penalty: tier G monetary penalty. 
+
+(2) Without limiting subregulation (1)(d), a change at the workplace includes: 
+
+(a) a change to the workplace itself or any aspect of the work environment; or (b) a change to a system of work, a process or a procedure. 
+
+(3) A health and safety representative for workers at a workplace may request a review of a control measure if the representative reasonably believes that: 
+
+(a) a circumstance referred to in subregulation (1)(a), (b), (c), (d), (e) or (f) affects or may affect the health and safety of a member of the work group represented by the health and safety representative; and   
+(b) the duty holder has not adequately reviewed the control measure in response to the circumstance. 
+
+Division 3 Lead risk work 
+
+402 Identifying lead risk work 
+
+(1) A person conducting a business or undertaking at a workplace must assess each lead process carried out by the business or undertaking at the workplace to determine if lead risk work is carried out in the process. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) In assessing a lead process, the person must have regard to the following: 
+
+(a) past biological monitoring results of workers;   
+(b) airborne lead levels;   
+(c) the form of lead used;   
+(d) the tasks and processes required to be undertaken with lead;   
+(e) the likely duration and frequency of exposure to lead;   
+(f) possible routes of exposure to lead; 
+
+<<<PAGE 279>>>
+
+Model Work Health and Safety Regulations 
+
+Part 7.2 Lead 
+
+(g) any information about incidents, illnesses or diseases in relation to the use of lead at the workplace. 
+
+(3) In assessing a lead process, the person must not have regard to the effect of using personal protective equipment on the health and safety of workers at the workplace. 
+
+(4) If a person conducting a business or undertaking at a workplace is unable to determine whether lead risk work is carried out in a lead process at the workplace, the process is taken to include lead risk work until the person determines that lead risk work is not carried out in the process. 
+
+403 Notification of lead risk work 
+
+(1) Subject to subregulation (5), if a person conducting a business or undertaking at a workplace determines that work at the workplace is lead risk work, the person must give the regulator written notice within 7 days that the work is lead risk work. 
+
+Maximum penalty: tier G monetary penalty. 
+
+(2) A notice under this regulation must state the kind of lead process being carried out that includes the lead risk work. 
+
+(3) The person must: 
+
+(a) keep a copy of the notice given to the regulator while the lead risk work is carried out at the workplace; and   
+(b) ensure that a copy of the notice is readily accessible to a worker who is likely to be exposed to lead, and the worker's health and safety representative. 
+
+Maximum penalty: tier G monetary penalty. 
+
+(4) Subregulation (5) applies to an emergency service organisation in relation to work carried out by an emergency service worker who, at the direction of the emergency service organisation, is: 
+
+(a) rescuing a person; or (b) providing first aid to a person. 
+
+(5) The emergency service organisation must give notice under subregulation (1) as soon as practicable after determining that the work is lead risk work. 
+
+404 Changes to information in notification of lead risk work 
+
+(1) A person conducting a business or undertaking at a workplace must give the regulator written notice of any change in the information given in a notice under regulation 403 before the change or as soon as practicable after the person becomes aware of the change. 
+
+<<<PAGE 280>>>
+
+
+
+Maximum penalty: tier I monetary penalty. 
+
+(2) The person must: 
+
+(a) keep a copy of the notice given to the regulator while the lead risk work is carried out at the workplace; and   
+(b) ensure that a copy of the notice is readily accessible to a worker who is likely to be exposed to lead, and the worker's health and safety representative. 
+
+Maximum penalty: tier I monetary penalty. 
+
+Division 4 Health monitoring 
+
+405 Duty to provide health monitoring before first commencing lead risk work 
+
+(1) A person conducting a business or undertaking at a workplace must ensure that health monitoring is provided to a worker: 
+
+(a) before the worker first commences lead risk work for the person; and   
+(b) 1 month after the worker first commences lead risk work for the person. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) If work is identified as lead risk work after a worker commences the work, the person conducting the business or undertaking must ensure that health monitoring of the worker is provided: 
+
+(a) as soon as practicable after the lead risk work is identified; and (b) 1 month after the first monitoring of the worker under paragraph (a). 
+
+Maximum penalty: tier E monetary penalty. 
+
+406 Duty to ensure that appropriate health monitoring is provided 
+
+Subject to regulation 407, a person conducting a business or undertaking must ensure that health monitoring of a worker referred to in regulation 405 includes health monitoring of a type referred to in an item in Schedule 14, table 14.2 unless: 
+
+(a) an equal or better type of health monitoring is available; and 
+
+<<<PAGE 281>>>
+
+Part 7.2 Lead 
+
+(b) the use of that other type of monitoring is recommended by a registered medical practitioner with experience in health monitoring. 
+
+Maximum penalty: tier E monetary penalty. 
+
+407 Frequency of biological monitoring 
+
+(1) A person conducting a business or undertaking at a workplace must arrange for biological monitoring of each worker who carries out lead risk work for the person to be carried out at the following times: 
+
+(a) for females not of reproductive capacity and males: 
+
+(i) if the last monitoring shows a blood lead level of less than 10μg/dL (0.48μmol/L)—6 months after the last biological monitoring of the worker; or   
+(ii) if the last monitoring shows a blood lead level of 10μg/dL (0.48μmol/L) or more but less than 20μg/dL (0.97μmol/L)—3 months after the last biological monitoring of the worker; or   
+(iii) if the last monitoring shows a blood lead level of 20μg/dL (0.97μmol/L) or more—6 weeks after the last biological monitoring of the worker; 
+
+(b) for females of reproductive capacity: 
+
+(i) if the last monitoring shows a blood lead level of less than 5μg/dL (0.24μmol/L)—3 months after the last biological monitoring of the worker; or   
+(ii) if the last monitoring shows a blood lead level of 5μg/dL (0.24μmol/L) or more but less than 10μg/dL (0.48μmol/L)—6 weeks after the last biological monitoring of the worker. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) The person must increase the frequency of biological monitoring of a worker who carries out lead risk work if the worker carries out an activity that is likely to significantly change the nature or increase the duration or frequency of the worker's lead exposure. Maximum penalty: tier E monetary penalty.   
+(3) The regulator may determine a different frequency for biological monitoring of workers at a workplace, or a class of workers, carrying out lead risk work having regard to: 
+
+<<<PAGE 282>>>
+
+Model Work Health and Safety Regulations 
+
+Part 7.2 Lead 
+
+(a) the nature of the work and the likely duration and frequency of the workers' lead exposure; and   
+(b) the likelihood that the blood lead level of the workers will significantly increase.   
+(4) The regulator must give a person conducting a business or undertaking written notice of a determination under subregulation (3) within 14 days after making the determination.   
+(5) The person conducting a business or undertaking at the workplace must arrange for biological monitoring to be carried out at the frequency stated in a determination notified to the person under subregulation (4). Maximum penalty: tier E monetary penalty. 
+
+
+
+Note 
+
+A determination of a different frequency for biological monitoring is a reviewable decision (see regulation 676). 
+
+408 Duty to ensure health monitoring is supervised by registered medical practitioner with relevant experience 
+
+(1) A person conducting a business or undertaking must ensure that the health monitoring of a worker referred to in this Division is carried out by or under the supervision of a registered medical practitioner with experience in health monitoring. Maximum penalty: tier E monetary penalty.   
+(2) The person must consult the worker in relation to the selection of the registered medical practitioner. Maximum penalty: tier E monetary penalty. 
+
+409 Duty to pay costs of health monitoring 
+
+(1) A person conducting a business or undertaking must pay all expenses relating to health monitoring referred to in this Division. Maximum penalty: tier G monetary penalty. 
+
+(2) If 2 or more persons conducting businesses or undertakings have a duty to provide health monitoring for a worker and have arranged for one of them to commission the health monitoring, the costs of the health monitoring for which any of those persons is liable must be apportioned equally between each of those persons unless they agree otherwise. 
+
+<<<PAGE 283>>>
+
+410 Information that must be provided to registered medical practitioner 
+
+A person conducting a business or undertaking who commissions health monitoring for a worker must provide the following information to the registered medical practitioner carrying out or supervising the health monitoring: 
+
+(a) the name and address of the person conducting the business or undertaking;   
+(b) the name and date of birth of the worker;   
+(c) the lead risk work that the worker is, or will be, carrying out that has triggered the requirement for health monitoring;   
+(d) if the worker has started that work, how long the worker has been carrying out that work. 
+
+Maximum penalty: tier G monetary penalty. 
+
+411 Duty to obtain health monitoring report 
+
+(1) A person conducting a business or undertaking who commissioned health monitoring referred to in this Division must take all reasonable steps to obtain a health monitoring report from the registered medical practitioner who carried out or supervised the monitoring as soon as practicable after the monitoring is carried out in relation to a worker. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) The health monitoring report must include the following: 
+
+(a) the name and date of birth of the worker;   
+(b) the name and registration number of the registered medical practitioner;   
+(c) the name and address of the person conducting the business or undertaking who commissioned the health monitoring;   
+(d) the date of health monitoring;   
+(e) if a blood sample is taken—the date the blood sample is taken;   
+(f) the results of biological monitoring that indicate blood lead levels in the worker's body;   
+(g) the name of the pathology service used to carry out tests;   
+(h) any test results that indicate that the worker has reached or exceeded the relevant blood lead level for that worker under regulation 415; 
+
+<<<PAGE 284>>>
+
+Model Work Health and Safety Regulations 
+
+Part 7.2 Lead 
+
+(i) any advice that test results indicate that the worker may have contracted a disease, injury or illness as a result of carrying out the lead risk work that triggered the requirement for health monitoring; 
+
+(j) any recommendation that the person conducting the business or undertaking take remedial measures, including whether the worker can continue to carry out the type of work that triggered the requirement for health monitoring; 
+
+Note 
+
+The duty under regulation 415 to remove a worker from carrying out lead risk work applies even if there is no recommendation of a registered medical practitioner to do so. (k) whether medical counselling is required for the worker in relation to the work that triggered the requirement for health monitoring. 
+
+412 Duty to give health monitoring report to worker 
+
+A person conducting a business or undertaking who commissioned health monitoring for a worker must give a copy of the health monitoring report to the worker as soon as practicable after the person obtains the report. 
+
+Maximum penalty: tier E monetary penalty. 
+
+413 Duty to give health monitoring report to regulator 
+
+A person conducting a business or undertaking for which a worker is carrying out work for which health monitoring is required must give a copy of the health monitoring report relating to the worker to the regulator as soon as practicable after obtaining the report if the report contains: 
+
+(a) test results that indicate that the worker has reached or exceeded the relevant blood lead level for that person under regulation 415; or   
+(b) any advice that test results indicate that the worker may have contracted a disease, injury or illness as a result of carrying out the work that triggered the requirement for health monitoring; or   
+(c) any recommendation that the person conducting the business or undertaking take remedial measures, including whether the worker can continue to carry out the work that triggered the requirement for health monitoring. 
+
+<<<PAGE 285>>>
+
+Maximum penalty: tier E monetary penalty. 
+
+414 Duty to give health monitoring report to relevant persons conducting businesses or undertakings 
+
+A person conducting a business or undertaking who commissioned health monitoring for a worker under this Division must give a copy of the health monitoring report to all other persons conducting businesses or undertakings who have a duty to provide health monitoring for the worker as soon as practicable after obtaining the report. 
+
+Maximum penalty: tier E monetary penalty. 
+
+415 Removal of worker from lead risk work 
+
+(1) A person conducting a business or undertaking for which a worker is carrying out work must immediately remove the worker from carrying out lead risk work if following health monitoring: 
+
+(a) biological monitoring of the worker shows that the worker's blood lead level is, or is more than: 
+
+(i) for females not of reproductive capacity and males— 30μg/dL (1.45μmol/L); or   
+(ii) for females of reproductive capacity—10μg/dL (0.48μmol/L); or 
+
+(b) the registered medical practitioner who supervised the health monitoring recommends that the worker be removed from carrying out the lead risk work; or 
+
+(c) there is an indication that a risk control measure has failed and, as a result, the worker's blood lead level is likely to reach the relevant level for the worker referred to in paragraph (a). 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) The person must notify the regulator as soon as practicable if a worker is removed from carrying out lead risk work under subregulation (1). Maximum penalty: tier G monetary penalty. 
+
+416 Duty to ensure medical examination if worker removed from lead risk work 
+
+(1) This regulation applies if a worker is removed from carrying out lead risk work under regulation 415. 
+
+<<<PAGE 286>>>
+
+Model Work Health and Safety Regulations 
+
+Part 7.2 Lead 
+
+(2) The person conducting the business or undertaking who removes the worker from carrying out lead risk work must arrange for the worker to be medically examined by a registered medical practitioner with experience in health monitoring within 7 days after the day the worker is removed. Maximum penalty: tier E monetary penalty.   
+(3) The person must consult the worker in the selection of the registered medical practitioner. Maximum penalty: tier E monetary penalty. 
+
+417 Return to lead risk work after removal 
+
+(1) This regulation applies if: 
+
+(a) a worker is removed from carrying out lead risk work under regulation 415; and   
+(b) the person conducting a business or undertaking at the workplace who removed the worker expects the worker to return to carrying out lead risk work at the workplace. 
+
+(2) The person conducting the business or undertaking must arrange for health monitoring under the supervision of a registered medical practitioner with experience in health monitoring at a frequency decided by the practitioner to determine whether the worker's blood lead level is low enough for the worker to return to carrying out lead risk work. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(3) The person conducting the business or undertaking must ensure that the worker does not return to carrying out lead risk work until: 
+
+(a) the worker's blood lead level is less than: 
+
+(i) for females not of reproductive capacity and males— 20μg/dL (0.97μmol/L); or   
+(ii) for females of reproductive capacity—5μg/dL (0.24μmol/L); and 
+
+(b) a registered medical practitioner with experience in health monitoring is satisfied that the worker is fit to return to carrying out lead risk work. 
+
+Maximum penalty: tier E monetary penalty. 
+
+<<<PAGE 287>>>
+
+Model Work Health and Safety Regulations 
+
+Part 7.2 Lead 
+
+418 Health monitoring records 
+
+(1) A person conducting a business or undertaking must ensure that health monitoring reports in relation to a worker carrying out work for the business or undertaking are kept as a confidential record: 
+
+(a) identified as a record in relation to the worker; and (b) for at least 30 years after the record is made. 
+
+Maximum penalty: tier I monetary penalty. 
+
+(2) The person must ensure that the health monitoring report and results of a worker are not disclosed to another person without the worker's written consent. Maximum penalty: tier I monetary penalty.   
+(3) Subregulation (2) does not apply if the record is disclosed under regulation 412, 413 or 414 or to a person who must keep the record confidential under a duty of professional confidentiality. 
+
+<<<PAGE 288>>>
+
+CHAPTER 8 ASBESTOS 
+
+Part 8.1 Prohibitions and Authorised Conduct 
+
+419 Work involving asbestos or ACM—prohibitions and exceptions (1) A person conducting a business or undertaking must not carry out, or direct or allow a worker to carry out, work involving asbestos. Maximum penalty: tier E monetary penalty. 
+
+
+
+(2) In this regulation, work involves asbestos if the work involves manufacturing, supplying, transporting, storing, removing, using, installing, handling, treating, disposing of or disturbing asbestos or ACM. 
+
+(3) Subregulation (1) does not apply if the work involving asbestos is any of the following: 
+
+(a) genuine research and analysis; 
+
+(b) sampling and identification in accordance with these Regulations; 
+
+(c) maintenance of, or service work on, non-friable asbestos or ACM, fixed or installed before 31 December 2003, in accordance with these Regulations; 
+
+(d) removal or disposal of asbestos or ACM, including demolition, in accordance with these Regulations; 
+
+(e) the transport and disposal of asbestos or asbestos waste in accordance with [jurisdictional legislation]; 
+
+Note 
+
+See jurisdictional note in the Appendix. 
+
+(f) demonstrations, education or practical training in relation to asbestos or ACM; 
+
+(g) display, or preparation or maintenance for display, of an artefact or thing that is, or includes, asbestos or ACM; 
+
+(h) management in accordance with these Regulations of in situ asbestos that was installed or fixed before 31 December 2003; 
+
+(i) work that disturbs asbestos during mining operations that involve the extraction of, or exploration for, a mineral other than asbestos; 
+
+(j) laundering asbestos contaminated clothing in accordance with these Regulations; 
+
+<<<PAGE 289>>>
+
+Model Work Health and Safety Regulations 
+
+(k) work that is being carried out in accordance with a prohibited asbestos notice issued under section 197B of the Act. 
+
+(4) Subregulation (1) does not apply if the regulator approves the method adopted for managing risk associated with asbestos. 
+
+(5) Subregulation (1) does not apply to the following: 
+
+(a) soil that a competent person has determined does not contain any visible ACM or friable asbestos;   
+(b) naturally occurring asbestos managed in accordance with an asbestos management plan prepared under regulation 432. 
+
+<<<PAGE 290>>>
+
+Part 8.2 General Duty 
+
+420 Exposure to airborne asbestos at workplace 
+
+(1) A person conducting a business or undertaking at a workplace must ensure that: 
+
+(a) exposure of a person at the workplace to airborne asbestos is eliminated so far as is reasonably practicable; and   
+(b) if it not reasonably practicable to eliminate exposure to airborne asbestos—exposure is minimised so far as is reasonably practicable. 
+
+Note 
+
+WHS Act—section 19 (see regulation 9). 
+
+(2) A person conducting a business or undertaking at a workplace must ensure that the exposure standard for asbestos is not exceeded at the workplace. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(3) Subregulations (1)(a) and (2) do not apply in relation to an asbestos removal area: 
+
+(a) that is enclosed to prevent the release of respirable asbestos fibres in accordance with regulation 477; and   
+(b) in which negative pressure is used in accordance with that regulation. 
+
+<<<PAGE 291>>>
+
+Part 8.3 Management of Asbestos and Associated Risks 
+
+421 Application of Part 8.3 
+
+(1) This Part does not apply to naturally occurring asbestos.   
+(2) Regulations 425, 426, 427, 428, 429 and 430 do not apply to any part of residential premises that is used only for residential purposes. 
+
+422 Asbestos to be identified or assumed at workplace 
+
+(1) A person with management or control of a workplace must ensure, so far as is reasonably practicable, that all asbestos or ACM at the workplace is identified by a competent person. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) A person with management or control of a workplace must: 
+
+(a) if material at the workplace cannot be identified but a competent person reasonably believes that the material is asbestos or ACM—assume that the material is asbestos; and   
+(b) if part of the workplace is inaccessible to workers and likely to contain asbestos or ACM—assume that asbestos is present in the part of the workplace. 
+
+(3) Subregulation (1) does not apply if the person: 
+
+(a) assumes that asbestos or ACM is present; or   
+(b) has reasonable grounds to believe that asbestos or ACM is not present. 
+
+(4) If asbestos or ACM is assumed to be present at a workplace, it is taken to be identified at the workplace. 
+
+423 Analysis of sample 
+
+(1) A person with management or control of a workplace may identify asbestos or ACM by arranging for a sample of material at the workplace to be analysed for the presence of asbestos or ACM. 
+
+(2) If a person with management or control of a workplace arranges for an analysis, the person must ensure that the sample is analysed only by: 
+
+(a) a NATA-accredited laboratory accredited for the relevant test method; or (b) a laboratory operated or approved by the regulator. 
+
+Maximum penalty: tier I monetary penalty. 
+
+<<<PAGE 292>>>
+
+424 Presence and location of asbestos to be indicated 
+
+A person with management or control of a workplace must ensure that: 
+
+(a) the presence and location of asbestos or ACM identified at the workplace under regulation 422 is clearly indicated; and   
+(b) if it is reasonably practicable to do so, indicate the presence and location of the asbestos or ACM by a label. 
+
+Maximum penalty: tier E monetary penalty. 
+
+425 Asbestos register 
+
+(1) A person with management or control of a workplace must ensure that a register (an asbestos register) is prepared and kept at the workplace. Maximum penalty: tier G monetary penalty.   
+(2) The person must ensure that the asbestos register is maintained to ensure the information in the register is up to date. Maximum penalty: tier G monetary penalty. 

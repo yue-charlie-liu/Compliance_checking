@@ -1,0 +1,4056 @@
+[
+    {
+        "type": "text",
+        "text": "Electrical Safety Guideline ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            195,
+            815,
+            247
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "September 2021   \nVersion 1.4 ",
+        "bbox": [
+            90,
+            281,
+            231,
+            326
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/8568689ba91615d9f94153803c3a7a54d5913846d41567ee772d1d25436775b0.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            0,
+            501,
+            994,
+            1000
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "Australia’s National Science Agency ",
+        "bbox": [
+            741,
+            89,
+            905,
+            123
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "三CSIRO",
+        "bbox": [
+            92,
+            65,
+            200,
+            142
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Contents ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            71,
+            230,
+            96
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Foreword 3 ",
+        "text_level": 1,
+        "bbox": [
+            144,
+            119,
+            882,
+            136
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 Revision Log 4 ",
+        "bbox": [
+            152,
+            147,
+            880,
+            163
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Introduction .5 ",
+        "bbox": [
+            152,
+            173,
+            880,
+            188
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 What are electrical risks?..   \n2.2 What is electrical work? .   \n2.3 What is not electrical work? . 5 ",
+        "bbox": [
+            151,
+            198,
+            885,
+            269
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "HSE Risk Management.. .6 ",
+        "bbox": [
+            127,
+            277,
+            878,
+            295
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4 Electrical work competencies. ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            304,
+            882,
+            320
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4.1 Electrical worker competency..   \n4.2 Electrical work – who can do what?. .8   \n4.3 Electrical competency assessment.. 0   \n4.4 Verification of electrical competency. 9 ",
+        "bbox": [
+            152,
+            331,
+            885,
+            427
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Conducting electrical work. .11 ",
+        "text_level": 1,
+        "bbox": [
+            152,
+            435,
+            880,
+            452
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5.1 General electrical work principles.. 1   \n5.2 Tools and Equipment.. .12   \n5.3 Working on a different site. .12 ",
+        "bbox": [
+            152,
+            461,
+            884,
+            532
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Isolation of Electricity Supply .13 ",
+        "bbox": [
+            152,
+            540,
+            882,
+            558
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "6.1 Lock out and tag out.. .13   \n6.2 Isolation locks.. 13 ",
+        "bbox": [
+            154,
+            567,
+            884,
+            610
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Energised electrical work . .14 ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            619,
+            882,
+            636
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "7.1 Planning energised electrical work . .14   \n7.2 Application to undertake energised electrical work. .14   \n7.3 Carrying out energised electrical work.. .15   \n7.4 Safe Work Instructions . .15   \n7.5 Safety Observers . .16   \n7.6 Other considerations .. .16   \n7.7 Energised electrical work – testing and fault-finding.. .17 ",
+        "bbox": [
+            151,
+            644,
+            885,
+            820
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Work with electrical equipment . .20 ",
+        "text_level": 1,
+        "bbox": [
+            110,
+            830,
+            882,
+            846
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "8.1 Purchasing of equipment.. .20   \n8.2 Modifications to electrical equipment . .20   \n8.3 Disposal of electrical equipment. .20 ",
+        "bbox": [
+            149,
+            855,
+            885,
+            926
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "discarded",
+        "text": "CSIRO Australia’s National Science Agency ",
+        "bbox": [
+            90,
+            942,
+            326,
+            956
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "discarded",
+        "text": "Electrical Safety Guideline | 1 ",
+        "bbox": [
+            734,
+            942,
+            904,
+            956
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "8.4 Inspection, testing and tagging. .21 ",
+        "bbox": [
+            152,
+            66,
+            882,
+            85
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Electrical Safety Officers (ESO) .22 ",
+        "bbox": [
+            131,
+            92,
+            880,
+            110
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "9.1 Business Unit and Site Electrical Safety Officers.. .22   \n9.2 Electrical Safety Officer competencies.. .22   \n9.3 Letters of appointment.. .23   \n9.4 Duties of Electrical Safety Officers . .23 ",
+        "bbox": [
+            149,
+            117,
+            884,
+            216
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "10 Referenced Documents. .25 ",
+        "bbox": [
+            94,
+            224,
+            882,
+            242
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "discarded",
+        "text": "CSIRO Australia’s National Science Agency ",
+        "bbox": [
+            92,
+            944,
+            324,
+            956
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "discarded",
+        "text": "Electrical Safety Guideline | 2 ",
+        "bbox": [
+            734,
+            942,
+            904,
+            956
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "discarded",
+        "text": "9 ",
+        "bbox": [
+            90,
+            93,
+            105,
+            108
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1 Foreword ",
+        "text_level": 1,
+        "bbox": [
+            95,
+            70,
+            337,
+            96
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This guideline provides practical guidance on how to achieve the electrical safety requirements set out in the CSIRO Electrical Safety Procedure and effective ways to reduce and manage electrical risks. ",
+        "bbox": [
+            92,
+            119,
+            902,
+            174
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CSIRO has a duty of care under the Work Health and Safety (WHS) Act and WHS Regulations to ensure that our people, so far as reasonably practicable, are not exposed to electrical risks in the workplace and to subsequently manage the risks by identifying and applying controls to either eliminate or manage potential electrical hazards. ",
+        "bbox": [
+            90,
+            184,
+            889,
+            258
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This guideline does not cover all relevant hazards and risks associated with working on or with electrical equipment and electrical installations. However, when planning and carrying out work involving electricity, or an alternate energy source all hazards, and risks need to be considered. ",
+        "bbox": [
+            92,
+            268,
+            884,
+            324
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "discarded",
+        "text": "CSIRO Australia’s National Science Agency ",
+        "bbox": [
+            92,
+            944,
+            324,
+            954
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "discarded",
+        "text": "Electrical Safety Guideline | 3 ",
+        "bbox": [
+            736,
+            944,
+            904,
+            954
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.1 Revision Log ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            67,
+            327,
+            90
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/6d4a6346570baf0063367297fda76d97da8ba12f6aa23d1ffd5f9e9dd12f15dd.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Date</td><td></td><td> section</td><td>Version Affected Summary of revision</td><td>Authorised by</td></tr><tr><td>19/10/20</td><td>1.2</td><td>5.3</td><td>Added sub section on conducting electrical work on different CSIRO sites.</td><td>Katie Carroll (HSE Advisor)</td></tr><tr><td>19/10/20</td><td>1.2</td><td>9</td><td>Added new Electrical Safety Officer section</td><td>Katie Carroll (HSE Advisor)</td></tr><tr><td>12/2020</td><td>1.3</td><td>4.1</td><td>Updated WA competency requirements in Table 1.</td><td>Katie Carroll (HSE Advisor)</td></tr><tr><td>12/2020</td><td>1.3</td><td>7.2</td><td>Added new Application to undertake energised electrical work section</td><td>Katie Carroll (HSE Advisor)</td></tr><tr><td>27/09/2021</td><td>1.4</td><td>4.2</td><td>Wording amended to clarify who should be able to do what electrical work.</td><td>Katie Carroll (HSE Advisor)</td></tr><tr><td>27/09/2021</td><td>1.4</td><td>9.2</td><td>ECO competency example amended.</td><td>Katie Carroll (HSE Advisor)</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></table>",
+        "bbox": [
+            100,
+            103,
+            904,
+            592
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "discarded",
+        "text": "CSIRO Australia’s National Science Agency ",
+        "bbox": [
+            92,
+            944,
+            324,
+            954
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "discarded",
+        "text": "Electrical Safety Guideline | 4 ",
+        "bbox": [
+            736,
+            944,
+            904,
+            954
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2 Introduction ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            70,
+            379,
+            96
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1 What are electrical risks? ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            121,
+            465,
+            141
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Electrical risks have the potential to cause death and serious injury through direct or indirect contact with electricity. The most common risks are: ",
+        "bbox": [
+            87,
+            156,
+            857,
+            194
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": " Electric shock causing injury or death, if contact is made with energised parts.   \n Fire, arcing or explosion causing burns, for example when moisture or dust enter electrical equipment, or an explosive atmosphere is present.   \n Toxic gases causing illness or death. ",
+        "bbox": [
+            87,
+            203,
+            855,
+            288
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2 What is electrical work? ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            311,
+            453,
+            332
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Section 146 of the WHS Regulation defines “electrical work” as: ",
+        "bbox": [
+            90,
+            347,
+            615,
+            365
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": " connecting electricity supply wiring to electrical equipment or disconnecting electrical supply wiring from electrical equipment; or   \n installing, removing, adding, testing, replacing, repairing, altering or maintaining electrical equipment or an electrical installation. ",
+        "bbox": [
+            92,
+            374,
+            875,
+            454
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3 What is not electrical work? ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            478,
+            495,
+            498
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Electrical work does not include work on electrical equipment that is operated by electricity at extra-low voltage except electrical equipment that: ",
+        "bbox": [
+            90,
+            514,
+            872,
+            552
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": " is part of an electrical installation located in an area in which the atmosphere presents a risk to health and safety from fire or explosion; or  is, or is part of an active impressed current cathodic protection system. ",
+        "bbox": [
+            87,
+            560,
+            892,
+            621
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Appendix 1 What is not electrical work in CSIRO within the Electrical Safety Procedure lists the activities that are considered electrical work under Section 146 of the WHS Regulations. ",
+        "bbox": [
+            89,
+            629,
+            872,
+            666
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "discarded",
+        "text": "CSIRO Australia’s National Science Agency ",
+        "bbox": [
+            92,
+            944,
+            324,
+            954
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "discarded",
+        "text": "Electrical Safety Guideline | 5 ",
+        "bbox": [
+            736,
+            944,
+            904,
+            954
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 HSE Risk Management ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            68,
+            527,
+            97
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Electrical Safety Procedure Section 1 – HSE Risk Management ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            131,
+            626,
+            150
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Prior to undertaking any electrical work or activities involving a possible electrical hazard that has the potential to cause injury or property/infrastructure damage an Activity Risk Assessment must be completed. A Safe Work Instruction (SWI) must be completed for recurring electrical work and energised electrical work. ",
+        "bbox": [
+            109,
+            163,
+            877,
+            228
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Section 147 of the WHS Regulation specifies that an employer “must manage risks to health and safety associated with electrical risks at the workplace”. This includes electrical risks associated with the design, construction, installation, protection, maintenance and testing of electrical equipment and electrical installations at a workplace. ",
+        "bbox": [
+            92,
+            250,
+            885,
+            326
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Section 2 of the Code of Practice 2018 – Managing electrical risks in the workplace provides the following guidance that may assist when completing an Activity Risk Assessment (ARA): ",
+        "bbox": [
+            90,
+            334,
+            882,
+            371
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": " different hazards associated with electrical equipment and installations;   \n considerations when assessing the nature and severity of risks associated with electrical hazards and electrical work; and   \n considerations when identifying and implementing control measures to eliminate or reduce the risks with associated with electrical hazards. ",
+        "bbox": [
+            92,
+            380,
+            900,
+            483
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Refer to Section 7 of this guideline for information on risk assessment consideration for energised electrical work. ",
+        "bbox": [
+            92,
+            488,
+            897,
+            526
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "discarded",
+        "text": "CSIRO Australia’s National Science Agency ",
+        "bbox": [
+            92,
+            944,
+            324,
+            954
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "discarded",
+        "text": "Electrical Safety Guideline | 6 ",
+        "bbox": [
+            736,
+            944,
+            904,
+            954
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4 Electrical work competencies ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            70,
+            630,
+            97
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Electrical Safety Procedure Section 3 – Electrical work competencies ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            131,
+            682,
+            150
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Electrical work MUST only be carried out by a competent person who: ",
+        "bbox": [
+            109,
+            163,
+            640,
+            180
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": " is permitted to carry out electrical work under their local state/territory electrical legislation; and  has acquired through training, qualifications or experience the knowledge and skills to carry out the task. ",
+        "bbox": [
+            109,
+            187,
+            885,
+            238
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1 Electrical worker competency ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            274,
+            514,
+            295
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Electrical workers must be deemed competent to carry out electrical work. ",
+        "bbox": [
+            92,
+            309,
+            707,
+            327
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Electrical work competencies are regulated by the states and territories, as a result your location will determine what types of competencies are required for the work you carry out. ",
+        "bbox": [
+            92,
+            336,
+            890,
+            372
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Table 1 provides an overview of what licences are required in each state and territory for specific electrical work. If an electrical licence isn’t required, then competency must be demonstrated through the successful completion of a practical competency assessment as agreed by CSIRO. ",
+        "bbox": [
+            92,
+            381,
+            890,
+            438
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Table 1 Electrical licence and competency assessment requirements by state/territory ",
+        "bbox": [
+            92,
+            445,
+            682,
+            461
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/544d5cb0bd1669b3ee6710f0c6cc3253168b4ec9e9cb03dac6bfe6074ac84fcc.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"> Work on electrical installations</td><td colspan=\"1\" rowspan=\"1\"> Work on fixed electrical equipment</td><td colspan=\"1\" rowspan=\"1\"> Work on portable electrical equipment</td></tr><tr><td colspan=\"1\" rowspan=\"1\">NSW</td><td colspan=\"1\" rowspan=\"1\"> Qualified supervisors Certificate</td><td colspan=\"1\" rowspan=\"1\">Qualified Supervisor Certificate</td><td colspan=\"1\" rowspan=\"1\">Competency Assessment</td></tr><tr><td colspan=\"1\" rowspan=\"1\">VIC</td><td colspan=\"1\" rowspan=\"1\">Electricians Licence</td><td colspan=\"1\" rowspan=\"1\">Restricted Electrical WorkersLicence</td><td colspan=\"1\" rowspan=\"1\">Competency Assessment</td></tr><tr><td colspan=\"1\" rowspan=\"1\"> QLD</td><td colspan=\"1\" rowspan=\"1\">Electrical Mechanic Licence -all electrical workORElectrical Fitter Licence-build/assemble switchboard</td><td colspan=\"1\" rowspan=\"1\">Electrical Mechanic LicenceORElectrical Fitter LicenceORRestricted electrical work licence- electronic equipment,Instrumentation/process control</td><td colspan=\"1\" rowspan=\"1\">Electrical Mechanic LicenceElectrical Fitter LicenceRestricted electrical work licence- electronic equipment,Instrumentation/process control</td></tr><tr><td colspan=\"1\" rowspan=\"1\">ACT</td><td colspan=\"1\" rowspan=\"1\">Unrestricted electrical licenceORElectrotechnology systems permit - electrical work undersupervision</td><td colspan=\"1\" rowspan=\"1\">Unrestricted electrical licenceORElectrotechnology systems permit - electrical work undersupervisionORRestricted (various)- fordisconnection/reconnection work</td><td colspan=\"1\" rowspan=\"1\">Competency Assessment</td></tr><tr><td colspan=\"1\" rowspan=\"1\">SA</td><td colspan=\"1\" rowspan=\"1\">Unrestricted electrical licence</td><td colspan=\"1\" rowspan=\"1\">Unrestricted electrical licenceORRestricted electrical licence-disconnect/reconnect only</td><td colspan=\"1\" rowspan=\"1\">Competency Assessment</td></tr><tr><td colspan=\"1\" rowspan=\"1\">TAS</td><td colspan=\"1\" rowspan=\"1\">Electrical practitioner's licence</td><td colspan=\"1\" rowspan=\"1\">Electrical practitioner's licenceORRestricted electrical licence</td><td colspan=\"1\" rowspan=\"1\">Competency Assessment</td></tr><tr><td colspan=\"1\" rowspan=\"1\">WA</td><td colspan=\"1\" rowspan=\"1\">Electrician's licence</td><td colspan=\"1\" rowspan=\"1\">Electrician's Licence</td><td colspan=\"1\" rowspan=\"1\">Restricted Electrical Licence -variousCompetency Assessment, ifapplicable</td></tr><tr><td colspan=\"1\" rowspan=\"1\">NT</td><td colspan=\"1\" rowspan=\"1\">Electrical workers licence</td><td colspan=\"1\" rowspan=\"1\">Electrical workers licence</td><td colspan=\"1\" rowspan=\"1\">Competency Assessment</td></tr></table>",
+        "bbox": [
+            90,
+            473,
+            905,
+            913
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "discarded",
+        "text": "CSIRO Australia’s National Science Agency ",
+        "bbox": [
+            92,
+            944,
+            324,
+            956
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "discarded",
+        "text": "Electrical Safety Guideline | 7 ",
+        "bbox": [
+            736,
+            942,
+            904,
+            954
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            92,
+            65,
+            905,
+            222
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Mutual Recognition ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            242,
+            275,
+            260
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Mutual recognition reduces inefficiencies and regulatory barriers, allowing people licensed or registered to practise an occupation in one jurisdiction to practise the equivalent occupation in another jurisdiction. ",
+        "bbox": [
+            92,
+            274,
+            878,
+            330
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A licensed person seeking to work in another state or territory can practise the equivalent occupation in the new state or territory without undergoing further testing. However, they must first apply for recognition of their existing licence and pay any relevant fee. Each state and territory administer its own occupational licences. ",
+        "bbox": [
+            90,
+            338,
+            892,
+            414
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2 Electrical work – who can do what? ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            438,
+            576,
+            459
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Electrical work, whether energised or de-energised, must only be carried out by a person who is deemed competent under applicable state/territory electrical legislation. ",
+        "bbox": [
+            92,
+            473,
+            884,
+            510
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "An electrical worker’s training and qualifications will impact the type of electrical work they can perform. Table 2 outlines what electrical work electrical workers in certain positions should be able to perform based on their qualifications and training. ",
+        "bbox": [
+            92,
+            520,
+            880,
+            576
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/ba8f49f4905c0db24093aa8388fa2cef197baadeb912edf7d12895470c7229f4.jpg",
+        "table_caption": [
+            "Table 2 Electrical work that may be performed per position "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1> Role/Position</td><td rowspan=1 colspan=1> Electrical work that may be performed</td></tr><tr><td rowspan=1 colspan=1>Open/unrestrictedelectrical licence holder</td><td rowspan=1 colspan=1>Can conduct any electrical work (de-energised and energised) as outlined by the licence holder&#x27;sstate/territory electrical regulator.</td></tr><tr><td rowspan=1 colspan=1>Restricted electricallicence holder</td><td rowspan=1 colspan=1>Allows the licence holder to only perform particular electrical work as stated on the licence. Anapplicant for arestricted licence must be able to demonstrate an occupational need to carry outrestricted electrical work to their trade,profession or calling.</td></tr><tr><td rowspan=1 colspan=1>Electrical engineer</td><td rowspan=1 colspan=1>Can undertake work within the scope of their qualification as an electrical engineer such as workrelating to the design and development of electrical/electronic systems, problem solving and testingof equipment.</td></tr><tr><td rowspan=1 colspan=1>Electronics technician</td><td rowspan=1 colspan=1>Can select, instal, set up,test,fault find, repair and maintain electronic equipment and devices atcomponent/sub-assembly level with options in communications,audio, video and TV,personalcomputer and networks,security and custom installations.</td></tr><tr><td rowspan=1 colspan=1>Communicationstechnician</td><td rowspan=1 colspan=1>Utilise defined range of skils to select, install and configure equipment in convergence technologiesthat integrate radio,optical and internet protocol(IP) based applications.Includes assessinginstallation requirements, planning and performing instalations, testing installed equipment andfault finding.</td></tr></table>",
+        "bbox": [
+            90,
+            610,
+            907,
+            871
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "discarded",
+        "text": "CSIRO Australia’s National Science Agency ",
+        "bbox": [
+            92,
+            944,
+            324,
+            954
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "discarded",
+        "text": "Electrical Safety Guideline | 8 ",
+        "bbox": [
+            736,
+            944,
+            904,
+            954
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.3 Electrical competency assessment ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            67,
+            563,
+            89
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Electrical workers must complete a practical electrical competency assessment prior to carrying out electrical work if an appropriate electrical licence is not required by their local state/territory regulator. Table 1 Electrical licence and competency assessment requirements by state/territory identifies when an electrical competency assessment is required. ",
+        "bbox": [
+            92,
+            104,
+            894,
+            179
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The electrical competency assessment evaluates whether an electrical worker has the necessary skills to carry out electrical work on non-fixed electrical equipment and can demonstrate safe work practices in line with the CSIRO Electrical Safety Procedure. ",
+        "bbox": [
+            92,
+            187,
+            902,
+            243
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "An electrical worker, if applicable, must successfully pass an electrical competency assessment as agreed by CSIRO within the past 5 years. ",
+        "bbox": [
+            90,
+            251,
+            892,
+            289
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "This assessment does not permit electrical workers to carry out any type of electrical work that requires an appropriate electrical licence within their local state or territory. ",
+        "bbox": [
+            90,
+            296,
+            878,
+            334
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Refer to Appendix 2 of this guideline for the electrical competency assessment template that must be used. ",
+        "bbox": [
+            90,
+            343,
+            902,
+            378
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.4 Verification of electrical competency ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            403,
+            591,
+            425
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The verification of electrical competency must establish whether the electrical worker: ",
+        "bbox": [
+            90,
+            440,
+            801,
+            458
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1. Has the licences, qualifications, training and experience necessary to safely carry out the required electrical work; and   \n2. Can demonstrate an understanding of the specific risks and control measures needed to carry out specific electrical work tasks. ",
+        "bbox": [
+            121,
+            466,
+            882,
+            548
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "What to consider when completing a verification form? ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            572,
+            596,
+            591
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Prior to carrying out electrical work in CSIRO, an electrical worker must complete and submit a verification of electrical competency form to their line manager for consideration and approval. ",
+        "bbox": [
+            94,
+            604,
+            873,
+            642
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "When completing the form consider the following: ",
+        "bbox": [
+            90,
+            649,
+            509,
+            667
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "a. How do you plan on carrying out the electrical work – i.e. is it de-energised or energised? If energised, do you have an appropriate electrical licence? An application to undertake energised electrical work need to be completed to obtain permission to work energised.   \nb. Does your training/qualifications/licences/experience address the competencies required for the electrical tasks you intend to carry out? – copies of qualifications/training/licences need to be attached to the verification form.   \nc. Have you completed Activity Risk Assessments and SWIs, if applicable, for the electrical work you intend to carry out – copies of the risk assessment and SWIs need to be attached to the verification form. ",
+        "bbox": [
+            122,
+            676,
+            902,
+            855
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "discarded",
+        "text": "CSIRO Australia’s National Science Agency ",
+        "bbox": [
+            92,
+            942,
+            324,
+            956
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "discarded",
+        "text": "Electrical Safety Guideline | 9 ",
+        "bbox": [
+            736,
+            942,
+            904,
+            954
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "What to consider when reviewing and approving a verification form? ",
+        "text_level": 1,
+        "bbox": [
+            89,
+            67,
+            721,
+            86
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The Line Manager along with the Electrical Safety Officer (ESO) should review the details in Part 2 & 3 of a submitted Verification of electrical competency. ",
+        "bbox": [
+            90,
+            99,
+            895,
+            136
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "When completing Part 4 & 5, discuss the electrical tasks to be performed and consider the following: ",
+        "bbox": [
+            92,
+            144,
+            840,
+            182
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "a. Does the licence/qualification/training/experience address the work described in Part 2? i.e. Do they require an electrical licence, additional training, equipment/tools, supervision?   \nb. Any of the electrical work tasks need to be performed energised – an application to undertake energised electrical work needs to be completed and submitted by the electrical worker/competent person to obtain permission to work energised.   \nc. Was there a previous electrical approval – is this a renewal or has there been a change in the electrical tasks?   \nd. Has the worker provided copies of licences, certificates, qualification – copies must be provided. If the worker is unable to provide copies, approval cannot be given, and electrical work must be ceased until all supporting documentation provided.   \ne. Are the licences, certificates, qualifications still in date and valid e.g. some licences have a review/renewal date. If out of date, the worker should be notified, and it noted on the verification form.   \nf. Have all known risks and hazards been assessed for the work to be undertaken, has it been documented and have the control measures been implemented - copies of Activity Risk Assessments and Safe Work Instructions must be provided for the electrical tasks. If the worker is unable to provide copies, approval cannot be given, and electrical work must cease until the completed risk assessments and SWI, if applicable, have been provided.   \ng. Are there further requirements for the worker to be approved - where it has been identified that additional training, supervision, procedures, etc are required, it is to be noted on the workers verification form and actioned appropriately. ",
+        "bbox": [
+            110,
+            190,
+            904,
+            612
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Setting conditions and limitations to electrical work ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            635,
+            563,
+            654
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Upon reviewing and approving verification form, a Line Manager may want to set conditions or limitation to what electrical work an electrical worker can carry out based on the risk and competency of the work. ",
+        "bbox": [
+            92,
+            668,
+            877,
+            723
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Examples of conditions and limitations include: ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            737,
+            509,
+            755
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": " Electrical work is restricted to testing only, (no working on energised circuits).   \n Working on energised circuits strictly in accordance with the conditions of an electrical licence.  Working strictly under supervision by an electrically competent and qualified electrical worker. Isolate, tag, de- energise using appropriate PPE and work on de-energised equipment or installation.   \nRestricted to electrical measurements on live external terminals, with appropriate PPE. Replacement of components in accordance with engineering specifications, like-for-like on deenergised circuits. ",
+        "bbox": [
+            109,
+            762,
+            847,
+            907
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "discarded",
+        "text": "CSIRO Australia’s National Science Agency ",
+        "bbox": [
+            92,
+            944,
+            324,
+            956
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "discarded",
+        "text": "Electrical Safety Guideline | 10 ",
+        "bbox": [
+            727,
+            944,
+            904,
+            954
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5 Conducting electrical work ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            70,
+            589,
+            98
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Electrical Safety Procedure Section 2 – Performing electrical work safely ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            131,
+            714,
+            150
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Business Units/Functions MUST ensure that: ",
+        "bbox": [
+            110,
+            163,
+            447,
+            180
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": " Energised electrical work IS NOT conducted, unless subject to exemptions provided under Section 157 of the WHS Regulation and approval is obtained as per section 3.3 of this procedure;  Only persons deemed competent are permitted to carry out electrical work; and  Electrical equipment and installations are isolated, tagged and confirmed de-energised before electrical work commences. ",
+        "bbox": [
+            109,
+            187,
+            870,
+            274
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5.1 General electrical work principles ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            308,
+            554,
+            330
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Section 154 of the WHS Regulations states that electrical work is not to be carried out on energised electrical equipment. However, exemptions do apply in certain circumstances provided in Section 157 of the regulations. Refer to Section 7 of this guideline for more information about energised electrical work requirements. ",
+        "bbox": [
+            92,
+            344,
+            897,
+            419
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Wherever possible electrical work must be carried out de-energised, this includes testing and fault finding. All possible de-energised working methods must be identified and tried before working energised should be considered. ",
+        "bbox": [
+            92,
+            428,
+            900,
+            484
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "‘Test for Dead’ before you touch ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            508,
+            388,
+            527
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Before electrical work is carried out, the equipment needs to be tested by a competent person to determine whether or not it is energised. You need to ensure: ",
+        "bbox": [
+            92,
+            540,
+            894,
+            577
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": " Each exposed part of the equipment is treated as energised until it is isolated and determined not to be energised; and   \n Each high voltage exposed part is earthed after being de-energised. ",
+        "bbox": [
+            92,
+            586,
+            889,
+            648
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Electrical equipment that is de-energised must not be inadvertently energised while work is being carried out. ",
+        "bbox": [
+            90,
+            653,
+            900,
+            688
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Work on Electrical Installations ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            712,
+            376,
+            731
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Electrical work on an installation involving any part thereof, in service following construction, alteration or repair, it shall be verified, as far as practicable, that the installation is safe to energise and will operate in accordance with the requirements of AS 3000. Precautions shall be taken to ensure the safety of persons and to avoid damage to property and the electrical installation equipment during inspecting and testing. ",
+        "bbox": [
+            90,
+            744,
+            904,
+            839
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Where electrical installation is an alteration or repair to an existing electrical installation, it shall be verified that the alteration or repair complies with this AS 3000 and does not impair the safety of the existing electrical installation. ",
+        "bbox": [
+            90,
+            846,
+            904,
+            903
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "discarded",
+        "text": "CSIRO Australia’s National Science Agency ",
+        "bbox": [
+            92,
+            944,
+            324,
+            956
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "discarded",
+        "text": "Electrical Safety Guideline | 11 ",
+        "bbox": [
+            727,
+            944,
+            902,
+            954
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5.2 Tools and Equipment ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            67,
+            421,
+            89
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "All electrical tools and equipment should be suitable for the work and be maintained in good working order, including regular maintenance, inspection and testing. Inadequate maintenance may lead to serious electrical risks, for example an insulating medium might conceal a mechanical defect that could cause an open circuit in a testing device. Where any doubt exists about adequacy of the insulation of tools and equipment they should not be used and removed from service. ",
+        "bbox": [
+            90,
+            104,
+            897,
+            217
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Insulating barriers and insulating mats ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            239,
+            443,
+            258
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Insulating covers and mats used for electrical purposes should comply with AS/NZS2978: Insulating mats for electrical purposes. Insulated barriers should be of suitable material to effectively separate electrical workers from adjacent energised electrical equipment or energised parts at a higher voltage e.g. protection from low voltage energised parts when working with extra-low voltage. These items should be visually inspected before and after each use. If the items have a defect that adversely affect the performance, then it must be removed from service. ",
+        "bbox": [
+            90,
+            274,
+            897,
+            387
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5.3 Working on a different site ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            409,
+            484,
+            432
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "If an electrical worker needs to carry out electrical work on a site other than their home site, they should notify the applicable Site Electrical Safety Officer (Site ESO) for the site they plan to work on of their intention to conduct electrical work. ",
+        "bbox": [
+            92,
+            446,
+            892,
+            502
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Upon request, electrical workers should provide the ESO with a copy of their completed Verification of electrical competency, Activity risk assessment and SWI for review. ",
+        "bbox": [
+            92,
+            510,
+            818,
+            548
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Example – Notifying a Site ESO when working on a different site ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            583,
+            648,
+            602
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "An Electrical worker from Bribie Island needs to go to St Lucia to carry out electrical testing of instrumentation. If there is a Site ESO at St Lucia, the worker should the Site ESO of their plans to conduct electrical work. ",
+        "bbox": [
+            109,
+            615,
+            843,
+            663
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "discarded",
+        "text": "CSIRO Australia’s National Science Agency ",
+        "bbox": [
+            92,
+            944,
+            324,
+            954
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "discarded",
+        "text": "Electrical Safety Guideline | 12 ",
+        "bbox": [
+            727,
+            944,
+            904,
+            954
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "6 Isolation of Electricity Supply ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            68,
+            625,
+            97
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Electrical Safety Procedure Section 2.1 – Isolation of electricity supply ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            131,
+            695,
+            150
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Electrical equipment/installations to be worked on MUST be positively isolated from all sources of electrical supply either by opening switches, removing fuses, opening circuit breakers or removing circuit connections. ",
+        "bbox": [
+            107,
+            163,
+            855,
+            212
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Section 5 of the Code of Practice 2018 – Managing electrical risks in the workplace recommends the following approach to isolation: ",
+        "bbox": [
+            90,
+            235,
+            880,
+            270
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Consultation – Consult with the person who has the management or control of the workplace and notify any other affected persons as appropriate. ",
+        "bbox": [
+            90,
+            280,
+            899,
+            317
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Isolation – Identify the circuit(s) requiring isolation. Disconnect active conductors from relevant source(s), noting there may be multiple sources and stand-by systems, generators or photovoltaic systems as well as auxiliary supplies from other boards. If a removable rack out circuit breaker or combined fuse switch is used it should, if reasonably practicable, be racked out or removed and then locked open and a danger tag applied. ",
+        "bbox": [
+            90,
+            325,
+            897,
+            420
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Securing isolation – Lock the isolating switch(es) where practicable or remove and tie back relevant conductors to protect the person(s) carrying out the electrical work. ",
+        "bbox": [
+            90,
+            428,
+            840,
+            465
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Tagging – Tag the switching points where possible to provide information to people at the workplace that the switch has been isolated. ",
+        "bbox": [
+            90,
+            473,
+            836,
+            510
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Testing – Test to confirm the relevant circuits and any other relevant conductors in the work area have been de-energised. ",
+        "bbox": [
+            92,
+            519,
+            900,
+            555
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Re-testing as necessary – If a person carrying out the work temporarily leaves the immediate area, test must be carried out on their return to ensure that the electrical equipment being worked on remains de-energised, to safeguard against inadvertent reconnection by another person. ",
+        "bbox": [
+            92,
+            564,
+            904,
+            621
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "6.1 Lock out and tag out ",
+        "text_level": 1,
+        "bbox": [
+            89,
+            644,
+            413,
+            666
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "To ensure that electrical work on de-energised equipment cannot be inadvertently re-energised, workers are required to isolate the equipment at the electrical supply source. The switch must be locked out and tagged to prevent re-energisation. Workers must test the electrical equipment to confirm that it has been de-energised before commencing work. The worker should use personal locks and danger tags at the isolation point to prevent the risk of inadvertent re-energisation. ",
+        "bbox": [
+            90,
+            680,
+            899,
+            775
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "6.2 Isolation locks ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            799,
+            344,
+            820
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Isolation points must be fitted with control mechanisms that prevent the electrical equipment from being inadvertently re-energised. The control mechanism should require a deliberate action to engage or dis-engage the device. It must withstand conditions that could lead to the isolation failing. Examples of this include switches with a built-in lock, and lock out for switches, circuit breakers, fuses and safety lockout jaws ‘hasps’. ",
+        "bbox": [
+            90,
+            834,
+            900,
+            931
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "discarded",
+        "text": "CSIRO Australia’s National Science Agency ",
+        "bbox": [
+            92,
+            944,
+            324,
+            956
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "discarded",
+        "text": "Electrical Safety Guideline | 13 ",
+        "bbox": [
+            727,
+            944,
+            904,
+            954
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "7 Energised electrical work ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            68,
+            568,
+            97
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Electrical Safety Procedure Section 3.4 – Energised electrical work – when permitted ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            131,
+            818,
+            150
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Energised electrical work may only be carried out by a competent person if subject to exemptions under S.157 of the WHS Regulations. ",
+        "bbox": [
+            105,
+            163,
+            848,
+            195
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Sections 158 - 161 of the WHS Regulations states the required considerations for working energised and how energised electrical work is to be carried. ",
+        "bbox": [
+            90,
+            218,
+            835,
+            256
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "7.1 Planning energised electrical work ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            279,
+            564,
+            301
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "To meet the legislative requirements the following must be considered and addressed in an Activity Risk Assessment prior to carrying out the work: ",
+        "bbox": [
+            92,
+            315,
+            848,
+            353
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "a. The area where the electrical work is carried out is clear of obstructions so far as to allow for ease of access and exit   \nb. The point at which the electrical equipment can be disconnected or isolated from its supply is: Clearly marked and labelled, and Cleared of obstructions so as to allow easy access and exit by the worker who is to carry out the electrical work or any other competent person; and – Capable of being operated quickly c. The person authorises the electrical work after consulting with the person with management or control of the workplace. ",
+        "bbox": [
+            114,
+            361,
+            894,
+            570
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "7.2 Application to undertake energised electrical work ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            593,
+            741,
+            615
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "To carry out energised electrical work, electrical workers must complete an Application to undertake energised electrical work (CSIRO Electrical Safety Procedure Appendix 4). ",
+        "bbox": [
+            92,
+            629,
+            838,
+            666
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "A completed application must be endorsed by the electrical workers line manager and then submitted to the applicable Group Leader and BU Director for consideration and approval. ",
+        "bbox": [
+            90,
+            674,
+            850,
+            712
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The purpose of the application form is to provide senior management with visibility of what if any energised electrical work is being conducted within a business unit and to ensure that the work: ",
+        "bbox": [
+            89,
+            719,
+            899,
+            757
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": " will be conducted by a competent person,   \n is justified and meets the energised electrical work exemptions under s157 of the WHS Regulations, and   \n will be conducted in a safe manner. ",
+        "bbox": [
+            92,
+            766,
+            826,
+            850
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "What to consider when completing an application? ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            874,
+            559,
+            893
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "When completing the application consider the following: ",
+        "bbox": [
+            90,
+            907,
+            561,
+            925
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "discarded",
+        "text": "CSIRO Australia’s National Science Agency ",
+        "bbox": [
+            92,
+            942,
+            324,
+            956
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "discarded",
+        "text": "Electrical Safety Guideline | 14 ",
+        "bbox": [
+            727,
+            942,
+            904,
+            956
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "a. How do you plan on carrying out the electrical work – i.e. is it de-energised or energised? If energised, do you have an appropriate electrical licence? An application to undertake energised electrical work need to be completed to obtain permission to work energised.   \nb. Does your training/qualifications/licences/experience address the competencies required for the electrical tasks you intend to carry out? – copies of qualifications/training/licences need to be attached to the verification form.   \nc. Have you completed Activity Risk Assessments and SWIs, for the electrical work you intend to carry out – copies of the risk assessment/s need to be attached to the application.   \nd. Does the risk assessment address all the considerations documented in Part 3 of the application form?   \ne. Do you have a current and approved Verification of electrical competency form? Does it cover the electrical work listed in the application? Do you require an appropriate electrical licence to conduct the work – copy of the approved verification form needs to be attached to the application.   \nf. Are there any unexpected events such as equipment failures, that may require you to perform non-routine energised electrical work? – make sure your application covers all routine and potential non-routine work to avoid having to apply for approval at short notice. ",
+        "bbox": [
+            122,
+            67,
+            902,
+            446
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "7.3 Carrying out energised electrical work ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            496,
+            605,
+            519
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "To ensure that energised electrical work is carried out safely and risk minimised to yourself and others, the work must be performed: ",
+        "bbox": [
+            90,
+            533,
+            880,
+            570
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "a. By a competent person who has the tools, testing equipment and PPE that are suitable for the work, have been properly tested and are maintained in good working order;   \nb. In accordance with a Safe Work Instruction prepared for the work; and   \nc. Subject to the exception explained below – with a safety observer present who is competent: To implement control measures in an emergency, and – To rescue and resuscitate the worker who is carrying out the work if necessary, and Has been assessed in the previous 12 months as competent to rescue and resuscitate a person. ",
+        "bbox": [
+            112,
+            578,
+            887,
+            767
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "A safety observer is not required if the work consists only of testing and the risk assessment shows there is no serious risk associated with the proposed work. ",
+        "bbox": [
+            92,
+            775,
+            902,
+            813
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "7.4 Safe Work Instructions ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            836,
+            438,
+            857
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "A key requirement in the WHS Regulations is to ensure that energised electrical work is conducted in accordance with a safe work method statement (SWMS). The equivalent for this in CSIRO is the Safe Work Instruction (SWI). ",
+        "bbox": [
+            90,
+            872,
+            902,
+            928
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "discarded",
+        "text": "CSIRO Australia’s National Science Agency ",
+        "bbox": [
+            92,
+            944,
+            324,
+            956
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "discarded",
+        "text": "Electrical Safety Guideline | 15 ",
+        "bbox": [
+            727,
+            944,
+            904,
+            954
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "All High-Risk Work which includes energised electrical work requires an SWI in accordance with CSIRO Risk Management Procedure. ",
+        "bbox": [
+            87,
+            66,
+            878,
+            103
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "SWIs prepared for energised electrical work must: ",
+        "bbox": [
+            90,
+            112,
+            505,
+            129
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": " Describe any approval/authorisation arrangements that need to be followed and who is approved to carry out that particular electrical work;   \n Describe the electrical work being undertaken;   \n Specify the hazards identified in the risk assessment associated with the electrical work task;   \n Describe the health and safety considerations and requirements that need to be in place to carry out the work;   \n Address the steps to be taken in the event of an emergency directly and indirectly related to the electrical work. ",
+        "bbox": [
+            90,
+            138,
+            907,
+            307
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "SWIs must be regularly reviewed and, as necessary, revised if relevant control measures change. They must, for example, be revised if a decision is made to change relevant safe work processes with the SWI in your workplace. ",
+        "bbox": [
+            92,
+            317,
+            885,
+            372
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "7.5 Safety Observers ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            395,
+            374,
+            418
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "A competent safety observer must be present when energised electrical work is carried out, unless the work consists only of testing and a risk assessment demonstrates that a safety observer is not required as the hazards and risks have been eliminated or effectively managed. ",
+        "bbox": [
+            92,
+            432,
+            904,
+            489
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The safety observer must: ",
+        "bbox": [
+            94,
+            497,
+            307,
+            515
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": " Be competent to effectively respond to an electrical emergency;   \n Be competent to rescue and resuscitate the worker who is carrying out the work if necessary; and   \n Has been assessed in the previous 12 months as competent to rescue and resuscitate a person i.e. attended CPR Training annually. ",
+        "bbox": [
+            92,
+            523,
+            885,
+            628
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The safety observer should: ",
+        "bbox": [
+            92,
+            636,
+            321,
+            654
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": " Not observe more than one task at any one time;   \n Only observe one electrical worker carrying out a task i.e. if there is more than one worker conducting a task then a safety observer is required for each worker carry out the task;   \n Be able to communicate quickly and effectively with the electrical worker(s) carrying out the work, specialist equipment may be necessary if there is a barrier to communication; and   \n Not have any known temporary or permanent disabilities that would adversely affect their role and performance. ",
+        "bbox": [
+            90,
+            662,
+            892,
+            808
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "7.6 Other considerations ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            831,
+            421,
+            852
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Section 6.3 of the Code of Practice 2018 – Managing electrical risks in the workplace provides additional guidance on requirements and recommendations to comply with the legislation regarding carrying out energised electrical work, as well as: ",
+        "bbox": [
+            92,
+            869,
+            862,
+            925
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "discarded",
+        "text": "CSIRO Australia’s National Science Agency ",
+        "bbox": [
+            92,
+            944,
+            324,
+            956
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "discarded",
+        "text": "Electrical Safety Guideline | 16 ",
+        "bbox": [
+            727,
+            944,
+            904,
+            954
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": " Hazards indirectly caused by electricity, such as conductive materials;  Work positioning that minimises the risk of inadvertent contact with exposed energised parts; and  Safety barriers and signs that must be erected when work is carried out. ",
+        "bbox": [
+            92,
+            66,
+            884,
+            152
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "7.7 Energised electrical work – testing and fault-finding ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            174,
+            751,
+            197
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Carrying out testing and fault-finding ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            218,
+            431,
+            237
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "When carrying out testing and fault-finding electrical work de-energised methods should be considered before energised methods are adopted. ",
+        "bbox": [
+            92,
+            251,
+            848,
+            288
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "AS/NZS 3017 Electrical installations – Verification guidelines sets out common test methods that may be used to verify that testing at low voltage electrical installation complies with AS3000 and includes minimum safety standards for test instruments. Testing must be carried out in such a manner that the safety of the operator and other people in the vicinity, and test equipment is not placed at risk. ",
+        "bbox": [
+            90,
+            296,
+            897,
+            391
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Before starting any testing or fault finding in an energised environment: ",
+        "bbox": [
+            92,
+            399,
+            684,
+            418
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": " Identify exposed conductive parts that could become energised while using test instruments;   \n Install temporary or fixed barriers to prevent electrical workers from inadvertently contacting exposed conductive parts;   \n Carry out checks to ensure that the test instruments to be used are appropriate and functioning correctly;   \n Ensure that only authorised persons may enter the immediate area where the work is to be carried out. ",
+        "bbox": [
+            90,
+            426,
+            895,
+            572
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "When testing or fault-finding in an energised environment: ",
+        "bbox": [
+            90,
+            580,
+            578,
+            599
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": " Use only appropriately insulated and rated tools, test instruments and test probes;   \n Use only appropriately rated PPE;   \n Use a safety observer, if required by the risk assessment conducted for the work;   \n Carry out regular review of the work situation to ensure that no new hazards are created durin the process. ",
+        "bbox": [
+            92,
+            608,
+            882,
+            714
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "When testing or fault finding is completed, restore circuits and equipment to a safe condition. For example, disconnected conductors should be reconnected and left in a safe state with covers replaced and accessories and equipment properly secured. ",
+        "bbox": [
+            90,
+            724,
+            904,
+            780
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Coordination procedures, such as procedures for switching circuits or equipment on and off during fault finding or testing process, should always be implemented and maintained. ",
+        "bbox": [
+            92,
+            788,
+            904,
+            825
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Test instruments ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            847,
+            247,
+            866
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "You must ensure that the person carrying out energised electrical work has tools, testing equipment and PPE that are suitable for work, that have been properly tested and that are maintained in good working order. Test instruments should comply with the requirements of AS61010.1 Safety requirements for electrical equipment for measurement, control and laboratory use – General requirements and be calibrated at regular intervals. ",
+        "bbox": [
+            90,
+            881,
+            835,
+            918
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "discarded",
+        "text": "CSIRO Australia’s National Science Agency ",
+        "bbox": [
+            92,
+            944,
+            324,
+            954
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "discarded",
+        "text": "Electrical Safety Guideline | 17 ",
+        "bbox": [
+            727,
+            944,
+            904,
+            954
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            90,
+            66,
+            863,
+            123
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Workers carrying out electrical testing must be appropriately trained and competent in test procedures and in the use of testing instruments and equipment. This includes: ",
+        "bbox": [
+            90,
+            131,
+            843,
+            168
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": " Being able to use the device safely and in a manner for which it is intended;   \n Being able to determine, by inspection, that the device is safe for use, for example, the device is not damaged and is fit for purpose;   \n Understanding the limitations of the equipment, for example, when testing to prove an alternating current circuit is de-energised – whether the device indicates the presence of hazardous levels of direct current;   \n Being aware of the electrical safety implications for others when the device is being used, for example, whether the device causes electric potential of the earthing system to rise to a hazardous level; and   \n Knowing what to do to ensure electrical safety when an inconclusive or incorrect result is obtained. ",
+        "bbox": [
+            90,
+            176,
+            892,
+            403
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Personal protective equipment (PPE) ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            427,
+            428,
+            445
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "You must ensure that PPE for electrical work, including testing and fault finding, is selected to minimise risks to health and safety, maintained, repaired or replaced so that it continues to do so, and used or worn by the worker, so far as is reasonably practicable. The PPE must be able to withstand the energy at the point of work when working energised. A person who directs the carrying out of work must provide the workers with information, training and instruction on the proper use and wearing of the PPE. ",
+        "bbox": [
+            90,
+            459,
+            895,
+            573
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "PPE clothing worn by workers working on or near exposed energised electrical parts or live conductive parts shall be appropriate for the purpose, fit correctly, cover the full body (including the arms and legs) and be in good condition while the work is being performed. All PPE shall be selected in accordance with the risk assessment and with the type of work being performed. ",
+        "bbox": [
+            92,
+            581,
+            889,
+            656
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Bracelets, rings, neck chains, exposed metal zips, watches, and other conductive items should not be worn while working on or near exposed energised equipment or live parts. ",
+        "bbox": [
+            90,
+            665,
+            895,
+            701
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "discarded",
+        "text": "CSIRO Australia’s National Science Agency ",
+        "bbox": [
+            92,
+            944,
+            324,
+            954
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "discarded",
+        "text": "Electrical Safety Guideline | 18 ",
+        "bbox": [
+            727,
+            944,
+            904,
+            954
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "table",
+        "img_path": "images/808938ad3f0ba746f8dabda15234dae2e97324314bf415bccd7f38f7602843b3.jpg",
+        "table_caption": [
+            "Table 3 – Table 9.2 from AS/NZS4836 Guide to the selection lines of PPE "
+        ],
+        "table_footnote": [
+            "(if required): determined by the risk assessment \\*Collar up, top buttons done up sleeves down (should be cuffed). "
+        ],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Task</td><td rowspan=1 colspan=1>Currents up to andincluding 100A</td><td rowspan=1 colspan=1>Current exceeding 100Aand up to and including400A</td><td rowspan=1 colspan=1>Currents exceeding 400A</td></tr><tr><td rowspan=1 colspan=1>Work (isolated andverified)</td><td rowspan=1 colspan=1>Safety footwearnonconductiveProtective clothing (ifrequired)Eye protectionGloves (if required)Hearing protection (ifrequired)Safety helmet (if required)Respiratory protection (ifrequired)</td><td rowspan=1 colspan=1>Safety footwearnonconductiveProtective clothing (ifrequired)Eye protectionGloves (if required)Hearing protection (ifrequired)Safety helmet (if required)Respiratory protection (ifrequired)</td><td rowspan=1 colspan=1>Safety footwearnonconductiveProtective clothing (ifrequired)Eye protectionGloves (if required)Hearing protection (ifrequired)Safety helmet (if required)Respiratory protection (ifrequired)</td></tr><tr><td rowspan=1 colspan=1>Switching, isolating,removing fuses or links</td><td rowspan=1 colspan=1>Safety footwearnonconductiveProtective clothingEye protectionGloves (if required)Hearing protection (ifrequired)Safety helmet (if required)Respiratory protection (ifrequired)</td><td rowspan=1 colspan=1>Safety footwearnonconductiveProtective clothingEye protectionGlovesHearing protection (ifrequired)Safety helmet (if required)Respiratory protection (ifrequired)</td><td rowspan=1 colspan=1>Safety footwearnonconductiveProtective clothingEye protectionGlovesHearing protection (ifrequired)Safety helmet (if required)Respiratory protection (ifrequired)</td></tr><tr><td rowspan=1 colspan=1>Isolating verification, testing or fault finding</td><td rowspan=1 colspan=1>Safety footwearnonconductiveProtective clothing Eye protectionGloves Hearing protection (ifrequired) Safety helmet (if required)Respiratory protection (ifrequired)</td><td rowspan=1 colspan=1>Safety footwearnonconductive Protective clothing*Eye protectionGloves Arc flash suit and hood (if required) Hearing protection (if required)Safety helmet (if required)Respiratory protection (ifrequired)</td><td rowspan=1 colspan=1>Safety footwearnonconductive Protective clothing* Eye protectionGloves Arc flash suit and hood (if required) Hearing protection (ifrequired) Safety helmet (if required)</td></tr><tr><td rowspan=1 colspan=1>Live electrical work</td><td rowspan=1 colspan=1>Safety footwear nonconductive Protective clothing* Eye protection Insulating Gloves Arc flash suit and hood (if required) Hearing protection (if required) Flame-resistant gloves (if required) Safety helmet (if required) Respiratory protection (ifrequired)</td><td rowspan=1 colspan=1> Safety footwear nonconductive Protective clothing* Eye protection Insulating Gloves Safety helmet Arc flash suit and hood (if required) Hearing protection (if required) Flame-resistant gloves (if required) Respiratory protection (ifrequired)</td><td rowspan=1 colspan=1> Safety footwear nonconductive Protective clothing* Eye protection Insulating Gloves Flame-resistant gloves Arc flash suit and hood Hearing protection Respiratory protection (if required)</td></tr></table>",
+        "bbox": [
+            92,
+            93,
+            855,
+            755
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "discarded",
+        "text": "CSIRO Australia’s National Science Agency ",
+        "bbox": [
+            92,
+            944,
+            324,
+            954
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "discarded",
+        "text": "Electrical Safety Guideline | 19 ",
+        "bbox": [
+            727,
+            944,
+            904,
+            954
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "8 Work with electrical equipment ",
+        "text_level": 1,
+        "bbox": [
+            87,
+            68,
+            667,
+            97
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Electrical Safety Procedure Section 4 – Working with electrical equipment ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            131,
+            729,
+            150
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "The procedure describes the requirements for unsafe electrical equipment, testing and tagging, and design, manufacture and importation of electrical equipment. ",
+        "bbox": [
+            105,
+            163,
+            868,
+            197
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "8.1 Purchasing of equipment ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            230,
+            465,
+            252
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "When purchasing electrical equipment, you must ensure that the equipment meets applicable Australian Standards prior to it being commissioned such as AS/NZS 3820 Essential safety requirements for electrical equipment or equivalent international standards recognised within Australia. Electrical equipment that comply with Australia Standards will have a regulatory compliance mark (a triangle with a circled tick inside) displayed on the equipment. ",
+        "bbox": [
+            92,
+            267,
+            878,
+            362
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "This is a particular issue for equipment that is purchased internationally, so inspect newly acquired electrical equipment and if there is any doubt engage an electrician to inspect the equipment. ",
+        "bbox": [
+            90,
+            370,
+            900,
+            407
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "If the equipment is electrically unsafe return it to the supplier or arrange for the equipment to be modified and certified to meet Australian Standards. ",
+        "bbox": [
+            90,
+            415,
+            894,
+            452
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "8.2 Modifications to electrical equipment ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            476,
+            601,
+            497
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Modifications made to electrical equipment such as repairing electrical wiring or replacing faulty parts must only be carried out by a competent person. ",
+        "bbox": [
+            90,
+            513,
+            890,
+            549
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Upon completion of the work, the equipment must be electrically tested and tagged and certified prior to it being commissioned. ",
+        "bbox": [
+            89,
+            558,
+            894,
+            595
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "8.3 Disposal of electrical equipment ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            617,
+            541,
+            640
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "It is important that electrical equipment is made safe before it is disposed of to prevent any risk of injury to workers or public when handling the equipment. ",
+        "bbox": [
+            90,
+            654,
+            900,
+            692
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Prior to disposing of electrical equipment, consider the following: ",
+        "bbox": [
+            90,
+            700,
+            631,
+            718
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": " How can the equipment be made safe and ready for disposal i.e. can the electrical cord be cut/removed to prevent further use?   \n Does the equipment contain chemicals or radiation sources that need to be managed before it is disposed?   \n Can the equipment be disposed of through an e-waste stream?   \n Is there an alternate energy source within the equipment that retains residual energy, i.e. a capacitor? ",
+        "bbox": [
+            90,
+            728,
+            907,
+            874
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "discarded",
+        "text": "CSIRO Australia’s National Science Agency ",
+        "bbox": [
+            92,
+            942,
+            324,
+            956
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "discarded",
+        "text": "Electrical Safety Guideline | 20 ",
+        "bbox": [
+            727,
+            942,
+            904,
+            954
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "8.4 Inspection, testing and tagging ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            67,
+            526,
+            90
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "A person in control of electrical equipment at the workplace must ensure that the electrical equipment is regularly inspected and tested by a competent person if it is: ",
+        "bbox": [
+            90,
+            104,
+            847,
+            141
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": " supplied with electricity through an electrical socket outlet; and   \n is used in an environment in which the normal use of electrical equipment exposes it to an environment that are likely to result in damage to that equipment or it reduces its expected life (e.g. conditions that involve exposure to moisture, heat, vibration, mechanical damage, corrosive chemicals or dust.) ",
+        "bbox": [
+            90,
+            149,
+            895,
+            248
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Visual inspections of electrical equipment should be carried out each time the equipment is used to help determine whether it is safe. Regular visual inspections can identify any signs of damage, wear and tear or other defects and if present (even if there is doubt), must be isolated or taken out of service until repaired and tested as safe. ",
+        "bbox": [
+            90,
+            257,
+            894,
+            332
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Scheduled testing and tagging of electrical equipment can detect electrical faults and deterioration that cannot be detected by visual inspection. The frequency of testing must be conducted in accordance with AS3760 In-service safety inspection and testing of electrical equipment. ",
+        "bbox": [
+            92,
+            340,
+            904,
+            397
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "New Equipment ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            420,
+            240,
+            439
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Brand-new electrical equipment that has never been put into use does not have to be tested before its first use. However, a ‘new to service’ tag must be attached to the equipment by a person with control or management of that equipment before it goes into service. ",
+        "bbox": [
+            92,
+            452,
+            862,
+            509
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "It is advisable to conduct a visual inspection of the electrical equipment to ensure that it hasn’t been damaged during transportation, delivery, installation or commissioning. ",
+        "bbox": [
+            90,
+            516,
+            873,
+            554
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Once new electrical equipment has been connected for use, it will require testing and tagging at the next scheduled test interval. ",
+        "bbox": [
+            92,
+            562,
+            882,
+            599
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "discarded",
+        "text": "CSIRO Australia’s National Science Agency ",
+        "bbox": [
+            92,
+            944,
+            324,
+            954
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "discarded",
+        "text": "Electrical Safety Guideline | 21 ",
+        "bbox": [
+            727,
+            944,
+            902,
+            954
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "9 Electrical Safety Officers (ESO) ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            68,
+            643,
+            97
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Electrical Safety Procedure Section 5 – Electrical Safety Officers (ESOs) ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            131,
+            699,
+            150
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "A business unit MUST appoint an ESO if recurring electrical work is conducted within the business unit. In all other circumstances, ESOs may be appointed if a business unit determines that an ESO is required to assist the business unit manage its electrical safety risks. ",
+        "bbox": [
+            109,
+            163,
+            884,
+            212
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Persons appointed as ESOs MUST be competent electrical workers and be familiar with the electrical work being performed in their areas of responsibility ",
+        "bbox": [
+            104,
+            222,
+            873,
+            255
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "9.1 Business Unit and Site Electrical Safety Officers ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            288,
+            702,
+            311
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "The primary purpose of an ESO is to provide advice and support to the business unit regarding CSIRO electrical work requirements and safe electrical work practices. ",
+        "bbox": [
+            92,
+            325,
+            872,
+            362
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "The ESO is not responsible for managing or approving electrical work and safety activites on site and/or across a business unit. ",
+        "bbox": [
+            89,
+            370,
+            880,
+            407
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "A senior manager of a business unit/function MUST appoint a Site Electrical Safety Officer (Site ESO) at each site where recurring electrical work is carried out by staff members or affiliates within the business unit. ",
+        "bbox": [
+            92,
+            415,
+            873,
+            472
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "A senior manager of a business unit/function may also appoint a Business Unit Electrical Safety Officer (BU ESO) where recurring electrical work is carried out by staff members and affiliates across multiple sites within the business unit. ",
+        "bbox": [
+            92,
+            480,
+            872,
+            536
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Note: A Site ESO does not need to be appointed for work on extra low voltage equipment or installations. ",
+        "bbox": [
+            87,
+            546,
+            887,
+            562
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "9.2 Electrical Safety Officer competencies ",
+        "text_level": 1,
+        "bbox": [
+            89,
+            584,
+            601,
+            606
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Individuals appointed to a BU or Site ESO role must have a level of training, qualification, licencing, etc that is commensurate to the competencies required for electrical work that is carried out on the site they primarily work at. ",
+        "bbox": [
+            92,
+            621,
+            902,
+            678
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Example - ESO competency ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            712,
+            322,
+            730
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "CASS conducts electrical work on 2 different sites Marsfield and Narrabri. ",
+        "bbox": [
+            110,
+            743,
+            662,
+            760
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "At Marsfield they conduct work on portable electrical equipment and at Narrabri they conduct work on fixed and portable electrical equipment. Based on this information, a BU or Site ESO located at: ",
+        "bbox": [
+            105,
+            769,
+            868,
+            802
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": " Marsfield will need to have completed an electrical competency assessment.   \n Narrabri will need to hold an appropriate electrical licence. ",
+        "bbox": [
+            107,
+            813,
+            709,
+            846
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "discarded",
+        "text": "CSIRO Australia’s National Science Agency ",
+        "bbox": [
+            92,
+            942,
+            324,
+            956
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "discarded",
+        "text": "Electrical Safety Guideline | 22 ",
+        "bbox": [
+            727,
+            942,
+            904,
+            954
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "9.3 Letters of appointment ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            67,
+            443,
+            89
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "A formal letter of appointment to the position of BU ESO or Site ESO is to be issued by the Business Unit/Function Director. ",
+        "bbox": [
+            92,
+            104,
+            836,
+            140
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Prior to the appointment taking place, the proposed candidates completed verification of electrical competency should be reviewed to confirm they meet the applicable competency requirements. ",
+        "bbox": [
+            92,
+            149,
+            847,
+            205
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "On the appointment of a new BU and/or Site ESO, notify your HSE Manager and/or local HSE Advisor to ensure the ESO contact list on MyCSIRO is updated. ",
+        "bbox": [
+            92,
+            213,
+            850,
+            250
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "9.4 Duties of Electrical Safety Officers ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            274,
+            559,
+            295
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Business Unit Electrical Safety Officer (BU ESO) Duties ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            318,
+            583,
+            337
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "The BU ESO primarily provides: ",
+        "bbox": [
+            92,
+            351,
+            349,
+            369
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": " advice to business unit senior and line managers regarding the management of electrical work conducted by staff members and affiliates within the business unit; and  support the business unit with meeting its electrical work obligations under the CSIRO Electrical Safety Procedure and applicable laws. ",
+        "bbox": [
+            90,
+            378,
+            894,
+            458
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Persons in this role have the following duties: ",
+        "bbox": [
+            90,
+            466,
+            468,
+            484
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": " Ensure business unit senior management are educated in their responsibilities under the CSIRO Electrical Safety Procedure. ",
+        "bbox": [
+            94,
+            494,
+            892,
+            529
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": " Upon request, ",
+        "bbox": [
+            92,
+            536,
+            228,
+            553
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Assess and advise the business unit on the nature of electrical risks arising from work by the business unit, and the controls necessary to eliminate or minimise those risks; Inform senior management of electrical work matters within the business unit; and Assist with the investigation of electrical related incidents. ",
+        "bbox": [
+            126,
+            559,
+            885,
+            641
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": " Assist line managers with reviewing Verification of electrical competency forms and subsequently endorse them, if required. ",
+        "bbox": [
+            90,
+            647,
+            800,
+            684
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": " Together with site ESOs, ensure all energised electrical work undertaken in the business unit is covered by an approved Application to undertake energised electrical work. ",
+        "bbox": [
+            94,
+            690,
+            897,
+            726
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": " Assist Group Leaders and Directors with reviewing Applications to undertake energised electrical work. ",
+        "bbox": [
+            90,
+            732,
+            902,
+            767
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": " Advise other business unit ESOs when electrical competency assessments plan to be organised within the business unit. ",
+        "bbox": [
+            92,
+            774,
+            781,
+            811
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": " If observed, notify and advise relevant managers of possible remedial actions required where electrical licence conditions, the CSIRO Electrical Safety Procedure or any SWIs are not being effectively implemented. ",
+        "bbox": [
+            90,
+            817,
+            878,
+            872
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": " Organise regular meetings with Site ESOs within the business unit. ",
+        "bbox": [
+            90,
+            878,
+            652,
+            896
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": " Maintain competence and training to fulfil this role. ",
+        "bbox": [
+            90,
+            902,
+            534,
+            920
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "discarded",
+        "text": "CSIRO Australia’s National Science Agency ",
+        "bbox": [
+            90,
+            944,
+            324,
+            956
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "discarded",
+        "text": "Electrical Safety Guideline | 23 ",
+        "bbox": [
+            727,
+            944,
+            904,
+            954
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Site Electrical Safety Officer (Site ESO) Duties ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            66,
+            502,
+            86
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "The Site ESO primarily provides advice and support to business unit staff members and affiliates on a site regarding CSIRO electrical work requirements and safe work practices. ",
+        "bbox": [
+            92,
+            99,
+            884,
+            136
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Persons in this role have the following duties: ",
+        "bbox": [
+            92,
+            146,
+            468,
+            162
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": " Maintain and manage a list of CSIRO electrical workers for the business unit located on site and the type(s) of electrical work they are verified to carry out. ",
+        "bbox": [
+            92,
+            172,
+            894,
+            210
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": " Advise electrical workers on site of their responsibilities: ",
+        "bbox": [
+            90,
+            218,
+            573,
+            236
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "under the CSIRO Electrical Safety Procedure and Work Health and Safety Regulations 2011 (Cth); and   \nto record and maintain their individual competency status, e.g. competency assessments, electrical licences, utilising LMS. ",
+        "bbox": [
+            126,
+            243,
+            899,
+            323
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": " Assist and advise line managers: ",
+        "bbox": [
+            92,
+            330,
+            376,
+            346
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "on appropriate electrical qualifications, training and knowledge required by staff members and affiliates to undertake required electrical work; and with reviewing Verification of electrical competency forms for electrical workers on site. ",
+        "bbox": [
+            126,
+            355,
+            904,
+            415
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": " Endorse Verification of electrical competency forms for electrical workers on site. ",
+        "bbox": [
+            94,
+            420,
+            781,
+            439
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": " Provide advice on electrical licencing and competency assessment requirements as well as CSIRO preferred electrical competency assessment training providers. ",
+        "bbox": [
+            94,
+            447,
+            904,
+            484
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": " Assist Group Leaders and Directors with reviewing applications to undertake energised electrical work for activities undertaken on site, if required. ",
+        "bbox": [
+            92,
+            494,
+            902,
+            530
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": " Ensure all energised electrical work undertaken in the business unit on site is covered by an approved Application to undertake energised electrical work. ",
+        "bbox": [
+            92,
+            540,
+            873,
+            577
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": " Review risk assessments and Safe Work Instructions for all electrical work conducted within the Business Unit on site. ",
+        "bbox": [
+            90,
+            585,
+            895,
+            622
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": " If observed, notify the relevant manager where electrical licence conditions, the CSIRO Electrical Safety Procedure or any SWIs are not being effectively implemented and provide advice on possible remedial action. ",
+        "bbox": [
+            92,
+            631,
+            902,
+            687
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": " Upon request, ",
+        "bbox": [
+            92,
+            698,
+            228,
+            716
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "assess and advise the business unit on the nature of electrical risks arising from work occurring on site by the business unit, and the controls necessary to eliminate or minimise those risks. assist with the investigation of electrical related incidents that occur on site. ",
+        "bbox": [
+            109,
+            724,
+            873,
+            807
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": " Maintain competence and training to fulfil this role. ",
+        "bbox": [
+            90,
+            815,
+            534,
+            833
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "discarded",
+        "text": "CSIRO Australia’s National Science Agency ",
+        "bbox": [
+            92,
+            942,
+            324,
+            956
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "discarded",
+        "text": "Electrical Safety Guideline | 24 ",
+        "bbox": [
+            727,
+            942,
+            904,
+            954
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "10 Referenced Documents ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            68,
+            544,
+            96
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Work Health and Safety Act 2011 (Cth) ",
+        "bbox": [
+            92,
+            142,
+            413,
+            160
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Work Health and Safety Regulation 2011 (Cth) ",
+        "bbox": [
+            90,
+            169,
+            475,
+            187
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Code of Practice 2018 Managing electrical risks in the workplace, Safe Work Australia ",
+        "bbox": [
+            90,
+            195,
+            793,
+            213
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "AS/NZS2978: Insulating mats for electrical purposes ",
+        "bbox": [
+            90,
+            222,
+            521,
+            239
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "AS/NZS 3000 Electrical installations ‘Wiring Rules’ ",
+        "bbox": [
+            90,
+            248,
+            502,
+            264
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "AS/NZS 3017 Electrical installations – Verification guidelines ",
+        "bbox": [
+            92,
+            275,
+            588,
+            292
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "AS/NZS 4836 Safe working on or near low voltage installations and equipment ",
+        "bbox": [
+            89,
+            300,
+            734,
+            318
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "AS61010.1 Safety requirements for electrical equipment for measurement, control and laboratory use – General requirements ",
+        "bbox": [
+            89,
+            326,
+            900,
+            363
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "AS/NZS 3820 Essential safety requirements for electrical equipment ",
+        "bbox": [
+            92,
+            371,
+            653,
+            390
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "discarded",
+        "text": "CSIRO Australia’s National Science Agency ",
+        "bbox": [
+            92,
+            944,
+            324,
+            954
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "discarded",
+        "text": "Electrical Safety Guideline | 25 ",
+        "bbox": [
+            727,
+            944,
+            904,
+            954
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "A.1 Key electrical regulatory and Australian Standards definitions ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            67,
+            858,
+            89
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Electrical Equipment (S.144 WHS Reg Cth) ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            103,
+            418,
+            121
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "1. Electrical equipment means any apparatus, appliance, cable, conductor, fitting, insulator, material, meter or wire that: ",
+        "bbox": [
+            94,
+            128,
+            905,
+            161
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "a. Is used for controlling, generating, supplying, transforming or transmitting electricity at a voltage greater than extra-low voltage (>50VAC or >120VDC) or   \nb. Is operated by electricity at a voltage great than extra-low voltage; or   \nc. Is part of an electrical installation located in an area in which the atmosphere presents a risk to health and safety from fire or explosion; or   \nd. Is, or is part of, an active impressed current cathodic protection system within the meaning of AS2832.1:2004 (Cathodic protection of metals – Pipes and cables). ",
+        "bbox": [
+            110,
+            168,
+            873,
+            301
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "2. Electrical equipment does not include any apparatus, appliance, cable, conductor, fitting, insulator, material or wire that is part of a vehicle that is a motor car or motorcycle if: ",
+        "bbox": [
+            90,
+            309,
+            867,
+            344
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "a. The equipment is part of a unit of the vehicle that provides propulsion for the vehicle; or b. The electricity source for the equipment is a unit of the vehicle that provides propulsion for the vehicle. ",
+        "bbox": [
+            114,
+            351,
+            878,
+            407
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Electrical installation (S.145 WHS Reg Cth) ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            422,
+            420,
+            439
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "1. Electrical installation means a group of items of electrical equipment that: ",
+        "bbox": [
+            90,
+            446,
+            670,
+            463
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "a. Are permanently connected together, and   \nb. Can be supplied with electricity from the works of an electricity supply authority or from a generating source. ",
+        "bbox": [
+            112,
+            470,
+            828,
+            526
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "2. An item of electrical equipment may be part of more than electrical installation. ",
+        "bbox": [
+            87,
+            534,
+            714,
+            551
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "3. In paragraph 1(a) ",
+        "bbox": [
+            90,
+            558,
+            243,
+            574
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "a. An item of electrical equipment connected by a plug and socket outlet is not permanently electrically connected; and   \nb. Connection achieved through using works of an electricity supply authority is not a consideration in determining whether or not electrical equipment is electrically connected. ",
+        "bbox": [
+            112,
+            583,
+            899,
+            656
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Voltage ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            672,
+            156,
+            687
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "AS 3000: Section 1.4.128 Defines Voltage as the differences of potential normally existing between conductors or between conductor and earth as follows: ",
+        "bbox": [
+            87,
+            694,
+            836,
+            728
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "a. Extra-low voltage, not exceeding 50V a.c. or 120V ripple free d.c.   \nb. Low voltage exceeding extra low voltage, but not exceeding 1000V a.c. or 1500V d.c.   \nc. High voltage exceeding low voltage. ",
+        "bbox": [
+            114,
+            736,
+            783,
+            795
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "discarded",
+        "text": "CSIRO Australia’s National Science Agency ",
+        "bbox": [
+            92,
+            944,
+            324,
+            954
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "discarded",
+        "text": "Electrical Safety Guideline | 26 ",
+        "bbox": [
+            727,
+            942,
+            904,
+            954
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "A.2 Electrical Competency Assessment template ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            67,
+            675,
+            89
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "The Assessment identifies the applicable tasks and associated task criteria for the Electrical Competency Assessment. ",
+        "bbox": [
+            92,
+            104,
+            877,
+            137
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Instruction for student ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            153,
+            270,
+            169
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "The student will be required to demonstrate the required level of knowledge and skills by completing the Electrical Competency Assessment tasks and providing verbal responses to underpinning knowledge questions, where applicable. ",
+        "bbox": [
+            92,
+            176,
+            887,
+            228
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Instruction of assessor ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            243,
+            268,
+            258
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "The assessor will be required to a make a judgement on whether the student meets the requirements of the Task Criteria and annotate accordingly by ticking either the C (competent), NYC (not yet competent) or the N/A (not applicable) box. The assessor must also provide feedback to the student, as required. A final task sign-off will be completed by the Assessor once the student is deemed competent. ",
+        "bbox": [
+            92,
+            266,
+            895,
+            336
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "table",
+        "img_path": "images/66fe676bbeea4cfd27fb373e395ba3279d42265ec563d927f786fa93ae8c5d22.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=4>PART 1: ELECTRICAL WORKER&#x27;S DETAILS</td></tr><tr><td rowspan=1 colspan=1> Student Name:</td><td rowspan=1 colspan=1> Click or tap here to enter text.</td><td rowspan=1 colspan=1> Assessment Date:</td><td rowspan=1 colspan=1> Click or tap to enter a date.</td></tr><tr><td rowspan=1 colspan=1> Position/Role:</td><td rowspan=1 colspan=1> Click or tap here to enter text.</td><td rowspan=1 colspan=1> Assessor&#x27;s Name:</td><td rowspan=1 colspan=1> Click or tap here to enter text.</td></tr><tr><td rowspan=1 colspan=1> Line Manager:</td><td rowspan=1 colspan=1> Click or tap here to enter text.</td><td rowspan=1 colspan=1> Location of assessment:</td><td rowspan=1 colspan=1> Click or tap here to enter text.</td></tr><tr><td rowspan=1 colspan=1> Team/Project Name:</td><td rowspan=1 colspan=3>Click or tap here to enter text.</td></tr></table>",
+        "bbox": [
+            90,
+            366,
+            907,
+            530
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "PART 2: AGREEMENT TO UNDERTAKE ASSESSMENT ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            570,
+            601,
+            591
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "The Assessor has explained the assessment process, and I agree to undertake the assessment in the knowledge that information gathered will only be used for the purpose of the Electrical Competency Assessment. ",
+        "bbox": [
+            92,
+            606,
+            905,
+            638
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "discarded",
+        "text": "CSIRO Australia’s National Science Agency ",
+        "bbox": [
+            92,
+            944,
+            324,
+            954
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "discarded",
+        "text": "Electrical Safety Guideline | 27 ",
+        "bbox": [
+            727,
+            944,
+            904,
+            954
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "table",
+        "img_path": "images/ebe89c07d2042b75c4b5480c2d9284ddcb2d7b5e1dbef6ba05f8357d6952870f.jpg",
+        "table_caption": [
+            ""
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"5\" rowspan=\"1\">PART 3: ASSESSMENT CHECKLIST</td></tr><tr><td colspan=\"1\" rowspan=\"2\"> Task</td><td colspan=\"1\" rowspan=\"2\">Task Criteria</td><td colspan=\"3\" rowspan=\"1\">Meets Criteria?</td></tr><tr><td colspan=\"1\" rowspan=\"1\">C</td><td colspan=\"1\" rowspan=\"1\"> NYC</td><td colspan=\"1\" rowspan=\"1\"> N/A</td></tr><tr><td colspan=\"1\" rowspan=\"6\">Workplace planning andriskassessment</td><td colspan=\"1\" rowspan=\"1\">An Activity Risk Assessment and Safe Work Instruction (SWl) is completedin accordance with CSIRO HSE Risk Management Procedures and isapplicable to the task.</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Equipment type is identified and authorisation to work on equipment typein confirmed.</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Voltage source is identified.</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Appropriate PPE and safety equipment are identified and is ready for use.(Including: Insulating gloves, LV switchboard floor mat, LV work bench mat,long sleeve cotton shirt and trousers,and safety glasses).</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td></tr><tr><td colspan=\"1\" rowspan=\"1\">The correct PPE is identified for the task and checked prior to use,including; in test validity. (Testing of insulation gloves,insulation mat, andgoggles etc.)</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td></tr><tr><td colspan=\"1\" rowspan=\"1\">The correct electrical test equipment is identified for the task and checked prior to use,including; approval for use,multimeter rating, tools, test andtagged (if applicable).</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td></tr><tr><td colspan=\"1\" rowspan=\"6\">IsolationProcedures</td><td colspan=\"1\" rowspan=\"1\">Equipment is isolated in accordance with CSIRO Electrical Safety Procedure, including; inspection of cables and plug boards,and test and tag validity.</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td></tr><tr><td colspan=\"1\" rowspan=\"1\"> Having identified the voltage source(s) and isolation methods determinedin the SWl perform the relevant isolation procedure for the situation(switch out and plug removed).Q - How would you conduct an isolation from a GPO or 3 ph outlet? Q - Do you still need to wear PPE to isolate supply to equipment?</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td></tr><tr><td colspan=\"1\" rowspan=\"1\"> Unauthorised persons are prevented from accessing the work area (DangerWork in Progress label).</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td></tr><tr><td colspan=\"1\" rowspan=\"1\">The apparatus main switch is checked (turned off). Q- Why does main switch need to be turned off? e.g. dischargecapacitors.</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td></tr><tr><td colspan=\"1\" rowspan=\"1\">The GPO or socket outlet is turned off Turn off(De-energised) and plugremoved (Isolation).</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Isolated equipment is tagged out.</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td></tr><tr><td colspan=\"1\" rowspan=\"2\">Task</td><td colspan=\"1\" rowspan=\"2\">Task Criteria</td><td colspan=\"3\" rowspan=\"1\">Meets Criteria?</td></tr><tr><td colspan=\"1\" rowspan=\"1\">C</td><td colspan=\"1\" rowspan=\"1\"> NYC</td><td colspan=\"1\" rowspan=\"1\"> N/A</td></tr><tr><td colspan=\"1\" rowspan=\"6\">Prove Dead</td><td colspan=\"1\" rowspan=\"1\">Equipment is proved dead in accordance with CSIRO Electrical SafetyProcedure and Guideline.</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Apparatus covers are safely removed (using appropriate PPE) to expose theinternal components.Q. Do you still need your insulating gloves on? Why?</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Test equipment is calibrated or verified (proven) to be working corectly.</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Test before touch is performed to confirm the relevant circuits have beende-energised, including any other applicable conductors in the work area.(With the covers off,a visual inspection for damage and then testing theelectrical apparatus metal surrounds/frames for a potential voltage)Verify charged capacitor is de-energised.</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Re-testing (proving dead) is performed if the person temporarily leaves theimmediate area.(Re-testing is performed on their return to ensure that the electricalequipment being worked on is stillisolated as has not been re-energisedinadvertently)</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Electrical safety gloves can be removed once equipment has been provendead (no known voltages).A warning tag is attached to the power supply cord and the apparatus. Q - Why does a warning tag need to be attached?</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td></tr><tr><td colspan=\"1\" rowspan=\"3\">Conduct Fault-finding</td><td colspan=\"1\" rowspan=\"1\">Logical fault-finding techniques are applied in a safe and systematicmanner, including:·Evidence is collected on fault/problem-All applicable senses areused e.g.smell,hearing, touch and sight.Fault is located- Continuation of analysis phase,until a specificpart/component is identified.</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td></tr><tr><td colspan=\"1\" rowspan=\"1\"> Inspected and tested rated Electrical test equipment and safety gloves,goggles and mats are used. PPE are used during all fault finding and live measurements.</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td></tr><tr><td colspan=\"1\" rowspan=\"1\">A check is performed to ensure all connections have been restored (Active,Neutral, Earth connections).A continuity test is carried out between Activeto Earth,and Neutral to Earth to ensure no short circuits are present. Acontinuity test(s) is carried out to confirm the main switch on theequipment performs correctly (Active to neutral test).A check is performed to ensure the power supply cord and plug is wiredcorrectly (Active, Neutral,and Earth are wired to correct terminals).If anextension cord is the supply source it shall have been tagged and testedprior to use.</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Conduct Fault-finding cont.</td><td colspan=\"1\" rowspan=\"1\">Fault is rectified, supply is restored to equipment by energising at poweroutlet. Equipment is treated as live and the frame of the equipment shallalso be treated as live until proven safe.Live electrical testing is performed using correct PPE. System is checked toconfirm the equipment is functioning correctly.</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\">□</td></tr><tr><td colspan=\"1\" rowspan=\"4\">ReturnEquipment toService</td><td colspan=\"1\" rowspan=\"1\">The equipment is restored to a safe and operable condition, including:·Verification is performed, including:0  Insulation resistance tests0   Earth continuity and earth resistance0  Fault loop impedance (Setting of protection devices)0   Polarity checksAdministrative controls are relinquished</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">□</td></tr><tr><td colspan=\"1\" rowspan=\"1\">All covers are correctly secured using insulating gloves (PPE) to protectfrom capacitor voltages.</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">□</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Out of service tags are removed.</td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\">Equipment is re-tested and tagged for in service use.</td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"5\" rowspan=\"1\">Comments:</td></tr><tr><td colspan=\"5\" rowspan=\"1\">PART 4: FINAL SIGN-OFF</td></tr><tr><td colspan=\"1\" rowspan=\"1\"> Student Name:</td><td colspan=\"4\" rowspan=\"1\">Click or tap here to enter text.</td></tr><tr><td colspan=\"5\" rowspan=\"1\">Iconfirm thatIhave participated in all components ofthis assessment and have provided the necessary evidence,asrequired.I confirm that the assessor has explained the assessment outcomes to me.</td></tr><tr><td colspan=\"1\" rowspan=\"1\"> Signature:</td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"> Date:</td><td colspan=\"2\" rowspan=\"1\">Click or tap to enter a date.</td></tr><tr><td colspan=\"2\" rowspan=\"2\">Evidence Requirements</td><td colspan=\"3\" rowspan=\"1\">Evidence Provided</td></tr><tr><td colspan=\"1\" rowspan=\"1\">YES</td><td colspan=\"2\" rowspan=\"1\">NO</td></tr><tr><td colspan=\"2\" rowspan=\"1\">General electrical safety and work knowledge</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"2\" rowspan=\"1\">□</td></tr><tr><td colspan=\"2\" rowspan=\"1\">Completed assessment checklist</td><td colspan=\"1\" rowspan=\"1\">□</td><td colspan=\"2\" rowspan=\"1\">□</td></tr><tr><td colspan=\"1\" rowspan=\"1\"> Assessor Name:</td><td colspan=\"4\" rowspan=\"1\"> Click or tap here to enter text.</td></tr><tr><td colspan=\"5\" rowspan=\"1\">Comments:Click or tap here to enter text.</td></tr><tr><td colspan=\"1\" rowspan=\"2\">Assessment Outcome:</td><td colspan=\"4\" rowspan=\"1\">Competency achieved                   □   Click and enter assessor initials.</td></tr><tr><td colspan=\"4\" rowspan=\"1\">Competency not yet achieved          □Click and enter assessor initials.</td></tr><tr><td colspan=\"5\" rowspan=\"1\">I confirm that Ihave consulted with the student,as part of this assessment process,and have explained theassessment outcome.</td></tr><tr><td colspan=\"1\" rowspan=\"1\"> Assessor Signature:</td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"> Date:</td><td colspan=\"2\" rowspan=\"1\">Click or tap to enter a date.</td></tr></table>",
+        "bbox": [
+            102,
+            81,
+            932,
+            801
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "discarded",
+        "text": "CSIRO Australia’s National Science Agency ",
+        "bbox": [
+            92,
+            944,
+            324,
+            954
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "discarded",
+        "text": "Electrical Safety Guideline | 28 ",
+        "bbox": [
+            727,
+            944,
+            904,
+            954
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            102,
+            98,
+            932,
+            901
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "discarded",
+        "text": "CSIRO Australia’s National Science Agency ",
+        "bbox": [
+            92,
+            944,
+            324,
+            956
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "discarded",
+        "text": "Electrical Safety Guideline | 29 ",
+        "bbox": [
+            727,
+            944,
+            904,
+            954
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            99,
+            64,
+            931,
+            535
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "discarded",
+        "text": "CSIRO Australia’s National Science Agency ",
+        "bbox": [
+            92,
+            944,
+            324,
+            954
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "discarded",
+        "text": "Electrical Safety Guideline | 30 ",
+        "bbox": [
+            727,
+            944,
+            904,
+            954
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            99,
+            61,
+            929,
+            669
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "discarded",
+        "text": "CSIRO Australia’s National Science Agency ",
+        "bbox": [
+            92,
+            944,
+            324,
+            954
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "discarded",
+        "text": "Electrical Safety Guideline | 31 ",
+        "bbox": [
+            727,
+            944,
+            902,
+            954
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "As Australia’s national science agency and innovation catalyst, CSIRO is solving the greatest challenges through innovative science and technology. ",
+        "text_level": 1,
+        "bbox": [
+            100,
+            87,
+            369,
+            174
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "CSIRO. Unlocking a better future for everyone. ",
+        "bbox": [
+            100,
+            182,
+            371,
+            216
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "image",
+        "img_path": "images/6741333a6d875dd50681904af41bca73baa29964c30af2ec3cff99cd9da48749.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            0,
+            498,
+            994,
+            997
+        ],
+        "page_idx": 32
+    }
+]

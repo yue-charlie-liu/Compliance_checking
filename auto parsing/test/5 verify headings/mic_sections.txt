@@ -1,0 +1,1036 @@
+257.11 “Dealer” defined.
+257.11a “Demonstrator” defined.
+257.11b “Dealer license” defined.
+257.12 “Department” defined.
+257.12a “Distressed vehicle” defined.
+257.12b “Distressed vehicle transporter” defined.
+257.12c "Digital network" defined.
+257.13 “Driver” defined.
+257.23a “Juvenile adjudication” defined.
+257.23b “Juvenile disposition” defined.
+257.24 “Laned roadway” defined.
+257.24a “Leased vehicle” defined.
+257.24b “Late model vehicle” defined.
+257.24c “Law of another state” defined.
+257.25 “License” defined.
+257.25a “Autocycle” defined.
+257.25b “Low-speed vehicle” defined.
+257.25c "Limousine" defined.
+257.25d "Limousine driver" defined.
+257.26 “Limited access highway” defined.
+257.27 “Local authorities” defined.
+257.27a “Major component part” defined.
+257.28 “Manufacturer” defined.
+257.29 “Maximum axle load” defined.
+257.30 “Metal tire” defined.
+257.30a Repealed.
+257.30b “Michigan university” defined.
+257.30c “Modified agriculture vehicle” defined.
+257.31 “Motorcycle” defined.
+257.32 Repealed.
+257.32a “Motor home” defined.
+257.32b "Moped" defined.
+257.33 “Motor vehicle” defined.
+257.33a “New motor vehicle” defined.
+257.33b “Nonprofit recycling center” defined.
+257.34 “Nonresident” defined.
+257.35 “Nonresident operating privilege” defined.
+257.35a “Operate” or “operating” defined.
+257.35b “Older model vehicle” defined.
+257.35c “Off lease vehicle” defined.
+257.36 “Operator” or “operating” defined.
+257.36a “Owner-operator” defined.
+257.36b "Out-of-service" defined.
+257.36c “Other on-track equipment” defined.
+257.37 “Owner” defined.
+257.38 “Parking” defined.
+257.38a "Park model trailer" defined.
+257.39 "Pedestrian" defined.
+257.39a “Permanent disability” defined.
+257.40 “Person” defined.
+257.40a “Pickup camper” defined.
+257.40b "Personal information" and “highly restricted personal information” defined.
+257.40c “Platoon” defined.
+257.40c[1] "Personal vehicle" defined.
+257.41 “Pole-trailer” defined.
+257.41a “Police book” defined.
+257.42 "Police officer" defined.
+257.43 “Police station” defined.
+257.43a "Preliminary chemical breath analysis" defined.
+257.43b "Preliminary oral fluid analysis" defined.
+257.43c "Power-driven mobility device" defined.
+257.44 “Private driveway” and “private road” defined.
+257.44a “Probate court disposition” defined.
+257.45 “Proof of financial responsibility” defined.
+257.45a “Prosecuting attorney” defined.
+257.46 "Railroad" defined.
+257.47 “Railroad sign or signal” defined.
+257.48 "Railroad track" defined.
+257.49 "Railroad train" defined.
+257.49a "Recreational vehicle" defined.
+257.50 “Registration” defined.
+257.50a “Residence address” defined.
+257.51 Repealed.
+257.51a “Resident” defined.
+257.52 “Revocation” defined.
+257.53 “Right-of-way” defined.
+257.54 “Road tractor” defined.
+257.55 “Roadway” defined.
+257.56 “Safety zone” defined.
+257.56a “Salvage vehicle” defined.
+257.56b  “Salvageable part” defined.
+257.56c  “Salvage vehicle agent” defined.
+257.57 “School bus” defined.
+257.57a “School crossing” defined.
+257.57b “School crossing guard” defined.
+257.57c Repealed. 2002, Act 534, Eff. Oct. 1, 2002.
+257.57d “Scrap certificate of title” defined.
+257.57e “Scrap vehicle” defined.
+257.58 “Secretary of state” defined.
+257.58b “Security interest,”“security agreement,”“secured party,”“debtor,”“financing statement,” and “termination statement” de
+257.58c “Serious impairment of a body function” defined.
+257.59 “Semi-trailer” defined.
+257.59a “Shoulder” and “ditch slope” defined.
+257.60 “Sidewalk” defined.
+257.61 “Spacings between axles” defined.
+257.62 “Special mobile equipment” defined.
+257.62a “Standardized field sobriety test” defined.
+257.63 “Streetcar” defined.
+257.63a  "Streetcar track" defined.
+257.64 “Street or highway” defined.
+257.64a "Street railway" defined.
+257.64b "Street railway system" defined.
+257.65 "State" defined.
+257.66 “Suspension” defined.
+257.67 “Tandem axle” defined.
+257.67a “Tandem axle assembly” and “tank vehicle” defined.
+257.67b “Temporary disability” defined.
+257.67c "Taxicab" defined.
+257.67d "Taxicab driver" defined.
+257.68 “Through highway” defined.
+257.69 "Traffic" defined.
+257.70 “Traffic control devices” defined.
+257.71 “Traffic control order” defined.
+257.72 “Traffic control signal” defined.
+257.73 “Trailer” defined.
+257.74 “Trailer coach” defined.
+257.74a "Travel trailer," "camping trailer," and "fifth wheel trailer" defined.
+257.75 “Truck” defined.
+257.76 “Transporter” defined.
+257.76a "Transportation network company" defined.
+257.76b "Transportation network company driver" defined.
+257.76c "Transportation network company prearranged ride" defined.
+257.76d "Transportation network company rider" defined.
+257.77 “Truck tractor” defined.
+257.78 “Used or second-hand vehicle” defined.
+257.78a “Used vehicle parts dealer” or “used or secondhand vehicle parts dealer” defined.
+257.79 “Vehicle” defined.
+257.79a “Vehicle salvage pool” defined.
+257.79b “Vehicle scrap metal processor” defined.
+257.79c “Wrecker” defined.
+257.79d "Work zone" and "temporary traffic control device" defined.
+257.79e “Wholesaler” defined.
+257.80 Tenses; definition.
+257.81 Number and gender; definitions.
+257.82 “Shall” and “may” defined.
+257.83 "Specialty court", "specialty court program", and "specialty court interlock program" defined.
+Chapter II ADMINISTRATION, REGISTRATION, CERTIFICATE OF TITLE AND ANTI-THEFT
+257.201 Reference to “division”
+257.202 Secretary of state as exclusive state agent.
+257.203 Appointment of employees.
+257.203a Meaning of “commissioner” in MCL 257.301 to 257.327; effect of MCL 257.201 to 257.203a.
+257.204 Administration and enforcement of act; establishment of highway patrol prohibited; rules; official seal.
+Sec. 204.
+Sec. 204a.
+Sec. 204b.
+Sec. 205.
+Sec. 205a.
+Sec. 206.
+Sec. 207.
+Sec. 207a.
+Sec. 208.
+Sec. 208a.
+Sec. 208b.
+Sec. 208c.
+Sec. 208d.
+Sec. 209.
+Sec. 210.
+Sec. 211.
+257.212 Notice; methods.
+257.213 Officers and investigators; powers.
+257.214
+257.215 Vehicle unregistered or without certificate of title; operation; misdemeanor, exception.
+257.216 Vehicles subject to registration and certificate of title provisions; pandemic expiration extension.
+257.217 Application for registration and certificate of title; out-of-state vehicle; form; fee; signature of owner; contents; leased pickup truck or vehicle; duties of dealer and person selling or leasing certain vehicles; off lease or buy back vehicle; temporary registration; service fee; imprint on back side of check or bank draft; liability for damages; perfection of security interest; exception for 2021.
+257.217a Registration plate inscribed with official amateur radio call letters; application; proof; fees; issuance of plate for vehicle bearing registration issued pursuant to MCL 257.801(1)(a) or (p); use on other vehicle as misdemeanor; surrender of registration plate; submission of application; expiration date.
+257.217b Moped; manufacturer's identification number.
+257.217c Acquisition of salvage, distressed, or older model vehicles; issuance of salvage or scrap certificates of title; salvage vehicle inspections; sale of vehicles; notice of designation as salvage vehicle; removal of scrap vehicle from state; determination of repair and labor costs; vehicle inspection fee; audit; "actual cash value" defined.
+257.217d Special Congressional Medal of Honor registration plate.
+257.217e Certificate of title for school bus; condition to issuance.
+257.217f Sale, assignment, or other disposition of vehicle for which salvage certificate of title required.
+257.217g Pickup camper; manufacturer's identification number.
+257.217h Liability of motor vehicle manufacturer.
+257.217i Issuance of vehicle identification number and certificate of title for assembled vehicles; requirements; safety study; "assembled vehicle" defined.
+Sec. 217i.
+Sec. 218.
+Sec. 219.
+Sec. 220.
+Sec. 221.
+Sec. 222.
+Sec. 223.
+Sec. 224.
+257.225 Registration plate; attachment to vehicle; legibility; color; distinctive registration plates; name plate, insignia, or advertising device; limitation; historic military vehicle; violation as civil infraction.
+257.226 Expiration of vehicle or motorcycle registration; duties of secretary of state; issuance of registration; tax; validity of certificate of title; special registration; certification; registration of commercial vehicle, trailer, or semitrailer; assignment or reassignment of expiration date under international registration plan; leased vehicle multiyear registration; pandemic expiration extension.
+257.226a Temporary registration plates or markers.
+257.226b Temporary registration; duration; form; fee; use of vehicle.
+257.226c Reflectorized reflector plates, tabs, and stickers.
+257.227 Application for renewal of vehicle registration; fee; presentation of certificate of title; waiver; proof of vehicle insurance; transmission of vehicle policy information; disclosure.
+257.227a Vehicle involved in violation; renewal, replacement, or transfer of registration plate; appearance of owner or representative at branch office required; cancellation of registration; circumstances; notice and opportunity to be heard.
+257.227b Repealed. 2011, Act 92, Eff. Dec. 30, 2011.
+257.228 Notification of old and new addresses; violation as civil infraction.
+257.229 Duplicate registration certificate, registration plate, certificate of title, or duplicate certificate of tit
+257.230 Special identifying number after alteration or defacement of serial number; record.
+257.230a Motorcycle without visible vehicle identification number; seizure; procedure; “person” defined
+257.232 Furnishing list of information to federal, state, or local governmental agency; contract for sale of lists of driver and motor vehicle records; records maintained in bulk; surveys, marketing, or solicitations; insertion of safeguard in agreement or contract; duties of recipient of personal information; disclosure of list based on driving behavior or sanctions.
+257.232a Furnishing name and address of lessee of vehicle to secretary of state or police officer.
+257.233 Transfer or assignment of title to, or interest in, registered vehicle; disposition of plates; application for new registration certificate;   penalty; indorsement on certificate of title; effective date of transfer; submission of secured receipt.
+257.233a Transfer of title or interest in vehicle; disclosure of odometer mileage; electronically signed odometer disclosure statement; electronic system; transfer of ownership; "private parties" defined.
+257.234 Presentation of certificate of title and registration certificate to secretary of state; fees; issuance of new certificate of title and registration certificate; mail or delivery; repossession of license plates; payment of transfer fee; compliance with MCL 257.238.
+257.235 Dealer as transferee of vehicle; requirements; duties; liability of dealer or transferee; transfer of title or interest to another dealer; duties of dealer; dealer reassignment of title form; buy back or off lease vehicle.
+257.235a Licensed dealer or junk dealer purchasing vehicle for purpose of destroying or junking vehicle; acceptance and disposition of certificate of title; fee.
+257.235b Possession of certificate of title by inventory lender for vehicle subject to inventory loan; written agreement; release of certificate of title by used or secondhand vehicle dealer's inventory lender; limitation; failure to release vehicle title; registration with secretary of state; applicability of section to certain licensed dealers; applicability of MCL 257.235; definitions.
+257.236 Procuring title to vehicle acquired by operation of law; validity of registration upon death of owner; application for title by surviving spouse or heir; proof of death; certification; petition.
+257.236a Termination of owner's interest by enforcement of security agreement; application for new certificate; certification; holding vehicle for resale; termination of owner's interest by sale pursuant to court process; issuance and contents of new certificate; outstanding certificate.
+257.237 Transfer of registration; issuance of new registration certificate and certificate of title; filing surrendered certificate of title; retention of records.
+257.238 Security interest in vehicle; certificate of title; assignment; termination statement; electronic transactio
+257.239 Certificate of title; failure to endorse or deliver, fine.
+257.240 Liability for use or ownership of vehicle after transfer of endorsed certificate of title; conditions; violation of subsection (2); civil infraction; fine; towing and storage fees.
+257.241 Electronic lien title system; establishment, implementation, and operation; contracts; participation of secured parties; inclusion of secured interest or other information in electronic file; execution of release; delivery; assignment of ownership by vehicle dealer; admissibility as evidence of security interest; determination of requirements by secretary of state; establishment, implementation, and operation by July 1, 2016; information to be entered beginning October 1, 2016; definitions.
+257.242 Sale of vehicle for salvage.
+257.242a Regrooved or recut motor vehicle or motorcycle tires; sale or possession with intent to sell prohibited; exception; misdemeanor.
+257.243 Nonresident owner of foreign vehicle; registration; exemption; transportation for compensation; temporary permit; agent for secretary of state; pleasure vehicle; business vehicle.
+SPECIAL PLATES TO MANUFACTURERS, TRANSPORTERS, DEALERS
+257.244a Motorcycle dealer license plates; size.
+257.245 General distinguishing number and special plates for manufacturer, transporter, or dealer; application; proof; issuance; duration; fee.
+257.246 Special plates; expiration.
+257.247 Special plates; manufacturers and transporters, record of uses; inspection by peace officers.
+257.248 Dealer license; investigation; report; bond or bond renewal certificate; dealer plates; stipulation as to service of process; prohibited conduct; application; supplemental dealer license; eligible used dealer license; classification; requirements applicable to issuance, renewal, and expiration; conduct not requiring separate or supplemental license.
+257.248a Vehicle dealer; prohibited advertising or representations; designated business hours.
+257.248b Foreign salvage vehicle dealer license; form and contents of application; division of dealer licensees into quarter segments; expiration and renewal of license; investigations; stipulation as to service of process.
+257.248c Sale, transfer, or release of distressed late model vehicle by vehicle salvage pool, auction, or broker; release of vehicle; release statement; notice to owner and lienholder; sale of vehicle for parts.
+257.248d Wholesaler; requirements.
+257.248e Salvage vehicle agent license.
+257.248f Vehicle dealer or salvage vehicle agent license; criminal history check; fingerprints; disclosure of information; violation of subsection (7) as misdemeanor; "criminal history record information" defined.
+257.248g Salvage vehicle agent; duties.
+257.248h Persons engaged in prohibited conduct; penalties; refusal to issue or renew license; revocation or suspension of license; denial or revocation of license without hearing.
+257.248i Attending pool or auction selling salvage or scrap titled vehicles.
+257.248j Acting as dealer without license; warning; administrative fine; notice of assessment; actions; informal conference; administrative hearing; payment of administrative fine; reduction.
+257.248k Mobility dealer endorsement.
+257.248l Dealer training programs; requirements; trained individual at each retail location; exceptions; training by qualified trade organizations; application process; compliance monitoring; renewal limitation; fees; dealer training program fund; rules; definitions.
+257.249 Denial, suspension, or revocation of license as dealer; grounds.
+257.249a Denial, suspension, or revocation of license as automotive recycler, used or secondhand vehicle parts dealer, vehicle scrap metal processor, or foreign salvage vehicle dealer; grounds.
+257.250 Vehicle dealer's licensee; procedure for notification, investigation, denial, suspension, revocation.
+257.250a Placement of license on probation; conditions
+257.250b Cease and desist order.
+257.250c Other lawful remedies and sanctions.
+257.251 Dealer records; maintenance; manner; contents; odometer mileage statement; delivery of written statement to buyer; conditions to valid sale; maintenance and inspection of dealer records and inventory; inspections; summary suspension of license; order; hearing; rules.
+257.251a Copies of documents.
+257.251b Renting, leasing, or furnishing motorcycle; license to operate required.
+257.251c Renting, leasing, or furnishing motorcycle; duties of dealer.
+257.251d Renting, leasing, or furnishing motorcycle; license to operate as condition of use by third party.
+257.251e Renting, leasing, or furnishing motorcycle; motor vehicle liability policy.
+257.252 Reports of stolen and recovered vehicles.
+257.252a Abandoned vehicle; presumption of responsibility; violation; penalty; "abandoned vehicle" defined; notice; duties of police agency; contest by owner; hearing; request; fee; towing and storage charges; secured party; obtaining release of vehicle; inspection; public sale; inability to determine ownership of abandoned vehicle; entry into law enforcement information network.
+257.252b Registered and unregistered abandoned scrap vehicles; duties of police agency; release of vehicle; certificate of title or certificate of scrapping; release form; retention of records and photographs; taking registered abandoned scrap vehicle into custody; contest by registered owner; hearing; request; obtaining release of vehicle; fee.
+257.252d Removal of vehicle from public or private property to place of safekeeping; circumstances; arrival of owner or legally entitled person; duties of police agency; release of vehicle; entry of vehicle as abandoned.
+257.252f Filing petition; duties of court; hearing; notice; burden; decision; district court magistrate; appeal.
+257.252g Manner of conducting public sale; application of money received; priority; absence of bidders; acquisition of distressed vehicle; application for salvage certificate of title; canceling entry in law enforcement information network; obtaining original bill of sale.
+257.252h Abandoned vehicle fund; creation; sources of funding; investment; interest and earnings; money remaining in fund; expenditures.
+257.252i Towing and storage fees.
+257.252j Abandoned vehicles; number and placement of vehicles on private property.
+257.252k Towing or removing vehicle without owner's consent; notice; requirements.
+257.252l Applicability of MCL 257.252k.
+257.252m Notification of civil fines and sanctions.
+257.253 Report of stolen vehicle; filing; transferring certificate of title; record of stolen or abandoned vehicles not reported or recovered; availability; reports by other states of stolen and recovered vehicles; abandoned vehicle; notification of owner and lienholder.
+257.254 False statement in application for certificate of title or in assignment of title; possession of stolen vehicle; penalties.
+257.255 Valid registration plate required; printed or electronic copy; exceptions; violation of subsection (1) as civil infraction or misdemeanor; penalty; nonpayment of apportioned fee under international registration plan as misdemeanor; penalty; impoundment; towing and storage costs; care of load in vehicle; impounded vehicle subject to lien; hearing; certification of unpaid judgment; foreclosure sale; pandemic expiration extension.
+257.257 Altering, forging, or falsifying documents; violation; penalty.
+257.258 Registration or certificate of title; grounds for cancellation; elected gross weight violations; penalty; notice; hearing.
+257.259 Evidence of registration; title; dealers' or wreckers' licenses; return to state on cancellation or suspension; failure or refusal to surrender unlawful.
+Chapter III OPERATOR'S AND CHAUFFEUR'S LICENSE
+257.302 Operators' and chauffeurs' licenses; persons exempt.
+257.302a Nonresident using license to operate motor vehicle issued by another country; establishment of unique driver record; reciprocal agreement.
+257.303 Operator's or chauffeur's license; issuance; prohibitions; revocation; denial of license; multiple convictions or civil infractions; "felony in which a motor vehicle was used" defined.
+257.303a Suspension, revocation, denial, disqualification, or cancellation of license by another state.
+257.304 Restricted license; issuance; conditions; carrying and displaying restricted license; order; prohibition; completion of specialty court interlock program and certificate as evidence of abstinence; "certificate" defined; imposition of license sanctions; completion of specialty court program; exemption from immobilization or forfeiture; applicability of section.
+257.305, 257.305a Repealed. 1990, Act 188, Eff. Aug. 15, 1990.
+257.306 Temporary instruction permit; operation of motor vehicle without operator's license or permit; pandemic expiration extension; temporary driver education certificate; motorcycle temporary instruction permit.
+257.306a Commercial learner's permit; pandemic expiration extension.
+257.307 Application for operator's or chauffeur's license to operate noncommercial motor vehicle; documents to be supplied to verify citizenship or identity and legal presence; manner; contents; image and signature; voter registration opt-out; equipment; signature and certification; application fee; duties of secretary of state; donor registry; driving record from another jurisdiction; operation of commercial motor vehicle; application for original, renewal, or upgrade of vehicle group designation or indorsement; verification of identity and citizenship or residency; issuing renewal license by mail or other methods; information manual; Social Security number; electronic access to donor registry; agreements with federal government; termination of license issued by another state; duties of secretary of state; access to prisoner information.
+Sec. 307.
+257. Ta—307b Application by male for operator's license or chauffeur's license; registration of applicant with federal selective service system.
+257.308 Application of minor for operator's license; condition to approval; exception.
+257.309 Examination of applicant for operator's or chauffeur's license; criminal history check; waiver; exception; certification of licensee applying for renewal of license by mail; examining officers; conducting examinations; report of findings and recommendations; rules; issuance of original operator's or chauffeur's license without vehicle group designation or indorsement; driver skills test; waiver; behind-the-wheel road test; prohibited conduct; penalty; applicant for original motorcycle endorsement; waiver of certain requirements; pandemic expiration extension.
+257.310 Operator's or chauffeur's license; issuance; applicant for motorcycle indorsement or vehicle group designation or indorsement; contents of license; fingerprint or finger image; digitized license; information; manufacture; unlawful acts; penalties; temporary driver's permit; medical data; emergency contact information; designation of patient advocate or emancipated status; duplicates of license; emergency medical information card; participation in anatomical gift donor registry; communication impediment designation; revocation; definitions.
+Sec. 310c.
+Sec. 310d.
+Sec. 310e.
+Sec. 310f.
+Sec. 311.
+Sec. 311a.
+Sec. 312.
+Sec. 312a.
+Sec. 312b.
+257.312c Motorcycle endorsement; application; fees; disposition of money; motorcycle safety and education awareness fund; creation; deposit of money or other assets; investment; interest and earnings; money remaining in fund at close of fiscal year; state treasurer as administrator; "look twice – save a life" program; renewal motorcycle endorsement fee; increase.
+257.312e Operation of commercial motor vehicle; vehicle group designation; tests; holder of unexpired operator's or chauffeur's license; qualifications and fees for vehicle group designation and endorsement; operation of school bus; exceptions; F vehicle indorsement; knowledge test and driving skills test; disposition of money collected under subsection (7); refund to county or municipality; compliance with MCL 257.303 and 257.319b; requirements for implementing and enforcing federal law.
+257.312f Vehicle group designation or endorsement on operator's or chauffeur's license; hazardous material endorsement; vehicle used for farming purposes; age; tests; waiver; seasonal restricted vehicle group designation; conditions prohibiting issuance of commercial learner's permit, vehicle group designation, or vehicle endorsement; cancellation; determining applicability of subsection (5); "farm related service industry" defined.
+257.312g Transportation of hazardous material; hazardous material endorsement on operator's or chauffeur's license required; violation; penalty. Sec. 312g.
+257.312h Vehicle group designation and indorsement on chauffeur's license; additional fees; duration of indorsement; disposition and refund of fees.
+257.312i Pickup truck with fifth wheel assembly and attached semitrailer; R vehicle indorsement required; prohibition; written examination;\nfee; exemption.
+257.313 Operator's or chauffeur's license; loss, destruction, mutilation, or illegibility; duplicate; proof.
+257.314 Operator's or chauffeur's license; duration; expiration; identification of licensee less than 21; renewal; extension; pandemic expiration extension.
+257.314a Repealed. 1978, Act 139, Eff. May 1, 1979.
+257.314b Repealed. 2004, Act 362, Imd. Eff. Oct. 4, 2004.
+257.315 Operator's and chauffeur's license; change of address; notice; use of residence address on qualified voter file; failure to report change; violation; penalty; nonappealability.
+257.316 Operator's or chauffeur's license; filing and indexing applications; records.
+257.316a Repealed. 1990, Act 188, Eff. Aug. 15, 1990.
+CANCELLATION, SUSPENSION, OR REVOCATION OF LICENSES
+257.317 Suspension or revocation of right of nonresident to operate vehicle in state; forwarding certified copy of record; notification to other states.
+257.318 Suspension or revocation of license of person convicted or determined responsible for violation in another state; failure to comply with interstate compact.
+257.319a Repealed. 2002, Act 534, Eff. Oct. 1, 2002.
+257.319b Suspension or revocation of commercial learners permits or vehicle group designations on operator's or chauffeur's license; notice of conviction, bond forfeiture, civil infraction determination, violation of law, or refusal to submit to chemical test; period of suspension or 
+revocation; denial, cancellation, or revocation of hazardous material indorsement; notice of security risk; applicability of conditions; 
+definitions.
+257.319b Suspension or revocation of commercial learners permits or vehicle group designations on operator's or chauffeur's license; notice of conviction, bond forfeiture, civil infraction determination, violation of law, or refusal to submit to chemical test; period of suspension or 
+revocation; denial, cancellation, or revocation of hazardous material indorsement; notice of security risk; applicability of conditions; definitions. (continued)
+257.319d Operation of commercial motor vehicle by person with certain alcohol content; out-of-service order; violations; penalty.
+257.319e Repealed. 2020, Act 376, Eff. Oct. 1, 2021.
+257.319f Operation of commercial motor vehicle in violation of out-of-state service order; prohibition; suspension; "commercial motor vehicle" defined.
+257.319g Prohibitions; violations; civil infraction.
+257.320 Investigation or reexamination of person; notice; restricting, suspending, revoking, or imposing other terms and conditions on license; service of notice; suspension of license for more than 1 year prohibited; reexamination; failure to appear for scheduled reexamination; prohibited restricted license.
+257.320a Recording date of conviction, civil infraction determination, or probate court disposition and number of points; interview; violation committed in another state.
+257.319c Providing United States department of transportation with information pertaining to operator's or chauffeur's license with vehicle group designation; notification of motor vehicle administrator or other appropriate officer.
+257.320b Driver safety school; establishment; supervision; courses; referrals; voluntary attendance; staying imposition of sentence; fee; approval of school.
+257.320c Issuance of license after suspension or revocation; examination; qualifications; exception.
+257.320d Basic driver improvement course; eligibility; database; use; fees; basic driver improvement course fund; study; report; approval of basic driver improvement course sponsors; security bond; surety; prohibited acts or practices; sanctions; "approved sponsor" defined.
+257.320e Payment of reinstatement fee for suspended, revoked, or restricted operator's or chauffeur's license; waiver of fee; assessment of points and licensing action by secretary of state; judicial review of administrative licensing sanction.
+257.321 Surrender of license; replacement.
+257.321a Failure to answer citation or notice to appear in court; failure to comply with order or judgment; notice and duration of suspension; exceptions; effect of failure to appear; giving copy of information transmitted to secretary of state to person; driver license reinstatement fees; failure to answer out-state citation, comply with out-state order or judgment, or appear in court or administrative tribunal under MCL 257.732; parking or standing of vehicle; resolution of outstanding matters regarding notices, orders, or citations; "a serious offense involving a motor vehicle" defined.
+257.321b Suspended or revoked license; destruction.
+257.321c Notification by friend of the court of failure to appear for hearing, comply with repayment plan order, or respond to license suspension notice; duty of secretary of state to suspend operator's or chauffeur's license; duration; transmission of fees; amounts.
+257.322 Hearing officer; appointment; powers and duties as to appeals from final determination of secretary of stat
+257.322a Ignition interlock device; removal; issuance of order required.
+257.323 Denial, revocation, suspension, or restriction of operator or chauffeur's license, vehicle group designation, or indorsement; final determination; petition for review of determination; order setting cause for hearing; service of order, petition, and affidavits on secretary of state's office; testimony and examination; order affirming, modifying, or setting aside restriction, suspension, or denial; conditions; restricted driving privileges; vehicle owned by employer; notification; other requirements.
+257.323a Petition for order staying revocation or suspension of license; ex parte order; provisions inapplicable to violation of financial responsibility act.
+257.323b Cancellation of minor's license.
+257.323c Restricted license; issuance by circuit court; limitations; exceptions; condition.
+257.323d Drug case information management fund; creation; purpose; expenditure; crediting and investing money; reversion; distribution of amounts by state court administrator; reimbursement of costs.
+257.324 Prohibited conduct; void or canceled license.
+257.325 Causing or permitting unlicensed minor to drive.
+257.326 Operation of vehicle in violation of act; owner's permission prohibited.
+257.327 Unlicensed chauffeur; employment prohibited.
+257.328 Producing evidence of motor vehicle insurance upon request of police officer; violation as civil infraction; electronic copy; certificate of insurance as prima facie evidence that insurance in force; contents; presentation of proof of insurance to court; civil infraction determination; surrendering license unless proof of insurance submitted to court; suspension of license by secretary of state; order; fee; renewal, transfer, or replacement of registration plate; producing false evidence as misdemeanor; penalty; points; section inapplicable to owner or operator of motor vehicle registered in other state or foreign country or province.
+257.329 Possessing, selling, or offering for sale a stolen, false, or counterfeit certificate of insurance; penalty
+Chapter IV CIVIL LIABILITY ACT CIVIL LIABILITY OF OWNERS AND OPERATORS OF MOTOR VEHICLES \*\*\*\*\* 257.401 THIS SECTION IS AMENDED EFFECTIVE OCTOBER 17, 2025: See 257.401.amended \*\*\*\*\*
+257.401 Civil actions; liability of owner; liability of lessor; construction of subsections (3) and (4); “motor vehicle” defined; liability for off lease vehicle; exception for shared vehicle owner and peer-to-peer car sharing program.
+257.401.amended Civil actions; liability of owner; liability of lessor; construction of subsections (3) and (4); “motor vehicle” defined; liability for off lease vehicle; exception for shared vehicle owner and peer-to-peer car sharing program.
+257.402 Rear end collision; prima facie evidence of negligence.
+257.403 Nonresident vehicle operators; service of process, manner, record; service upon defendant, certification; taxable costs; application of section.
+257.403a Nonresident; definition.
+257.404 Service of process; place.
+257.501 Financial responsibility act; administration, rules and regulations.
+257.502 Operating record; certified abstract inadmissible as evidence.
+257.502a Proof of compliance with laws of another state.
+WRITTEN REPORTS OF ACCIDENTS
+257.504 Repealed. 1971, Act 138, Eff. Oct. 1, 1971.
+257.504a-257.510 Repealed. 1971, Act 67, Eff. Oct. 1, 1971.
+257.511 Nonpayment of judgment; certification to secretary of state; nonresidents.
+257.512 Nonpayment of judgment; suspension of registration and nonresident's operating privilege.
+257.512a Nonpayment of judgment; finding as to insurer, effect.
+257.513 Duration of suspension of license, registration, and nonresident's operating privilege; satisfaction of judgment.
+257.514 When judgments deemed satisfied.
+257.515 Installment payment of judgment; default.
+257.515a Restoration of license or registration after nonpayment of installment; limitation.
+257.516 Repealed. 1976, Act 101, Imd. Eff. Apr. 27, 1976.
+257.517 Proof of financial responsibility; alternative methods.
+257.518 Proof of financial responsibility; certificate of insurance.
+257.518a Commercial quadricycle; liability insurance; minimum limit.
+257.518b Satisfaction of financial responsibility requirements; types of automobile insurance; applicability of section to insurance obtained by transportation network company driver or transportation network company.
+257.519 Proof of financial responsibility; nonresident, compliance of insurance carrier.
+257.520 Motor vehicle liability policy; definition; contents; coverage; limits; conditions; excess or additional coverage; reimbursement; proration; binder or indorsement.
+257.521 Motor vehicle liability policy; notice of termination.
+257.522 Automobile insurance policies unaffected by chapter.
+257.523 Bond as proof of financial responsibility; satisfaction of judgment.
+257.524 Money or securities as proof.
+257.525 Owners' proof for others.
+257.526 Substitution of proof.
+257.527 Other proof required.
+257.528 Cancellation of bond or certificate of insurance, returning money or securities deposited as proof of financial responsibility, or waiving requirement of filing proof; conditions; certification; refusal of application by person whose proof is cancelled or returned; reestablishment of proof.
+257.529 Transfer of registration.
+257.530 Surrender of license and registration upon suspension or for lack of sufficient proof.
+257.531 Repealed.
+257.532 Availability of other security.
+Chapter VI OBEDIENCE TO AND EFFECT OF TRAFFIC LAWS
+257.601 Applicability of chapter to operations on highways; exceptions.
+257.601a Private road open to general public; contract; enforcement of act; cost and posting of signs; contracts not affected; "private road that is open to the general public" defined.
+257.601b Moving violation in work zone, emergency scene, school zone, or school bus zone; penalties; exceptions; definitions.
+257.601c Moving violation causing injury or death to person operating implement of husbandry on highway.
+257.601d Person who commits moving violation that is the proximate cause of death of another person or serious impairment of body function; penalty; other violations; "moving violation" defined.
+257.602 Compliance with order or direction of police officer.
+257.602a Failure to stop at signal of police or conservation officer; penalty; subsection (1) inapplicable unless officer in uniform and vehicle identified; violation of subsection (1) as felony; conviction for conduct arising out of same transaction; “serious injury” defined.
+257.602b Holding or using a mobile electronic device while operating a motor vehicle; prohibited; exception for commercial motor vehicle and school bus; "use a mobile electronic device" defined; situational exceptions; violation as civil infraction; fine; local ordinances superseded; multiple violations penalty and enforcement; sunset applicability; definitions.
+257.602c Individual issued level 1 or 2 graduated license; use of cellular telephone prohibited; exceptions; violation as civil infraction; local ordinance; report; "Kelsey's Law."
+257.601 Chapter heading continuation
+257.601 Moving violation that is the proximate cause of death or serious impairment; details
+257.604 Riding animal or driving animal-drawn vehicle on roadway; rights and duties.
+257.605 Applicability and uniformity of provisions; local laws and regulations; payment and allocation of civil fines; issuance of more than 1 citation; equipment violations; "local law" defined.
+257.606 Regulation of streets or highways under jurisdiction of local authority and within reasonable exercise of police power; accepted engineering practices as basis for regulations; stop sign or traffic control device requiring state trunk line highway traffic to stop; approval; posting signs giving notice of local traffic regulations; providing by ordinance for impounding of motor vehicle parked contrary to local ordinance; bond or cash deposit.
+257.606a Maintenance of highway by state or local government; duty; immunity from tort liability; exception.
+257.606b On-demand automated motor vehicle network; operation.
+257.607 Realty owners' regulation of traffic on private property.
+257.608 Uniform system of traffic control devices; manual.
+257.609 Traffic control devices; placement and maintenance; restrictions; county road commission, permission, costs
+257.610 Traffic control devices; placement and maintenance by local authorities and county road commissions; compliance with manual; failure to comply with statutory provisions; sale, purchase, or manufacture of devices.
+257.611 Traffic control devices; obedience required; exception; avoiding obedience by driving on public or private property; violation as civil infraction.
+257.611a Direction of traffic in work zone; conditions; failure to comply; violation as civil infraction.
+257.612 Traffic control signals; location; red arrow and yellow arrow indications; colors; traffic control signal at place other than intersection; stopping at sign, marking, or signal; violation of subsection (1) or (2) as civil infraction; approaching person using wheelchair or device to aid walking; violation of subsection (4) as misdemeanor; location of sign prohibiting turn on red signal; additional sign; location of temporary traffic control signal.
+257.613 Traffic control devices; applicability of regular traffic control signals to pedestrians; special pedestrian control signals; violation as civil infraction
+257.613a School crossings; establishment; basis; determination; notice; erection of school crossing signs.
+257.613b School crossing guard; stationing; time period; color and design of outer vest; stopping vehicular traffic with hand held stop sign; authority.
+257.613c School crossing guard; responsibility of local law enforcement agency; instruction required; approval and conduct of courses.
+257.613d Failure to stop for school crossing guard holding stop sign in upright position; misdemeanor; presumption.
+257.614 Flashing red or yellow signals; violation as civil infraction.
+257.615 Signs or lights resembling traffic-control devices or emergency vehicles; commercial advertising on traffic signs; prohibition; public nuisance; removal; placement of street decorations and banners.
+257.616a Portable signal preemptive device; prohibitions; penalties; exceptions; definitions.
+ACCIDENTS
+257.617 Accident resulting in serious impairment of body function or death; stopping required; reporting to police agency or officer; violation as felony; penalty.
+257.617a Accident; personal injury; reporting to police agency or officer; stopping required; penalty; suspension of license.
+257.618 Accidents; damage to vehicles; stopping required; reporting to police agency or officer; penalty.
+257.618a Vehicle accident; removal from main traveled portion of roadway or streetcar track; conditions; violation of subsection (1) as civil infraction; removal by law enforcement agency, public agency, or department; liability; "gross negligence" defined; reimbursement.
+257.619 Accidents; duties of driver.
+257.620 Accidents; attended or unattended vehicle; stopping; report.
+257.621 Accidents; fixtures on or adjacent to highway; notification of owner; exhibition of driver's license; reports.
+257.622 Report of accidents resulting in death, personal injury, or property damage; forms; analysis; use; retention.
+257.622a Ignition interlock device; installation included in crash report.
+257.623 Accidents; reports by garagekeepers or repairmen.
+257.624 Report not available for use in court action; purpose of report; authorization and purpose of scientific studies and research; use of data; disclosures; liability; penalty.
+257.624a Transportation or possession of alcoholic liquor in open or uncapped container open or upon which seal broken; violation as misdemeanor; exception; subsections (1) and (2) inapplicable to passenger in commercial quadricycle; definitions.
+257.624b Transport or possession of alcoholic liquor by person less than 21 years of age.
+257.625 Operating motor vehicle while intoxicated; "operating while intoxicated" defined; operating motor vehicle when visibly impaired; penalties for causing death or serious impairment of a body function; operation of motor vehicle by person less than 21 years of age; "any bodily alcohol content" defined; requirements; controlled substance; costs; enhanced sentence; guilty plea or nolo contendere; establishment of prior conviction; special verdict; public record; burden of proving religious service or ceremony; ignition interlock device; definitions; prior conviction; violations arising out of same transaction.
+257.625a Arrest without warrant; circumstances; preliminary chemical breath analysis; provisions; operator ordered out-of-service; refusal of commercial motor vehicle operator to submit to chemical breath analysis as misdemeanor; penalty; provisions applicable to chemical tests and analysis; evidence; availability of test results; admissibility of refusal to submit to chemical test; definitions.
+257.625b Arraignment of person arrested for misdemeanor violation; pretrial conference; advising accused of maximum penalty before acceptance of plea; screening, assessment, and rehabilitative services; assessment for medication-assisted treatment; action by secretary of state pending appeal.
+257.625c Consent to chemical tests; persons not considered to have given consent to withdrawal of blood; administration of tests; definitions.
+257.625d Refusal to submit to chemical test; court order; report to secretary of state; form.
+257.625e Refusal to submit to chemical test pursuant to MCL 257.625d; request for hearing; notice.
+257.625f Effect of failure to request hearing; hearing procedure; notice; authority of hearing officer; scope of hearing; finding; record; licensing sanctions; judicial review; notice to motor vehicle administrator of another state.
+Sec. 625h.
+Sec. 625i.
+257.625l Ignition interlock device; warning label; prohibited conduct; violation as misdemeanor; penalty; impoundment of motor vehicle.
+257.625m Operation of commercial motor vehicle by person with certain alcohol content; arrest without warrant; violation as misdemeanor or felony; sentence; suspension of term prohibited; prior conviction.
+257.625n Forfeiture of vehicle or return to lessor.
+257.625o Ignition interlock device; sale, lease, or installation in vehicle; surety bond.
+257.625p Operation of commercial quadricycle by person with certain alcohol content; prohibition; violation as misdemeanor; penalty.
+257.625q Compliance with MCL 257.625k; investigation and determination by secretary of state; decertification of installer; notice to manufacturer; violation; penalty; suspension or revocation of manufacturer certification; removal from list of approved certified BAIIDs; summary suspension or revocation; hearing; rules.
+257.625r Authority of peace officer certified as drug recognition expert to require person to submit to preliminary oral fluid analysis; arrest;   admissibility of results; refusal; ordering person out of service.
+257.625s Testimony of person qualified in administration of standardized field sobriety tests.
+257.625t Roadside drug testing pilot program.
+257.626a Drag races; prohibition on public highways; definition; prima facie evidence; applicability within Silver Lake State Park; "drag race" defined.
+257.626b Careless or negligent operation of vehicle as civil infraction.
+257.626c Repealed.
+SPEED RESTRICTIONS
+257.627 Speed limits.
+257.627a "Regularly scheduled school session," "school," and "school zone" defined; speed limit on highway segment in school zone; time period; exception; state trunk line highway or county highway; school in session year-round; signs; violation as civil infraction.
+257.627b Repealed. 2006, Act 85, Eff. Nov. 9, 2006.
+257.628 Maximum or minimum speed limit; determination; petition by township board; modified speed limit; public record of traffic control order; speed limit signs, signals, or devices; violation as civil infraction; definitions.
+257.628a Repealed. 1974, Act 28, Imd. Eff. Mar. 2, 1974.
+257.628b Maximum speed in certain political subdivisions; vehicle, bicycle or other device; snowmobile exception; violation as civil infraction.
+257.629 Repealed. 2016, Act 445, Imd. Eff. Jan. 5, 2017.
+257.629a County traffic safety organization; creation, appropriation.
+257.629b Reduction of maximum speed limit; violation as civil infraction.
+257.629c Points and minimum fine; schedule; applicability of subsection (1).
+257.629e Levy, transmittal, and disposition of assessments; annual report; highway safety fund, jail reimbursement program fund, secondary road patrol and training fund; creation; administration; use of money collected; annual report.
+257.630 Repealed. 1976, Act 439, Imd. Eff. Jan. 13, 1977.
+Sec. 631.
+257.632 Exemption from speed limitations; police vehicles, fire department or fire patrol vehicles, and ambulances; conditions.
+257.633 Violation of speed limit; specifications in complaint, citation, summons, or notice; burden of proo
+257.634 Driving on right half of roadway; exceptions; driving on roadway having 2 or more lanes for travel in 1 direction; traveling on freeway having 3 or more lanes for travel in same direction; ordinance regulating same subject matter prohibited; violation as civil infraction.
+257.635 Passing vehicle proceeding in opposite direction; violation as civil infraction
+257.636 Overtaking and passing of vehicles proceeding in same direction; overtaking a bicycle proceeding in same direction; violation as civil infraction
+257.637 Overtaking and passing on right of another vehicle or bicycle; conditions; violation as civil infraction
+257.638 Overtaking and passing on left of another vehicle; violation as civil infraction
+257.639 Driving to left side of roadway; limitations; violation as civil infraction
+257.640 No-passing zones; determination; signs or markings; traffic control devices; violation as civil infractio
+257.641 Designating 1-way traffic; signs; driving to right of rotary traffic island; violation as civil infraction
+257.642 Roadway divided into 2 or more marked lanes; applicable rules; designation as HOV lane; restrictions; exceptions; designation as automated vehicle roadway or lane; violation as civil infraction
+257.643 Distance between vehicles; violation as civil infraction
+257.643a Leaving space between trucks or truck tractors; passing; exclusion for platoon; violation as civil infraction
+257.643b Leaving space between snowplows; passing exception; violation as civil infraction
+257.644 Driving on highway divided into 2 roadways; parking or driving on dividing space, barrier, or section; use of crossovers on limited access highways; violation as civil infraction
+257.645 Driving onto or from limited access roadway; violation as civil infraction
+257.646 Repealed. 1967, Act 277, Eff. Nov. 2, 1967.
+TURNING AND STARTING AND SIGNALS ON STOPPING AND TURNING
+257.647 Turning at intersection; violation as civil infraction
+257.648 Driving on highway; signaling requirements
+RIGHT-OF-WAY
+257.649a Right-of-way; turning left at location other than intersection; violation as civil infraction
+257.650 Right-of-way; turning left at intersection; violation as civil infraction
+257.651 State trunk line highways; preference at intersections; stop, yield or merge signs
+257.652 Stopping before entering or crossing highway from alley, private road, or driveway; violation as civil infraction.
+257.653 Immediate approach of authorized emergency vehicle; duty of driver of another vehicle; duty of streetcar operator; violation as civil infraction.
+exception on certain highways.
+257.653b Approaching and passing stationary solid waste collection vehicle, utility service vehicle, or road maintenance vehicle; duty to exhibit due care and caution; exception on certain highways; definitions.
+257.654 Vehicles forming part of funeral procession; right-of-way; flags; passing through funeral procession with vehicle as civil infraction.
+257.655 Pedestrians on highways; violation as civil infraction.
+257.656 Violations of MCL 257.656 to 257.661a as civil infractions; duty of parent or guardian; regulations applicable to bicycles and motorcycles.
+257.657 Rights and duties of persons riding bicycle, electric bicycle, electric skateboard, electric personal assistive mobility device, moped, lowspeed vehicle, or commercial quadricycle.
+257.657a Operation of golf cart on village, city, or township streets or state trunk line highway.
+257.658 Riding on seat of bicycle, motorcycle, moped, electric skateboard, or electric personal assistive mobility device; number of persons; wearing of crash helmet; conditions; rules; requirements for autocycle.
+257.658a Seats and foot rests; requirements; exception; violation as civil infraction.
+257.658b Crash helmet required; exception.
+257.659 Riding while attached to streetcar or vehicle.
+257.660 Electric personal assistive mobility device, low-speed vehicle, commercial quadricycle; electric skateboard, or moped; operation;
+limitations; applicability to police officer; regulation by local government; prohibitions; regulation by department of natural resources.
+257.660a Operation of bicycle upon highway or street; riding close to right-hand curb or edge of roadway; exceptions. 
+257.660b Operation of bicycle upon highway or street; riding more than 2 abreast. 
+257.660c Operation of bicycle upon sidewalk or pedestrian crosswalk. 
+257.660d Parking bicycle or electric skateboard on sidewalk, highway, or street. 
+257.661 Carrying package, bundle, or article on bicycle, electric personal assistive mobility device, moped, or motorcycle. 
+257.661a Handlebars of motorcycle or moped. 
+257.662 Bicycle, electric personal assistive mobility device, electric skateboard, or commercial quadricycle; equipment; violation as civil infraction. 
+257.662a Electric bicycle; rights of individual; label to be affixed by manufacturer or distributor; tampering with or modification of electric bicycle prohibited; requirements applicable to class 3 electric bicycle; compliance with federal requirements; operation on highway or within city; operation of class 1, class 2, or class 3 electric bicycle on certain trails; compliance with Americans with disabilities act of 1990 and persons with disabilities civil rights act; public hearing; inapplicability of subsections (6) to (10) to use of electric bicycles on congressionally authorized public trail system. 
+257.665 Research or testing of automated motor vehicle, technology allowing motor vehicle to operate without human operator, or any automated driving system; proof of insurance; existence of certain circumstances; operation; provisions applicable to platoon. 
+257.665a Liability. 
+257.665b Participation of motor vehicle manufacturer in SAVE project. 
+257.665c Departmental duties; automated vehicle roadways; local ordinances superseded. 
+257.665d Automated vehicle roadway system and infrastructure study.
+257.665e Departmental report to legislature; progress of automated vehicle roadways
+257.666 Violation; civil infraction; other violations arising from same transaction.
+257.666a Operation of motor vehicles on automated vehicle roadways; compliance with MCL 257.642(3); violation as civil infraction; limited use of data.
+257.667 Stopping at railroad grade crossing; driving through, around, or under crossing gate or barrier; violation as civil infraction.
+257.667a Installation and use of unmanned traffic monitoring devices at railroad grade crossing; civil infraction; evidence; diagnostic study team review required where fatality at public railroad grade crossing; exception.
+257.668 Action for negligence; exception for on-track equipment; failure to stop or yield as civil infraction.
+257.669 Vehicles required to activate hazard warning lights and stop at railroad track grade crossing; driver to listen and look in both directions; shifting gears prohibited; exceptions; "inactive railroad track" defined; violation as civil infraction.
+257.669a Federal motor carrier safety regulations; adoption; transportation of persons and property over railroad-highway grade crossings.
+257.670 Operating or moving certain vehicles or equipment upon or across steam railroad tracks at grade level; notice of intended crossing; stopping, listening, and looking; warning; violation as civil infraction.
+257.671 Designation of through highways; designation of stop, yield, or merge intersections; stop, yield, or merge signs; violation as civil infraction.
+STOPPING, STANDING AND PARKING
+257.672 Stopping, parking or leaving vehicle upon paved or main traveled part of highway or upon paved or unpaved part of limited access highway; violation as civil infraction.
+257.673 Removal of illegally stopped bicycles or vehicles; costs.
+257.674 Prohibited parking; exceptions; bus loading zone; violation as civil infraction.
+257.674a Clear vision areas; parking and commercial enterprises prohibited; violation as civil infraction.
+257.675 Stopping, standing, or parking of vehicle; requirements; signs; traffic control orders as rules; hearing; use of windshield placard by disabled person; courtesy required; free parking sticker; display; confiscation; false statement, deception, or fraud as misdemeanor; penalty; violation as civil infraction; cancellation, revocation, or suspension; driver, chauffeur's, or state personal identification card number; signature of physician, physician assistant, certified nurse practitioner, or physical therapist; third party reimbursement or worker's compensation; "disabled person" defined.
+257.675a Unlawful standing or parked vehicle; proof; presumption.
+257.675a.amended Unlawful standing or parked vehicle; proof; presumption.
+257.675b Unlawful standing or parked leased or rented motor vehicle; liability proof; information to be provided by owner; definitions.
+257.675c Stopping, standing, or parking violations; registered owner as person prima facie responsible for violation; affirmative defense; civil action; written indemnification agreement; applicability of subsection (3) to leased vehicle; issuing citation to operator.
+257.675c.amended Stopping, standing, or parking violations; registered owner as person prima facie responsible for violation; affirmative defense; civil action; written indemnification agreement; applicability of subsection (3) to leased vehicle; issuing citation to operator.
+257.675d Authorizing and utilizing persons other than police officers to issue citations; violations; training program; definition
+257.675e.added Liability of shared vehicle driver; violations; proof.
+257.676 Unattended vehicle; setting brakes, stopping motor, placing in park, removing ignition key, and turning front wheels; vehicle with remote starter; rescission of R 28.1458; violation as civil infraction.
+257.676b Interference with normal flow of vehicular, streetcar, or pedestrian traffic prohibited; public utility facilities; solicitation of contributions on behalf of charitable or civic organization; violation as civil infraction; local regulations; "charitable or civic organization" defined.
+257.676d Contract between local unit of government and wrecker, recovery, or towing service; incentives prohibite
+257.677 Interference with view or control of driver or operation; violation as civil infraction.
+257.677a Obstruction of safety vision by removal or deposit of snow, ice, or slush prohibited.
+257.678 Coasting prohibited; violation as civil infraction.
+257.679 Following or parking within certain distance of fire apparatus; violation as civil infraction.
+257.679a Limited access highway; pedestrians and certain vehicles prohibited; bicycles permitted on paths; violation as civil infraction.
+257.680 Driving over unprotected fire hose; violation as civil infraction.
+257.681 Bus; fire extinguisher required.
+257.682a Device causing emission of flame or smoke from vehicle; civil infraction.
+257.682b Permitting person under 18 to ride in open bed of pickup truck prohibited; exceptions; civil infraction.
+257.682c Operation of commercial snow removal vehicle; yellow or amber light required; civil infraction and fine; definitions.
+257.683 Driving or moving vehicle in unsafe condition; condition and adjustment of parts and equipment; stopping and inspecting vehicle; citation; training requirements as motor carrier enforcement officer; additional parts and accessories; exceptions; violation as civil infraction.
+Sec. 683.
+Sec. 684.
+Sec. 684a.
+Sec. 685.
+Sec. 686.
+Sec. 687.
+Sec. 688.
+Sec. 689.
+Sec. 690.
+Sec. 691.
+Sec. 692.
+Sec. 693.
+Sec. 694.
+Sec. 695.
+Sec. 696.
+Sec. 697.
+Sec. 697a.
+Sec. 697b.
+Sec. 698.
+257.698a Vehicular traffic hazard; front and rear warning lamps.
+257.699 Multiple beam road lighting equipment; requirements and limitations.
+257.700 Multiple-beam road lighting equipment; oncoming traffic; intensity.
+257.701 Single-beam road-lighting equipment; intensity.
+257.702 Head lamps on mopeds; single beam or multiple beam type; requirements and limitations.
+257.703 Slow-moving vehicles; reduced lighting power.
+257.704 Special restriction as to direction of certain lights.
+257.705 Brake equipment.
+257.705a Brake fluid specifications.
+257.706 Horn or other warning device; siren, whistle, air horn, or bell; theft alarm signal device.
+257.707 Muffler, engine, power mechanism, and exhaust system; requirements; prohibitions.
+257.707a Definitions used in MCL 257.707a to 257.707e.
+257.707b Exhaust system; requirements.
+257.707c Noise limitations; prohibitions; violation as civil infraction.
+257.707d Violations; penalties; liability; prima facie evidence.
+257.707e Test instrumentation and procedures; rules; local vehicle noise rules.
+257.707f Appropriation.
+257.708 Mirrors.
+257.708a Windshields; goggles, eyeglasses, or face shields.
+257.708b Operating motor vehicle with television or similar electronic device viewable by operator prohibited; exceptions; location of permitted visual device; special permit for research vehicle; violation as civil infraction.
+257.709 Windshields and windows; prohibitions; rearview mirrors; exceptions; windshield wipers; exemption; hot air windshield defroster or electrically heated windshield or other device; windshield device; definitions.
+257.710 Tires; studs or other traction devices; rules; exceptions; use or sale of unsafe tires prohibited.
+257.710a Safety belts and restraining devices; standards, rules and regulations.
+257.710b Safety belts; bolts and brackets.
+257.710c Bumpers; height limitations; lift blocks; prohibited modifications; construction of section; applicability; definitions.
+257.710d Child restraint system required; position; exceptions; violation as civil infraction; points; abstract; exemption by rules; alternate means of protection.
+257.710e Safety belt required; driver or passenger to which section inapplicable; transporting child 13 years of age but less than 16 years of age; use of lap belt for purpose of road construction or maintenance; enforcement of section; violation as evidence of negligence; reduction of recovery for damages; violation as civil infraction; reports of inappropriate enforcement; intent; assessment of points prohibited.
+257.710f Adoption of program to encourage compliance.
+257.710g Child car seat safety grant program; establishment.
+257.711 Safety glass required; safety plastic on buses; “safety glass” defined; penalties
+257.711a Repealed. 1990, Act 188, Eff. Aug. 15, 1990.
+257.712, 257.713 Repealed. 2002, Act 282, Imd. Eff. May 9, 2002.
+257.714 Repealed. 1980, Act 487, Imd. Eff. Jan. 21, 1981.
+257.714a, 257.714b Repealed. 2005, Act 179, Imd. Eff. Oct. 20, 2005.
+INSPECTION OF VEHICLES
+257.715 Maintenance of equipment on vehicles; stopping and inspecting vehicles; citation for defects in equipment; inspection of vehicles involved in accident; temporary vehicle check lanes.
+257.715a Inspection of certain school buses, buses, or other motor vehicles with seating capacity of 12 or more; delegation of inspection; rules.
+257.716 Exceeding size and weight limitations as misdemeanor; exceptions; rules; operation of wrecker, disabled vehicle, and trailer; noncompliance as civil infraction; fine.
+257.717 Maximum permissible width of vehicle or load; extension beyond center line of highway; permit; designation of highway for operation of vehicle or vehicle combination; special permit; boat lift or trailer; snowplow blade; violation as civil infraction; charging owner.
+257.718 Width of load carried on passenger type vehicle; violation as civil infraction.
+257.719 Height of vehicle; liability for damage to bridge or viaduct or resulting injury; normal length maximum; prohibitions; length of certain vehicles prohibited from operation on state highways; combination of truck and semitrailer transporting assembled motor vehicles or bodies; connecting assemblies and lighting devices; gross weight; violation as civil infraction; applicability of subsections (2)(a) and (3)(b); definitions.
+257.718 Width of load carried on passenger type vehicle; violation as civil infraction.
+257.719 Height of vehicle; liability for damage to bridge or viaduct or resulting injury; normal length maximum; prohibitions; length of certain vehicles prohibited from operation on state highways; combination of truck and semitrailer transporting assembled motor vehicles or bodies; connecting assemblies and lighting devices; gross weight; violation as civil infraction; applicability of subsections (2)(a) and (3)(b); definitions.
+257.717 Maximum permissible width of vehicle or load; extension beyond center line of highway; permit; designation of highway for operation of vehicle or vehicle combination; special permit; boat lift or trailer; snowplow blade; violation as civil infraction; charging owner.
+257.719c Truck and semitrailers used for transporting passengers for sightseeing purposes.
+257.720 Construction or loading of vehicles to prevent contents from escaping; exception; closing tailgates, faucets, and taps; exemption; proof of violation; loading of vehicles not completely enclosed; prima facie liability; exceptions; front end loading device; violation; penalty; "logs" defined.
+257.721 Passenger vehicle or pickup truck towing vehicle or trailer; drawbar or other connection; coupling devices and safety chains; pickup truck with fifth wheel assembly; conditions for towing additional trailer or semitrailer; speed limit requirements; violation as civil infraction.
+257.722 Maximum axle load; normal loading maximum; designating highways as adequate for heavier loading; restrictions as to tandem axle assemblies; exceptions; public utility vehicles; normal size of tires; maximum wheel load; reduction of maximum axle load on concrete pavements during March, April, and May; exemptions; suspension of restrictions; determination of gross vehicle weight and axle weights; designation of highways for operation of certain vehicles; increase in axle loading maximums; engine fueled by compressed or liquefied natural gas; electric batteries; definitions.
+257.723 Towing or platform bed wreckers or road service vehicles; compliance with federal identification requirements; violation as civil infraction.
+257.724 Stopping vehicle for weighing; shifting or removing load; civil fine and costs; moving vehicle to place of safekeeping; impoundment; lien; foreclosure sale; powers of authorized agent; unlawful weight as civil infraction; fine; driving duly marked vehicle; failure to stop as misdemeanor.
+257.725 Special permit for certain vehicles and loads required; fees; violation as civil infraction; annual permit for movement of construction equipment; "jurisdictional authority" defined.
+257.725a Transportation of farm machinery or implements by dealer; annual permit; condition.
+257.726 Prohibitions, limitations, or truck route designations by local authorities and county road commissions; signs; written objection by adjoining township; violation as civil infraction; exception for agricultural equipment.
+257.726a Enforcement of act on boundary streets or highways.
+257.726b Violation as to load, weight, or height of vehicle or load; powers of police officer.
+257.726c Duly authorized agent of county road commission; shoulder patch required; firearm.
+257.727 Arrest without warrant; arraignment by magistrate or family division of circuit court.
+257.727a Repealed. 1979, Act 66, Eff. Aug. 1, 1979.
+257.727b Citation books; issuance; receipt.
+257.727c “Citation” defined; numbering, form, and parts of citation; modification and optional use of citation; complaint signed by police officer as made under oath; conditions.
+257.728 Arrest without warrant; preparation and contents of citation; informing offender of violation; arraignment before magistrate or probate court; appearance; guaranteed appearance certificate or deposit; fees; violation by officer or magistrate; issuance of citation to operator involved in accident; issuance of citation to person operating commercial motor vehicle.
+257.729 Fine and costs.
+257.730 Provisions governing arrests without warrant and issuance of citations; execution of warrant.
+257.731 Evidence of conviction or civil infraction determination inadmissible in civil action.
+257.732 Record of cases; forwarding abstract of record or report to secretary of state; settlement; abstracts forwarded; "felony in which a motor vehicle was used" defined; statement; "felony in which a commercial motor vehicle was used" defined; certification that all abstracts forwarded; noncompliance as misconduct in office; location and public inspection of abstracts; entering abstracts on master driving record; exceptions; informing courts of violations; entering order of reversal in book or index; modifications; abstract as part of written notice to appear; immediate report; expunction prohibited.
+257.732c Workforce training payment program; creation; development; administrator; definitions.
+257.732d Repealed.
+257.733 Release of accident information to nongovernmental agency; exception
+257.741 Civil infraction action as civil action; commencement; plaintiff; jurisdiction; time and place for appearance; venue.
+257.742 Stopping, detaining, and issuing citation for civil infraction; pursuing, stopping, and detaining person outside village, city, township, or county; purpose; violation as to load, weight, height, length, or width of vehicle or load; powers of police officer; issuing citation to driver of motor vehicle; form of citation; informing person of alleged civil infraction; delivering copy of citation to alleged offender; issuing, serving, and processing citations for parking and standing violations; filing citation with court; camera-based violation citation by mail; “parking violation notice” and "parking violations bureau" defined.
+Sec. 743.
+Sec. 744.
+Sec. 744a.
+Sec. 745.
+Sec. 746.
+Sec. 747.
+Sec. 748.
+Sec. 749.
+Sec. 750.
+Chapter VIA STREETCARS
+Sec. 790.
+Sec. 791.
+Sec. 791a.
+Sec. 791b.
+Sec. 791c.
+Sec. 791d.
+Sec. 791e.
+Sec. 791f.
+Sec. 791g.
+Sec. 792.
+Sec. 793.
+Sec. 801.
+(b) For a trailer coach attached to a motor vehicle, the tax must be assessed as provided in subdivision (l).
+(c) For a road tractor, modified agricultural vehicle, truck, or truck tractor owned by a farmer and used exclusively in connection with a farming operation, including a farmer hauling livestock or farm equipment for other farmers for remuneration in kind or in labor, but not for money, or used for the transportation of the farmer and the farmer's family, and not used for hire, 74 cents per 100 pounds of empty weight of the road tractor, truck, or truck tractor. If the road tractor, modified agricultural vehicle, truck, or truck tractor owned by a farmer is also used for a nonfarming operation, the farmer is subject to the highest registration tax applicable to the nonfarm use of the vehicle but is not subject to more than 1 tax rate under this act.
+(d) For a road tractor, truck, or truck tractor owned by a wood harvester and used exclusively in connection with the wood harvesting operations or a truck used exclusively to haul milk from the farm to the first point of delivery, 74 cents per 100 pounds of empty weight of the road tractor, truck, or truck tractor.
+(e) For a hearse or ambulance used exclusively by a licensed funeral director in the general conduct of the licensee's funeral business, including a hearse or ambulance whose owner is engaged in the business of leasing or renting the hearse or ambulance to others, $1.17 per 100 pounds of the empty weight of the hearse or ambulance.
+(f) For a vehicle owned and operated by this state, a state institution, a municipality, a privately incorporated, nonprofit volunteer fire department, or a nonpublic, nonprofit college or university, $5.00 per plate.
+(g) For a bus including a station wagon, carryall, or similarly constructed vehicle owned and operated by a nonprofit parents' transportation corporation used for school purposes, parochial school or society, church Sunday school, or any other grammar school, or by a nonprofit youth organization or nonprofit rehabilitation facility; or a motor vehicle owned and operated by a senior citizen center, $10.00, if the bus, station wagon, carryall, or similarly constructed vehicle or motor vehicle is designated by proper signs showing the organization operating the vehicle.
+(h) For a vehicle owned by a nonprofit organization and used to transport equipment for providing dialysis treatment to children at camp; for a vehicle owned by the Civil Air Patrol, as organized under 36 USC 40301 to 40307, $10.00 per plate, if the vehicle is designated by a proper sign that shows the Civil Air Patrol's name; for a vehicle owned and operated by a nonprofit veterans center; for a vehicle owned and operated by a nonprofit recycling center or a federally recognized nonprofit conservation organization; for a motor vehicle having a truck chassis and a locomotive or ship's body that is owned by a nonprofit veterans organization and used exclusively in parades and civic events; or for an emergency support vehicle used exclusively for emergencies and owned and operated by a federally recognized nonprofit charitable organization; or for a vehicle owned and operated by a nonprofit food pantry or nonprofit food bank, $10.00 per plate.
+(i) For each truck owned and operated free of charge by a bona fide ecclesiastical or charitable corporation, or Red Cross, Girl Scout, or Boy Scout organization, 65 cents per 100 pounds of the empty weight of the truck.
+(j) For each truck, weighing 8,000 pounds or less, and not used to tow a vehicle, for each privately owned truck used to tow a trailer for recreational purposes only and not involved in a profit-making venture, and for each vehicle designed and used to tow a mobile home or a trailer coach, except as provided in subdivision (b), $38.00 or an amount computed according to the following schedule of empty weights, whichever is greater:
+(k) For each truck weighing 8,001 pounds or more, road tractor, or truck tractor, except as provided in subdivision (j), according to the following schedule of elected gross weights:
+(l) For each pole trailer, semitrailer, trailer coach, or trailer, the tax must be assessed according to the following schedule of empty weights:
+(m) For each commercial vehicle used for the transportation of passengers for hire except for a vehicle for which a payment is made under 1960 PA 2, MCL 257.971 to 257.972, according to the following schedule of empty weights:
+(n) For each motorcycle, as follows: (i) Until February 18, 2019 $ 23.00 (ii) Beginning February 19, 2019 $ 25.00
+257.801a Registration fees; portable feed mills or mixers.
+257.801b Refund of specific tax paid in error; refund of dealer license fees; refund on and return of registration plates or tabs; refund in case of original application for certain registration plates; refund or credit for plates issued under MCL 257.801g.
+257.801c Nonpayment of check or draft for fee or tax on vehicle; liability; penalties; collection of delinquent accounts.
+257.801e Moped; application for registration; form; signature; fee; issuance and contents of certificate of registration; insurance; size, legibility, and inspection of certificate; issuance and display of decal; rules; certificate of registration for use in testing or demonstrating moped; duration of registration.
+257.801f Moped; notice of destruction or abandonment; surrender and cancellation of certificate of registration; notice of change of address; transfer of certificate; fee; duration of registration; duplicate certificate.
+257.801g Apportionment of fee under international registration plan if permitted by reciprocal compact, agreement, or other arrangement; definition; issuance of registration plate and cab card upon payment of apportioned fee; purchase of annual international registration plan plates; service fee; notice; effect of late payment; effect of surrendering or not surrendering registration plate; temporary registration.
+257.801h Fleet registration; application; issuance and display of registration plates; tax; late fee; adding or deleting registration; ineligible vehicle; determination of owner's compliance.
+257.801i Issuance of registration for more than 1 period.
+257.801j Additional tax charged by regional transit authority.
+257.802 Special registration; registration of commercial vehicles and special mobile equipment; temporary registration plates or markers; tax rates, fees, and service charges; deposit of service fees.
+Sec. 802a.
+257.803 Special plates for manufacturer, transporter, or dealer; fees.
+257.803a Issuance of historic vehicle registration plate or registration tab; fee; certification; registration certificate; registration transferable; expiration or revocation of registration.
+257.803a.amended Issuance or renewal historic vehicle registration plate; fee; certification; registration certificate; registration transferable; expiration or revocation of registration.
+257.803b Personalized registration plate; use; letters and numbers; material; duplication prohibited; submission of application; payment, disposition, and use of service fee; expiration date; letters and numbers given to different person in subsequent year; other sequence of letters and numbers; temporary permit.
+257.803b.amended Personalized registration plate; use; letters and numbers; material; duplication prohibited; submission of application; payment, disposition, and use of service fee; expiration date; letters and numbers given to different person in subsequent year; other sequence of letters and numbers; temporary permit.
+257.803c Personalized registration plates; confiscation for improper use.
+257.803d Special registration plates for disabled persons or for vehicles used to transport disabled persons; inscription; statements; fees; application; violation; penalty; "disabled person" defined.
+257.803e Special registration plate; inscription; application; form; proof; issuance of plate; exemption; misdemeanor; expiration of plate;   application for renewal; "blue star family member" and "gold star family member" defined.
+257.803f Special registration plates for disabled veterans and surviving spouses; inscription; application; form; service fee prohibited; proof; tax exemption; expiration of plates; renewal; tab for persons with disabilities; misdemeanor.
+257.803g Special registration for member of congress from Michigan; issuance; expiration; fee.
+257.803h Tab for persons with disabilities; "disabled person" defined.
+257.803i Special registration plate for member of National Guard, military reserve, or armed forces; display of vignette; inscription; application form; proof; issuance; tab for persons with disabilities; tax; misdemeanor; expiration; renewal.
+257.803j Special registration plate; inscription; military service; person; etc.
+257.803j Special registration plate for member or spouse of member of armed forces during Korean War; display of vignette; inscription; application form; proof; issuance; tab for persons with disabilities; tax; misdemeanor; expiration; renewal.
+257.803k Special registration plate for member or spouse of member of armed forces during Vietnam War; display of vignette; inscription;   application form; proof; issuance; tab for persons with disabilities; tax; misdemeanor; expiration; renewal.
+257.803m Special organization plates.
+257.803n Special registration plate for member or spouse of member of National Guard, reserve, or branch of armed forces during Persian Gulf War or conflicts in Grenada, Panama, or Lebanon; display of vignette; inscription; application form; proof; issuance; tab for persons with disabilities; tax; misdemeanor; expiration; renewal.
+257.803o Special registration plate for member or spouse of member of National Guard, reserve, or branch of armed forces called to active duty during declared war or armed conflict; display of vignette; inscription; application form; proof; issuance; tab for persons with disabilities; tax; misdemeanor; expiration; renewal.
+257.803t Special "Merchant Marine" registration plate.
+257.803u.added Special registration for woman veteran; issuance; expiration.
+257.804 Fee for distinctive or commemorative plate and duplicate or replacement license plate; deposit into transportation administration collection fund.
+257.805 Application for issuance or renewal of motor vehicle registration or replacement registration tab or sticker; recreation passport fee; format and language of motor vehicle application; transfer of revenue; adjustment of amounts in subsection (1); annual review; registration tab or sticker; payment as personal information; definitions.
+257.807 License fees.
+257.808 Liens on motor vehicles; fees.
+257.809 Application for transfer of registration; fee; payment of difference in fee; deposit into transportation administration collection fund.
+257.810 Disposition of fees.
+257.810a Assessment; collection; disposition; purpose.
+257.810b Transportation administration collection fund; creation; investment, disposition, and expenditure of money; payments under certain sections of law; report of itemized list of deposits and expenditures; review of funds to be used to leverage additional federal funds.
+257.811a Motorcycle safety course; conducting; amount and use of fees; duties of secretary of state; rules; designation, qualifications, and funding of state coordinator of motorcycle safety education program; annual inspections; fulfillment of waiver requirement; audit.
+257.811b Motorcycle safety course conducted by private business enterprise; rules; fulfillment of waiver requiremen
+257.811c Repealed. 2006, Act 562, Eff. Jan. 1, 2007.
+257.811d Definitions; fund-raising registration plate; requirements; design or logo by university or other person; written agreement.
+257.811e Fund-raising plate.
+Sec. 811f.
+257.811g Collector plate; display; purchase; ceasing sale.
+257.811h Disposition of service fee collections; separate accounts; disbursement; ceasing issuance of fund-raising plate; ownership of right, title, and interest; royalty fee; report
+257.811i Plates recognizing water quality; collection of donations; creation of water quality protection fund; definitions.
+257.811j Children's trust fund-raising plate or collector plate; collection of donations.
+257.811k Michigan lighthouse preservation grant fund; creation and expenditure of fund; annual accounting; grant awards; transfer and disposition of collected donations; "state historic preservation office" defined.
+257.811l Critical nongame wildlife habitat fund-raising plate and collector plate; collection of donations; transfer and disposition.
+257.811m Plates recognizing Michigan veterans memorial; donations.
+257.811n Agricultural heritage; fund-raising donations; collection; transfer and disbursement.
+257.811o American pride; design; transfer and disbursement; proud to be American fund; report.
+257.811p Olympic education-training center; design; logo; transfer and disbursement.
+257.811q Support for our troops; design; transfer and disbursement; support our troops fund; report.
+257.811r Fund-raising plate; boy scouts of America; fund.
+257.811s Thomas Daley gift of life fund; creation; deposit of money or other assets; money remaining at close of fiscal year; transfer; administration for auditing purposes; expenditures; "fund" defined.
+257.811t Fund-raising plate recognizing anatomical gift donation.
+257.811v Fund-raising plate and matching collector plate; ducks unlimited.
+257.811w Ducks unlimited fund; creation; investment; disbursement.
+257.811x Fund-raising plate recognizing Michigan breast and cervical cancer control program.
+257.811y Amanda's fund for breast cancer prevention and treatment; transfer of donation money from sale of fund-raising plates; summary of expenditures; "Michigan breast and cervical cancer control program" defined.
+257.811z Fund-raising plate recognizing be the match; be the match fund; creation; transfer of donation money; disbursement; state treasurer as administrator; expenditure.
+257.811aa Repealed. 2024, Act 81, Eff. Apr. 2, 2025.
+257.811bb Plates recognizing Michigan veterans; donations; Michigan veterans engagement fund; creation; administrator; money remaining in fund at close of fiscal year; disbursement to Michigan veterans affairs agency; expenditures.
+257.811cc Fund-raising plate recognizing Detroit Red Wings.
+257.811dd Fund-raising plate recognizing Detroit Tigers.
+257.811ee Fund-raising plate recognizing Detroit Lions.
+257.811ff Fund-raising plate recognizing Detroit Pistons.
+257.811hh Fund-raising plate; recognizing sickle cell anemia education and treatment; sickle cell anemia awareness fund.
+257.811ii Michigan 4-H fund-raising plate.
+257.811jj Michigan 4-H Foundation fund.
+257.812 Fee for duplicate or corrected license; renewal.
+257.813 Certified copies of records.
+257.814 Use tax; collection; disposition; collection upon registration of nonresident vehicle in this state.
+257.815 Application for registration or for transfer of license; statement of sales tax due; form; copies; exemption; certification; transmitting statement and sales tax funds to department of treasury; issuing or transferring title or license plates on motor vehicle sold by dealer; conditions; compensation for collection of sales tax.
+257.816 Acceptance of credit cards for payment of tax or fee.
+257.817 Liability.
+257.818 Repealed.
+257.819 Disposition and use of revenues from increases in fees.
+257.821 Disposition and use of fees.
+Chapter VIII PENALTIES
+257.901 Violation as misdemeanor; penalty; civil infraction.
+257.901a Violation of MCL 257.311; waiver of fine and costs; certification.
+257.902 Violation of act; felony, penalty.
+257.903 False certification as felony; penalty.
+257.904 Operating vehicle if license, registration certificate, or vehicle group designation suspended, revoked, or denied; penalty; extending period of suspension or revocation; enhanced sentence; furnishing record to court; applicability.
+257.904b Vehicle immobilization; order; "vehicle immobilization" and "prior conviction" defined.
+257.904e Vehicle immobilization; manner; storage; removal; impoundment.
+257.904f Vehicle registration records; disclosure.
+257.905 Violation of financial responsibility chapter; penalty.
+257.906 Right of police officer to enter upon private road.
+257.907 Civil infraction; payment of civil fine and costs; certification of repair of defective equipment; collection of civil fines or costs; waiver of fine, cost, and assessment; civil infraction arising out of ownership or operation of commercial quadricycle; "moving violation" defined.
+257.907a Work zone safety fund.
+257.908 Default as civil contempt; penalty.
+257.909 Application and allocation of civil fines to public and county law libraries; allocation of civil fines under MCL 257.682 to school districts; allocation of civil fines under 257.907 to work zone safety fund.
+257.910 Conviction based on plea of nolo contendere; treatment.
+Chapter IX MISCELLANEOUS
+257.921 Repeal.
+257.922 Saving clause.
+257.922a Act inapplicable to racing event.
+257.923 Short title.
+257.929 Transfer of Michigan council on future mobility from department of transportation to the department of labor and economic opportunity by type III transfer; abolishment of Michigan council on future mobility; creation of the Michigan council on future mobility and electrification as advisory body within department of labor and economic opportunity; composition; powers, duties, and functions; implementation and transfer of powers, duties, and functions.
+257.931 Loans to motor carriers; prerequisites; purpose; loans as investments for state recreational land acquisition trust fund; investigation; determination; applicability of section; condition of loan.
+257.932 Loans to motor carriers; application; form; evidence of ownership; cost of modification or replacement; repayment plan; review and certification of application; time limitation.
+257.933 Loans to motor carriers; amount; interest rate; time limitation; collection of repayments; restrictions; amount of money invested; appropriations.
+257.934 Creation of security interest in name of state on vehicle; sign disclosing state's lien.
+257.935 Disposition of revenues.
+257.936 Conditional effective date.
+257.937 Rules.
+257.941 Definitions.
+257.942 Local ordinances.
+257.942a Designation of parking spaces for persons with disabilities; ordinance.
+257.942b Signs or other traffic control devices.
+257.943 Violation as civil infraction; processing violation.
+UNIFORM TRAFFIC CODE
+257.951 Uniform traffic code; promulgation; adoption by reference; parking lot; entry upon private road; violation as misdemeanor or civil infraction; civil sanctions; processing of civil infraction; designating parking space for persons with disabilities; provisions relating to driving under influence or with impaired ability; “vehicle code” defined.
+257.952 Identification and publication of code adopted by reference; notice.
+257.953 Amendment of code; adoption.
+257.954 Inspection of code.
+257.955 Operation of commercial vehicle; payment and allocation of civil fine; exception; issuance of more than 1 citation; equipment violations; training requirements as motor carrier enforcement officer; definitions.
+REGULATION OF VEHICLES ON SCHOOL PROPERTY
+257.961 School property; municipal regulation of operation, parking and speed of vehicles.
+TAX ON PUBLIC TRANSPORTATION VEHICLES
+257.971 Definitions.
+257.972 Tax payable in lieu of specific weight taxes; exception.
+257.973 Repealed.
+VEHICLE EQUIPMENT SAFETY COMPACT
+VEHICLE EMISSIONS INSPECTION AND MAINTENANCE ACT
+MOTOR VEHICLE ACCIDENT CLAIMS ACT
+257.1101 Motor vehicle accident claims act; short title.
+257.1102 Definitions.
+257.1103 Motor vehicle accident claims fund; financial statement; audit; deposits or investments; reversion of unexpended moneys; powers of commissioner of insurance; report; annual statement; examination of records; false evidence of insurance as misdemeanor; use of records or information; prohibition; penalty.
+257.1103a Transfer of cash to general fund; reimbursement.
+257.1104 Repealed.
+257.1105 Service of process; secretary of state as agent; procedure; failure to serve as bar to recovery; intervention; exception; limitation on payment.
+257.1106 Death or injury by uninsured motorist; application for payment from fund; disputing liability; payment; subrogation; suspension; default in payments.
+257.1107 Judgment for damages caused by uninsured motorist; application for payment; notice to applicant of objection to payment; action against all defendants.
+257.1108 Default judgment; notice to secretary of state; reopening; settlements.
+257.1109 Prerequisite to payments from fund; settlement of claim.
+257.1110 Suspension of licenses; reinstatement, conditions.
+257.1111 Default in installment payment; suspension of licenses.
+257.1112 Death or injury by unidentified vehicle or driver; action against fund; condition precedent.
+257.1113 Death or injury by unidentified vehicle or driver; adding secretary as defendant; condition.
+257.1114 Repealed.
+257.1115 Death or injury by stolen vehicle; action against secretary of state.
+257.1116 Death or injury by stolen vehicle; general denial by secretary of state.
+257.1117 Death or injury by stolen vehicle; judgment against secretary of state, prerequisites.
+257.1118 Recovery against fund; limitation of action; notice.
+257.1119 Judgment against secretary of state; payment; property damage payment.
+257.1120 Judgment against secretary of state; application for order identifying owner or driver of motor vehicle; order, effect.
+257.1121 Judgment against secretary of state; secretary not personally liable to satisfy judgment.
+257.1122 Payment from fund; prohibited when damages paid or payable from insurance.
+257.1123 Payments for injury, death, or property damage; limitations; recovery of excess payments.
+257.1124 Residence; date of determination.
+257.1125 Nonresident; payment from fund prohibited, exception.
+257.1126 Administration of act by secretary of state; employment of assistants; use of staff of attorney general; wages and professional fees, payment.
+257.1127 Administration of act; costs, payment; appropriation.
+257.1128 Claims or actions against fund; limitation.
+257.1129 Coverage by workmen's compensation law; recovery from fund; exception.
+257.1130 Practice and procedure in courts where application made; appeals.
+257.1131 Effective date of act.
+257.1132 Total loss of vehicle; surrender of title, junking.
+257.1133 Act inapplicable to accidents occurring after January 2, 1976.
+AMBULANCES
+Act 258 of 1968
+Act 330 of 1976
+VEHICLE PROTECTION PRODUCT ACT
+257.1241 Short title.
+257.1243 Definitions.
+257.1245 Sale of warranted product; compliance required; exception.
+257.1247 Notice; form; filing; contents; availability to public; fee; failure to file notice; exception.
+257.1249 Warranty reimbursement insurance policy; other financial security requirements or financial standards not required; additional requirements.
+257.1255 Prohibited conduct.
+257.1257 Accounts, books, and records.
+257.1259 Rules; promulgation.
+257.1261 Applicability of act.
+257.1263 Enforcement; powers of attorney general.
+MOTOR VEHICLE SERVICE AND REPAIR ACT
+257.1301 Short title.
+257.1302 Definitions; A to L.
+257.1302a Definitions; M to W.
+257.1303 Act inapplicable to gasoline service stations exclusively engaged in selling motor fuel and lubricants; minor repair services subject to act; exception.
+257.1304 Act inapplicable to certain persons.
+257.1305 Motor vehicle repair facility; certified specialty or master mechanic required; inspection and approval of work performed by noncertified mechanic; waiver.
+257.1306 Motor vehicle repair facility; registration required.
+257.1306a Motor vehicle repair facility providing BAIID service; approval of department; requirements; term; inspection.
+257.1307 Prohibited conduct.
+257.1307a Prohibited conduct.
+257.1307b Prohibited conduct.
+257.1307c Prohibited conduct.
+257.1307d Prohibited conduct.
+257.1307e Prohibited conduct.
+257.1307f Prohibited conduct.
+257.1308 Administration of act; nonaffiliation with facility.
+257.1309 Powers and duties of administrator; rules.
+257.1310 Certification as specialty mechanic; certification fee; initial specialty mechanic's certificate in BAIID service; examination; qualification certificate as master mechanic for automobiles, light trucks, or heavy-duty trucks.
+257.1310a Performance of BAIID service; certificate required; requirements; written installation verification.
+257.1310b Certification as specialty or master mechanic for automobiles and light trucks or heavy-duty trucks; certification as master motorcycle mechanic; certification as recreational trailer mechanic; eligibility.
+257.1311 Application for specialty or master mechanic's certificate; form; contents; terms; renewal.
+257.1312 Examination.
+257.1313 Mechanic trainee permit; duration; supervision; educational institution.
+257.1313a Training to mechanics or mechanic trainees; approval of school, academy, or similar establishment; contract.
+257.1313b Display of current and valid certificate; name and certification number to be affixed to statement of repairs; compliance with accepted motor vehicle repair industry standards; violation of subsection (3).
+257.1314 Registration form; contents.
+257.1315 Registration; expiration; renewal; operation pending renewal approval; fee; single registration form for more than 1 facilit
+257.1316 Change in ownership or name and address of facility; notice; owner as corporation; "change of ownership" defined.
+257.1317 Inspection; "reasonable business records" defined.
+257.1318 Records; inspection; "reasonable business records" defined; retention; time periods; records to be maintained by facility engaging in body work; contents; police book; dealer's license required.
+257.1319 Loss, destruction, or mutilation of registration, certificate, or trainee permit; replacement.
+257.1320 Specialty or master mechanic certificate; date of approval; expiration; renewal; conduct pending renewal.
+257.1321 Cease and desist order.
+257.1321a Summary suspension of registration, certificate, or mechanic trainee permit; affidavit; hearing; setting aside, continuing, or modifying order of summary suspension.
+257.1322 Administrative action against certain conduct; violation of subsection (1); powers of administrator; probation; conditions; oth lawful remedies and sanctions.
+257.1323 Action by attorney general or county prosecutor.
+257.1324 Notice of alleged violation.
+57.1325 Action by administrator not restricted by expiration or absence of registration, certificate, or perm
+257.1326 Public or private investigation by administrator; additional powers of administrator.
+257.1327 Voluntary assurance of discontinuance of alleged violation.
+257.1328 Oaths or affirmations; subpoena; order compelling compliance; contempt.
+257.1329 Service of process.
+257.1330 Fees.
+257.1331 Acts or practices barring action on contract, action for collection of compensation, or assertion of lien; recovery of amount paid unregistered facility.
+257.1332 Written estimate required; consent to excess charge; payment of actual cost if cost less than estimate; cost of returning vehicle to original condition; cost of diagnosis; waiver of rights; display of certificate of repair facility registration; inclusion of registration number on document.
+257.1332a Consumer information sign.
+257.1333 Right to receive or inspect replaced parts; notice; exchange agreement; disposition of replaced parts; display of sign at entrance of facility.
+257.1334 Written statement required upon return of repaired vehicle.
+257.1334a Written estimate not required if total cost less than $50.00; statement including actual cost of repairs.
+257.1335 False statement, misrepresentation, or failure to comply with cease and desist order.
+257.1336 Liability for damage or injury.
+257.1337 Mechanic or mechanic trainee as agent; joint and several liability; right to contribution.
+257.1338 Violation; penalty.
+257.1339 Rescission of R 257.101 to R 257.173.
+257.1340 Disposition of fees.
+USED MOTOR VEHICLE PARTS
+257.1352 Record of transaction.
+257.1352a Form of payment.
+257.1353 Failure to make entry in record as misdemeanor or felony; penalties.
+257.1354 Violation as misdemeanor or felony; penalties.
+257.1355 Felonious conduct; penalty.
+AFTERMARKET CRASH PARTS ACT
+257.1361 Short title.
+257.1362 Definitions.
+257.1363 Non-OEM aftermarket crash parts; use.
+257.1364 Effective date.
+257.1402 Repair of defect or condition; report.
+257.1403 Continued existence of defect or condition; replacement of motor vehicle or refund; allowance for use; reimbursement for towing costs and costs for rental vehicle; determination of ordinary and personal use; consent to replacement of security interest; presumption; performing repairs after expiration of warranty; extension of time for repair services.
+257.1403 Continued existence of defect or condition; replacement of motor vehicle or refund; allowance for use; reimbursement for towing costs and costs for rental vehicle; determination of ordinary and personal use; consent to replacement of security interest; presumption; performing repairs after expiration of warranty; extension of time for repair services. (continued)
+257.1404 Other legal remedies not limited or prohibited.
+257.1405 Informal dispute settlement procedure.
+257.1406 Defects or conditions to which act inapplicable.
+257.1407 Waiver of rights and remedies prohibited; recovery of costs, expenses, and attorneys' fees.
+257.1408 Written statement to be included with title or documentation; type size; form; accessibility to public.
+257.1409 Applicability of act.
+257.1410 Effective date.
+THE MICHIGAN SNOWMOBILE ACT
+ELECTRIC PATROL VEHICLE ACT
+257.1571 Short title.
+257.1572 Definitions.
+257.1573 Electric patrol vehicle; operation; prohibition.
+257.1574 Electric patrol vehicle; operation by law enforcement, emergency service, and parking enforcement employees; authorization.
+257.1575 Electric patrol vehicle; limitation.
+257.1576 Electric patrol vehicle; equipment; exemption.
+257.1577 Crash helmet required; exception.
+OFF-ROAD RECREATION VEHICLES
+CITY MOTOR VEHICLE RACING ACT OF 1981
+257.1701 Short title.
+257.1702 Definitions.
+257.1703 Permit to conduct racing event in city required.
+257.1704 Permit fee.
+257.1705 Issuance of racing event permit; conditions; determination.
+257.1706 Powers of person conducting racing event; protecting private property rights and not preventing access to governmental facilities.
+257.1707 Powers of city.
+257.1708 Racing event and other actions as being for public purposes.
+257.1709 Racing event and other actions as public or private nuisance.
+257.1710 Racing event and other actions as violation of MCL 257.1 et seq. or MCL 247.171 et seq.
+257.1711 Liability for damages.
+257.1712 Restoration of highways or streets, alleys, sidewalks, and buildings required.
+THE PUPIL TRANSPORTATION ACT
+257.1801 Short title.
+257.1803 Meanings of words and phrases.
+257.1805 Definitions; L to S.
+257.1807 Definitions; S, T.
+257.1809 Pupil transportation; regulation; routes; vehicles and equipment; rules
+257.1810 Transportation of pupils; federal motor vehicle safety standards; restrictions.
+257.1810a Contract with motor carrier; authorization.
+257.1811 Applicability of MCL 257.1811 to 257.1821; body width and height of type I and type II school buses; attachment of bus to chassis;   use of spacers; bus floor; doors; steps; emergency exit; insulation; book racks prohibited; electrical system; secured items.
+257.1813 Air brake system.
+257.1815 Exterior lamps and signals on bus.
+257.1817 Signal lights; stoplights; flasher lamps; applicability to school buses manufactured before October 1, 1990; conformance with federal regulations.
+257.1819 Red and amber signal lights; applicability to new school buses.
+257.1820 Stop-arm camera system; agreement with law enforcement agencies.
+257.1821 Windshield wipers and washers, washer reservoir, and windshield.
+257.1823 Vision; mirrors; sun shades; applicability.
+257.1825 Fire extinguisher; first aid kit; fusees and reflectors.
+257.1827 Safety glass; push-out window sash; definition.
+257.1829 Fuel tank or container; intake pipe; fuel lines.
+257.1831 Flashing, oscillating, or rotating light; location; color; use; conditions
+257.1833 Paint; applicability.
+257.1835 Repealed. 2006, Act 107, Eff. Aug. 15, 2006.
+257.1837 Repealed. 2006, Act 107, Eff. Aug. 15, 2006.
+257.1839 Inspections.
+257.1841 Rejection; red sticker; yellow sticker; reinspection; passing sticker.
+257.1843 Inspection of new school bus; acceptance of delivery.
+257.1849 Age of driver; chauffeur's license, vehicle group designation, passenger vehicle indorsement, and school bus indorsement required;   
+persons prohibited from operation of school bus; administration of commercial driver license skills test.
+257.1851 School bus safety education; training program.
+257.1852 Repealed. 2006, Act 107, Eff. Aug. 15, 2006.
+257.1853 Drivers of school buses; qualifications; records; background check; prohibition on smoking; alcoholic liquor or controlled substance on bus; third party reimbursement or certain benefits not required.
+257.1859 Persons eligible for transportation; applicability of subsection (1); limitation as to seating; violation as civil infraction; fine; processing; "authorized person" defined.
+257.1865 Use of school bus for transporting persons other than pupils; mileage, insurance, fees, and other costs; priority; purchase of additional school buses; checking and servicing school buses; definition; rights of school employees; collective bargaining agreements.
+257.1869 Purchasing school buses; rehabilitation of school buses; costs; rules.
+257.1870 Advisory committee; establishment; purpose; membership; duties.
+257.1871 Instruction and training on new procedures.
+257.1873 Violation as civil infraction or felony; powers of motor carrier officer
+257.1875 Effective date.
+257.1877 Conditional effective date.
+LIMOUSINE TRANSPORTATION ACT
+257.2101 Short title.
+257.2102 Definitions.
+257.2103 Rules.
+257.2104 Limousine carrier, taxicab carrier, or transportation network company; registration required; fees; application; expiration; renewal; records; audit; public record; exception; application as void; cessation of fees.
+257.2105 Disclosure of information.
+257.2107 Operation of limousine or taxicab on behalf of carrier or company; application; submission; requirements; duties of carrier or company; operation prohibited; conditions; records subject to audit.
+257.2109 Vehicle safety inspection.
+257.2111 Signage, emblem, or department of licensing and regulatory affairs registration number.
+257.2113 Records.
+257.2115 Imposition of tax, fee, or license by local unit of government; validity of existing article of incorporation; applicability of subsection.
+257.2116 Enactment of ordinances and regulations by airport; "airport" defined.
+257.2117 Summary suspension of registration.
+257.2119 Limousine carrier; insurance coverage.
+257.2121 Taxicab carrier; insurance coverage.
+257.2123 Transportation network company driver or transportation network company on driver's behalf; automobile insurance.
+257.2125 Terms of service; disclosure by transportation network company to prospective driver.
+257.2127 Carrier or company as common, motor, or contract carrier; registration of personal vehicle as commercial or for-hire vehicle not required; "motor carrier" defined.
+257.2129 Service of process; agent.
+257.2131 Charging and collecting fee on behalf of transportation network company driver; conditions.
+257.2133 Display of picture and registration plate number by transportation network digital network.
+257.2135 Electronic receipt; information.
+257.2137 Transportation network company driver as independent contractor; conditions.
+257.2139 Zero-tolerance policy.
+257.2141 Acceptance of transportation request.
+257.2143 Payments for transportation.
+257.2145 Nondiscrimination; accommodation of service animals; services to passenger with physical disability.
+257.2147 Lease of limousine or taxicab; informing person of act requirements.
+257.2149 Certain conduct as misdemeanor; fine; proceeding.
+257.2151 Violation of act or rules.
+257.2153 Cease and desist order.
+Act 223 of 2024 THIS NEW ACT IS EFFECTIVE OCTOBER 17, 2025
+PEER-TO-PEER CAR SHARING PROGRAM ACT Act 223 of 2024
+257.2201.new Short title.
+257.2203.new THIS NEW SECTION IS EFFECTIVE OCTOBER 17, 2025
+257.2203.new Definitions.
+Sec. 41.
+257.2242.new Registration as shared vehicle owner; notification of implications of lien on shared vehicle.
+Sec. 42.
+257.2243.new THIS NEW SECTION IS EFFECTIVE OCTOBER 17, 2025
+Sec. 43.
+257.2244.new THIS NEW SECTION IS EFFECTIVE OCTOBER 17, 2025
+Sec. 44.
+257.2251.new THIS NEW SECTION IS EFFECTIVE OCTOBER 17, 2025
+Sec. 51.
+257.2252.new Peer-to-peer car sharing program; driver's license requirements; records.
+Sec. 52.
+257.2253.new Responsibility for shared vehicle equipment; indemnification.
+257.2254.new THIS NEW SECTION IS EFFECTIVE OCTOBER 17, 2025
+Sec. 54.
+257.2254.new Safety recalls; verification and notification requirements.
+257.2271.new Effective date.

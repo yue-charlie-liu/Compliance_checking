@@ -1,0 +1,1017 @@
+<<<Page 1>>>
+
+Model Work Health and Safety Regulations 
+
+as at 5 December 2025 
+
+As released by Safe Work Australia Published by the Parliamentary Counsel’s Committee 
+
+This is a consolidated version of the Model Work Health and Safety Regulations. These Regulations are a national model law and are intended to provide the basis for nationally consistent work health and safety laws. These Regulations do not, by themselves, have any legal effect. 
+
+<<<PAGE 2>>>
+
+Model Work Health and Safety Regulations 
+
+Contents 
+
+CHAPTER 1 PRELIMINARY 1 
+
+PART 1.1 INTRODUCTORY MATTER 1 
+
+1 Citation 1   
+2 Commencement 1   
+3 4 Authorising provisions 1   
+Revocation 1   
+5 Definitions 1   
+6 Determination of safety management system 33   
+7 (Repealed) 34   
+8 Meaning of supply 34   
+9 Provisions linked to health and safety duties in Act 34 
+
+PART 1.2 APPLICATION 
+
+35 
+
+10 Application of the Act to dangerous goods and high risk plant 35   
+11 Application of these Regulations 35   
+12 (Repealed) 35 
+
+PART 1.3 INCORPORATED DOCUMENTS 
+
+36 
+
+13 Documents incorporated as in force when incorporated 36   
+14 Inconsistencies between provisions 36   
+15 References to standards 36 
+
+CHAPTER 2 REPRESENTATION AND PARTICIPATION 37 
+
+PART 2.1 REPRESENTATION 37 
+
+Division 1 Work groups 37 
+
+16 Negotiations for and determination of work groups 37   
+17 Matters to be taken into account in negotiations 37 
+
+Division 2 Health and safety representatives 38 
+
+18 Procedures for election of health and safety representatives 38   
+19 Person conducting business or undertaking must not delay election 38   
+20 Removal of health and safety representatives 38   
+20A Notice of entry for person assisting health and safety representative 39   
+21 Training for health and safety representatives 40 
+
+PART 2.2 ISSUE RESOLUTION 
+
+41 
+
+22 Agreed procedure—minimum requirements 41   
+23 Default procedure 41 
+
+<<<PAGE 3>>>
+
+PART 2.3 CESSATION OF UNSAFE WORK 43 
+
+24 Continuity of engagement of worker 43 
+
+PART 2.4 WORKPLACE ENTRY BY WHS ENTRY PERMIT HOLDERS 44 
+
+25 26 Training requirements for WHS entry permits 44   
+Form of WHS entry permit 44   
+27 Notice of entry—general 45   
+28 Additional requirements—entry under Part 7, Division 2 45   
+28A (Repealed) 46   
+29 Additional requirements—entry under section 120 46   
+30 Additional requirements—entry under section 121 46   
+31 Register of WHS entry permit holders 47 
+
+CHAPTER 3 GENERAL RISK AND WORKPLACE MANAGEMENT 48 
+
+PART 3.1 MANAGING RISKS TO HEALTH AND SAFETY 48 
+
+32 33 34 Application of Part 3.1 48   
+Specific requirements must be complied with 48   
+Duty to identify hazards 48   
+35 Managing risks to health and safety 48   
+36 Hierarchy of control measures 48   
+37 Maintenance of control measures 49   
+38 Review of control measures 49 
+
+PART 3.2 GENERAL WORKPLACE MANAGEMENT 51
+
+Division 1 Information, training and instruction 51 
+
+39 Provision of information, training and instruction 51   
+Division 2 General working environment 51   
+40 Duty in relation to general workplace facilities 51   
+41 Duty to provide and maintain adequate and accessible facilities 52 
+
+
+
+Division 3 First aid 52 
+
+42 Duty to provide first aid 52   
+53 
+
+Division 4 Emergency plans 
+
+43 Duty to prepare, maintain and implement emergency plan 53   
+Division 5 Personal protective equipment 54   
+44 Provision to workers and use of personal protective equipment 54   
+45 Personal protective equipment used by other persons 55   
+46 Duties of worker 56   
+47 Duty of person other than worker 56 
+
+
+
+Division 6 Remote or isolated work 56 
+
+48 Remote or isolated work 56   
+Division 7 Managing risks from airborne contaminants 57   
+49 Ensuring exposure standards for substances and mixtures not exceeded 57   
+50 Monitoring airborne contaminant levels 57 
+
+
+
+Division 8 Hazardous atmospheres 58 
+
+51 Managing risks to health and safety 58 
+
+<<<PAGE 4>>>
+
+52 Ignition sources 58 
+
+Division 9 Storage of flammable or combustible substances 58 
+
+53 Flammable and combustible material not to be accumulated 58   
+Division 10 Falling objects 59   
+54 Management of risk of falling objects 59   
+55 Minimising risk associated with falling objects 59 
+
+
+
+Division 11 Psychosocial risks 59 
+
+55A Meaning of psychosocial hazard 59   
+55B Meaning of psychosocial risk 60   
+55C Managing psychosocial risks 60   
+55D Control measures 60 
+
+CHAPTER 4 HAZARDOUS WORK 62 
+
+PART 4.1 NOISE 62 
+
+56 Meaning of exposure standard for noise 62   
+57 Managing risk of hearing loss from noise 62   
+58 Audiometric testing 62   
+59 Duties of designers, manufacturers, importers and suppliers of plant 63 
+
+PART 4.2 HAZARDOUS MANUAL TASKS 
+
+65 
+
+60 Managing risks to health and safety 65   
+61 Duties of designers, manufacturers, importers and suppliers of plant or structures 65 
+
+PART 4.3 CONFINED SPACES 67 
+
+Division 1 Preliminary 67 
+
+62 Confined spaces to which this Part applies 67   
+63 Application to emergency service workers 67 
+
+Division 2 Duties of designer, manufacturer, importer, supplier, installer and constructor of plant or structure 
+
+67 
+
+64 Duty to eliminate or minimise risk 67 
+
+Division 3 Duties of person conducting business or undertaking 68 
+
+65 Entry into confined space must comply with this Division 68   
+66 Managing risks to health and safety 68   
+67 Confined space entry permit 69   
+68 Signage 70   
+69 Communication and safety monitoring 70   
+70 Specific control—connected plant and services 71   
+71 Specific control—atmosphere 71   
+72 Specific control—flammable gases and vapours 72   
+73 Specific control—fire and explosion 72   
+74 Emergency procedures 72   
+75 Personal protective equipment in emergencies 73   
+76 Information, training and instruction for workers 74   
+77 Confined space entry permit and risk assessment must be kept 74 
+
+<<<PAGE 5>>>
+
+PART 4.4 FALLS 76 
+
+78 Management of risk of fall 76   
+79 Specific requirements to minimise risk of fall 77   
+80 Emergency and rescue procedures 78 
+
+PART 4.5 HIGH RISK WORK 79
+
+Division 1 Licensing of high risk work 79 
+
+Subdivision 1 Requirement to be licensed 79 
+
+81 Licence required to carry out high risk work 79   
+82 Exceptions 79   
+83 Recognition of high risk work licences in other jurisdictions 80   
+84 Duty of person conducting business or undertaking to ensure direct supervision 80   
+85 Evidence of licence—duty of person conducting business or undertaking 81 
+
+Subdivision 2 Licensing process 
+
+
+
+86 Who may apply for a licence 82   
+87 Application for high risk work licence 82   
+88 Additional information 84   
+89 Decision on application 84   
+90 Matters to be taken into account 85   
+91 Refusal to grant high risk work licence—process 86   
+91A Conditions of licence 86   
+92 Duration of licence 87   
+93 Licence document 87   
+94 Licence document to be available 87   
+95 Reassessment of competency of licence holder 88 
+
+Subdivision 3 Amendment of licence document 88 
+
+96 Notice of change of address 88   
+97 Licence holder to return licence 88   
+98 Replacement licence document 88   
+99 Voluntary surrender of licence 89 
+
+Subdivision 4 Renewal of high risk work licence 89 
+
+100 Regulator may renew licence 89   
+101 Application for renewal 89   
+102 Licence continues in force until application is decided 90   
+103 Renewal of expired licence 90   
+104 Provisions relating to renewal of licence 90   
+105 Status of licence during review 91 
+
+Subdivision 5 Suspension and cancellation of high risk work licence 
+
+106 Suspension or cancellation of licence 92   
+107 Matters taken into account 9393   
+108 Notice to and submissions by licence holder   
+109 Notice of decision 94   
+110 Immediate suspension 95   
+111 Licence holder to return licence document 95   
+112 Regulator to return licence document after suspension 96 
+
+<<<PAGE 6>>>
+
+Division 2 Accreditation of assessors 96 
+
+Subdivision 1 Requirement to be accredited 96 
+
+113 Accreditation required to assess competency for high risk work licence 96   
+114 Accredited assessor must act in accordance with accreditation 96 
+
+Subdivision 2 Accreditation process 9 
+
+115 Regulator may accredit assessors 97   
+116 Application for accreditation 97   
+117 Additional information 98   
+118 Decision on application 98   
+119 Matters to be taken into account 99   
+120 Refusal to grant accreditation—process 100   
+121 Conditions of accreditation 101   
+122 Duration of accreditation 101   
+123 Accreditation document 101   
+124 Accreditation document to be available 102 
+
+Subdivision 3 Amendment of accreditation document 102 
+
+125 Changes to information 102   
+126 Accredited assessor to return accreditation document 102   
+127 Replacement accreditation document 103   
+128 Voluntary surrender of accreditation 103 
+
+Subdivision 4 Renewal of accreditation 104 
+
+129 Regulator may renew accreditation 104   
+130 Application for renewal 104   
+131 Accreditation continues in force until application is decided 104   
+132 Provisions relating to application 104 
+
+Subdivision 5 Suspension and cancellation 105 
+
+133 Regulator may suspend or cancel accreditation 105   
+134 Suspension or cancellation of accreditation 105   
+135 Matters to be taken into account 106   
+136 Notice to and submissions by accredited assessor 106   
+137 Notice of decision 107   
+138 Immediate suspension 108   
+139 Accredited assessor to return accreditation document 108   
+140 Regulator to return accreditation document after suspension 108 
+
+Subdivision 6 Agreements with RTOs 
+
+141 Regulator may enter into agreement with RTO 108 
+
+PART 4.6 DEMOLITION WORK 110 
+
+Division 1 Notice of demolition work 110 
+
+142 Notice of demolition work 110   
+Division 2 Licensing of demolition work 111 
+
+143 Demolition work required to be licensed 111 
+
+<<<PAGE 7>>>
+
+PART 4.7 GENERAL ELECTRICAL SAFETY IN WORKPLACES AND ENERGISED ELECTRICAL WORK 
+
+Division 1 Preliminary 112 
+
+144 Meaning of electrical equipment 112   
+145 Meaning of electrical installation 112   
+146 Meaning of electrical work 113 
+
+Division 2 General risk management 114 
+
+147 Risk management 114 
+
+ivision 3 Electrical equipment and electrical installations 
+
+148 Electrical equipment and electrical installations to which this Division applies 114   
+149 Unsafe electrical equipment 115   
+150 Inspection and testing of electrical equipment 115   
+151 Untested electrical equipment not to be used 116 
+
+ivision 4 Electrical work on energised electrical equipment 
+
+152 Application of Division 4 116   
+153 Persons conducting a business or undertaking to which this Division applies 116   
+154 Electrical work on energised electrical equipment—prohibited 117   
+155 Duty to determine whether equipment is energised 117   
+156 De-energised equipment must not be inadvertently re-energised 117   
+157 Electrical work on energised electrical equipment—when permitted 117   
+158 Preliminary steps 118   
+159 Unauthorised access to equipment being worked on 119   
+160 Contact with equipment being worked on 119   
+161 How the work is to be carried out 119   
+162 Record keeping 120 
+
+Division 5 Electrical equipment and installations and construction work—additional duties 121 
+
+163 Duty of person conducting business or undertaking 121 
+
+Division 6 Residual current devices 122 
+
+164 Use of socket outlets in hostile operating environment 122   
+165 Testing of residual current devices 123 
+
+ivision 7 Overhead and underground electric lines 123 
+
+166 Duty of person conducting a business or undertaking 
+
+PART 4.8 DIVING WORK 125 
+
+Division 1 Preliminary 125 
+
+167 Purpose of Part 4.8 125 
+
+Division 2 General diving work—Fitness and competence of worker 
+
+168 Person conducting business or undertaking must ensure fitness of workers 125   
+169 Certificate of medical fitness 125   
+170 Duty to keep certificate of medical fitness 126   
+171 Competence of worker—general diving work—qualifications 126   
+171A Competence of worker—general diving work—knowledge and skill 126   
+172 Competence of worker—incidental diving work 127   
+173 Competence of worker—limited scientific diving work 127   
+174 Competence of competent person supervising general diving work 128   
+175 Evidence of competence—duty of person conducting business or undertaking 128 
+
+<<<PAGE 8>>>
+
+Division 3 Managing risks—general diving work 128 
+
+176 Management of risks to health and safety 128   
+177 Appointment of competent person to supervise diving work 129   
+178 Additional control—dive plan 129   
+179 Dive plan must be complied with 130   
+180 Additional control—dive safety log to be kept 130   
+181 Use of dive safety log 131   
+182 Record keeping 132 
+
+Division 4 High risk diving work 132 
+
+183 Duties of person conducting business or undertaking 132   
+184 Duty of worker—competence 133 
+
+PART 4.9 (REPEALED) 134 
+
+184A (Repealed) 134 
+
+CHAPTER 5 PLANT AND STRUCTURES 135 
+
+PART 5.1 GENERAL DUTIES FOR PLANT AND STRUCTURES
+
+Division 1 Preliminary 135 
+
+185 Application of Part 5.1 to plant 135   
+186 Application of Part 5.1 to structures 135 
+
+Division 2 Duties of persons conducting businesses or undertakings that design plant 135 
+
+187 Provision of information to manufacturer 135   
+188 Hazard identified in design during manufacture 136   
+189 Guarding 136   
+190 Operational controls 138   
+191 Emergency stop controls 138   
+192 Warning devices 139 
+
+Division 3 Duties of persons conducting businesses or undertakings that manufacture plant 
+
+139 
+
+193 Control of risk 139   
+194 Guarding 140   
+195 Information must be obtained and provided 141 
+
+Division 4 Duties of persons conducting businesses or undertakings that import plant 141 
+
+196 Information to be obtained and provided by importer 141   
+197 Control of risk 141 
+
+Division 5 Duties of persons conducting businesses or undertakings that supply plant 142 
+
+198 Information to be obtained and provided by supplier 142   
+199 Supply of second-hand plant—duties of supplier 142   
+200 Second-hand plant to be used for scrap or spare parts 143 
+
+Division 6 Duties of persons conducting businesses or undertakings that install, construct or commission plant or structures 14 
+
+201 Duties of persons conducting businesses or undertakings that install, construct or commission plant 143 
+
+<<<PAGE 9>>>
+
+202 Duties of persons conducting businesses or undertakings that install, construct or commission structures 
+
+Division 7 General duties of a person conducting a business or undertaking involving the management or control of plant 1 
+
+Subdivision 1 Management of risks 144 
+
+203 Management of risks to health and safety 
+
+Subdivision 2 Additional control measures for general plant 144 
+
+204 Control of risks arising from installation or commissioning 144   
+205 Preventing unauthorised alterations to or interference with plant 145   
+206 Proper use of plant and controls 145   
+207 Plant not in use 146   
+208 Guarding 146   
+209 Guarding and insulation from heat and cold 147   
+210 Operational controls 147   
+211 Emergency stops 148   
+212 Warning devices 149   
+213 Maintenance and inspection of plant 149 
+
+Subdivision 3 Additional control measures for certain plant 149 
+
+214 Powered mobile plant—general control of risk 150   
+215 Powered mobile plant—specific control measures 150   
+216 Roll-over protection on tractors 151   
+218 Industrial lift trucks 151   
+219 Plant that lifts or suspends loads 152   
+220 Exception—Plant not specifically designed to lift or suspend a person 153   
+221 Plant used in connection with tree lopping 154   
+222 Industrial robots 154   
+223 Lasers 155   
+224 Pressure equipment 156   
+225 Scaffolds 156   
+226 Plant with presence-sensing safeguarding system—records 157 
+
+PART 5.2 ADDITIONAL DUTIES RELATING TO REGISTERED PLANT AND PLANT DESIGNS 159 
+
+Division 1 Application of Part 5.2 159 
+
+227 Application of Part 5.2 159 
+
+Division 2 Duty of person conducting a business or undertaking who designs plant to record plant design 159 
+
+228 Records and information 159   
+229 Record of standards or engineering principles used 159   
+230 Records to be available for inspection 160 
+
+Division 3 Duties of a person conducting a business or undertaking 
+
+231 Duty of persons conducting businesses or undertakings that manufacture plant 160   
+232 Duty of persons conducting businesses or undertakings that import plant 160   
+233 Duty of persons conducting businesses or undertakings that supply plant 161   
+234 Duty of persons conducting businesses or undertakings that commission plant 161 
+
+<<<PAGE 10>>>
+
+Division 4 Duties of a person conducting a business or undertaking involving the management or control of plant 161 
+
+Subdivision 1 Control measures for registered plant 161 
+
+235 Major inspection of registered mobile cranes and tower cranes 161   
+236 Lifts 162   
+237 Records of plant 163 
+
+Subdivision 2 Control measures for amusement devices and passenger ropeways163 
+
+238 Operation of amusement devices and passenger ropeways 163   
+239 Storage of amusement devices and passenger ropeways 164   
+240 Maintenance, inspection and testing of amusement devices and passenger ropeways164   
+241 Annual inspection of amusement devices and passenger ropeways 165   
+242 Log book and manuals for amusement devices 166 
+
+PART 5.3 REGISTRATION OF PLANT DESIGNS AND ITEMS OF PLANT 169 
+
+Division 1 Plant designs to be registered 169 
+
+243 Plant design to be registered 169   
+244 Altered plant designs to be registered 169   
+245 Recognition of designs registered by corresponding regulator 169 
+
+Division 2 Items of plant to be registered 170 
+
+246 Items of plant to be registered 170   
+247 Recognition of plant registered by corresponding regulator 170 
+
+ivision 3 Registration process for plant designs 170 
+
+248 Application of Division 3 170   
+249 Who can apply to register a plant design 170   
+250 Application for registration 170   
+251 Design verification statement 171   
+252 Who can be the design verifier 171   
+253 Duty of design verifier 172   
+254 Design verification statements not to be made in certain circumstances 172   
+255 Additional information 172   
+256 Decision on application 172   
+257 Refusal of registration—process 173   
+258 Conditions of registration 174   
+259 Duration of registration of plant design 174   
+260 Plant design registration number 174   
+261 Registration document 175   
+262 Registration document to be available 175   
+263 Disclosure of design information 176 
+
+Division 4 Registration process for an item of plant 176 
+
+264 Application of Division 4 176   
+265 Who can apply to register an item of plant 176   
+266 Application for registration 177   
+267 When is a person competent to inspect plant 177   
+268 Additional information 178   
+269 Decision on application 178   
+270 Refusal of registration—process 179   
+271 Conditions of registration 180   
+272 Duration of registration 180   
+273 Plant registration number 180   
+274 Registration document 181   
+275 Registration document to be available 181   
+276 Regulator may renew registration 181   
+277 Application for renewal 181   
+278 Registration continues in force until application is decided 182   
+279 Decision on application 182   
+280 Status of registration during review 183 
+
+<<<PAGE 11>>>
+
+
+
+Division 5 Changes to registration and registration documents 183 
+
+281 Application of Division 183   
+282 Changes to information 183   
+283 Amendment of registration imposed by regulator 184   
+284 Amendment on application by registration holder 185   
+285 Minor corrections to registration 186   
+286 Regulator to give amended registration document 186   
+287 Registration holder to return registration document 187   
+288 Replacement registration document 187 
+
+Division 6—Cancellation of registration 187 
+
+288A Application of Division 188   
+288B Regulator may cancel registration 188   
+288C Cancellation process 188   
+288D Registration holder to return registration document 189 
+
+CHAPTER 6 CONSTRUCTION WORK 190 
+
+PART 6.1 PRELIMINARY 
+
+190 
+
+289 Meaning of construction work 190   
+290 Meaning of structure 191   
+291 Meaning of high risk construction work 192   
+292 Meaning of construction project 193   
+293 Meaning of principal contractor 193 
+
+PART 6.2 DUTIES OF DESIGNER OF STRUCTURE AND PERSON WHO COMMISSIONS CONSTRUCTION WORK 
+
+194 
+
+294 Person who commissions work must consult with designer 194   
+295 Designer must give safety report to person who commissions design 194   
+296 Person who commissions project must give information to principal contractor 194 
+
+PART 6.3 DUTIES OF PERSON CONDUCTING BUSINESS OR UNDERTAKING 
+
+196 
+
+Division 1 General 196 
+
+297 Management of risks to health and safety 196   
+298 Security of workplace 196 
+
+Division 2 High risk construction work—safe work method statements 
+
+299 Safe work method statement required for high risk construction work 196   
+300 Compliance with safe work method statement 197   
+301 Safe work method statement—copy to be given to principal contractor 198   
+302 Review of safe work method statement 198   
+303 Safe work method statement must be kept 198 
+
+<<<PAGE 12>>>
+
+Division 3 Excavation Work 198 
+
+304 Excavation work—underground essential services information 198   
+305 Management of risks to health and safety associated with excavation work 200   
+306 Additional controls—trenches 200 
+
+PART 6.4 ADDITIONAL DUTIES OF PRINCIPAL CONTRACTOR 
+
+202 
+
+307 Application of Part 6.4 202   
+308 Specific control measure—signage identifying principal contractor 202   
+309 WHS management plan—preparation 202   
+310 WHS management plan—duty to inform 203   
+311 WHS management plan—review 203   
+312 High risk construction work—safe work method statements 203   
+313 Copy of WHS management plan must be kept 204   
+314 Further health and safety duties—specific regulations 204   
+315 Further health and safety duties—specific risks 205 
+
+PART 6.5 GENERAL CONSTRUCTION INDUCTION TRAINING 
+
+206 
+
+Division 1 General construction induction training requirements 
+
+206 
+
+316 Duty to provide general construction induction training   
+317 Duty to ensure worker has been trained   
+318 Recognition of general construction induction training cards issued in other jurisdictions 
+
+Division 2 General construction induction training cards 
+
+206   
+207   
+319 Issue of card 207   
+320 Content of card 208   
+321 Replacement card 208   
+322 Refusal to issue or replace card 209   
+323 Cancellation of card—grounds 209   
+324 Cancellation of card—process 209   
+325 RTO may enter agreement to issue cards 210 
+
+
+
+Division 3 Duties of workers 210 
+
+326 Duties of workers 210   
+327 Alteration of general construction induction training card 211 
+
+CHAPTER 7 HAZARDOUS CHEMICALS 212 
+
+PART 7.1 HAZARDOUS CHEMICALS 
+
+Division 1 Application of Part 7.1 212 
+
+328 Application of Part 7.1 212 
+
+Division 2 Obligations relating to safety data sheets and other matters 
+
+Subdivision 1 Obligations of manufacturers and importers 213 
+
+329 Classification of hazardous chemicals 214   
+330 Manufacturer or importer to prepare and provide safety data sheets 214   
+331 Safety data sheets—research chemical, waste product or sample for analysis 215   
+332 Emergency disclosure of chemical identities to registered medical practitioner 215   
+333 Emergency disclosure of chemical identities to emergency service worker 215   
+334 Packing hazardous chemicals 216 
+
+<<<PAGE 13>>>
+
+335 Labelling hazardous chemicals 216 
+
+Subdivision 2 Obligations of suppliers 217 
+
+336 Restriction on age of person who can supply hazardous chemicals 217   
+337 Retailer or supplier packing hazardous chemicals 218   
+338 Supplier labelling hazardous chemicals 218   
+339 Supplier to provide safety data sheets 218   
+340 Supply of prohibited and restricted carcinogens 219 
+
+Subdivision 3 Obligations of persons conducting businesses or undertakings 220 
+
+341 Labelling hazardous chemicals—general requirement 220   
+342 Labelling hazardous chemicals—containers 220   
+343 Labelling hazardous chemicals—pipe work 222   
+344 Person conducting business or undertaking to obtain and give access to safety data   
+sheets 222   
+345 Changes to safety data sheets 224 
+
+Division 3 Register and manifest of hazardous chemicals 224 
+
+Subdivision 1 Hazardous chemicals register 
+
+224 
+
+346 Hazardous chemicals register 224 
+
+Subdivision 2 Manifest of Schedule 11 hazardous chemicals 
+
+347 Manifest of hazardous chemicals 225   
+348 Regulator must be notified if manifest quantities to be exceeded 226 
+
+Division 4 Placards 
+
+349 Outer warning placards—requirement to display 227   
+350 Placard—requirement to display 228 
+
+Division 5 Control of risk—obligations of persons conducting businesses or undertakings 228 
+
+Subdivision 1 General obligations relating to management of risk 
+
+228 
+
+351 Management of risks to health or safety 228   
+352 Review of control measures 229   
+353 Safety signs 230   
+354 Identification of risk of physical or chemical reaction 230   
+355 Specific control—fire and explosion 231   
+356 Keeping hazardous chemicals stable 231 
+
+Subdivision 2 Spills and damage 
+
+357 Containing and managing spills 232   
+358 Protecting hazardous chemicals from damage 232 
+
+Subdivision 3 Emergency plans and safety equipment 233 
+
+359 Fire protection and firefighting equipment 233   
+360 Emergency equipment 234   
+361 Emergency plans 234   
+362 Safety equipment 234 
+
+Subdivision 4 Storage and handling systems 234 
+
+363 Control of risks from storage or handling systems 234   
+364 Containers for hazardous chemicals used, handled or stored in bulk 235   
+365 Stopping use and disposing of handling systems 235   
+366 Stopping use of underground storage and handling systems 236   
+367 Notification of abandoned tank 236 
+
+<<<PAGE 14>>>
+
+Division 6 Health monitoring 237 
+
+368 Duty to provide health monitoring 237   
+369 Duty to inform of health monitoring 237   
+370 Duty to ensure that appropriate health monitoring is provided 238   
+371 Duty to ensure health monitoring is supervised by registered medical practitioner with   
+experience. 238   
+372 Duty to pay costs of health monitoring 238   
+373 Information that must be provided to registered medical practitioner 239   
+374 Duty to obtain health monitoring report 239   
+375 Duty to give health monitoring report to worker 240   
+376 Duty to give health monitoring report to regulator 240   
+377 Duty to give health monitoring report to relevant persons conducting businesses or   
+undertakings 240   
+378 Health monitoring records 241 
+
+ivision 7 Induction, information, training and supervision 241 
+
+379 Duty to provide supervision 241 
+
+Division 8 Prohibition, authorisation and restricted use 242 
+
+380 Using, handling and storing prohibited carcinogens 242   
+381 Using, handling and storing restricted carcinogens 242   
+382 Using, handling and storing restricted hazardous chemicals 242   
+383 Application for authorisation to use, handle or store prohibited and restricted   
+carcinogens 243   
+384 Authorisation to use, handle or store prohibited carcinogens and restricted carcinogens244   
+385 Changes to information in application to be reported 244   
+386 Regulator may cancel authorisation 244   
+387 Statement of exposure to be given to workers 245   
+388 Records to be kept 245 
+
+Division 9 Pipelines 246 
+
+389 Management of risk by pipeline owner 246   
+390 Pipeline builder's duties 246   
+391 Management of risks to health and safety by pipeline operator 247 
+
+PART 7.2 LEAD 
+
+248 
+
+Division 1 Lead process 
+
+248 
+
+392 Meaning of lead process 248   
+393 Regulator may decide lead process 249   
+394 Meaning of lead risk work 250   
+395 Duty to give information about health risks of lead process 250 
+
+Division 2 Control of risk 250 
+
+396 Containment of lead contamination 250   
+397 Cleaning methods 251   
+398 Prohibition on eating, drinking and smoking 251   
+399 Provision of changing and washing facilities 251   
+400 Laundering, disposal and removal of personal protective equipment 252   
+401 Review of control measures 253 
+
+Division 3 Lead risk work 254 
+
+402 Identifying lead risk work 254   
+403 Notification of lead risk work 255   
+404 Changes to information in notification of lead risk work 255   
+Division 4 Health monitoring 256 
+
+<<<PAGE 15>>>
+
+
+
+
+
+405 Duty to provide health monitoring before first commencing lead risk work 256   
+406 Duty to ensure that appropriate health monitoring is provided 256   
+407 Frequency of biological monitoring 257   
+408 Duty to ensure health monitoring is supervised by registered medical practitioner with   
+relevant experience 258   
+409 Duty to pay costs of health monitoring 258   
+410 Information that must be provided to registered medical practitioner 259   
+411 Duty to obtain health monitoring report 259   
+412 Duty to give health monitoring report to worker 260   
+413 Duty to give health monitoring report to regulator 260   
+414 Duty to give health monitoring report to relevant persons conducting businesses or   
+undertakings 261   
+415 Removal of worker from lead risk work 261   
+416 Duty to ensure medical examination if worker removed from lead risk work 261   
+417 Return to lead risk work after removal 262   
+418 Health monitoring records 263 
+
+CHAPTER 8 ASBESTOS 
+
+264 
+
+ART 8.1 PROHIBITIONS AND AUTHORISED CONDUCT 
+
+419 Work involving asbestos or ACM—prohibitions and exceptions 
+
+PART 8.2 GENERAL DUTY 
+
+266 
+
+420 Exposure to airborne asbestos at workplace 
+
+266 
+
+PART 8.3 MANAGEMENT OF ASBESTOS AND ASSOCIATED RISKS 
+
+421 Application of Part 8.3 267   
+422 Asbestos to be identified or assumed at workplace 267   
+423 Analysis of sample 267   
+424 Presence and location of asbestos to be indicated 268   
+425 Asbestos register 268   
+426 Review of asbestos register 269   
+427 Access to asbestos register 269   
+428 Transfer of asbestos register by person relinquishing management or control 270   
+429 Asbestos management plan 270   
+430 Review of asbestos management plan 271 
+
+PART 8.4 MANAGEMENT OF NATURALLY OCCURRING ASBESTOS 27 
+
+431 Naturally occurring asbestos 273   
+432 Asbestos management plan 273   
+433 Review of asbestos management plan 274   
+434 Training in relation to naturally occurring asbestos 274 
+
+PART 8.5 ASBESTOS AT THE WORKPLACE 275 
+
+Division 1 Health monitoring 275 
+
+435 Duty to provide health monitoring 275   
+436 Duty to ensure that appropriate health monitoring is provided 275   
+437 Duty to ensure health monitoring is supervised by registered medical practitioner with   
+relevant experience 276   
+438 Duty to pay costs of health monitoring 276   
+439 Information that must be provided to registered medical practitioner 276   
+440 Duty to obtain health monitoring report 277   
+441 Duty to give health monitoring report to worker 277   
+442 Duty to give health monitoring report to regulator 277   
+443 Duty to give health monitoring report to relevant persons conducting businesses or   
+undertakings 278   
+444 Health monitoring records 278 
+
+<<<PAGE 16>>>
+
+
+
+Division 2 Training 278 
+
+445 Duty to train workers about asbestos 278   
+Division 3 Control on use of certain equipment 279 
+
+446 Duty to limit use of equipment 279 
+
+PART 8.6 DEMOLITION AND REFURBISHMENT 
+
+281 
+
+447 Application—Part 8.6 281   
+448 Review of asbestos register 281   
+449 Duty to give asbestos register to person conducting business or undertaking of   
+demolition or refurbishment 281   
+450 Duty to obtain asbestos register 281   
+451 Determining presence of asbestos or ACM 281   
+452 Identification and removal of asbestos before demolition 282   
+453 Identification and removal of asbestos before demolition of residential premises 283   
+454 Emergency procedure 283   
+455 Emergency procedure—residential premises 284   
+456 Identification and removal of asbestos before refurbishment 285   
+457 Refurbishment of residential premises 285 
+
+PART 8.7 ASBESTOS REMOVAL WORK 
+
+286 
+
+458 Duty to ensure asbestos removalist is licensed 286   
+459 Asbestos removal supervisor must be present or readily available 286   
+460 Asbestos removal worker must be trained 286   
+461 Licensed asbestos removalist must keep training records 287   
+462 Duty to give information about health risks of licensed asbestos removal work 287   
+463 Asbestos removalist must obtain register 288   
+464 Asbestos removal control plan 288   
+465 Asbestos removal control plan to be kept and available 288   
+466 Regulator must be notified of asbestos removal 289   
+467 Licensed asbestos removalist must inform certain persons about intended asbestos   
+removal work 290   
+468 Person with management or control of workplace must inform persons about asbestos   
+removal work 291   
+469 Signage and barricades for asbestos removal work 292   
+470 Limiting access to asbestos removal area 292   
+471 Decontamination facilities 293   
+472 Disposing of asbestos waste and contaminated personal protective equipment 293   
+473 Clearance inspection 294   
+474 Clearance certificates 295 
+
+<<<PAGE 17>>>
+
+PART 8.8 ASBESTOS REMOVAL REQUIRING CLASS A ASBESTOS REMOVAL LICENCE 
+
+475 Air monitoring—asbestos removal requiring Class A asbestos removal licence 297   
+476 Action if respirable asbestos fibre level too high 298   
+477 Removing friable asbestos 299 
+
+PART 8.9 ASBESTOS-RELATED WORK 
+
+301 
+
+478 Application of Part 8.9 301   
+479 Uncertainty as to presence of asbestos 301   
+480 Duty to give information about health risks of asbestos-related work 301   
+481 Asbestos-related work to be in separate area 301   
+482 Air monitoring 302   
+483 Decontamination facilities 302   
+484 Disposing of asbestos waste and contaminated personal protective equipment 303 
+
+PART 8.10 LICENSING OF ASBESTOS REMOVALISTS AND ASBESTOS ASSESSORS 305 
+
+Division 1 Asbestos removalists—requirement to be licensed 305 
+
+485 Requirement to hold Class A asbestos removal licence 305   
+486 Exception to requirement to hold Class A asbestos removal licence 305   
+487 Requirement to hold Class B asbestos removal licence 305   
+488 Recognition of asbestos removal licences in other jurisdictions 306 
+
+ivision 2 Asbestos assessors—requirement to be licensed 306 
+
+489 Requirement to hold asbestos assessor licence 306   
+490 Recognition of asbestos assessor licences in other jurisdictions 306 
+
+Division 3 Licensing process 307 

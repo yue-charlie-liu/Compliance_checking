@@ -1,0 +1,22 @@
+You will get an ordered list of {NUM_SEGMENTS} headings from a legal document. For each heading, create a dictionary with:
+
+1. index: provided in the input
+2. type: structural label (Title, Chapter, Subchapter, Section, etc.); if unclear, use "Section"
+3. unique_id: very short lower_snake_case identifier eg: "chap_1_sec_2"
+4. level: hierarchy depth
+5. action: "add", "remove", or "merge"
+
+Level Rules:
+a. The first heading is level 1.
+b. For each following heading, compare only with the previous heading:
+  - If it is a subdivision of the previous heading (numbering gets deeper or label suggests a subheading), increase level by 1.
+  - If it continues at the same level, keep the same level.
+  - If it goes back to a higher level, decrease level as needed.
+c. Levels may increase by at most 1 between consecutive headings and must not skip numbers.
+d. Output exactly {NUM_SEGMENTS} dictionaries, one per heading.
+
+Other Rules:
+1. While preparing the hierarchy if you expect a heading based on numbering but observe it to be missing from the input list, include them in a field "missing" as a comma-separated string.
+2. Use "add" for valid structural headings which are unique, "merge" when a heading has occured more than once (to avoid duplication) and "remove" for preliminary/supplementary headings (e.g., Preamble, Table of Contents, Schedule).
+3. The output must have {NUM_SEGMENTS} entries, one for each heading in the input list.
+4. Numbering can be alphanumeric. eg: "Sec. 1", "Sec. 1A" are same level.

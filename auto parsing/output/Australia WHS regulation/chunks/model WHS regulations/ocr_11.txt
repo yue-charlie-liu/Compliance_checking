@@ -1,0 +1,596 @@
+<<<Page 183>>>
+
+Maximum penalty: tier I monetary penalty. 
+
+229 Record of standards or engineering principles used 
+
+(1) If the design of plant is required to be registered under Part 5.3, the designer of the plant must record any published technical standard, 
+
+<<<PAGE 184>>>
+
+Part 5.2 Additional Duties Relating to Registered Plant and Plant Designs 
+
+including any part of a published technical standard, that was used to design the plant. 
+
+Maximum penalty: tier I monetary penalty. 
+
+(2) If the designer of the plant has not used published technical standards to design the plant, the designer must record any engineering principles used to design the plant. 
+
+Maximum penalty: tier I monetary penalty. 
+
+230 Records to be available for inspection 
+
+(1) A designer of plant must ensure that the records made under regulations 228 and 229 are kept available for inspection under the Act. Maximum penalty: tier I monetary penalty.   
+(2) A designer of plant must ensure that the records made under regulations 228 and 229 are made available for inspection by the design verifier of the plant design. Maximum penalty: tier I monetary penalty.   
+(3) A designer of plant must keep the records made under regulations 228 and 229 for the design life of the plant. Maximum penalty: tier I monetary penalty. 
+
+Division 3 Duties of a person conducting a business or undertaking 
+
+231 Duty of persons conducting businesses or undertakings that manufacture plant 
+
+A manufacturer must not supply plant specified in Part 1 of Schedule 5 unless the design of that plant is registered under Part 5.3.   
+Maximum penalty: tier E monetary penalty. 
+
+232 Duty of persons conducting businesses or undertakings that import plant 
+
+An importer must not supply plant specified in Part 1 of Schedule 5 unless the design of that plant is registered under Part 5.3. 
+
+Maximum penalty: tier E monetary penalty. 
+
+<<<PAGE 185>>>
+
+233 Duty of persons conducting businesses or undertakings that supply plant 
+
+A supplier must not supply plant specified in Part 1 of Schedule 5 unless the design of that plant is registered under Part 5.3. 
+
+Maximum penalty: tier E monetary penalty. 
+
+234 Duty of persons conducting businesses or undertakings that commission plant 
+
+(1) This regulation applies to a person who conducts a business or undertaking that commissions plant.   
+(2) The person must not commission an item of plant that is specified in Part 2 of Schedule 5 for use in a workplace unless that item of plant is registered under Part 5.3. Maximum penalty: tier E monetary penalty.   
+(3) Nothing in subregulation (2) prevents a person from performing any necessary adjustments, tests or inspections as part of the commissioning process before the plant is commissioned at a workplace. 
+
+Division 4 Duties of a person conducting a business or undertaking involving the management or control of plant 
+
+Subdivision 1 Control measures for registered plant 
+
+235 Major inspection of registered mobile cranes and tower cranes 
+
+(1) This regulation applies to the person with management or control of a registered mobile crane or tower crane at a workplace. 
+
+(2) The person must ensure that a major inspection of the crane is carried out by, or under the supervision of, a competent person: 
+
+(a) at the end of the design life recommended by the manufacturer for the crane; or   
+(b) if there are no manufacturer's recommendations—in accordance with the recommendations of a competent person; or   
+(c) if it is not reasonably practicable to comply with paragraph (a) or (b)—every 10 years from the date that the crane was first commissioned or first registered, whichever occurred first. 
+
+Maximum penalty: tier G monetary penalty. 
+
+<<<PAGE 186>>>
+
+Part 5.2 Additional Duties Relating to Registered Plant and Plant Designs (3) A major inspection carried out under and in accordance with an equivalent provision of a corresponding WHS law is taken to be a major inspection for the purposes of this regulation. 
+
+
+
+(4) In this regulation, a competent person is a person who: 
+
+(a) complies with both of the following: 
+
+(i) has acquired through training, qualification or experience the knowledge and skills to carry out a major inspection of the plant; and   
+(ii) is registered under a law that provides for the registration of professional engineers; or Note See the jurisdictional note in the Appendix. 
+
+(b) is determined by the regulator to be a competent person. 
+
+(5) The regulator may, on the application of a person, make a determination in relation to the person for the purposes of subregulation (4)(b) if the regulator considers that exceptional circumstances exist. 
+
+(6) In this regulation, major inspection means: 
+
+(a) an examination of all critical components of the crane, if necessary by stripping down the crane and removing paint, grease and corrosion to allow a thorough examination of each critical component; and   
+(b) a check of the effective and safe operation of the crane. 
+
+236 Lifts 
+
+(1) The person with management or control of a lift at a workplace (including a person with management or control of maintenance of a lift) must ensure that: 
+
+(a) if there is a risk of a person falling down a lift well: 
+
+(i) secure barriers are provided to prevent access to openings into the lift well by someone other than a person who is performing work in the lift well; and   
+(ii) secure working platforms or equivalent arrangements are provided for a person who is working in the lift well to prevent a fall from height; and 
+
+(b) if there is a risk to a person working in a lift well from objects falling onto that person—a secure barrier is provided to 
+
+<<<PAGE 187>>>
+
+Part 5.2 Additional Duties Relating to Registered Plant and Plant Designs prevent, so far as is reasonably practicable, falling objects from striking the person or otherwise causing a risk. 
+
+
+
+Maximum penalty: tier G monetary penalty. 
+
+(2) The person must ensure that there is a safe means of entry to and exit from the base of the lift well. Maximum penalty: tier G monetary penalty.   
+(3) The person must ensure that there is fixed, in a prominent place in the lift, a sign that states the safe working load specified in the design of the lift. Maximum penalty: tier G monetary penalty. 
+
+237 Records of plant 
+
+(1) This regulation applies in relation to plant that is required to be registered under Part 5.3.   
+(2) The person with management or control of the plant at a workplace must keep a record of all tests, inspections, maintenance, commissioning, decommissioning, dismantling and alterations of the plant for the period set out in subregulation (3). Maximum penalty: tier I monetary penalty.   
+(3) The record must be kept for the period that the plant is used or until the person relinquishes control of the plant.   
+(4) The person must keep the record available for inspection under the Act. Maximum penalty: tier I monetary penalty.   
+(5) The person must make the record available to any person to whom the person relinquishes control of the plant. Maximum penalty: tier I monetary penalty. 
+
+Subdivision 2Control measures for amusement devices and passenger ropeways 
+
+238 Operation of amusement devices and passenger ropeways 
+
+(1) The person with management or control of an amusement device or passenger ropeway at a workplace must ensure that the device or ropeway is operated only by a person who has been provided with instruction and training in its proper operation. 
+
+Maximum penalty: tier E monetary penalty. 
+
+<<<PAGE 188>>>
+
+Part 5.2 Additional Duties Relating to Registered Plant and Plant Designs (2) The person with management or control of an amusement device or passenger ropeway at a workplace must ensure that: 
+
+
+
+(a) the amusement device or passenger ropeway is checked before it is operated on each day on which it is to be operated; and   
+(b) the amusement device or passenger ropeway is operated without passengers before it is operated with passengers on each day on which it is to be operated; and   
+(c) the daily checks and operation of the amusement device or passenger ropeway without passengers are properly and accurately recorded in a log book for the device or ropeway. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(3) The reference in subregulation (1) to instruction and training in the proper operation of a device or ropeway includes a reference to instruction and training in carrying out the checks and operation required under subregulation (2)(a) and (b). 
+
+239 Storage of amusement devices and passenger ropeways 
+
+(1) The person with management or control of an amusement device or passenger ropeway at a workplace must ensure that the device or ropeway is stored so as to be without risk to health and safety. Maximum penalty: tier G monetary penalty.   
+(2) The person with management or control of an amusement device or passenger ropeway at a workplace must ensure that a person who stores the device or ropeway is a competent person or is under the supervision of a competent person. Maximum penalty: tier G monetary penalty. 
+
+240 Maintenance, inspection and testing of amusement devices and passenger ropeways 
+
+(1) The person with management or control of an amusement device or passenger ropeway at a workplace must ensure that the maintenance, inspection and, if necessary, testing of the device or ropeway is carried out: 
+
+(a) by a competent person; and (b) in accordance with: 
+
+
+
+(i) the recommendations of the designer or manufacturer or designer and manufacturer; or 
+
+<<<PAGE 189>>>
+
+Model Work Health and Safety Regulations 
+
+Part 5.2 Additional Duties Relating to Registered Plant and Plant Designs (ii) if a maintenance manual for the device or ropeway has been prepared by a competent person, the requirements of the maintenance manual. 
+
+
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) A person is not a competent person to carry out a detailed inspection of an amusement device or passenger ropeway that includes an electrical installation unless the person is qualified, or is assisted by a person who is qualified, to inspect electrical installations. 
+
+241 Annual inspection of amusement devices and passenger ropeways 
+
+(1) The person with management or control of an amusement device or passenger ropeway at a workplace must ensure that a detailed inspection of the device or ropeway is carried out at least once every 12 months by a competent person. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) An annual inspection must include the following: 
+
+(a) a check of information about the operational history of the amusement device or passenger ropeway since the last detailed inspection;   
+(b) a check of the log book for the amusement device or passenger ropeway;   
+(c) a check that maintenance and inspections of the amusement device or passenger ropeway have been undertaken under regulation 240;   
+(d) a check that any required tests have been carried out, and that appropriate records have been maintained;   
+(e) a detailed inspection of the amusement device or passenger ropeway to ensure compliance with the Act and these Regulations (including a specific inspection of the critical components of the amusement device or passenger ropeway). 
+
+(3) The regulator may extend the date for an inspection by up to 35 days if an inspection is scheduled to coincide with the same event each year. 
+
+(4) If the date is extended under subregulation (3), the new date is the date from which future annual inspections of the amusement device or passenger ropeway are determined. 
+
+(5) In this regulation, a competent person is a person who: 
+
+<<<PAGE 190>>>
+
+Part 5.2 Additional Duties Relating to Registered Plant and Plant Designs (a) in the case of an inflatable device (continuously blown) with a platform height less than 9 metres—has acquired through training, qualification or experience the knowledge and skills to inspect the device; or 
+
+
+
+(b) in the case of any other amusement device or a passenger ropeway: 
+
+(i) has acquired through training, qualification or experience the knowledge and skills to inspect the plant; and   
+(ii) is registered under a law that provides for the registration of professional engineers; or Note See the jurisdictional note in the Appendix. 
+
+(c) in the case of any amusement device or passenger ropeway— is determined by the regulator to be a competent person. 
+
+(6) The regulator may, on the application of a person, make a determination in relation to the person for the purposes of subregulation (5)(c) if the regulator considers that exceptional circumstances exist. 
+
+(7) An annual inspection carried out under and in accordance with an equivalent provision of a corresponding WHS law is taken to be an annual inspection for the purposes of this regulation. 
+
+242 Log book and manuals for amusement devices 
+
+(1) The person with management or control of an amusement device at a workplace, in addition to complying with the record-keeping requirements of regulation 237, must ensure that: 
+
+(a) the log book for the amusement device records the details required under subregulation (1A); and   
+(b) the log book and operating and maintenance manuals for the amusement device are kept with the amusement device. 
+
+Maximum penalty: tier I monetary penalty. 
+
+(1A) The log book for an amusement device must record: 
+
+(a) for each occasion on which the device is erected, details (including the date) of the erection; and   
+(b) for each occasion on which the device is stored, details of the storage; and   
+(c) details of the maintenance of the device; and 
+
+<<<PAGE 191>>>
+
+Part 5.2 Additional Duties Relating to Registered Plant and Plant Designs 
+
+(d) for each day on which the device is operated, the number of hours for which it is operated; and   
+(e) the total number of hours for which the device has ever been operated; and   
+(f) details of any faults, or other matters relevant to the safety of the device, identified during its operation; and 
+
+(g) the following details for each person who operates the device: 
+
+(i) the person’s name;   
+(ii) whether the person has been provided with instruction and training in the proper operation of the device;   
+(iii) for each occasion on which instruction or training in the proper operation of the device is provided to the person:   
+(A) the date; and   
+(B) a summary of the instruction or training; and   
+(C) the name and qualifications of the instructor or trainer; and 
+
+
+
+(h) details of each statutory notice issued in relation to the device, including: 
+
+(i) the date on which the notice was issued; and (ii) the reasons for issuing the notice; and (iii) any action taken in response to the notice; and (iv) for a notice given under a corresponding WHS law—the location of the device when the notice was issued. 
+
+Note 
+
+See also regulation 238(2)(c). 
+
+(2) The person with management or control of an amusement device at a workplace must ensure that persons involved in the commissioning, installation, use, storage and testing, and the decommissioning, dismantling and disposal, of an amusement device are given: 
+
+(a) the log book for the amusement device; and (b) the operating and maintenance manuals for the amusement device. 
+
+Maximum penalty: tier I monetary penalty. 
+
+<<<PAGE 192>>>
+
+Part 5.2 Additional Duties Relating to Registered Plant and Plant Designs (3) The person with management or control of an amusement device at a workplace must make the log book for the device available to any person to whom the person relinquishes control of the device. Maximum penalty: tier I monetary penalty. 
+
+
+
+(4) In this regulation: 
+
+statutory notice means: 
+
+(a) an improvement notice, prohibition notice or infringement notice; or   
+(b) an improvement notice, prohibition notice or infringement notice under a corresponding WHS law. 
+
+Note 
+
+See the jurisdictional notes in the Appendix. 
+
+<<<PAGE 193>>>
+
+Part 5.3 Registration of Plant Designs and Items of Plant 
+
+Note In this Part, plant includes a structure (see definition of plant in regulation 5(1)). 
+
+Division 1Plant designs to be registered 
+
+243 Plant design to be registered 
+
+The design of an item of plant specified in Part 1 of Schedule 5 must be registered under this Part. 
+
+Note 
+
+See section 42 of the Act. 
+
+244 Altered plant designs to be registered 
+
+(1) If the design of an item of plant specified in Part 1 of Schedule 5 that is registered under this Part is altered, the altered design must be registered under this Part. 
+
+Note 
+
+See section 42 of the Act. 
+
+(2) In this regulation a reference to the alteration of a design is a reference to an alteration that may affect health or safety. 
+
+(3) This regulation does not apply in relation to a tower crane or a gantry crane if: 
+
+(a) the crane is relocated for use in a different workplace; and   
+(b) the design of the supporting structure or foundations of the crane is altered in accordance with a site-specific design prepared for the purpose of the safe operation of the crane at the new location; and   
+(c) the design of the crane is not altered in any other way. 
+
+245 Recognition of designs registered by corresponding regulator 
+
+(1) A design of an item of plant is not required to be registered under this Part if the design is registered under a corresponding WHS law. 
+
+(2) A design referred to in subregulation (1) that is altered is not required to be registered under this Part if the altered design is registered by the corresponding regulator that registered the original design. 
+
+<<<PAGE 194>>>
+
+Part 5.3 Registration of Plant Designs and Items of Plant 
+
+Division 2Items of plant to be registered 
+
+246 Items of plant to be registered 
+
+(1) An item of plant specified in Part 2 of Schedule 5 must be registered under this Part. Note See section 42 of the Act.   
+(2) The purpose of registering an item of plant is to ensure that it is inspected by a competent person and is safe to operate. 
+
+247 Recognition of plant registered by corresponding regulator 
+
+An item of plant is not required to be registered under this Part if the plant is registered under a corresponding WHS law. 
+
+Division 3 Registration process for plant designs 
+
+Note 
+
+See the jurisdictional note in the Appendix. 
+
+248 Application of Division 3 
+
+This Division applies to the registration of a design of an item of plant specified in Part 1 of Schedule 5. 
+
+249 Who can apply to register a plant design 
+
+(1) A person conducting a business or undertaking that designs an item of plant may apply to the regulator for the registration of the design of that item of plant.   
+(2) A person with management or control of an item of plant may apply to the regulator for the registration of the design of that item of plant. 
+
+250 Application for registration 
+
+(1) An application for registration of the design of an item of plant must be made in the manner and form required by the regulator. 
+
+(2) The application must include the following information: 
+
+(a) the applicant's name;   
+(b) whether or not the applicant is a body corporate;   
+(c) if the applicant conducts the business or undertaking under a business name—that business name and a certificate or other written evidence of the registration of the business name; 
+
+<<<PAGE 195>>>
+
+Part 5.3 Registration of Plant Designs and Items of Plant (d) any other evidence of the applicant's identity required by the regulator; 
+
+
+
+(e) a statement signed by the designer of the item of plant: 
+
+(i) stating that the designer has complied with the designer's obligations under section 22 of the Act in relation to the design; and   
+(ii) specifying the published technical standards and engineering principles used in the design; and 
+
+(f) a design verification statement that accords with regulation 251; 
+
+(g) representational drawings of the design; 
+
+(h) a declaration that the applicant does not hold an equivalent registration under a corresponding WHS law. 
+
+Note 
+
+See section 268 of the Act for offences relating to the giving of false or misleading information under the Act or these Regulations. 
+
+(3) Any drawings or other documents provided with the application must be capable of being kept in an electronic form. 
+
+(4) The application must be accompanied by the relevant fee. 
+
+251 Design verification statement 
+
+The design verification statement must: 
+
+(a) be written and signed by a person who is eligible to be a design verifier for the design; and   
+(b) state that the design was produced in accordance with published technical standards or engineering principles specified in the statement; and 
+
+(c) include: 
+
+(i) the name, business address and qualifications (if applicable) of the design verifier; and   
+(ii) if applicable, the name and business address of the organisation for which the design verifier works. 
+
+252 Who can be the design verifier 
+
+(1) A person is eligible to be a design verifier for the design of an item of plant if the person is a competent person. 
+
+<<<PAGE 196>>>
+
+Part 5.3 Registration of Plant Designs and Items of Plant 
+
+(2) Despite subregulation (1), a person is not eligible to be a design verifier for the design of an item of plant if the person was involved in the production of the design. 
+
+253 Duty of design verifier 
+
+A design verifier of the design of an item of plant specified in Part 1 of Schedule 5 must document the design verification process carried out by that person and the results of that process. 
+
+Maximum penalty: tier G monetary penalty. 
+
+254 Design verification statements not to be made in certain circumstances 
+
+A person must not make a design verification statement for the design of an item of plant specified in Part 1 of Schedule 5 if the person: 
+
+(a) is not eligible to be a design verifier for that design; or (b) has not carried out a verification of the design. 
+
+Maximum penalty: tier G monetary penalty. 
+
+255 Additional information 
+
+(1) If an application for registration of a design of an item of plant does not contain enough information to enable the regulator to make a decision whether or not to grant the registration, the regulator may ask the applicant to provide additional information. 
+
+(2) A request for additional information must: 
+
+(a) specify the date (not being less than 28 days after the request) by which the additional information is to be given; and (b) be confirmed in writing. 
+
+(3) If an applicant does not provide the additional information by the date specified, the application is taken to have been withdrawn. 
+
+(4) The regulator may make more than 1 request for additional information under this regulation. 
+
+256 Decision on application 
+
+(1) Subject to subregulation (3), the regulator must grant the registration if satisfied about the matters referred to in subregulation (2). 
+
+(2) The regulator must be satisfied about the following: 
+
+<<<PAGE 197>>>
+
+(a) the application has been made in accordance with this Division;   
+(b) the design is not registered under a corresponding WHS law;   
+(c) if the applicant is an individual, the applicant: (i) resides in [this jurisdiction]; or (ii) resides outside [this jurisdiction] and circumstances exist that justify the grant of the registration; 
+
+(d) if the applicant is a body corporate, the applicant's registered office: 
+
+(i) is located in [this jurisdiction]; or (ii) is located outside [this jurisdiction] and circumstances exist that justify the grant of the registration; 
+
+(e) the applicant is able to ensure compliance with any conditions that will apply to the registration. 
+
+Note 
+
+See the jurisdictional notes in the Appendix. 
+
+(3) The regulator must refuse to grant a registration if satisfied that, in making the application, the applicant has: 
+
+(a) given information that is false or misleading in a material particular; or   
+(b) failed to give any material information that should have been given. 
+
+(4) If the regulator decides to grant the registration, it must notify the applicant within 14 days after making the decision. 
+
+(5) If the regulator does not make a decision within 120 days after receiving the application or the additional information requested under regulation 255, the regulator is taken to have refused to grant the registration applied for. 
+
+Note 
+
+A refusal to grant a registration (including under subregulation (5)) is a reviewable decision (see regulation 676). 
+
+257 Refusal of registration—process 
+
+(1) If the regulator proposes to refuse to grant a registration, the regulator must give the applicant a written notice: 
+
+(a) informing the applicant of the reasons for the proposed refusal; and 
+
+<<<PAGE 198>>>
+
+Model Work Health and Safety Regulations 
+
+Part 5.3 Registration of Plant Designs and Items of Plant (b) advising the applicant that the applicant may, by a specified date (being not less than 28 days after giving the notice), make a submission to the regulator in relation to the proposed refusal. 
+
+
+
+(2) After the date specified in a notice under subregulation (1), the regulator must: 
+
+(a) if the applicant has made a submission in relation to the proposed refusal to grant the registration—consider that submission; and   
+(b) whether or not the applicant has made a submission—decide whether to grant or refuse to grant the registration; and   
+(c) within 14 days after making that decision, give the applicant written notice of the decision, including the reasons for the decision. 
+
+Note 
+
+A refusal to grant a registration is a reviewable decision (see regulation 676). 
+
+258 Conditions of registration 
+
+(1) The regulator may impose any conditions it considers appropriate on the registration of a plant design. 
+
+(2) Without limiting subregulation (1), the regulator may impose conditions in relation to 1 or more of the following: 
+
+(a) the use and maintenance of plant manufactured to the design;   
+(b) the recording or keeping of information;   
+(c) the provision of information to the regulator. 
+
+Notes 
+
+1 A person must comply with the conditions of registration (see section 45 of the Act).   
+2 A decision to impose a condition on a registration is a reviewable decision (see regulation 676). 
+
+259 Duration of registration of plant design 
+
+A registration of a plant design takes effect on the day it is granted and is granted for an unlimited duration. 
+
+260 Plant design registration number 
+
+(1) This regulation applies if the regulator registers a design of an item of plant. 
+
+<<<PAGE 199>>>
+
+Part 5.3 Registration of Plant Designs and Items of Plant (2) The regulator must issue a plant design registration number for the design to the applicant. 
+
+
+
+(3) The person to whom the plant design registration number is issued must give the registration number to the manufacturer, importer or supplier of plant manufactured to that design. 
+
+Maximum penalty: tier I monetary penalty. 
+
+(4) The manufacturer, supplier or importer of plant to whom a plant design registration number is given under this regulation must give that number to the person with management or control of the plant: 
+
+(a) manufactured to that design; or   
+(b) supplied to that person by the manufacturer, supplier or importer. 
+
+Maximum penalty: tier I monetary penalty. 
+
+(5) The person with management or control of plant at a workplace for which a plant design is registered must ensure that the design registration number is kept readily accessible in the vicinity of the plant at all times. Maximum penalty: tier I monetary penalty. 
+
+261 Registration document 
+
+(1) If the regulator registers a design of an item of plant, the regulator must issue to the applicant a registration document in the form determined by the regulator. 
+
+(2) The registration document must include the following: 
+
+(a) the name of the registration holder;   
+(b) if the registration holder conducts the business or undertaking under a business name, that business name;   
+(c) the registration number of the plant design;   
+(d) any conditions imposed on the registration by the regulator;   
+(e) the date on which the registration was granted. 
+
+262 Registration document to be available 
+
+(1) A registration holder must keep the registration document available for inspection under the Act. Maximum penalty: tier I monetary penalty.   
+(2) Subregulation (1) does not apply if the registration document is not in the registration holder's possession because: 
+
+<<<PAGE 200>>>
+
+Part 5.3 Registration of Plant Designs and Items of Plant (a) it has been returned to the regulator under regulation 287; or (b) the registration holder has applied for, but has not received, a replacement registration document under regulation 288. 
+
+
+
+263 Disclosure of design information 
+
+(1) Subject to this regulation, the regulator must not disclose to any person any confidential information provided by an applicant for registration of a design of an item of plant. 
+
+(2) The regulator may disclose information about a plant design in either of the following circumstances: 
+
+(a) to a corresponding regulator or an authorised officer of a corresponding regulator, at the request of the corresponding regulator;   
+(b) to any person authorised by the applicant for the registration of the design. 
+
+(3) The regulator may give a copy of the design verification statement to: 
+
+(a) workers engaged by the person with management or control at a workplace of plant manufactured to the design; or (b) a health and safety representative of those workers. 
+
+(4) The regulator may provide the person with management or control of plant with the minimum information about the plant design that is necessary for the safe operation of the plant if the registration holder for the design of the plant cannot be located or no longer exists. 
+
+Division 4 Registration process for an item of plant 
+
+Note 
+
+See the jurisdictional note in the Appendix. 
+
+264 Application of Division 4 
+
+This Division applies in relation to the registration of an item of plant specified in Part 2 of Schedule 5 as requiring registration. 
+
+265 Who can apply to register an item of plant 
+
+A person with management or control of an item of plant may apply to the regulator for the registration of that item of plant. 
+
+<<<PAGE 201>>>
+
+Part 5.3 Registration of Plant Designs and Items of Plant 
+
+266 Application for registration 
+
+(1) An application for registration of an item of plant must be made in the manner and form required by the regulator. 
+
+(2) The application must include the following information: 
+
+(a) the applicant's name;   
+(b) whether or not the applicant is a body corporate;   
+(c) if the applicant conducts the business or undertaking under a business name—that business name and a certificate or other written evidence of the registration of the business name;   
+(d) any other evidence of the applicant's identity required by the regulator;   
+(e) sufficient information to clearly identify the item of plant;   
+[(f) This paragraph has been deleted.]   
+(g) if the design of the item of plant was also required to be registered under this Part, details of: (i) the plant design registration number; and (ii) the regulator or corresponding regulator that registered the design;   
+(h) a statement that the item of plant has been inspected by a competent person and assessed by that person as being safe to operate;   
+(i) the date that the item of plant was first commissioned or was first registered, if known, whichever occurred first;   
+(j) a declaration that the applicant does not hold an equivalent registration under a corresponding WHS law. 

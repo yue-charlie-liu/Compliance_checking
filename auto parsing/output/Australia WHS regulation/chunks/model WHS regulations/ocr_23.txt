@@ -1,0 +1,679 @@
+<<<Page 404>>>
+
+(3) The application must be accompanied by the relevant fee. (4) The application must be made not less than 6 months before the licence to be renewed expires. 
+
+597 Licence continues in force until application is decided 
+
+If the operator of a licensed major hazard facility applies under regulation 596 for the renewal of a major hazard facility licence, the licence is taken to continue in force from the day it would, apart from this regulation, have expired until the operator is given notice of the decision on the application. 
+
+598 Provisions relating to renewal of licence 
+
+For the purposes of this Division: 
+
+(a) regulation 579 applies as if a reference in that regulation to an application for a licence were a reference to an application to renew a licence; and   
+(b) regulations 580 (except subregulation (6)), 581, 584 and 585 apply as if a reference in those regulations to the grant of a licence were a reference to the renewal of a licence; and   
+(c) regulation 583 applies as if a reference in that regulation to a refusal to grant a licence were a reference to a refusal to renew a licence. 
+
+Note 
+
+A refusal to renew a licence is a reviewable decision (see regulation 676). 
+
+599 Status of major hazard facility licence during review 
+
+(1) This regulation applies if the regulator gives the operator written notice of its decision to refuse to renew the licence.   
+(2) If the operator does not apply for an external review, the licence continues to have effect until the last of the following events: (a) the expiry of the licence; (b) the end of the period for applying for an external review. 
+
+(3) If the operator applies for an external review, the licence continues to have effect until the earlier of the following events: 
+
+<<<PAGE 405>>>
+
+Model Work Health and Safety Regulations 
+
+Part 9.7 Licensing of Major Hazard Facilities 
+
+(a) the operator withdraws the application for review;   
+(b) [the external review body] makes a decision on the review. Note See the jurisdictional note in the Appendix. 
+
+(4) The licence continues to have effect under this regulation even if its expiry date passes. 
+
+Note 
+
+See the jurisdictional note in the Appendix. 
+
+Division 4 Transfer of major hazard facility licence 
+
+600 Transfer of major hazard facility licence 
+
+(1) The regulator, on the application of the operator of a major hazard facility, may transfer a major hazard facility licence to another person who is to become the operator of the major hazard facility, if satisfied that the proposed operator will achieve a standard of health and safety in the operation of the facility that is at least equivalent to the standard that the current operator has achieved. 
+
+(2) An application must be: 
+
+(a) made in the manner and form required by the regulator; and (b) accompanied by the relevant fee. 
+
+(3) The regulator may transfer the licence subject to any conditions that the regulator considers necessary and appropriate to ensure that the new operator will be able to achieve a standard of health and safety in the operation of the facility that is at least equivalent to the standard achieved by the existing operator. 
+
+(4) On the completion of the transfer, the person to whom the licence is transferred becomes the operator of the major hazard facility for the purposes of this Chapter. 
+
+Notes 
+
+1 A decision to refuse to transfer a major hazard facility licence is a reviewable decision (see regulation 676).   
+2 See section 268 of the Act for offences relating to the giving of false or misleading information under the Act or these Regulations. 
+
+<<<PAGE 406>>>
+
+Division 5 Suspension and cancellation of major hazard facility licence 
+
+601 Cancellation of major hazard facility licence—on operator's application 
+
+(1) The operator of a licensed major hazard facility may apply to the regulator to cancel the licence. 
+
+(2) An application must be: 
+
+(a) made in the manner and form required by the regulator; and (b) accompanied by the relevant fee. 
+
+(3) The regulator must conduct an inquiry into the inventory and operations of the facility before deciding on an application to cancel a licence. 
+
+(4) The regulator must cancel a major hazard facility licence if: 
+
+(a) the quantity of Schedule 15 chemicals present or likely to be present at the facility does not exceed their threshold quantity; and   
+(b) it is unlikely that a major incident will occur at the facility. 
+
+(5) If the regulator, under this regulation, cancels the licence of a facility that was determined to be a major hazard facility under Part 9.2, the regulator must revoke the determination. 
+
+Notes 
+
+1 A decision to refuse to cancel a licence is a reviewable decision (see regulation 676).   
+2 See section 268 of the Act for offences relating to the giving of false or misleading information under the Act or these Regulations. 
+
+602 Suspension or cancellation of licence—on regulator's initiative 
+
+(1) The regulator, on its own initiative, may suspend or cancel a major hazard facility licence if satisfied about 1 or more of the following: 
+
+(a) the operator has failed to ensure that the facility is operated safely and competently;   
+(b) the operator has failed to ensure compliance with a condition of the licence;   
+(c) the operator, in the application for the grant or renewal of the licence or on request by the regulator for additional information: (i) gave information that was false or misleading in a material particular; or 
+
+<<<PAGE 407>>>
+
+Model Work Health and Safety Regulations 
+
+Part 9.7 Licensing of Major Hazard Facilities 
+
+(ii) failed to give any material information that should have been given in that application or on that request. 
+
+(2) If the regulator suspends or cancels a major hazard facility licence, the regulator may disqualify the operator from applying for a further major hazard facility licence. 
+
+Note 
+
+A decision to suspend a licence, to cancel a licence or to disqualify the operator from applying for a further licence is a reviewable decision (see regulation 676). 
+
+603 Matters to be taken into account 
+
+(1) In making a decision under regulation 602, the regulator must have regard to the following: 
+
+(a) any submissions made by the operator under regulation 604;   
+(b) any advice received from a corresponding regulator;   
+(c) any advice or recommendations received from any agency of the Crown with responsibility in relation to national security. Note See the jurisdictional note in the Appendix. 
+
+(2) For the purposes of regulation 602(1)(a) and (b), if the operator is an individual, the regulator must have regard to all relevant matters, including the following: 
+
+(a) any offence under the Act or these Regulations or under a corresponding WHS law, of which the operator has been convicted or found guilty; Note See the jurisdictional note in the Appendix.   
+(b) any enforceable undertaking the operator has entered into under this Act or a corresponding WHS law;   
+(c) in relation to a major hazard facility licence applied for or held by the operator under the Act or these Regulations or under a corresponding WHS law: (i) any refusal to grant the licence; and (ii) any condition imposed on the licence, if granted, and the reason the condition was imposed; and (iii) any suspension or cancellation of the licence, if granted, including any disqualification from applying for any licence; 
+
+<<<PAGE 408>>>
+
+Part 9.7 Licensing of Major Hazard Facilities (d) the operator's record in relation to any matters arising under the Act or these Regulations or under a corresponding WHS law. 
+
+
+
+(3) For the purposes of regulation 602(1)(a) and (b), if the operator is a body corporate, the regulator must have regard to all relevant matters, including the matters referred to in subregulation (2), in relation to: 
+
+(a) the body corporate; and (b) each officer of the body corporate. 
+
+604 Notice to and submissions by operator 
+
+Before suspending or cancelling a major hazard licence, the regulator must give the operator a written notice of the proposed suspension or cancellation and any proposed disqualification: 
+
+(a) outlining all relevant allegations, facts and circumstances known to the regulator; and   
+(b) advising the operator that the operator may, by a specified date (being not less than 28 days after giving the notice), make a submission in relation to the proposed suspension or cancellation and any proposed disqualification. 
+
+605 Notice of decision 
+
+(1) The regulator must give the operator of a major hazard facility written notice of a decision under regulation 602 to suspend or cancel the major hazard facility licence within 14 days after making the decision. 
+
+(2) The notice must: 
+
+(a) state that the licence is to be suspended or cancelled; and (b) if the licence is to be suspended, state: 
+
+(i) when the suspension begins and ends; and   
+(ii) the reasons for the suspension; and   
+(iii) whether or not the operator is required to take any action before the suspension ends; and   
+(iv) whether or not the operator is disqualified from applying for a further major hazard facility licence during the suspension; and 
+
+(c) if the licence is to be cancelled, state: 
+
+(i) when the cancellation takes effect; and 
+
+<<<PAGE 409>>>
+
+Model Work Health and Safety Regulations 
+
+Part 9.7 Licensing of Major Hazard Facilities (ii) the reasons for the cancellation; and (iii) whether or not the operator is disqualified from applying for a further major hazard facility licence; and 
+
+
+
+(d) if the operator is disqualified from applying for a further major hazard facility licence, state: 
+
+(i) when the disqualification begins and ends; and   
+(ii) the reasons for the disqualification; and   
+(iii) whether or not the operator is required to take any action before the disqualification ends; and 
+
+(e) state when the licence document must be returned to the regulator. 
+
+606 Immediate suspension 
+
+(1) The regulator may suspend a major hazard facility licence on a ground referred to in regulation 602 without giving notice under regulation 604 if satisfied that: 
+
+(a) a person may be exposed to an imminent serious risk to his or her health or safety if the work carried out under the major hazard facility licence were not suspended; or   
+(b) a corresponding regulator has suspended a major hazard facility licence held by the operator under this regulation as applying in the corresponding jurisdiction. 
+
+(2) If the regulator decides to suspend a licence under this regulation: 
+
+(a) the regulator must give the operator of the major hazard facility written notice of the suspension and the reasons for the suspension; and   
+(b) the suspension of the licence takes effect on the giving of the notice. 
+
+(3) The regulator must then: 
+
+(a) give notice under regulation 604 within 14 days after giving the notice under subregulation (2); and   
+(b) make its decision under regulation 602. 
+
+(4) If the regulator does not give notice under subregulation (3), the suspension ends at the end of the 14 day period. 
+
+(5) If the regulator gives notice under subregulation (3), the licence remains suspended until the decision is made under regulation 602. 
+
+<<<PAGE 410>>>
+
+Model Work Health and Safety Regulations 
+
+Part 9.7 Licensing of Major Hazard Facilities 
+
+607 Operator to return licence document 
+
+An operator, on receiving a notice under regulation 605, must return the licence document to the regulator in accordance with the notice. 
+
+Maximum penalty: tier I monetary penalty. 
+
+608 Regulator to return licence document after suspension 
+
+The regulator must return the licence document to the operator within 14 days after the suspension ends. 
+
+<<<PAGE 411>>>
+
+Model Work Health and Safety Regulations 
+
+Part 9.7 Licensing of Major Hazard Facilities 
+
+CHAPTER 10 MINES 
+
+(Regulations 609 to 675 to be circulated separately) 
+
+<<<PAGE 412>>>
+
+CHAPTER 11 GENERAL 
+
+Part 11.1 Review of Decisions under these Regulations 
+
+Division 1 Reviewable decisions 
+
+676 Which decisions under these Regulations are reviewable 
+
+(1) The following table sets out: 
+
+(a) decisions made under these Regulations that are reviewable under this Part (reviewable decisions); and   
+(b) who is eligible to apply for review of a reviewable decision (the eligible person). 
+
+<<<PAGE 413>>>
+
+Model Work Health and Safety Regulations 
+
+<<<PAGE 414>>>
+
+Model Work Health and Safety Regulations 
+
+Hazardous chemicals and lead 
+
+384—Refusal to grant authorisation to use, handle or store a prohibited or restricted carcinogen 
+
+Applicant 
+
+386—Cancellation of authorisation to use, handle or store a prohibited or restricted carcinogen 
+
+Authorisation holder 
+
+393—Deciding a process to be a lead process 
+
+34 407—Determining a different frequency for biological monitoring of workers at a workplace, or a class of workers, carrying out lead risk work 
+
+A person conducting a business or   
+undertaking that carries out the lead   
+process   
+A worker whose interests are affected   
+by the decision   
+A person conducting a business or   
+undertaking that carries out lead risk   
+work   
+A worker whose interests are affected   
+by the decision 
+
+Asbestos removal licences and asbestos assessor licences 
+
+5 497—Refusal to grant licence Applicant 
+
+501—Refusal to grant licence Applicant 
+
+502—Imposition of a condition when Applicant granting licence 
+
+<<<PAGE 415>>>
+
+Model Work Health and Safety Regulations 
+
+<<<PAGE 416>>>
+
+Model Work Health and Safety Regulations (2) Unless the contrary intention appears, a reference in this Part to a decision includes a reference to: 
+
+
+
+(a) making, suspending, revoking or refusing to make an order, determination or decision; or   
+(b) giving, suspending, revoking or refusing to give a direction, approval, consent or permission; or 
+
+<<<PAGE 417>>>
+
+Part 11.1 Review of Decisions under these Regulations 
+
+(c) granting, issuing, amending, renewing, suspending, cancelling, revoking or refusing to grant, issue, amend or renew an authorisation; or   
+(d) imposing or varying a condition; or   
+(e) making a declaration, demand or requirement; or   
+(f) retaining, or refusing to deliver up, a thing; or   
+(g) doing or refusing to do any other act or thing; or   
+(h) being taken to refuse or do any act or thing. 
+
+Division 2 Internal review 
+
+677 Application 
+
+This Division does not apply to a reviewable decision made under: 
+
+(a) Chapter 9; or (b) Part 11.2. 
+
+678 Application for internal review 
+
+(1) Subject to subregulation (2), an eligible person in relation to a reviewable decision may apply to the regulator for review (an internal review) of the decision within: 
+
+(a) 28 days after the day on which the decision first came to the eligible person's notice; or   
+(b) any longer time the regulator allows. 
+
+(2) An eligible person in relation to a reviewable decision under regulation 89(5), 118(5), 256(5), 269(5) or 497(5) may apply to the regulator for review (an internal review) of the decision within: 
+
+(a) 28 days after the day on which the 120 day period referred to in that provision; or   
+(b) any longer time the regulator allows. 
+
+(3) The application must be made in the manner and form required by the regulator. 
+
+679 Internal reviewer 
+
+(1) The regulator may appoint a person or body to review decisions on applications under this Division.   
+(2) The person who made the reviewable decision cannot be an internal reviewer in relation to that decision. 
+
+<<<PAGE 418>>>
+
+Model Work Health and Safety Regulations 
+
+Part 11.1 Review of Decisions under these Regulations 
+
+680 Decision of internal reviewer 
+
+(1) The internal reviewer must review the reviewable decision and make a decision as soon as practicable and within 14 days after the application for internal review, or the additional information requested under subregulation (3), is received. 
+
+(2) The decision may be: 
+
+(a) to confirm or vary the reviewable decision; or (b) to set aside the reviewable decision and substitute another decision that the internal reviewer considers appropriate. 
+
+(3) The internal reviewer may ask the applicant to provide additional information in support of the application for review. 
+
+(4) The applicant must provide the additional information within the time (being not less than 7 days) specified by the internal reviewer in the request for information. 
+
+(5) If the applicant does not provide the additional information within the required time, the reviewable decision is taken to have been confirmed by the internal reviewer at the end of that time. 
+
+(6) If the reviewable decision is not varied or set aside within the 14 day period referred to in subregulation (1), the reviewable decision is taken to have been confirmed by the internal reviewer. 
+
+Note 
+
+See the jurisdictional note in the Appendix. 
+
+681 Decision on internal review 
+
+Within 14 days of making the decision on the internal review, the internal reviewer must give the applicant written notice of: 
+
+(a) the decision on the internal review; and (b) the reasons for the decision. 
+
+Note 
+
+See the jurisdictional note in the Appendix. 
+
+682 Internal review—reviewable decision continues 
+
+Subject to any provision to the contrary in relation to a particular decision, an application for an internal review does not affect the operation of the reviewable decision or prevent the taking of any lawful action to implement or enforce the decision. 
+
+<<<PAGE 419>>>
+
+Part 11.1 Review of Decisions under these Regulations 
+
+Division 3 External review 
+
+683 Application for external review 
+
+(1) An eligible person may apply to [the external review body] for review (an external review) of: 
+
+(a) a reviewable decision made by the regulator under: 
+
+(i) Chapter 9; or (ii) Part 11.2; or 
+
+(b) a decision made, or taken to have been made, on an internal review. 
+
+(2) The application must be made within: 
+
+(a) 28 days after the day on which the decision first came to the eligible person's notice; or (b) any longer time the [the external review body] allows. 
+
+Note 
+
+See the jurisdictional note in the Appendix. 
+
+<<<PAGE 420>>>
+
+Part 11.2 Exemptions 
+
+Division 1 General 
+
+684 General power to grant exemptions 
+
+(1) The regulator may exempt a person or class of persons from compliance with any of these Regulations. 
+
+(2) The exemption may be granted on the regulator's own initiative or on the written application of 1 or more persons. 
+
+(3) This regulation is subject to the limitations set out in this Part. 
+
+(4) This regulation does not apply to an exemption from: 
+
+(a) a provision requiring a person to hold a high risk work licence; or   
+(b) a provision of Chapter 9 relating to a major hazard facility or proposed major hazard facility; or   
+(c) regulation 529D in relation to exempting a type of engineered stone from that regulation. 
+
+Note 
+
+A decision to refuse to grant an exemption is a reviewable decision (see regulation 676). 
+
+685 Matters to be considered in granting exemptions 
+
+In deciding whether or not to grant an exemption under regulation 684 the regulator must have regard to all relevant matters, including the following: 
+
+(a) whether the granting of the exemption will result in a standard of health and safety at the relevant workplace, or in relation to the relevant undertaking, that is at least equivalent to the standard that would be achieved by compliance with the relevant provision or provisions;   
+(b) whether the requirements of paragraph (a) will be met if the regulator imposes certain conditions in granting the exemption and those conditions are complied with;   
+(c) whether exceptional circumstances justify the grant of the exemption;   
+(d) if the proposed exemption relates to a particular thing— whether the regulator is satisfied that the risk associated with the thing is not significant if the exemption is granted; 
+
+<<<PAGE 421>>>
+
+Part 11.2 Exemptions 
+
+(e) whether the applicant has carried out consultation in relation to the proposed exemption in accordance with Divisions 1 and 2 of Part 5 of the Act. 
+
+Division 2 High risk work licences 
+
+686 High risk work licence—exemption 
+
+(1) The regulator may exempt a person or class of persons from compliance with a provision of these Regulations requiring the person or class of persons to hold a high risk work licence.   
+(2) The exemption may be granted on the written application of any person concerned. 
+
+Note 
+
+A decision to refuse to grant an exemption is a reviewable decision (see regulation 676). 
+
+687 High risk work licence—regulator to be satisfied about certain matters 
+
+(1) The regulator must not grant an exemption under regulation 686 unless satisfied that granting the exemption will result in a standard of health and safety that is at least equivalent to the standard that would have been achieved without that exemption. 
+
+(2) For the purposes of subregulation (1), the regulator must have regard to all relevant matters, including whether or not: 
+
+(a) the obtaining of the high risk work licence would be impractical; and   
+(b) the competencies of the person to be exempted exceed those required for a high risk work licence; and   
+(c) any plant used by the person can be modified in a way that reduces the risk associated with using that plant. 
+
+Division 3 Major hazard facilities 
+
+688 Major hazard facility—exemption 
+
+(1) The regulator may exempt the operator of a major hazard facility or proposed major hazard facility from compliance with any provision of these Regulations relating to that facility.   
+(2) The exemption may be granted on the written application of the operator of the major hazard facility or proposed major hazard facility. 
+
+Note 
+
+<<<PAGE 422>>>
+
+A decision to refuse to grant an exemption is a reviewable decision (see regulation 676). 
+
+689 Major hazard facility—regulator to be satisfied about certain matters 
+
+(1) The regulator must not grant an exemption under regulation 688 unless satisfied that: 
+
+(a) 1 or more Schedule 15 chemicals are present or likely to be present at the facility; and   
+(b) the quantity of the Schedule 15 chemicals exceeds the threshold quantity of the Schedule 15 chemicals periodically because they are solely the subject of intermediate temporary storage; and   
+(c) the Schedule 15 chemicals are in 1 or more containers with the capacity of each container being not more than a total of 500 kilograms; and   
+(d) granting the exemption will result in a standard of health and safety in relation to the operation of the facility that is at least equivalent to the standard that would be achieved by compliance with the relevant provision or provisions. 
+
+(2) For the purposes of subregulation (1)(d), the regulator must have regard to all relevant matters, including whether or not: 
+
+(a) the applicant is complying with the Act and these Regulations; and   
+(b) the applicant has processes and procedures in place which will keep the quantity of the Schedule 15 chemical or chemicals present or likely to be present at or below the threshold quantity for the Schedule 15 chemical or chemicals as often as practicable; and   
+(c) the applicant has implemented adequate control measures to minimise the risk of a major incident occurring. 
+
+Division 3A Engineered stone 
+
+689A Engineered stone—exemption 
+
+(1) The regulator may exempt a type of engineered stone from regulation 529D. 
+
+(2) A person conducting a business or undertaking is exempt from compliance with regulation 529D if the work involves a type of engineered stone that is the subject of an exemption granted under: 
+
+<<<PAGE 423>>>
+
+Model Work Health and Safety Regulations 
+
+Part 11.2 Exemptions 
+
+(a) subregulation (1); or   
+(b) a corresponding WHS law that is equivalent to subregulation (1). 
+
+Note 
+
+A decision to refuse to grant an exemption is a reviewable decision (see regulation 676). 
+
+689B Engineered stone—application for exemption 
+
+(1) A person with an interest in having an exemption granted under regulation 689A(1) may apply to the regulator for an exemption. 
+
+(2) However, before the person can apply under subregulation (1), the person must give each social partner SWA member: 
+
+(a) a written notice stating: 
+
+(i) the person intends to make the application; and   
+(ii) the social partner SWA member may give the person submissions for the regulator about the application within the reasonable period stated in the notice; and   
+(iii) the person must provide the social partner SWA member’s submissions to the regulator as part of the person’s application; and 
+
+(b) a copy of the proposed application for the exemption. 
+
+(3) The person’s application must be: 
+
+(a) in writing; and   
+(b) accompanied by the written notice the person gives each social partner SWA member under subregulation (2); and   
+(c) accompanied by any submissions received by the person from social partner SWA members under subregulation (2). 
+
+(4) In this regulation: 
+
+social partner SWA members means: 
+
+(a) the 2 members of Safe Work Australia who represent the interests of workers in Australia; and   
+(b) the 2 members of Safe Work Australia who represent the interests of employers in Australia. 
+
+<<<PAGE 424>>>
+
+689C Engineered stone—notifying persons of application for exemption 
+
+(1) The regulator must give the application documents in relation to an application for an exemption under regulation 689A(1) to each corresponding regulator. 
+
+(2) The regulator may also give the application documents for an application for an exemption under regulation 689A(1) to: 
+
+(a) an employer organisation that includes employers who engage in work involving engineered stone; or   
+(b) a union representing employees whose work includes work involving engineered stone; or   
+(c) a person who has qualifications, knowledge, skills and experience relating to engineered stone. 
+
+(3) In this regulation: 
+
+application documents, in relation to an application for an exemption under regulation 689A(1), means: 
+
+(a) a written notice stating: 
+
+(i) the regulator has received the application; and   
+(ii) the person receiving the notice may make submissions to the regulator about the application within the reasonable period set out in the notice; and 
+
+(b) a copy of: 
+
+(i) the application; and (ii) any submissions that the regulator receives in relation to the application under regulation 689B(3)(c). 
+
+689D Engineered stone—regulator to be satisfied about certain matters 
+
+(1) The regulator must not grant an exemption under regulation 689A(1) unless satisfied that granting the exemption will result in a standard of health and safety that is at least equivalent to the standard that would have been achieved without that exemption. 
+
+(2) For the purposes of subregulation (1), the regulator must have regard to all relevant matters, including: 
+
+(a) any submissions received under regulation 689B(3)(c) or 689C; and   
+(b) whether the regulator is satisfied that, if the exemption were granted, the risk associated with the type of engineered stone 
+
+<<<PAGE 425>>>
+
+Part 11.2 Exemptions 
+
+that is the subject of the application would not be significant; and (c) if Safe Work Australia publishes a document under regulation 689E—the relevant matters contained in the document. 
+
+689E Safe Work Australia may issue and publish documents in relation to exemptions 
+
+(1) Safe Work Australia may issue a document setting out the matters to be considered when granting an exemption under this Division.   
+(2) Safe Work Australia must publish the document on the Safe Work Australia website. 
+
+Note 
+
+See the Safe Work Australia website (https://www.safeworkaustralia.gov.au). 
+
+Division 4 Exemption process 
+
+690 Application for exemption 
+
+An application for an exemption must be made in the manner and form required by the regulator. 
+
+Notes 
+
+1 The application must be in writing (see regulation 684(2)).   
+2 The regulator may grant an exemption on its own initiative (see regulation 684(2)).   
+3 See section 268 of the Act for offences relating to the giving of false or misleading information under the Act or these Regulations. 
+
+691 Conditions of exemption 
+
+(1) The regulator may impose any conditions it considers appropriate on an exemption granted under this Part. 
+
+(2) Without limiting subregulation (1), conditions may require the applicant to do 1 or more of the following: 
+
+(a) monitor risks;   
+(b) monitor the health of persons at the workplace who may be affected by the exemption;   
+(c) keep certain records;   
+(d) use a stated system of work; 
+
+<<<PAGE 426>>>
+
+Model Work Health and Safety Regulations 
+
+Part 11.2 Exemptions 
+
+(e) report certain matters to the regulator;   
+(f) give notice of the exemption to persons who may be affected by the exemption. 
+
+Note 
+
+A decision to impose a condition is a reviewable decision (see regulation 676). 
+
+692 Form of exemption document 
+
+The regulator must prepare an exemption document that states the following: 
+
+(a) the name of the applicant for the exemption (if any);   
+(b) the person or class of persons to whom the exemption will apply , if applicable;   
+(c) the work or thing to which the exemption relates, if applicable;   
+(d) the circumstances in which the exemption will apply;   
+(e) the provisions of these Regulations to which the exemption applies;   
+(f) any conditions on the exemption;   
+(g) the date on which the exemption takes effect;   
+(h) the duration of the exemption. 
+
+693 Compliance with conditions of exemption 
+
+A person to whom the exemption is granted must: 
+
+(a) comply with the conditions of the exemption; and (b) ensure that any person under the management or control of that person complies with the conditions of the exemption. 
+
+694 Notice of decision in relation to exemption 
+
+(1) The regulator must give a copy of the exemption document referred to in regulation 692 within 14 days after making the decision to grant the exemption to: 
+
+(a) if a person applied for the exemption—the applicant; or   
+(b) if the regulator granted the exemption on the regulator’s own initiative—each person (other than persons to whom regulation 695 applies) to whom the exemption will apply. 
+
+(2) If the regulator grants an exemption under regulation 689A(1), the regulator must notify each corresponding regulator that the exemption is granted. 
+
+<<<PAGE 427>>>
+
+695 Publication of exemption 
+
+(1) This regulation applies to an exemption that: 
+
+(a) relates to a class of persons; or (b) is granted under regulation 689A(1). 
+
+(2) The regulator must publish a copy of the exemption: 
+
+(a) on an appropriate government website; and (b) in the [Government Gazette]. 
+
+(3) If the regulator grants an exemption under regulation 689A(1), the regulator must publish on an appropriate government website the reasons for the decision within 14 days after the day the exemption is granted. 
+
+Note 
+
+See the jurisdictional note in the Appendix. The exemptions may also be viewed on the Safe Work Australia website (https://www.safeworkaustralia.gov.au). 
+
+696 Notice of refusal of exemption 
+
+(1) If the regulator refuses to grant an exemption, the regulator must give the applicant for the exemption written notice of the refusal within 14 days after making that decision. 
+
+(2) The notice must state the regulator's reasons for the refusal. 
+
+Note 
+
+A refusal to grant an exemption is a reviewable decision (see regulation 676). 
+
+697 Amendment or cancellation of exemption 
+
+The regulator may at any time amend or cancel an exemption. 
+
+Note 
+
+A decision to amend or cancel an exemption is a reviewable decision (see regulation 676). 
+
+698 Notice of amendment or cancellation 
+
+(1) The regulator must give written notice of the amendment or cancellation of an exemption, within 14 days after making the decision to amend or cancel the exemption, to: 

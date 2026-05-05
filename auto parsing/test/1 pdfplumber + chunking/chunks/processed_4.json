@@ -1,0 +1,143 @@
+{
+    "title": "Road Rules 2014",
+    "enactedOn": "",
+    "jurisdiction": "New South Wales, Australia",
+    "implementedBy": "New South Wales",
+    "numberedSegments": [
+        "Part",
+        "Division",
+        "Rule"
+    ],
+    "unnumberedSegments": [
+        "Status Information",
+        "Contents",
+        "Notes",
+        "Authorisation"
+    ],
+    "headerSkipped": "Road Rules 2014 [NSW]",
+    "footerSkipped": "Current version for 9 May 2025 to date (accessed 7 August 2025 at 15:18) Page",
+    "llmSummary": "This chunk defines who is a driver, rider, and pedestrian; what constitutes a vehicle; and clarifies that references to drivers include riders unless stated otherwise. It then begins Part 3 on speed limits, setting general obligations to obey speed limits, defining how speed limit signs and zones apply (including school and shared zones, and speed-limited areas), and establishing NSW-specific rules for school bus stop zones, learner/provisional drivers, Lord Howe Island, and buses with flashing lights.",
+    "content": [
+        {
+            "type": "Part",
+            "id": "2",
+            "title": "Application of these Rules",
+            "text": "",
+            "subsegments": [
+                {
+                    "type": "Rule",
+                    "id": "",
+                    "title": "",
+                    "text": "Driveris defined in rule 16,pedestrianis defined in rule 18, andrideris defined in rule 17.",
+                    "subsegments": []
+                },
+                {
+                    "type": "Rule",
+                    "id": "15",
+                    "title": "What is a vehicle",
+                    "text": "A vehicle includes\u2014\n\na. a motor vehicle, trailer and tram, and\n\nb. a bicycle, and\n\nc. an animal-drawn vehicle, and an animal that is being ridden or drawing a vehicle, and\n\nd. a combination, and\n\ne. a motorised wheelchair that can travel at over 10 kilometres per hour (on level ground), and\n\nf. an electric skateboard, unless a person is driving the electric skateboard in the circumstances set out in [Rule 228\u20131](#rule-228\u20131),\n\nbut does not include another kind of wheelchair, a train, or a wheeled recreational device or wheeled toy.\n\nNote 1.\nVarious terms mentioned in this rule are defined in the Dictionary.\n\nNote 2\u2014\nThis rule is not uniform with the corresponding rule 15 of theAustralian Road Rules.",
+                    "subsegments": []
+                },
+                {
+                    "type": "Rule",
+                    "id": "16",
+                    "title": "Who is a driver",
+                    "text": "1. A driver is the person who is driving a vehicle (except a motor bike, bicycle, animal or animal-drawn vehicle).\n\nNote 1.\nBicycleandmotor bikeare defined in the Dictionary, andvehicleis defined in [Rule 15](#rule-15).\n\nNote 2.\nDriveincludes be in control of\u2014see the definition in the Dictionary.\n\n2. However, a driver does not include a person pushing a motorised wheelchair.\n\nNote.\nWheelchairis defined in the Dictionary.",
+                    "subsegments": []
+                },
+                {
+                    "type": "Rule",
+                    "id": "17",
+                    "title": "Who is a rider",
+                    "text": "1. A rider is the person who is riding a motor bike, bicycle, animal or animal-drawn vehicle.\n\nNote 1.\nBicycleandmotor bikeare defined in the Dictionary.\n\nNote 2.\nRide, for the rider of a motor bike or animal-drawn vehicle, includes be in control of\u2014see the definition in the Dictionary.\n\n2. A rider does not include\u2014\n\na. a passenger, or\n\nb. a person walking beside and pushing a bicycle.",
+                    "subsegments": []
+                },
+                {
+                    "type": "Rule",
+                    "id": "18",
+                    "title": "Who is a pedestrian",
+                    "text": "A pedestrian includes\u2014\n\na. a person driving a motorised wheelchair that cannot travel at over 10 kilometres per hour (on level ground), and\n\nb. a person in a non-motorised wheelchair, and\n\nc. a person pushing a motorised or non-motorised wheelchair, and\n\nd. a person in or on a wheeled recreational device or wheeled toy, and\n\ne. a person driving an electric skateboard, in the circumstances set out in [Rule 228\u20131](#rule-228\u20131).\n\nNote 1.\nElectric skateboard,wheelchair,wheeled recreational deviceandwheeled toyare defined in the Dictionary.\n\nNote 2\u2014\nThis rule is not uniform with the corresponding rule 18 of theAustralian Road Rules.",
+                    "subsegments": []
+                },
+                {
+                    "type": "Rule",
+                    "id": "19",
+                    "title": "References to driver includes rider etc",
+                    "text": "Unless otherwise expressly stated in these Rules, each reference in these Rules (except in this Division) to a driver includes a reference to a rider, and each reference in these Rules (except in this Division) to driving includes a reference to riding.",
+                    "subsegments": []
+                }
+            ]
+        },
+        {
+            "type": "Part",
+            "id": "3",
+            "title": "Speed limits",
+            "text": "",
+            "subsegments": [
+                {
+                    "type": "Rule",
+                    "id": "20",
+                    "title": "Obeying the speed limit",
+                    "text": "A driver must not drive at a speed over the speed limit applying to the driver for the length of road where the driver is driving.\n\nPenalty and disqualification: a driver who contravenes this rule is guilty of an offence and is liable to a maximum penalty and a period of disqualification (if any) determined in accordance with [Rule 10\u20132](#rule-10\u20132).\n\nNote 1.\nThe rules about speed limits are as follows\u2014\n- rule 21\u2014speed limit where aspeed limit signapplies\n- rule 21\u20131\u2014NSW rule:school bus stop zone signisspeed limit sign\n- rule 22\u2014speed limit in a speed limited area\n- rule 23\u2014speed limit in a school zone\n- rule 24\u2014speed limit in a shared zone\n- rule 24\u20131\u2014NSW rule: speed limits for learner and provisional licence holders\n- rule 24\u20132\u2014NSW rule: speed limit on Lord Howe Island\n- rule 24\u20133\u2014NSW rule: speed limit when bus displayingwhen lights flash speed limit sign\n- rule 24\u20134\u2014NSW rule: speed limits for small motor bikes during periods of darkness\n- rule 25\u2014speed limit elsewhere.\n\nNote 2.\nRoadincludes a road related area\u2014see [Rule 11](#rule-11)(2).\n\nNote 3.\nLengthof road includes a marked lane, a part of a marked lane, or another part of a length of road\u2014see the definition in the Dictionary.\n\nNote 4.\n[Part 20](#part-20), [Division 2](#division-2) deals with the way in which a traffic sign applies to a length of road. [Part 20](#part-20), [Division 3](#division-3) deals with the way in which the traffic sign applies to drivers driving on the length of road.\n\nNote 5.\nDivision 3 of Part 5.3 of the Act provides that a person bringing proceedings or issuing a penalty notice in which it is alleged that the driver of a vehicle committed a speeding offence may rely on the average speed at which the vehicle travelled between different points on a road as evidence of the offence.\nIf there is more than one speed limit applicable to the driver between the different points, Division 3 of Part 5.3 of the Act provides that for the purposes of such proceedings the speed limit that applied to the driver between those points is taken to be the average speed limit calculated in accordance with that Division.",
+                    "subsegments": []
+                },
+                {
+                    "type": "Rule",
+                    "id": "21",
+                    "title": "Speed limit where a speed limit sign applies",
+                    "text": "1. The speed limit applying to a driver for a length of road to which a speed limit sign applies is the number of kilometres per hour indicated by the number on the sign.\n\nNote.\nLengthof road is defined in the Dictionary.\n\n2. However, if the number on the speed limit sign is over 100 and the driver is driving a vehicle with a GVM over 4.5 tonnes or a vehicle and trailer combination with a GCM over 4.5 tonnes, the speed limit applying to the driver for the length of road is 100 kilometres per hour.\n\nNote 1.\nCombinationandtrailerare defined in the Dictionary,vehicleis defined in [Rule 15](#rule-15), andGCMandGVM are defined in the Act.\n\nNote 2.\nThis subrule is not uniform with the corresponding subrule in rule 21 of theAustralian Road Rules. Different rules may apply in other Australian jurisdictions.\n\n3. A speed limit sign on a road applies to the length of road beginning at the sign and ending at the nearest of the following\u2014\n\na. a speed limit sign on the road with a different number on the sign,\n\nb. an end speed limit sign or speed derestriction sign on the road,\n\nc. if the road ends at a T-intersection or dead end\u2014the end of the road.\n\nNote 1.\nT-intersectionis defined in the Dictionary.\n\nNote 2.\n[Rule 322](#rule-322)(1) and (2) deal with the meaning of a traffic signona road.\n\nSpeed limit signs\n\nSpeed limit sign (Variable illuminated message sign)\n\nSpeed limit sign (Standard sign)\n\nOther signs\n\nEnd speed limit sign\n\nSpeed derestriction sign\n\nNote 1 for diagrams.\nThere are a number of other permitted versions of thespeed limit signand theend speed limit sign\u2014see the diagrams in Schedule 3.\n\nNote 2 for diagrams.\nAspeed limit signorend speed limit signmay have a different number on the sign\u2014see [Rule 316](#rule-316)(4).",
+                    "subsegments": []
+                },
+                {
+                    "type": "Rule",
+                    "id": "21\u20131",
+                    "title": "NSW rule: school bus stop zone sign is speed limit sign",
+                    "text": "1. For the purposes of [Rule 21](#rule-21)\u2014\n\na. a school bus stop zone sign is a speed limit sign, and\n\nb. an end school bus stop zone sign is an end speed limit sign in respect of a school bus stop zone sign.\n\n2. For the purposes of the application of this Part with respect to a length of road to which a school bus stop zone sign applies, the speed limit indicated by the sign applies to a driver only while the warning system of a bus is activated along that length of road.\n\nNote.\nLengthof road is defined in the Dictionary.\n\n3. In this rule\u2014\n\nwarning system of a bus means the warning system referred to in the Road Transport (General) Regulation 2021, section 18.\n\nSchool bus stop zone sign\n\nEnd school bus stop zone sign\n\nNote for diagrams.\nAschool bus stop zone signmay have a different number on the sign\u2014see [Rule 316](#rule-316)(4).\n\nNote.\nThis rule is an additional NSW road rule. There is no corresponding rule in theAustralian Road Rules. Different speed limit signs may apply to drivers in other Australian jurisdictions.",
+                    "subsegments": []
+                },
+                {
+                    "type": "Rule",
+                    "id": "22",
+                    "title": "Speed limit in a speed limited area",
+                    "text": "1. The speed limit applying to a driver for any length of road in a speed limited area is the number of kilometres per hour indicated by the number on the area speed limit sign on a road into the area, unless another speed limit applies to the driver for the length of road under another rule of this Part.\n\nExample of another speed limit.\nAlthough anarea speed limit signon a road into a speed limited area may indicate a speed limit of 60 kilometres per hour, a particular length of road in the area may have aschool zone signindicating a 40 kilometres per hour speed limit for that length of road.\n\nNote.\nLengthof road is defined in the Dictionary.\n\n2. A speed limited area is the network of roads in an area with\u2014\n\na. an area speed limit sign on each road into the area, indicating the same number, and\n\nb. an end area speed limit sign on each road out of the area.\n\n3. In subrule (2)(a) and (b)\u2014\n\nroad does not include a road related area.\n\nNote.\nRoad related areais defined in [Rule 13](#rule-13).\n\nArea speed limit sign\n\nEnd area speed limit sign\n\nNote 1 for diagrams.\nThere are a number of other permitted versions of each of these signs\u2014see the diagrams in Schedule 3.\n\nNote 2 for diagrams.\nAnarea speed limit signorend area speed limit signmay have a different number on the sign\u2014see [Rule 316](#rule-316)(4).",
+                    "subsegments": []
+                },
+                {
+                    "type": "Rule",
+                    "id": "23",
+                    "title": "Speed limit in a school zone",
+                    "text": "1. The speed limit applying to a driver for any length of road in a school zone is the number of kilometres per hour indicated by the number on the school zone sign on a road, or the road, into the zone.\n\nNote 1.\nLengthof road is defined in the Dictionary.\n\nNote 2.\nAschool zone signmay indicate that it applies only at certain times, on certain days or in certain circumstances\u2014see [Rules 317](#rule-317) and [318](#rule-318).\n\nNote 3.\nThis subrule applies to road related areas in the school zone\u2014see [Rule 11](#rule-11)(2).\n\n2. A school zone is\u2014\n\na. if there is a school zone sign and an end school zone sign, or a speed limit sign with a different number on the sign, on a road and there is no intersection on the length of road between the signs\u2014that length of road, or\n\nb. if there is a school zone sign on a road that ends in a dead end and there is no intersection, nor a sign mentioned in paragraph (a), on the length of road beginning at the sign and ending at the dead end\u2014that length of road, or\n\nc. in any other case\u2014the network of roads in an area with\u2014\n\ni. a school zone sign on each road into the area, indicating the same number, and\n\nii. an end school zone sign, or a speed limit sign indicating a different number, on each road out of the area.\n\nNote.\nIntersectionis defined in the Dictionary.\n\n3. In subrule (2)(c)(i) and (ii)\u2014\n\nroad does not include a road related area.\n\nNote.\nRoad related areais defined in [Rule 13](#rule-13).\n\nSchool zone sign\n\nEnd school zone sign\n\nNote 1 for diagrams.\nThere are other permitted versions of theschool zone sign\u2014see the diagrams in Schedule 3.\n\nNote 2 for diagrams.\nAschool zone signorend school zone signmay have a different number on the sign\u2014see [Rule 316](#rule-316)(4).\n\nNote 3 for diagrams.\nSchool days are any days other than a Saturday or Sunday, a day that is a public holiday or a day publicly notified as a school holiday for government schools\u2014see [Rule 318](#rule-318)(3\u20131).",
+                    "subsegments": []
+                },
+                {
+                    "type": "Rule",
+                    "id": "24",
+                    "title": "Speed limit in a shared zone",
+                    "text": "1. The speed limit applying to a driver for any length of road in a shared zone is the number of kilometres per hour indicated by the number on the shared zone sign on a road, or the road, into the zone.\n\nNote.\nA driver driving in a shared zone must give way to any pedestrian in the zone\u2014see [Rule 83](#rule-83).\n\n2. A shared zone is\u2014\n\na. if there is a shared zone sign and an end shared zone sign on a road and there is no intersection on the length of road between the signs\u2014that length of road, or\n\nb. if there is a shared zone sign on a road that ends in a dead end and there is no intersection on the length of road beginning at the sign and ending at the dead end\u2014that length of road, or\n\nc. a network of roads in an area with\u2014\n\ni. a shared zone sign on each road into the area, indicating the same number, and\n\nii. an end shared zone sign on each road out of the area, or\n\nd. a road related area that is between a shared zone sign that relates to the area and an end shared zone sign that relates to the area.\n\nNote.\nIntersectionis defined in the Dictionary.\n\n3. In subrule (2)(c)(i) and (ii)\u2014\n\nroad does not include a road related area.\n\nNote.\nRoad related areais defined in [Rule 13](#rule-13).\n\nShared zone sign\n\nEnd shared zone sign",
+                    "subsegments": []
+                },
+                {
+                    "type": "Rule",
+                    "id": "24\u20131",
+                    "title": "NSW rule: speed limits for learner and provisional licence holders",
+                    "text": "1. Speed limit applying to learner drivers The speed limit applying for any length of road to a driver who is the holder of a learner licence issued in New South Wales is 90 kilometres per hour, unless another lesser speed limit applies to the driver for the length of road under another rule of this Part.\n\nNote.\nLengthof road is defined in the Dictionary, andlearner licenceis defined in the Act.\n\n2. Speed limit applying to P1 provisional drivers The speed limit applying for any length of road to a driver who is the holder of a provisional P1 licence is 90 kilometres per hour, unless another lesser speed limit applies to the driver for the length of road under another rule of this Part.\n\nNote.\nProvisional P1 licenceis defined in the Dictionary.\n\n3. Speed limit applying to P2 provisional drivers The speed limit applying for any length of road to a driver who is the holder of a provisional P2 licence is 100 kilometres per hour, unless another lesser speed limit applies to the driver for the length of road under another rule of this Part.\n\nNote.\nProvisional P2 licenceis defined in the Dictionary.\n\n4. Rule applies despite greater speed limits This rule has effect despite any other rule in this Part that specifies a speed limit applying to a driver for a length of road that is greater than the speed limit applying to the driver under this rule.\n\nNote.\nThis rule is an additional NSW road rule. There is no corresponding rule in theAustralian Road Rules.",
+                    "subsegments": []
+                },
+                {
+                    "type": "Rule",
+                    "id": "24\u20132",
+                    "title": "NSW rule: speed limit on Lord Howe Island",
+                    "text": "1. The speed limit applying to a driver for any length of road on Lord Howe Island is 25 kilometres per hour.\n\nNote.\nLengthof road is defined in the Dictionary.\n\n2. This rule has effect despite any other rule in this Part specifying the speed limit applying to a driver for a length of road.\n\nNote.\nThis rule is an additional NSW road rule. There is no corresponding rule in theAustralian Road Rules.",
+                    "subsegments": []
+                },
+                {
+                    "type": "Rule",
+                    "id": "24\u20133",
+                    "title": "NSW rule: speed limit when bus displaying when lights flash speed limit sign",
+                    "text": "1. This rule applies to a driver if\u2014\n\na. the vehicle being driven by the driver is approaching from the rear of a bus (whether stationary or in motion) that displays a when lights flash speed limit sign, and\n\nb. the bus is fitted with a warning system, and\n\nc. the warning system is activated.\n\nNote.\nBusis defined in the Dictionary.",
+                    "subsegments": []
+                }
+            ]
+        }
+    ]
+}

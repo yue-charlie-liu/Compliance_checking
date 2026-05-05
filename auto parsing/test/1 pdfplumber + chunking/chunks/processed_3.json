@@ -1,0 +1,181 @@
+{
+    "title": "Road Rules 2014",
+    "enactedOn": "",
+    "jurisdiction": "New South Wales, Australia",
+    "implementedBy": "New South Wales",
+    "numberedSegments": [
+        "Part",
+        "Division",
+        "Rule"
+    ],
+    "unnumberedSegments": [
+        "Status Information",
+        "Contents",
+        "Notes",
+        "Authorisation"
+    ],
+    "headerSkipped": "Road Rules 2014 [NSW]",
+    "footerSkipped": "Current version for 9 May 2025 to date (accessed 7 August 2025 at 15:18) Page",
+    "llmSummary": "This extract continues the table of contents and begins the substantive text of the NSW Road Rules 2014. It covers Part 1 (Introductory), including definitions, the status of diagrams and examples, and NSW-specific rules on criminal responsibility and penalties/disqualifications for speeding. It also begins Part 2 (Application of these Rules), defining where the rules apply, and what constitutes a road, road related area, and road user.",
+    "content": [
+        {
+            "type": "Contents",
+            "id": "",
+            "title": "Contents",
+            "text": "Division 2 Application of traffic control devices to lengths of roads and areas\n...........................................................................................................................................................407\nNote....................................................................................................................................................407\n324 Purpose of Division......................................................................................................................408\n325 References to traffic control devices\u2014application to lengths of road and areas.........................408\n326 When do traffic control devices apply to a length of road or area\u2014the basic rules.....................408\n327 Length of road to which a traffic sign (except a parking control sign) applies.............................409\n328 References to a traffic control device applying to a length of road.............................................409\n329 Traffic control devices applying to a marked lane........................................................................409\n330 Traffic control devices applying to a slip lane..............................................................................410\n331 Traffic control devices applying to an intersection.......................................................................410\n332 Parking control signs applying to a length of road.......................................................................411\n333 Parking control signs applying to a length of road in an area to which another parking control sign applies etc\n...........................................................................................................................................................411\n334 How parking control signs apply to a length of road...................................................................412\n335 Traffic control devices applying to an area..................................................................................413\n336 How separated footpath signs and separated footpath road markings apply.............................415\nDivision 3 Application of traffic control devices to persons..........................415\nNote....................................................................................................................................................415\n337 Purpose of Division......................................................................................................................415\n338 References to traffic control devices\u2014application to persons.....................................................415\n339 When do traffic control devices apply to a person\u2014the basic rules............................................416\n340 Traffic control devices (except road markings and parking control signs)...................................416\n341 Road markings.............................................................................................................................417\n342 Traffic signs (except parking control signs) applying to a length of road.....................................417\n343 Traffic signs (except parking control signs) applying to an area..................................................417\n344 Traffic control devices applying to a driver in a marked lane ......................................................418\n345 Traffic control devices applying to a driver in a slip lane.............................................................418\n346 Parking control signs...................................................................................................................418\nPart 21 General........................................................................................................................419\n347 Meaning of abbreviations and symbols.......................................................................................419\n348 References to a driver doing something etc................................................................................419\n349 References to certain kinds of roads...........................................................................................419\n350 References to stopping or parking on a length of road etc..........................................................420\n351 References to left and right.........................................................................................................420\n352 References to stopping as near as practicable to a place ...........................................................421\n353 References to pedestrians crossing a road..................................................................................421\n353\u20131 NSW rule: amendment, repeal etc of approvals and other matters under these Rules............421\n353\u20132 NSW rule: repeal of Road Rules 2008.......................................................................................421\n353\u20133 NSW rule: savings....................................................................................................................421\nSchedule 1 Abbreviations and symbols.....................................................................422\nSchedule 2 Standard traffic signs used in NSW....................................................423\nSchedule 3 Non-standard traffic signs used in NSW..........................................434\nSchedule 4 Symbols and traffic-related items.......................................................443\nDictionary....................................................................................................................................445",
+            "subsegments": []
+        },
+        {
+            "type": "Part",
+            "id": "1",
+            "title": "Introductory",
+            "text": "",
+            "subsegments": [
+                {
+                    "type": "Division",
+                    "id": "1",
+                    "title": "General",
+                    "text": "",
+                    "subsegments": [
+                        {
+                            "type": "Rule",
+                            "id": "1",
+                            "title": "Name of Rules",
+                            "text": "These Rules are the Road Rules 2014.",
+                            "subsegments": []
+                        },
+                        {
+                            "type": "Rule",
+                            "id": "2",
+                            "title": "Commencement",
+                            "text": "These Rules commence on 1 December 2014.",
+                            "subsegments": []
+                        },
+                        {
+                            "type": "Rule",
+                            "id": "3",
+                            "title": "Objects of these Rules",
+                            "text": "The objects of these Rules are\u2014\n\na. to consolidate in a single instrument the road rules that are applicable in New South Wales, and\n\nb. to provide for road rules that are based on the Australian Road Rules so as to ensure that the road rules applicable in this State are substantially uniform with road rules applicable elsewhere in Australia, and\n\nc. to provide for other road rules to be observed in this State in relation to matters that are not otherwise dealt with in the Australian Road Rules.\n\nNote.\nThis rule is not uniform with the corresponding rule 3 of theAustralian Road Rules.",
+                            "subsegments": []
+                        }
+                    ]
+                },
+                {
+                    "type": "Division",
+                    "id": "2",
+                    "title": "Some features of these Rules",
+                    "text": "",
+                    "subsegments": [
+                        {
+                            "type": "Rule",
+                            "id": "4",
+                            "title": "Definitions\u2014the Dictionary etc",
+                            "text": "1. The Dictionary at the end of these Rules defines certain words and expressions, and includes references to certain words and expressions defined elsewhere in these Rules (signpost definitions).\n\nExample.\nThe signpost definition \u201croad related area\u2014see [rule 13](#rule-13)\u201d means that the expressionroad related areais defined in [rule 13](#rule-13) of these Rules.\n\nNote.\nThe Dictionary only includes a signpost definition for a word or expression if the word or expression is used in 2 or more rules of these Rules.\n\n2. The Dictionary is part of these Rules.\n\n3. A definition in these Rules applies to each use of the word or expression in these Rules, unless the contrary intention appears.\n\n3\u20131. If a word or expression used in a provision of these Rules is defined in the Act, it has the same meaning as in the Act, unless the word or expression is defined in these Rules for the purposes of the provision or these Rules generally.\n\nNote 1.\nThe Actis defined in the Dictionary. A number of words or expressions used in these Rules are also defined in the Act.\n\nNote 2.\nThis subrule is an additional NSW subrule. There is no corresponding subrule in [rule 4](#rule-4) of theAustralian Road Rules.",
+                            "subsegments": []
+                        },
+                        {
+                            "type": "Rule",
+                            "id": "5",
+                            "title": "Diagrams",
+                            "text": "A diagram in these Rules is part of these Rules.\n\nNote 1.\nIf a diagram of a traffic control device, traffic-related item or symbol is in black and white in a rule of these Rules, the diagram may be a black and white version of the device, item or symbol\u2014see [rule 314](#rule-314). If so, the colour version of the device, item or symbol will be in Schedule 2, 3 or 4.\n\nNote 2.\nA diagram may be an example\u2014see [rule 6](#rule-6)(1).",
+                            "subsegments": []
+                        },
+                        {
+                            "type": "Rule",
+                            "id": "6",
+                            "title": "Examples",
+                            "text": "1. An example (whether or not in the form of a diagram) in these Rules is part of these Rules.\n\n2. If these Rules include an example of the operation of a provision of these Rules\u2014\n\na. the example is not exhaustive, and\n\nb. the example does not limit, but may extend, the meaning of the provision.",
+                            "subsegments": []
+                        },
+                        {
+                            "type": "Rule",
+                            "id": "7",
+                            "title": "Australian Road Rule not reproduced",
+                            "text": "* * * * *\n\nNote.\nRule 7 (Headings) of theAustralian Road Ruleshas not been reproduced in these Rules because section 35 of the Interpretation Act 1987makes provision for the status of headings in legislation of this jurisdiction.",
+                            "subsegments": []
+                        },
+                        {
+                            "type": "Rule",
+                            "id": "8",
+                            "title": "Notes",
+                            "text": "A note in these Rules is explanatory and is not part of these Rules.",
+                            "subsegments": []
+                        },
+                        {
+                            "type": "Rule",
+                            "id": "9",
+                            "title": "Australian Road Rule not reproduced",
+                            "text": "* * * * *\n\nNote.\nRule 9 (Reader\u2019s Guide) of theAustralian Road Ruleshas not been reproduced in these Rules because the Reader\u2019s Guide to which that rule refers has not been included in these Rules. This rule has been left blank in order to preserve uniformity of numbering with theAustralian Road Rules.",
+                            "subsegments": []
+                        },
+                        {
+                            "type": "Rule",
+                            "id": "10",
+                            "title": "Australian Road Rule not reproduced",
+                            "text": "* * * * *\n\nNote 1.\nRule 10 (Offences) of theAustralian Road Ruleshas not been reproduced in these Rules because it is unnecessary. This rule has been left blank in order to preserve uniformity of numbering with theAustralian Road Rules.\n\nNote 2.\nThese Rules indicate whether a contravention of a rule is an offence by the use of the words \u201cpenalty\u201d or \u201cmaximum penalty\u201d as appropriate\u2014see [rule 10\u20131](#rule-10\u20131)(4) and sections 17 (Penalty units) and 18 (Interpretation of provisions imposing penalties) of theCrimes (Sentencing Procedure) Act 1999.",
+                            "subsegments": []
+                        },
+                        {
+                            "type": "Rule",
+                            "id": "10\u20131",
+                            "title": "NSW rule: determination of criminal responsibility",
+                            "text": "1. Application of Commonwealth Criminal Code Subject to this rule, Chapter 2 of the Criminal Code set out in the Schedule to the Criminal Code Act 1995 of the Commonwealth (the Commonwealth Criminal Code) applies to an offence against these Rules as if the Chapter were in force as a law of New South Wales.\n\nNote.\nChapter 2 of the Commonwealth Criminal Code codifies the general principles of criminal responsibility.\n\n2. Offences are strict liability offences An offence against these Rules is a strict liability offence for the purposes of Chapter 2 of the Commonwealth Criminal Code (as applied by subrule (1)), except where these Rules expressly provide otherwise.\n\n3. General defence of accident or reasonable effort Without limiting any defence under Chapter 2 of the Commonwealth Criminal Code (as applied by subrule (1)), a person is not liable to a penalty for any offence under these Rules if the person proves to the satisfaction of the court dealing with the case that the offence\u2014\n\na. was the result of an accident, or\n\nb. could not have been avoided by any reasonable efforts on the person\u2019s part.\n\n4. Operation of Crimes (Sentencing Procedure) Act 1999 not affected Nothing in these Rules affects the application of the Crimes (Sentencing Procedure) Act 1999 in relation to these Rules (particularly, Divisions 4 and 5 of Part 2 of that Act).\n\nNote 1.\nDivisions 4 and 5 of Part 2 of theCrimes (Sentencing Procedure) Act 1999contain provisions relating to how offence provisions are to be interpreted. For instance, section 17 of that Act defines the amount of a penalty unit. Similarly, section 18 of that Act sets out rules for interpreting provisions in legislation that impose penalties.\n\nNote 2.\nThis rule is an additional NSW road rule. There is no corresponding rule in theAustralian Road Rules. However, it is intended that each Australian jurisdiction that adopts theAustralian Road Rulesis to apply the provisions of the Commonwealth Criminal Code to offences against the uniform rules.",
+                            "subsegments": []
+                        },
+                        {
+                            "type": "Rule",
+                            "id": "10\u20132",
+                            "title": "NSW rule: penalties and disqualifications for speeding offences",
+                            "text": "1. Definitions In this rule\u2014\n\nheavy motor vehicle means\u2014\n\na. a motor vehicle with a GVM over 12 tonnes, or\n\nb. a motor vehicle and trailer combination with a GCM over 12 tonnes.\n\nlarge motor vehicle means\u2014\n\na. a coach, or\n\nb. a motor vehicle with a GVM over 4.5 tonnes, or\n\nc. a motor vehicle and trailer combination with a GCM over 4.5 tonnes.\n\nspeed limit, in relation to a speeding offence, means the speed limit that was contravened in committing the offence.\n\nspeeding offence means an offence under [Part 3](#part-3) (Speed limits).\n\nNote.\nMotor vehicle,combinationandtrailerare defined in the Dictionary, andcoach,GCMandGVMare defined in the Act.\n\n2. Penalties and disqualifications for speeding offence A driver who commits a speeding offence in any of the circumstances referred to in subrule (3), (5) or (6) is\u2014\n\na. liable to the maximum penalty specified in this rule for an offence committed in those circumstances, and\n\nb. disqualified from holding a driver licence for the period specified in this rule for an offence committed in those circumstances.\n\nNote.\nDriver licenceis defined in the Act.\n\n3. Exceeding speed limit by more than 45 kilometres per hour A driver who commits a speeding offence by exceeding a speed limit by more than 45 kilometres per hour\u2014\n\na. is liable to a maximum penalty of 50 penalty units (in the case of a heavy motor vehicle or coach) or 30 penalty units (in any other case), and\n\nb. is disqualified from holding a driver licence by a conviction for the offence (and without any specific order) for 6 months or, if the court on the conviction thinks fit to order a different period of disqualification determined in accordance with subrule (4), is disqualified for the period specified in the order.\n\nNote.\nCoachis defined in the Act.\n\n4. Court-ordered disqualification periods under subrule (3) In determining a different period of disqualification under subrule (3) for a driver who commits a speeding offence, the court may specify a period that is\u2014\n\na. more than 6 months, or\n\nb. less than 6 months, but only if\u2014\n\ni. the person\u2019s driver licence or authority to drive in New South Wales has been suspended for a period (the suspension period) under Division 4 of Part 7.4 of the Act for that offence, and\n\nii. the specified disqualification period when added to the suspension period results in a total period of no less than 6 months.\n\n5. Exceeding speed limit by more than 30 kilometres per hour A driver who commits a speeding offence by exceeding a speed limit by more than 30 kilometres per hour\u2014\n\na. is liable to a maximum penalty of 20 penalty units, and\n\nb. is disqualified from holding a driver licence by a conviction for the offence (and without any specific order) for 3 months or, if the court on the conviction thinks fit to order a different period of disqualification determined in accordance with subrule (5A), is disqualified for the period specified in the order.\n\n5A. Court-ordered disqualification periods under subrule (5) In determining a different period of disqualification under subrule (5) for a driver who commits a speeding offence, the court may specify a period that is\u2014\n\na. more than 3 months, or\n\nb. less than 3 months, but only if\u2014\n\ni. the person\u2019s driver licence or authority to drive in New South Wales has been suspended for a period (the suspension period) under Division 4 of Part 7.4 of the Act for that offence, and\n\nii. the specified disqualification period when added to the suspension period results in a total period of no less than 3 months.\n\n6. Exceeding speed limit on road by 30 kilometres per hour or less A driver who commits a speeding offence by exceeding a speed limit by 30 kilometres per hour or less is liable to a maximum penalty of 20 penalty units.\n\n7. Alternative verdicts in prosecutions for speeding by more than 45 kilometres per hour If a driver is prosecuted under subrule (3) for a speeding offence in circumstances where the court\u2014\n\na. is satisfied that the person exceeded the relevant speed limit, but\n\nb. is not satisfied that it was exceeded by more than 45 kilometres per hour,\n\nthe court may instead convict the driver of an offence in accordance with subrule (5) if satisfied that the speed limit was exceeded by more than 30 kilometres per hour, or in accordance with subrule (6) if satisfied that the speed limit was exceeded by 30 kilometres per hour or less.\n\n8. Alternative verdicts in prosecutions for speeding by more than 30 kilometres per hour If a driver is prosecuted under subrule (5) for a speeding offence in circumstances where the court\u2014\n\na. is satisfied that the person exceeded the relevant speed limit, but\n\nb. is not satisfied that the speed limit was exceeded by more than 30 kilometres per hour,\n\nthe court may instead convict the driver of an offence in accordance with subrule (6).\n\n9. Disqualification period commences on date of conviction A period of disqualification imposed by or under this rule commences on the date of conviction for the offence to which it relates.\n\nNote.\nThis rule is an additional NSW road rule. There is no corresponding rule in theAustralian Road Rules. However, theAustralian Road Rulesallow another law of this jurisdiction to make provision for penalties.",
+                            "subsegments": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "Part",
+            "id": "2",
+            "title": "Application of these Rules",
+            "text": "",
+            "subsegments": [
+                {
+                    "type": "Division",
+                    "id": "1",
+                    "title": "Roads and road related areas",
+                    "text": "",
+                    "subsegments": [
+                        {
+                            "type": "Rule",
+                            "id": "11",
+                            "title": "Rules apply to vehicles and road users on roads and road related areas",
+                            "text": "1. These Rules apply to vehicles and road users on roads and road related areas.\n\nNote.\nRoadis defined in [rule 12](#rule-12),road related areais defined in [rule 13](#rule-13),road useris defined in [rule 14](#rule-14), and vehicleis defined in [rule 15](#rule-15).\n\n2. Each reference in these Rules (except in this Division) to a road includes a reference to a road related area, unless otherwise expressly stated in these Rules.\n\nExamples for subrule (2).\n1. A reference in [rule 146](#rule-146) (which deals with driving within a single marked lane or line of traffic) to the road includes a reference to the road related area of the road.\n2. A reference in [rule 200](#rule-200)(1) (which deals with certain heavy or long vehicles stopping on roads) to a length of road includes a reference to the road related area of the length of road.\n3. A reference in [rule 31](#rule-31) (which deals with starting a right turn from a road, except a multi-lane road) to a road does not include a reference to a road related area, because of the definition in subrule (5) of that rule.",
+                            "subsegments": []
+                        },
+                        {
+                            "type": "Rule",
+                            "id": "12",
+                            "title": "What is a road",
+                            "text": "1. A road is an area that is open to or used by the public and is developed for, or has as one of its main uses, the driving or riding of motor vehicles.\n\nNote.\nMotor vehicleis defined in the Dictionary.\n\n2. However, unless the contrary intention appears, a reference in these Rules (except in this Division) to a road does not include a reference to\u2014\n\na. an area so far as the area is declared, under another law of this jurisdiction, not to be a road for these Rules, or\n\nb. any shoulder of the road.\n\nNote.\nThe Minister administering the Act may, by order under section 18 of that Act, declare that provisions of the road transport legislation do not apply to a road or do apply to a specified area of the State that is open to or used by the public. The road transport legislation includes these Rules.\n\n3. The shoulder of the road includes any part of the road that is not designed to be used by motor vehicles in travelling along the road, and includes\u2014\n\na. for a kerbed road\u2014any part of the kerb, and\n\nb. for a sealed road\u2014any unsealed part of the road, and any sealed part of the road outside an edge line on the road,\n\nbut does not include a bicycle path, footpath or shared path.\n\nNote.\nBicycle pathis defined in [rule 239](#rule-239),edge lineandfootpathare defined in the Dictionary, andshared pathis defined in [rule 242](#rule-242).",
+                            "subsegments": []
+                        },
+                        {
+                            "type": "Rule",
+                            "id": "13",
+                            "title": "What is a road related area",
+                            "text": "1. A road related area is any of the following\u2014\n\na. an area that divides a road,\n\nb. a footpath or nature strip adjacent to a road,\n\nc. an area that is not a road and that is open to the public and designated for use by cyclists or animals,\n\nd. an area that is not a road and that is open to or used by the public for driving, riding or parking vehicles.\n\nNote.\nVehicleis defined in [rule 15](#rule-15).\n\n2. However, unless the contrary intention appears, a reference in these Rules (except in this Division) to a road related area includes a reference to\u2014\n\na. an area so far as the area is declared, under another law of this jurisdiction, to be a road related area for these Rules, or\n\nb. any shoulder of a road, or\n\nc. any other area that is a footpath or nature strip as defined in the Dictionary,\n\nbut does not include a reference to an area so far as the area is declared, under another law of this jurisdiction, not to be a road related area for these Rules.\n\nNote 1.\nShoulderis defined in [rule 12](#rule-12).\n\nNote 2.\nThe Minister administering the Act may, by order under section 18 of that Act, declare that provisions of the road transport legislation do not apply to a road or do apply to a specified area of the State that is open to or used by the public. The road transport legislation includes these Rules.",
+                            "subsegments": []
+                        },
+                        {
+                            "type": "Rule",
+                            "id": "14",
+                            "title": "Road users",
+                            "text": "A road user is a driver, rider, passenger or pedestrian.\n\nNote.",
+                            "subsegments": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

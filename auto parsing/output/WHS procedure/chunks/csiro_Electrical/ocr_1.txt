@@ -1,0 +1,467 @@
+<<<Page 1>>>
+
+Electrical Safety Guideline 
+
+September 2021   
+Version 1.4 
+
+<<<PAGE 2>>>
+
+Contents 
+
+Foreword 3 
+
+1.1 Revision Log 4 
+
+Introduction .5 
+
+2.1 What are electrical risks?..   
+2.2 What is electrical work? .   
+2.3 What is not electrical work? . 5 
+
+HSE Risk Management.. .6 
+
+4 Electrical work competencies. 
+
+4.1 Electrical worker competency..   
+4.2 Electrical work – who can do what?. .8   
+4.3 Electrical competency assessment.. 0   
+4.4 Verification of electrical competency. 9 
+
+Conducting electrical work. .11 
+
+5.1 General electrical work principles.. 1   
+5.2 Tools and Equipment.. .12   
+5.3 Working on a different site. .12 
+
+Isolation of Electricity Supply .13 
+
+6.1 Lock out and tag out.. .13   
+6.2 Isolation locks.. 13 
+
+Energised electrical work . .14 
+
+7.1 Planning energised electrical work . .14   
+7.2 Application to undertake energised electrical work. .14   
+7.3 Carrying out energised electrical work.. .15   
+7.4 Safe Work Instructions . .15   
+7.5 Safety Observers . .16   
+7.6 Other considerations .. .16   
+7.7 Energised electrical work – testing and fault-finding.. .17 
+
+Work with electrical equipment . .20 
+
+8.1 Purchasing of equipment.. .20   
+8.2 Modifications to electrical equipment . .20   
+8.3 Disposal of electrical equipment. .20 
+
+<<<PAGE 3>>>
+
+8.4 Inspection, testing and tagging. .21 
+
+Electrical Safety Officers (ESO) .22 
+
+9.1 Business Unit and Site Electrical Safety Officers.. .22   
+9.2 Electrical Safety Officer competencies.. .22   
+9.3 Letters of appointment.. .23   
+9.4 Duties of Electrical Safety Officers . .23 
+
+10 Referenced Documents. .25 
+
+<<<PAGE 4>>>
+
+1 Foreword 
+
+This guideline provides practical guidance on how to achieve the electrical safety requirements set out in the CSIRO Electrical Safety Procedure and effective ways to reduce and manage electrical risks. 
+
+CSIRO has a duty of care under the Work Health and Safety (WHS) Act and WHS Regulations to ensure that our people, so far as reasonably practicable, are not exposed to electrical risks in the workplace and to subsequently manage the risks by identifying and applying controls to either eliminate or manage potential electrical hazards. 
+
+This guideline does not cover all relevant hazards and risks associated with working on or with electrical equipment and electrical installations. However, when planning and carrying out work involving electricity, or an alternate energy source all hazards, and risks need to be considered. 
+
+<<<PAGE 5>>>
+
+1.1 Revision Log 
+
+<<<PAGE 6>>>
+
+2 Introduction 
+
+2.1 What are electrical risks? 
+
+Electrical risks have the potential to cause death and serious injury through direct or indirect contact with electricity. The most common risks are: 
+
+ Electric shock causing injury or death, if contact is made with energised parts.   
+ Fire, arcing or explosion causing burns, for example when moisture or dust enter electrical equipment, or an explosive atmosphere is present.   
+ Toxic gases causing illness or death. 
+
+2.2 What is electrical work? 
+
+Section 146 of the WHS Regulation defines “electrical work” as: 
+
+ connecting electricity supply wiring to electrical equipment or disconnecting electrical supply wiring from electrical equipment; or   
+ installing, removing, adding, testing, replacing, repairing, altering or maintaining electrical equipment or an electrical installation. 
+
+2.3 What is not electrical work? 
+
+Electrical work does not include work on electrical equipment that is operated by electricity at extra-low voltage except electrical equipment that: 
+
+ is part of an electrical installation located in an area in which the atmosphere presents a risk to health and safety from fire or explosion; or  is, or is part of an active impressed current cathodic protection system. 
+
+Appendix 1 What is not electrical work in CSIRO within the Electrical Safety Procedure lists the activities that are considered electrical work under Section 146 of the WHS Regulations. 
+
+<<<PAGE 7>>>
+
+3 HSE Risk Management 
+
+Electrical Safety Procedure Section 1 – HSE Risk Management 
+
+Prior to undertaking any electrical work or activities involving a possible electrical hazard that has the potential to cause injury or property/infrastructure damage an Activity Risk Assessment must be completed. A Safe Work Instruction (SWI) must be completed for recurring electrical work and energised electrical work. 
+
+Section 147 of the WHS Regulation specifies that an employer “must manage risks to health and safety associated with electrical risks at the workplace”. This includes electrical risks associated with the design, construction, installation, protection, maintenance and testing of electrical equipment and electrical installations at a workplace. 
+
+Section 2 of the Code of Practice 2018 – Managing electrical risks in the workplace provides the following guidance that may assist when completing an Activity Risk Assessment (ARA): 
+
+ different hazards associated with electrical equipment and installations;   
+ considerations when assessing the nature and severity of risks associated with electrical hazards and electrical work; and   
+ considerations when identifying and implementing control measures to eliminate or reduce the risks with associated with electrical hazards. 
+
+Refer to Section 7 of this guideline for information on risk assessment consideration for energised electrical work. 
+
+<<<PAGE 8>>>
+
+4 Electrical work competencies 
+
+Electrical Safety Procedure Section 3 – Electrical work competencies 
+
+Electrical work MUST only be carried out by a competent person who: 
+
+ is permitted to carry out electrical work under their local state/territory electrical legislation; and  has acquired through training, qualifications or experience the knowledge and skills to carry out the task. 
+
+4.1 Electrical worker competency 
+
+Electrical workers must be deemed competent to carry out electrical work. 
+
+Electrical work competencies are regulated by the states and territories, as a result your location will determine what types of competencies are required for the work you carry out. 
+
+Table 1 provides an overview of what licences are required in each state and territory for specific electrical work. If an electrical licence isn’t required, then competency must be demonstrated through the successful completion of a practical competency assessment as agreed by CSIRO. 
+
+Table 1 Electrical licence and competency assessment requirements by state/territory 
+
+<<<PAGE 9>>>
+
+Mutual Recognition 
+
+Mutual recognition reduces inefficiencies and regulatory barriers, allowing people licensed or registered to practise an occupation in one jurisdiction to practise the equivalent occupation in another jurisdiction. 
+
+A licensed person seeking to work in another state or territory can practise the equivalent occupation in the new state or territory without undergoing further testing. However, they must first apply for recognition of their existing licence and pay any relevant fee. Each state and territory administer its own occupational licences. 
+
+4.2 Electrical work – who can do what? 
+
+Electrical work, whether energised or de-energised, must only be carried out by a person who is deemed competent under applicable state/territory electrical legislation. 
+
+An electrical worker’s training and qualifications will impact the type of electrical work they can perform. Table 2 outlines what electrical work electrical workers in certain positions should be able to perform based on their qualifications and training. 
+
+<<<PAGE 10>>>
+
+4.3 Electrical competency assessment 
+
+Electrical workers must complete a practical electrical competency assessment prior to carrying out electrical work if an appropriate electrical licence is not required by their local state/territory regulator. Table 1 Electrical licence and competency assessment requirements by state/territory identifies when an electrical competency assessment is required. 
+
+The electrical competency assessment evaluates whether an electrical worker has the necessary skills to carry out electrical work on non-fixed electrical equipment and can demonstrate safe work practices in line with the CSIRO Electrical Safety Procedure. 
+
+An electrical worker, if applicable, must successfully pass an electrical competency assessment as agreed by CSIRO within the past 5 years. 
+
+This assessment does not permit electrical workers to carry out any type of electrical work that requires an appropriate electrical licence within their local state or territory. 
+
+Refer to Appendix 2 of this guideline for the electrical competency assessment template that must be used. 
+
+4.4 Verification of electrical competency 
+
+The verification of electrical competency must establish whether the electrical worker: 
+
+1. Has the licences, qualifications, training and experience necessary to safely carry out the required electrical work; and   
+2. Can demonstrate an understanding of the specific risks and control measures needed to carry out specific electrical work tasks. 
+
+What to consider when completing a verification form? 
+
+Prior to carrying out electrical work in CSIRO, an electrical worker must complete and submit a verification of electrical competency form to their line manager for consideration and approval. 
+
+When completing the form consider the following: 
+
+a. How do you plan on carrying out the electrical work – i.e. is it de-energised or energised? If energised, do you have an appropriate electrical licence? An application to undertake energised electrical work need to be completed to obtain permission to work energised.   
+b. Does your training/qualifications/licences/experience address the competencies required for the electrical tasks you intend to carry out? – copies of qualifications/training/licences need to be attached to the verification form.   
+c. Have you completed Activity Risk Assessments and SWIs, if applicable, for the electrical work you intend to carry out – copies of the risk assessment and SWIs need to be attached to the verification form. 
+
+<<<PAGE 11>>>
+
+What to consider when reviewing and approving a verification form? 
+
+The Line Manager along with the Electrical Safety Officer (ESO) should review the details in Part 2 & 3 of a submitted Verification of electrical competency. 
+
+When completing Part 4 & 5, discuss the electrical tasks to be performed and consider the following: 
+
+a. Does the licence/qualification/training/experience address the work described in Part 2? i.e. Do they require an electrical licence, additional training, equipment/tools, supervision?   
+b. Any of the electrical work tasks need to be performed energised – an application to undertake energised electrical work needs to be completed and submitted by the electrical worker/competent person to obtain permission to work energised.   
+c. Was there a previous electrical approval – is this a renewal or has there been a change in the electrical tasks?   
+d. Has the worker provided copies of licences, certificates, qualification – copies must be provided. If the worker is unable to provide copies, approval cannot be given, and electrical work must be ceased until all supporting documentation provided.   
+e. Are the licences, certificates, qualifications still in date and valid e.g. some licences have a review/renewal date. If out of date, the worker should be notified, and it noted on the verification form.   
+f. Have all known risks and hazards been assessed for the work to be undertaken, has it been documented and have the control measures been implemented - copies of Activity Risk Assessments and Safe Work Instructions must be provided for the electrical tasks. If the worker is unable to provide copies, approval cannot be given, and electrical work must cease until the completed risk assessments and SWI, if applicable, have been provided.   
+g. Are there further requirements for the worker to be approved - where it has been identified that additional training, supervision, procedures, etc are required, it is to be noted on the workers verification form and actioned appropriately. 
+
+Setting conditions and limitations to electrical work 
+
+Upon reviewing and approving verification form, a Line Manager may want to set conditions or limitation to what electrical work an electrical worker can carry out based on the risk and competency of the work. 
+
+Examples of conditions and limitations include: 
+
+ Electrical work is restricted to testing only, (no working on energised circuits).   
+ Working on energised circuits strictly in accordance with the conditions of an electrical licence.  Working strictly under supervision by an electrically competent and qualified electrical worker. Isolate, tag, de- energise using appropriate PPE and work on de-energised equipment or installation.   
+Restricted to electrical measurements on live external terminals, with appropriate PPE. Replacement of components in accordance with engineering specifications, like-for-like on deenergised circuits. 
+
+<<<PAGE 12>>>
+
+5 Conducting electrical work 
+
+Electrical Safety Procedure Section 2 – Performing electrical work safely 
+
+Business Units/Functions MUST ensure that: 
+
+ Energised electrical work IS NOT conducted, unless subject to exemptions provided under Section 157 of the WHS Regulation and approval is obtained as per section 3.3 of this procedure;  Only persons deemed competent are permitted to carry out electrical work; and  Electrical equipment and installations are isolated, tagged and confirmed de-energised before electrical work commences. 
+
+5.1 General electrical work principles 
+
+Section 154 of the WHS Regulations states that electrical work is not to be carried out on energised electrical equipment. However, exemptions do apply in certain circumstances provided in Section 157 of the regulations. Refer to Section 7 of this guideline for more information about energised electrical work requirements. 
+
+Wherever possible electrical work must be carried out de-energised, this includes testing and fault finding. All possible de-energised working methods must be identified and tried before working energised should be considered. 
+
+‘Test for Dead’ before you touch 
+
+Before electrical work is carried out, the equipment needs to be tested by a competent person to determine whether or not it is energised. You need to ensure: 
+
+ Each exposed part of the equipment is treated as energised until it is isolated and determined not to be energised; and   
+ Each high voltage exposed part is earthed after being de-energised. 
+
+Electrical equipment that is de-energised must not be inadvertently energised while work is being carried out. 
+
+Work on Electrical Installations 
+
+Electrical work on an installation involving any part thereof, in service following construction, alteration or repair, it shall be verified, as far as practicable, that the installation is safe to energise and will operate in accordance with the requirements of AS 3000. Precautions shall be taken to ensure the safety of persons and to avoid damage to property and the electrical installation equipment during inspecting and testing. 
+
+Where electrical installation is an alteration or repair to an existing electrical installation, it shall be verified that the alteration or repair complies with this AS 3000 and does not impair the safety of the existing electrical installation. 
+
+<<<PAGE 13>>>
+
+5.2 Tools and Equipment 
+
+All electrical tools and equipment should be suitable for the work and be maintained in good working order, including regular maintenance, inspection and testing. Inadequate maintenance may lead to serious electrical risks, for example an insulating medium might conceal a mechanical defect that could cause an open circuit in a testing device. Where any doubt exists about adequacy of the insulation of tools and equipment they should not be used and removed from service. 
+
+Insulating barriers and insulating mats 
+
+Insulating covers and mats used for electrical purposes should comply with AS/NZS2978: Insulating mats for electrical purposes. Insulated barriers should be of suitable material to effectively separate electrical workers from adjacent energised electrical equipment or energised parts at a higher voltage e.g. protection from low voltage energised parts when working with extra-low voltage. These items should be visually inspected before and after each use. If the items have a defect that adversely affect the performance, then it must be removed from service. 
+
+5.3 Working on a different site 
+
+If an electrical worker needs to carry out electrical work on a site other than their home site, they should notify the applicable Site Electrical Safety Officer (Site ESO) for the site they plan to work on of their intention to conduct electrical work. 
+
+Upon request, electrical workers should provide the ESO with a copy of their completed Verification of electrical competency, Activity risk assessment and SWI for review. 
+
+Example – Notifying a Site ESO when working on a different site 
+
+An Electrical worker from Bribie Island needs to go to St Lucia to carry out electrical testing of instrumentation. If there is a Site ESO at St Lucia, the worker should the Site ESO of their plans to conduct electrical work. 
+
+<<<PAGE 14>>>
+
+6 Isolation of Electricity Supply 
+
+Electrical Safety Procedure Section 2.1 – Isolation of electricity supply 
+
+Electrical equipment/installations to be worked on MUST be positively isolated from all sources of electrical supply either by opening switches, removing fuses, opening circuit breakers or removing circuit connections. 
+
+Section 5 of the Code of Practice 2018 – Managing electrical risks in the workplace recommends the following approach to isolation: 
+
+Consultation – Consult with the person who has the management or control of the workplace and notify any other affected persons as appropriate. 
+
+Isolation – Identify the circuit(s) requiring isolation. Disconnect active conductors from relevant source(s), noting there may be multiple sources and stand-by systems, generators or photovoltaic systems as well as auxiliary supplies from other boards. If a removable rack out circuit breaker or combined fuse switch is used it should, if reasonably practicable, be racked out or removed and then locked open and a danger tag applied. 
+
+Securing isolation – Lock the isolating switch(es) where practicable or remove and tie back relevant conductors to protect the person(s) carrying out the electrical work. 
+
+Tagging – Tag the switching points where possible to provide information to people at the workplace that the switch has been isolated. 
+
+Testing – Test to confirm the relevant circuits and any other relevant conductors in the work area have been de-energised. 
+
+Re-testing as necessary – If a person carrying out the work temporarily leaves the immediate area, test must be carried out on their return to ensure that the electrical equipment being worked on remains de-energised, to safeguard against inadvertent reconnection by another person. 
+
+6.1 Lock out and tag out 
+
+To ensure that electrical work on de-energised equipment cannot be inadvertently re-energised, workers are required to isolate the equipment at the electrical supply source. The switch must be locked out and tagged to prevent re-energisation. Workers must test the electrical equipment to confirm that it has been de-energised before commencing work. The worker should use personal locks and danger tags at the isolation point to prevent the risk of inadvertent re-energisation. 
+
+6.2 Isolation locks 
+
+Isolation points must be fitted with control mechanisms that prevent the electrical equipment from being inadvertently re-energised. The control mechanism should require a deliberate action to engage or dis-engage the device. It must withstand conditions that could lead to the isolation failing. Examples of this include switches with a built-in lock, and lock out for switches, circuit breakers, fuses and safety lockout jaws ‘hasps’. 
+
+<<<PAGE 15>>>
+
+7 Energised electrical work 
+
+Electrical Safety Procedure Section 3.4 – Energised electrical work – when permitted 
+
+Energised electrical work may only be carried out by a competent person if subject to exemptions under S.157 of the WHS Regulations. 
+
+Sections 158 - 161 of the WHS Regulations states the required considerations for working energised and how energised electrical work is to be carried. 
+
+7.1 Planning energised electrical work 
+
+To meet the legislative requirements the following must be considered and addressed in an Activity Risk Assessment prior to carrying out the work: 
+
+a. The area where the electrical work is carried out is clear of obstructions so far as to allow for ease of access and exit   
+b. The point at which the electrical equipment can be disconnected or isolated from its supply is: Clearly marked and labelled, and Cleared of obstructions so as to allow easy access and exit by the worker who is to carry out the electrical work or any other competent person; and – Capable of being operated quickly c. The person authorises the electrical work after consulting with the person with management or control of the workplace. 
+
+7.2 Application to undertake energised electrical work 
+
+To carry out energised electrical work, electrical workers must complete an Application to undertake energised electrical work (CSIRO Electrical Safety Procedure Appendix 4). 
+
+A completed application must be endorsed by the electrical workers line manager and then submitted to the applicable Group Leader and BU Director for consideration and approval. 
+
+The purpose of the application form is to provide senior management with visibility of what if any energised electrical work is being conducted within a business unit and to ensure that the work: 
+
+ will be conducted by a competent person,   
+ is justified and meets the energised electrical work exemptions under s157 of the WHS Regulations, and   
+ will be conducted in a safe manner. 
+
+What to consider when completing an application? 
+
+When completing the application consider the following: 
+
+<<<PAGE 16>>>
+
+a. How do you plan on carrying out the electrical work – i.e. is it de-energised or energised? If energised, do you have an appropriate electrical licence? An application to undertake energised electrical work need to be completed to obtain permission to work energised.   
+b. Does your training/qualifications/licences/experience address the competencies required for the electrical tasks you intend to carry out? – copies of qualifications/training/licences need to be attached to the verification form.   
+c. Have you completed Activity Risk Assessments and SWIs, for the electrical work you intend to carry out – copies of the risk assessment/s need to be attached to the application.   
+d. Does the risk assessment address all the considerations documented in Part 3 of the application form?   
+e. Do you have a current and approved Verification of electrical competency form? Does it cover the electrical work listed in the application? Do you require an appropriate electrical licence to conduct the work – copy of the approved verification form needs to be attached to the application.   
+f. Are there any unexpected events such as equipment failures, that may require you to perform non-routine energised electrical work? – make sure your application covers all routine and potential non-routine work to avoid having to apply for approval at short notice. 
+
+7.3 Carrying out energised electrical work 
+
+To ensure that energised electrical work is carried out safely and risk minimised to yourself and others, the work must be performed: 
+
+a. By a competent person who has the tools, testing equipment and PPE that are suitable for the work, have been properly tested and are maintained in good working order;   
+b. In accordance with a Safe Work Instruction prepared for the work; and   
+c. Subject to the exception explained below – with a safety observer present who is competent: To implement control measures in an emergency, and – To rescue and resuscitate the worker who is carrying out the work if necessary, and Has been assessed in the previous 12 months as competent to rescue and resuscitate a person. 
+
+A safety observer is not required if the work consists only of testing and the risk assessment shows there is no serious risk associated with the proposed work. 
+
+7.4 Safe Work Instructions 
+
+A key requirement in the WHS Regulations is to ensure that energised electrical work is conducted in accordance with a safe work method statement (SWMS). The equivalent for this in CSIRO is the Safe Work Instruction (SWI). 
+
+<<<PAGE 17>>>
+
+All High-Risk Work which includes energised electrical work requires an SWI in accordance with CSIRO Risk Management Procedure. 
+
+SWIs prepared for energised electrical work must: 
+
+ Describe any approval/authorisation arrangements that need to be followed and who is approved to carry out that particular electrical work;   
+ Describe the electrical work being undertaken;   
+ Specify the hazards identified in the risk assessment associated with the electrical work task;   
+ Describe the health and safety considerations and requirements that need to be in place to carry out the work;   
+ Address the steps to be taken in the event of an emergency directly and indirectly related to the electrical work. 
+
+SWIs must be regularly reviewed and, as necessary, revised if relevant control measures change. They must, for example, be revised if a decision is made to change relevant safe work processes with the SWI in your workplace. 
+
+7.5 Safety Observers 
+
+A competent safety observer must be present when energised electrical work is carried out, unless the work consists only of testing and a risk assessment demonstrates that a safety observer is not required as the hazards and risks have been eliminated or effectively managed. 
+
+The safety observer must: 
+
+ Be competent to effectively respond to an electrical emergency;   
+ Be competent to rescue and resuscitate the worker who is carrying out the work if necessary; and   
+ Has been assessed in the previous 12 months as competent to rescue and resuscitate a person i.e. attended CPR Training annually. 
+
+The safety observer should: 
+
+ Not observe more than one task at any one time;   
+ Only observe one electrical worker carrying out a task i.e. if there is more than one worker conducting a task then a safety observer is required for each worker carry out the task;   
+ Be able to communicate quickly and effectively with the electrical worker(s) carrying out the work, specialist equipment may be necessary if there is a barrier to communication; and   
+ Not have any known temporary or permanent disabilities that would adversely affect their role and performance. 
+
+7.6 Other considerations 
+
+Section 6.3 of the Code of Practice 2018 – Managing electrical risks in the workplace provides additional guidance on requirements and recommendations to comply with the legislation regarding carrying out energised electrical work, as well as: 
+
+<<<PAGE 18>>>
+
+ Hazards indirectly caused by electricity, such as conductive materials;  Work positioning that minimises the risk of inadvertent contact with exposed energised parts; and  Safety barriers and signs that must be erected when work is carried out. 
+
+7.7 Energised electrical work – testing and fault-finding 
+
+Carrying out testing and fault-finding 
+
+When carrying out testing and fault-finding electrical work de-energised methods should be considered before energised methods are adopted. 
+
+AS/NZS 3017 Electrical installations – Verification guidelines sets out common test methods that may be used to verify that testing at low voltage electrical installation complies with AS3000 and includes minimum safety standards for test instruments. Testing must be carried out in such a manner that the safety of the operator and other people in the vicinity, and test equipment is not placed at risk. 
+
+Before starting any testing or fault finding in an energised environment: 
+
+ Identify exposed conductive parts that could become energised while using test instruments;   
+ Install temporary or fixed barriers to prevent electrical workers from inadvertently contacting exposed conductive parts;   
+ Carry out checks to ensure that the test instruments to be used are appropriate and functioning correctly;   
+ Ensure that only authorised persons may enter the immediate area where the work is to be carried out. 
+
+When testing or fault-finding in an energised environment: 
+
+ Use only appropriately insulated and rated tools, test instruments and test probes;   
+ Use only appropriately rated PPE;   
+ Use a safety observer, if required by the risk assessment conducted for the work;   
+ Carry out regular review of the work situation to ensure that no new hazards are created durin the process. 
+
+When testing or fault finding is completed, restore circuits and equipment to a safe condition. For example, disconnected conductors should be reconnected and left in a safe state with covers replaced and accessories and equipment properly secured. 
+
+Coordination procedures, such as procedures for switching circuits or equipment on and off during fault finding or testing process, should always be implemented and maintained. 
+
+Test instruments 
+
+You must ensure that the person carrying out energised electrical work has tools, testing equipment and PPE that are suitable for work, that have been properly tested and that are maintained in good working order. Test instruments should comply with the requirements of AS61010.1 Safety requirements for electrical equipment for measurement, control and laboratory use – General requirements and be calibrated at regular intervals. 
+
+<<<PAGE 19>>>
+
+
+
+Workers carrying out electrical testing must be appropriately trained and competent in test procedures and in the use of testing instruments and equipment. This includes: 
+
+ Being able to use the device safely and in a manner for which it is intended;   
+ Being able to determine, by inspection, that the device is safe for use, for example, the device is not damaged and is fit for purpose;   
+ Understanding the limitations of the equipment, for example, when testing to prove an alternating current circuit is de-energised – whether the device indicates the presence of hazardous levels of direct current;   
+ Being aware of the electrical safety implications for others when the device is being used, for example, whether the device causes electric potential of the earthing system to rise to a hazardous level; and   
+ Knowing what to do to ensure electrical safety when an inconclusive or incorrect result is obtained. 
+
+Personal protective equipment (PPE) 
+
+You must ensure that PPE for electrical work, including testing and fault finding, is selected to minimise risks to health and safety, maintained, repaired or replaced so that it continues to do so, and used or worn by the worker, so far as is reasonably practicable. The PPE must be able to withstand the energy at the point of work when working energised. A person who directs the carrying out of work must provide the workers with information, training and instruction on the proper use and wearing of the PPE. 
+
+PPE clothing worn by workers working on or near exposed energised electrical parts or live conductive parts shall be appropriate for the purpose, fit correctly, cover the full body (including the arms and legs) and be in good condition while the work is being performed. All PPE shall be selected in accordance with the risk assessment and with the type of work being performed. 
+
+Bracelets, rings, neck chains, exposed metal zips, watches, and other conductive items should not be worn while working on or near exposed energised equipment or live parts. 
+
+<<<PAGE 20>>>
+
+<<<PAGE 21>>>
+
+8 Work with electrical equipment 
+
+Electrical Safety Procedure Section 4 – Working with electrical equipment 
+
+The procedure describes the requirements for unsafe electrical equipment, testing and tagging, and design, manufacture and importation of electrical equipment. 
+
+8.1 Purchasing of equipment 
+
+When purchasing electrical equipment, you must ensure that the equipment meets applicable Australian Standards prior to it being commissioned such as AS/NZS 3820 Essential safety requirements for electrical equipment or equivalent international standards recognised within Australia. Electrical equipment that comply with Australia Standards will have a regulatory compliance mark (a triangle with a circled tick inside) displayed on the equipment. 
+
+This is a particular issue for equipment that is purchased internationally, so inspect newly acquired electrical equipment and if there is any doubt engage an electrician to inspect the equipment. 
+
+If the equipment is electrically unsafe return it to the supplier or arrange for the equipment to be modified and certified to meet Australian Standards. 
+
+8.2 Modifications to electrical equipment 
+
+Modifications made to electrical equipment such as repairing electrical wiring or replacing faulty parts must only be carried out by a competent person. 

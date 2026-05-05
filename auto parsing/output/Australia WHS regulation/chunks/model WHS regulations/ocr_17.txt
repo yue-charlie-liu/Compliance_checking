@@ -1,0 +1,605 @@
+<<<Page 292>>>
+
+(3) The asbestos register must: 
+
+(a) record any asbestos or ACM identified at the workplace under regulation 422, or likely to be present at the workplace from time to time including: (i) the date on which the asbestos or ACM was identified; and (ii) the location, type and condition of the asbestos or ACM; or   
+(b) state that no asbestos or ACM is identified at the workplace if the person knows that no asbestos or ACM is identified, or is likely to be present from time to time, at the workplace.   
+(4) The person is not required to prepare an asbestos register for a workplace if a register has already been prepared for that workplace.   
+(5) Subject to subregulation (6), this regulation applies to buildings whenever constructed.   
+(6) This regulation does not apply to a workplace if: (a) the workplace is a building that was constructed after 31 December 2003; and 
+
+
+
+<<<PAGE 293>>>
+
+Part 8.3 Management of Asbestos and Associated Risks (b) no asbestos has been identified at the workplace; and (c) no asbestos is likely to be present at the workplace from time to time. 
+
+
+
+426 Review of asbestos register 
+
+A person with management or control of a workplace where an asbestos register is kept must ensure that the register is reviewed and as necessary revised if: 
+
+(a) the asbestos management plan is reviewed under regulation 430; or   
+(b) further asbestos or ACM is identified at the workplace; or   
+(c) asbestos is removed from, or disturbed, sealed or enclosed at, the workplace. 
+
+Maximum penalty: tier G monetary penalty. 
+
+427 Access to asbestos register 
+
+(1) A person with management or control of a workplace where an asbestos register is kept must ensure that the asbestos register is readily accessible to: 
+
+(a) a worker who has carried out, carries out or intends to carry out, work at the workplace; and   
+(b) a health and safety representative who represents a worker referred to in paragraph (a); and   
+(c) a person conducting a business or undertaking who has carried out, carries out or intends to carry out, work at the workplace; and   
+(d) a person conducting a business or undertaking who has required, requires, or intends to require work to be carried out at the workplace. 
+
+Maximum penalty: tier G monetary penalty. 
+
+(2) If a person conducting a business or undertaking carries out, or intends to carry out, work at a workplace that involves a risk of exposure to airborne asbestos, the person with management or control of the workplace must ensure that the person is given a copy of the asbestos register. 
+
+Maximum penalty: tier G monetary penalty. 
+
+<<<PAGE 294>>>
+
+428 Transfer of asbestos register by person relinquishing management or control 
+
+If a person with management or control of a workplace plans to relinquish management or control of the workplace, the person must ensure, so far as is reasonably practicable, that the asbestos register is given to the person, if any, assuming management or control of the workplace. 
+
+Maximum penalty: tier G monetary penalty. 
+
+429 Asbestos management plan 
+
+(1) This regulation applies if asbestos or ACM is: 
+
+(a) identified at a workplace under regulation 422; or (b) likely to be present at a workplace from time to time. 
+
+(2) A person with management or control of the workplace must ensure that a written plan (an asbestos management plan) for the workplace is prepared. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(3) A person with management or control of the workplace must ensure that the asbestos management plan is maintained to ensure the information in the plan is up to date. Maximum penalty: tier E monetary penalty. 
+
+(4) An asbestos management plan must include information about the following: 
+
+(a) the identification of asbestos or ACM; 
+
+Example 
+
+A reference or link to the asbestos register for the workplace and signage and labelling. 
+
+(c) procedures for detailing incidents or emergencies involving asbestos or ACM at the workplace; 
+
+(d) workers carrying out work involving asbestos. 
+
+Example 
+
+Consultation, responsibilities, information and training. 
+
+<<<PAGE 295>>>
+
+(5) A person with management or control of a workplace must ensure that a copy of the asbestos management plan for the workplace is readily accessible to: 
+
+(a) a worker who has carried out, carries out or intends to carry out, work at the workplace; and   
+(b) a health and safety representative who represents a worker referred to in paragraph (a); and   
+(c) a person conducting a business or undertaking who has carried out, carries out or intends to carry out, work at the workplace; and   
+(d) a person conducting a business or undertaking who has required, requires, or intends to require work to be carried out at the workplace. 
+
+Maximum penalty: tier G monetary penalty. 
+
+430 Review of asbestos management plan 
+
+(1) A person with management or control of a workplace that has an asbestos management plan must ensure that the plan is reviewed and as necessary revised in the following circumstances: 
+
+(a) there is a review of the asbestos register or a control measure;   
+(b) asbestos is removed from, or disturbed, sealed or enclosed at, the workplace;   
+(c) the plan is no longer adequate for managing asbestos or ACM at the workplace;   
+(d) a health and safety representative requests a review under subregulation (2);   
+(e) at least once every 5 years. 
+
+Maximum penalty: tier G monetary penalty. 
+
+(2) A health and safety representative for workers at a workplace may request a review of an asbestos management plan if the representative reasonably believes that: 
+
+(a) a circumstance referred to in subregulation (1)(a), (b) or (c) affects or may affect the health and safety of a member of the work group represented by the health and safety representative; and 
+
+<<<PAGE 296>>>
+
+Model Work Health and Safety Regulations 
+
+Part 8.3 Management of Asbestos and Associated Risks (b) the person with management and control of the workplace has not adequately reviewed the asbestos management plan in response to the circumstance. 
+
+
+
+<<<PAGE 297>>>
+
+Part 8.4 Management of Naturally Occurring Asbestos 
+
+431 Naturally occurring asbestos 
+
+The person with management or control of a workplace must manage, in accordance with Part 3.1, risks to health and safety associated with naturally occurring asbestos at the workplace. 
+
+Note 
+
+WHS Act—section 20 (see regulation 9). 
+
+432 Asbestos management plan 
+
+(1) This regulation applies if naturally occurring asbestos is: 
+
+(a) identified at a workplace; or (b) likely to be present at a workplace. 
+
+(2) A person with management or control of the workplace must ensure that a written plan (an asbestos management plan) for the workplace is prepared in relation to the naturally occurring asbestos. Maximum penalty: tier E monetary penalty. 
+
+(3) A person with management or control of the workplace must ensure that the asbestos management plan is maintained to ensure the information in the plan is up to date. Maximum penalty: tier E monetary penalty. 
+
+(4) An asbestos management plan must include information about the following: 
+
+(a) the identification of naturally occurring asbestos;   
+(b) decisions, and reasons for decisions, about the management of naturally occurring asbestos at the workplace; Example Safe work procedures and control measures.   
+(c) procedures for detailing incidents or emergencies involving naturally occurring asbestos at the workplace;   
+(d) workers carrying out work involving naturally occurring asbestos. Example Consultation, responsibilities, information and training. 
+
+(5) A person with management or control of a workplace must ensure that a copy of the asbestos management plan for naturally occurring asbestos at the workplace is readily accessible to: 
+
+<<<PAGE 298>>>
+
+Model Work Health and Safety Regulations 
+
+Part 8.4 Management of Naturally Occurring Asbestos 
+
+(a) a worker who has carried out, carries out or intends to carry out, work at the workplace; and   
+(b) a health and safety representative who represents a worker referred to in paragraph (a); and   
+(c) a person conducting a business or undertaking who has carried out, carries out or intends to carry out, work at the workplace; and   
+(d) a person conducting a business or undertaking who has required, requires, or intends to require work to be carried out at the workplace. 
+
+Maximum penalty: tier G monetary penalty. 
+
+433 Review of asbestos management plan 
+
+A person with management or control of a workplace that has an asbestos management plan for naturally occurring asbestos must ensure that the plan is reviewed and as necessary revised if the plan is no longer adequate for managing naturally occurring asbestos at the workplace. 
+
+Maximum penalty: tier G monetary penalty. 
+
+Example 
+
+A control measure is revised under regulation 38. 
+
+434 Training in relation to naturally occurring asbestos 
+
+A person conducting a business or undertaking must ensure that the training required under regulation 445 includes training in the hazards and risks associated with naturally occurring asbestos for workers who carry out work where naturally occurring asbestos is likely to be found. 
+
+Maximum penalty: tier E monetary penalty. 
+
+<<<PAGE 299>>>
+
+Part 8.5 Asbestos at the Workplace 
+
+Division 1 Health monitoring 
+
+435 Duty to provide health monitoring 
+
+(1) A person conducting a business or undertaking must ensure that health monitoring is provided, in accordance with regulation 436, to a worker carrying out work for the business or undertaking if the worker is: 
+
+(a) carrying out licensed asbestos removal work at a workplace and is at risk of exposure to asbestos when carrying out the work; or   
+(b) is carrying out other ongoing asbestos removal work or asbestos-related work and is at risk of exposure to asbestos when carrying out the work. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) For the purposes of subregulation (1)(a), the person must ensure that the health monitoring of the worker commences before the worker carries out licensed asbestos removal work.   
+(3) The person must ensure that the worker is informed of any health monitoring requirements before the worker carries out any work that may expose the worker to asbestos. Maximum penalty: tier E monetary penalty. 
+
+436 Duty to ensure that appropriate health monitoring is provided 
+
+A person conducting a business or undertaking must ensure that the health monitoring of a worker referred to in regulation 435 includes: 
+
+(a) consideration of: 
+
+(i) the worker's demographic, medical and occupational history; and (ii) records of the worker's personal exposure; and 
+
+(b) a physical examination of the worker, 
+
+unless another type of health monitoring is recommended by a registered medical practitioner. 
+
+Maximum penalty: tier E monetary penalty. 
+
+<<<PAGE 300>>>
+
+437 Duty to ensure health monitoring is supervised by registered medical practitioner with relevant experience 
+
+(1) A person conducting a business or undertaking must ensure that the health monitoring of a worker referred to in regulation 435 is carried out by or under the supervision of a registered medical practitioner with experience in health monitoring. Maximum penalty: tier E monetary penalty.   
+(2) The person must consult the worker in relation to the selection of the registered medical practitioner. Maximum penalty: tier E monetary penalty. 
+
+438 Duty to pay costs of health monitoring 
+
+(1) A person conducting a business or undertaking must pay all expenses relating to health monitoring referred to in regulation 435. Maximum penalty: tier G monetary penalty.   
+(2) If 2 or more persons conducting businesses or undertakings have a duty to provide health monitoring for a worker and have arranged for one of them to commission the health monitoring, the costs of the health monitoring for which any of those persons is liable must be apportioned equally between each of those persons unless they agree otherwise. 
+
+Maximum penalty: tier G monetary penalty. 
+
+439 Information that must be provided to registered medical practitioner 
+
+A person conducting a business or undertaking who commissions health monitoring for a worker must provide the following information to the registered medical practitioner carrying out or supervising the health monitoring: 
+
+(a) the name and address of the person conducting the business or undertaking;   
+(b) the name and date of birth of the worker;   
+(c) the work that the worker is, or will be, carrying out that has triggered the requirement for health monitoring;   
+(d) if the worker has started that work, how long the worker has been carrying out that work. 
+
+Maximum penalty: tier G monetary penalty. 
+
+<<<PAGE 301>>>
+
+Model Work Health and Safety Regulations 
+
+440 Duty to obtain health monitoring report 
+
+(1) A person conducting a business or undertaking who commissioned health monitoring referred to in regulation 435 must take all reasonable steps to obtain a health monitoring report from the registered medical practitioner who carried out or supervised the monitoring as soon as practicable after the monitoring is carried out in relation to a worker. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) The health monitoring report must include the following: 
+
+(a) the name and date of birth of the worker;   
+(b) the name and registration number of the registered medical practitioner;   
+(c) the name and address of the person conducting the business or undertaking who commissioned the health monitoring;   
+(d) the date of health monitoring;   
+(e) any advice that test results indicate that the worker may have contracted a disease, injury or illness as a result of carrying out the work that triggered the requirement for health monitoring;   
+(f) any recommendation that the person conducting the business or undertaking take remedial measures, including whether the worker can continue to carry out the type of work that triggered the requirement for health monitoring;   
+(g) whether medical counselling is required for the worker in relation to the work that triggered the requirement for health monitoring. 
+
+441 Duty to give health monitoring report to worker 
+
+A person conducting a business or undertaking who commissioned health monitoring for a worker must give a copy of the health monitoring report to the worker as soon as practicable after the person obtains the report. 
+
+Maximum penalty: tier E monetary penalty. 
+
+442 Duty to give health monitoring report to regulator 
+
+A person conducting a business or undertaking for which a worker is carrying out work for which health monitoring is required must give a copy of the health monitoring report relating to a worker to the regulator as soon as practicable after obtaining the report if the report contains: 
+
+<<<PAGE 302>>>
+
+Model Work Health and Safety Regulations 
+
+Part 8.5 Asbestos at the Workplace 
+
+(a) any advice that test results indicate that the worker may have contracted a disease, injury or illness as a result of carrying out the work that triggered the requirement for health monitoring; or   
+(b) any recommendation that the person conducting the business or undertaking take remedial measures, including whether the worker can continue to carry out the work referred to in regulation 435. 
+
+Maximum penalty: tier E monetary penalty. 
+
+443 Duty to give health monitoring report to relevant persons conducting businesses or undertakings 
+
+A person conducting a business or undertaking who commissioned health monitoring for a worker must give a copy of the health monitoring report to all other persons conducting businesses or undertakings who have a duty to provide health monitoring for the worker as soon as practicable after obtaining the report. 
+
+Maximum penalty: tier E monetary penalty. 
+
+444 Health monitoring records 
+
+(1) A person conducting a business or undertaking must ensure that health monitoring reports in relation to a worker carrying out work for the business or undertaking are kept as a confidential record: 
+
+(a) identified as a record in relation to the worker; and (b) for at least 40 years after the record is made. 
+
+Maximum penalty: tier I monetary penalty. 
+
+(2) The person must ensure that the health monitoring report and results of a worker are not disclosed to another person without the worker's written consent. Maximum penalty: tier I monetary penalty.   
+(3) Subregulation (2) does not apply if the record is disclosed under regulation 442 or 443 or to a person who must keep the record confidential under a duty of professional confidentiality. 
+
+Division 2 Training 
+
+445 Duty to train workers about asbestos 
+
+(1) In addition to the training required by Division 1 of Part 3.2, a person conducting a business or undertaking must ensure that workers engaged by the person, whom the person reasonably 
+
+<<<PAGE 303>>>
+
+Model Work Health and Safety Regulations believes may be involved in asbestos removal work or in the carrying out of asbestos-related work, are trained in the identification and safe handling of, and suitable control measures for, asbestos and ACM. 
+
+
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) This regulation does not apply in relation to a worker referred to in regulation 460. 
+
+(3) The person must ensure that a record is kept of the training undertaken by the worker: 
+
+(a) while the worker is carrying out the work; and (b) for 5 years after the day the worker ceases working for the person. 
+
+Maximum penalty: tier I monetary penalty. 
+
+(4) The person must keep the record available for inspection under the Act. Maximum penalty: tier I monetary penalty. 
+
+Division 3 Control on use of certain equipment 
+
+446 Duty to limit use of equipment 
+
+(1) A person conducting a business or undertaking must not use, or direct or allow a worker to use, either of the following on asbestos or ACM: 
+
+(a) high-pressure water spray;   
+(b) compressed air. 
+
+Maximum penalty: tier G monetary penalty. 
+
+(2) Subregulation (1)(a) does not apply to the use of a high pressure water spray for fire fighting or fire protection purposes. 
+
+(3) A person conducting a business or undertaking must not use, or direct or allow a worker to use, any of the following equipment on asbestos or ACM unless the use of the equipment is controlled: 
+
+(a) power tools;   
+(b) brooms;   
+(c) any other implements that cause the release of airborne asbestos into the atmosphere. 
+
+Maximum penalty: tier G monetary penalty. 
+
+<<<PAGE 304>>>
+
+Model Work Health and Safety Regulations 
+
+Part 8.5 Asbestos at the Workplace (4) In subregulation (3), the use of equipment is controlled if: 
+
+
+
+(a) the equipment is enclosed during its use; or   
+(b) the equipment is designed to capture or suppress airborne asbestos and is used in accordance with its design; or   
+(c) the equipment is used in a way that is designed to capture or suppress airborne asbestos safely; or   
+(d) any combination of paragraphs (a), (b) and (c) applies. 
+
+<<<PAGE 305>>>
+
+Model Work Health and Safety Regulations 
+
+Part 8.6 Demolition and Refurbishment 
+
+447 Application—Part 8.6 
+
+(1) This Part applies to the demolition or refurbishment of a structure or plant constructed or installed before 31 December 2003.   
+(2) In this regulation, demolition or refurbishment does not include minor or routine maintenance work, or other minor work. 
+
+448 Review of asbestos register 
+
+The person with management or control of a workplace must ensure that, before demolition or refurbishment is carried out at the workplace, the asbestos register for the workplace is: 
+
+(a) reviewed; and   
+(b) if the register is inadequate having regard to the proposed demolition or refurbishment—revised. 
+
+Maximum penalty: tier G monetary penalty. 
+
+Example 
+
+The register identifies an inaccessible area that is likely to contain asbestos and the area is likely to be accessible because of demolition. 
+
+449 Duty to give asbestos register to person conducting business or undertaking of demolition or refurbishment 
+
+The person with management or control of a workplace must ensure that the person conducting a business or undertaking who carries out the demolition or refurbishment is given a copy of the asbestos register before the demolition or refurbishment is commenced. 
+
+Maximum penalty: tier E monetary penalty. 
+
+450 Duty to obtain asbestos register 
+
+A person conducting a business or undertaking who carries out demolition or refurbishment at a workplace must obtain a copy of the asbestos register from the person with management or control of the workplace, before the person commences the demolition or refurbishment. 
+
+Maximum penalty: tier E monetary penalty. 
+
+451 Determining presence of asbestos or ACM 
+
+(1) This regulation applies if: 
+
+(a) demolition or refurbishment is to be carried out at a workplace; and 
+
+<<<PAGE 306>>>
+
+(b) there is no asbestos register for the structure or plant to be demolished or refurbished at the workplace. 
+
+(2) The person conducting a business or undertaking who is to carry out the demolition or refurbishment must not carry out the demolition or refurbishment until the structure or plant has been inspected to determine whether asbestos or ACM is fixed to or installed in the structure or plant. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(3) The person conducting a business or undertaking who is to carry out the demolition or refurbishment must ensure that the determination is undertaken by a competent person. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(4) The person conducting a business or undertaking who is to carry out the demolition or refurbishment must assume that asbestos or ACM is fixed to or installed in the structure or plant if: 
+
+(a) the competent person is, on reasonable grounds, uncertain whether or not asbestos is fixed to or installed in the structure or plant; or   
+(b) part of the structure or plant is inaccessible and likely to be disturbed. 
+
+(5) If asbestos or ACM is determined or assumed to be fixed to or installed in the structure or plant, the person conducting a business or undertaking who is to carry out the demolition or refurbishment must inform: 
+
+(a) if the workplace is residential premises: (i) the occupier of the premises; and (ii) the owner of the premises; and 
+
+(b) in any other case—the person with management or control of the workplace. 
+
+Maximum penalty: tier G monetary penalty. 
+
+452 Identification and removal of asbestos before demolition 
+
+(1) This regulation applies if a structure or plant at a workplace is to be demolished. 
+
+(2) This regulation does not apply: 
+
+(a) in an emergency to which regulation 454 applies; or (b) to residential premises. 
+
+<<<PAGE 307>>>
+
+Model Work Health and Safety Regulations (3) The person with management or control of the workplace, or of the structure or plant, must ensure: 
+
+
+
+(a) that all asbestos that is likely to be disturbed by the demolition is identified; and   
+(b) so far as is reasonably practicable, that the asbestos is removed before the demolition is commenced. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(4) Subregulation (3)(b) does not apply if the purpose of the demolition is to gain access to the asbestos. 
+
+453 Identification and removal of asbestos before demolition of residential premises 
+
+(1) A person conducting a business or undertaking that is to carry out the demolition of residential premises must ensure: 
+
+(a) that all asbestos that is likely to be disturbed by the demolition is identified; and   
+(b) so far as is reasonably practicable, that the asbestos is removed before the demolition is commenced. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) This regulation does not apply in an emergency to which regulation 455 applies.   
+(3) Subregulation (1)(b) does not apply if the purpose of the demolition is to gain access to the asbestos. 
+
+454 Emergency procedure 
+
+(1) This regulation applies if: 
+
+(a) an emergency occurs at a workplace other than residential premises; and   
+(b) a structure or plant at the workplace must be demolished; and   
+(c) asbestos is fixed to or installed in the structure or plant before the emergency occurs. 
+
+(2) The person with management or control of the workplace must ensure, so far as is reasonably practicable, that: 
+
+(a) before the demolition is commenced, a procedure is developed that will, so far as is reasonably practicable, reduce the risk of exposure of workers and persons in the vicinity of the demolition site to asbestos to below the exposure standard; and 
+
+<<<PAGE 308>>>
+
+Model Work Health and Safety Regulations 
+
+Part 8.6 Demolition and Refurbishment 
+
+(b) the asbestos register for the workplace is considered in the development of the procedure. 
+
+Maximum penalty: tier G monetary penalty. 
+
+(3) The person must ensure that the regulator is given written notice about the emergency: 
+
+(a) immediately after the person becomes aware of the emergency; and (b) before the demolition is commenced. 
+
+Maximum penalty: tier G monetary penalty. 
+
+(4) For the purposes of this regulation, an emergency occurs if: 
+
+(a) a structure or plant is structurally unsound; or (b) collapse of the structure or plant is imminent. 
+
+455 Emergency procedure—residential premises 
+
+(1) This regulation applies if: 
+
+(a) an emergency occurs at residential premises; and (b) a structure or plant at the premises must be demolished; and (c) asbestos is fixed to or installed in the structure or plant before the emergency occurs. 
+
+(2) A person conducting a business or undertaking who is to carry out the demolition of the residential premises must ensure so far as is reasonably practicable, that, before the demolition is commenced, a procedure is developed that will, so far as is reasonably practicable, reduce the risk of exposure of workers and persons in the vicinity of the demolition site to asbestos to below the exposure standard. 
+
+Maximum penalty: tier G monetary penalty. 
+
+(3) The person must ensure that the regulator is given written notice about the emergency: 
+
+(a) immediately after the person becomes aware of the emergency; and (b) before the demolition is commenced. Maximum penalty: tier G monetary penalty. 
+
+(4) For the purposes of this regulation, an emergency occurs if: 
+
+(a) a structure or plant is structurally unsound; or (b) collapse of the structure or plant is imminent. 
+
+<<<PAGE 309>>>
+
+Model Work Health and Safety Regulations 
+
+Part 8.6 Demolition and Refurbishment 
+
+456 Identification and removal of asbestos before refurbishment 
+
+(1) This regulation applies if a structure or plant at a workplace is to be refurbished. 
+
+(2) This regulation does not apply to residential premises. 
+
+(3) The person with management or control of the workplace, or of the structure or plant, must ensure: 
+
+(a) that all asbestos that is likely to be disturbed by the refurbishment is identified; and   
+(b) so far as is reasonably practicable, that the asbestos is removed before the refurbishment is commenced. 
+
+Maximum penalty: tier E monetary penalty. 
+
+457 Refurbishment of residential premises 
+
+A person conducting a business or undertaking who is to carry out refurbishment of residential premises must ensure: 
+
+(a) that all asbestos that is likely to be disturbed by the refurbishment is identified; and   
+(b) so far as is reasonably practicable, that the asbestos is removed before the refurbishment is commenced. 
+
+Maximum penalty: tier E monetary penalty. 
+
+<<<PAGE 310>>>
+
+Part 8.7 Asbestos Removal Work 
+
+Note 
+
+In this Part some duties are placed on licensed asbestos removalists and some on asbestos removalists generally. 
+
+458 Duty to ensure asbestos removalist is licensed 
+
+(1) A person conducting a business or undertaking that commissions the removal of asbestos must ensure that the asbestos removal work is carried out by a licensed asbestos removalist who is licensed to carry out the work. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) Subregulation (1) does not apply if the asbestos to be removed is: 
+
+(a) 10 square metres or less of non-friable asbestos or ACD associated with the removal of that amount of non-friable asbestos; or   
+(b) ACD that is not associated with the removal of friable or nonfriable asbestos and is only a minor contamination. 
+
+(3) If subregulation (2) applies, the person conducting the business or undertaking that commissions the asbestos removal work must ensure that the work is carried out by a competent person who has been trained in accordance with regulation 445. 
+
+Maximum penalty: tier E monetary penalty. 
+
+459 Asbestos removal supervisor must be present or readily available 
+
+A licensed asbestos removalist must ensure that the nominated asbestos removal supervisor for asbestos removal work is: 
+
+(a) if the asbestos removal work requires a Class A asbestos removal licence—present at the asbestos removal area whenever the asbestos removal work is being carried out; and   
+(b) if the asbestos removal work requires a Class B asbestos removal licence—readily available to a worker carrying out asbestos removal work whenever the work is being carried out. 
+
+Maximum penalty: tier E monetary penalty. 
+
+460 Asbestos removal worker must be trained 
+
+(1) A licensed asbestos removalist must not direct or allow a worker to carry out licensed asbestos removal work unless the removalist is satisfied that the worker holds a certification in relation to the 
+
+<<<PAGE 311>>>
+
+Model Work Health and Safety Regulations specified VET course for asbestos removal relevant to the class of licensed asbestos removal work to be carried out by the worker. 
+
+
+
+Maximum penalty: tier E monetary penalty. 
+
+(2) A licensed asbestos removalist must provide appropriate training to a worker carrying out licensed asbestos removal work at a workplace to ensure that the work is carried out in accordance with the asbestos removal control plan for the workplace. 
+
+Maximum penalty: tier E monetary penalty. 
+
+(3) In this regulation, appropriate training means training designed specifically for the workplace where the licensed asbestos removal work is carried out and the work to be carried out at the workplace. 
+
+Note 
+
+Unless this regulation applies, the obligation to provide training to workers carrying out unlicensed asbestos removal work is set out in regulation 445. 
+
+461 Licensed asbestos removalist must keep training records 
+
+(1) A licensed asbestos removalist must keep a record of the training undertaken by a worker carrying out licensed asbestos removal work: 
+
+(a) while the worker is carrying out licensed asbestos removal work; and   
+(b) for 5 years after the day the worker stopped carrying out licensed asbestos removal work for the removalist. 
+
+Maximum penalty: tier I monetary penalty. 
+
+(2) The licensed asbestos removalist must ensure that the training record is readily accessible at the asbestos removal area and available for inspection under the Act. Maximum penalty: tier I monetary penalty. 
+
+462 Duty to give information about health risks of licensed asbestos removal work 
+
+A licensed asbestos removalist must give the following information to a person likely to be engaged to carry out licensed asbestos removal work before the person is engaged to carry out the work: 
+
+(a) the health risks and health effects associated with exposure to asbestos;   
+(b) the need for, and details of, health monitoring of a worker carrying out licensed asbestos removal work. 
+
+<<<PAGE 312>>>
+
+Maximum penalty: tier E monetary penalty. 
+
+463 Asbestos removalist must obtain register 
+
+(1) A licensed asbestos removalist must obtain a copy of the asbestos register for a workplace before the removalist carries out asbestos removal work at the workplace. Maximum penalty: tier E monetary penalty.   
+(2) Subregulation (1) does not apply if the asbestos removal work is to be carried out at residential premises. 

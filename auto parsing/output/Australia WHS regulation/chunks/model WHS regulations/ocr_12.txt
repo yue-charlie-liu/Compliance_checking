@@ -1,0 +1,641 @@
+<<<Page 201>>>
+
+Note 
+
+See section 268 of the Act for offences relating to the giving of false or misleading information under the Act or these Regulations. 
+
+(3) The application must be accompanied by the relevant fee. 
+
+267 When is a person competent to inspect plant 
+
+A person is a competent person to inspect an item of plant for registration if the person has: 
+
+(a) educational or vocational qualifications in an engineering discipline relevant to the plant to be inspected; or 
+
+<<<PAGE 202>>>
+
+Part 5.3 Registration of Plant Designs and Items of Plant 
+
+(b) knowledge of the technical standards relevant to the plant to be inspected. 
+
+268 Additional information 
+
+(1) If an application for registration of an item of plant does not contain enough information to enable the regulator to make a decision whether or not to grant the registration, the regulator may ask the applicant to provide additional information. 
+
+(2) A request for additional information must: 
+
+(a) specify the date (not being less than 28 days after the request) by which the additional information is to be given; and (b) be confirmed in writing. 
+
+(3) If an applicant does not provide the additional information by the date specified, the application is taken to have been withdrawn. 
+
+(4) The regulator may make more than 1 request for additional information under this regulation. 
+
+269 Decision on application 
+
+(1) Subject to subregulation (3), the regulator must grant the registration if satisfied about the matters referred to in subregulation (2). 
+
+(2) The regulator must be satisfied about the following: 
+
+(a) the application has been made in accordance with this Division; 
+
+(b) the item of plant is not registered under a corresponding WHS law; 
+
+(c) the item of plant is: 
+
+(i) located in [this jurisdiction]; or   
+(ii) located outside [this jurisdiction] and circumstances exist that justify the grant of the registration; 
+
+(d) if the applicant is an individual, the applicant: 
+
+(i) resides in [this jurisdiction]; or   
+(ii) resides outside [this jurisdiction] and circumstances exist that justify the grant of the registration; 
+
+(e) if the applicant is a body corporate, the applicant's registered office: 
+
+(i) is located in [this jurisdiction]; or 
+
+<<<PAGE 203>>>
+
+Part 5.3 Registration of Plant Designs and Items of Plant 
+
+(ii) is located outside [this jurisdiction] and circumstances exist that justify the grant of the registration; 
+
+(f) the applicant is able to ensure compliance with any conditions that will apply to the registration. 
+
+Note 
+
+See the jurisdictional notes in the Appendix. 
+
+(3) The regulator must refuse to grant a registration if satisfied that, in making the application, the applicant has: 
+
+(a) given information that is false or misleading in a material particular; or   
+(b) failed to give any material information that should have been given. 
+
+(4) If the regulator decides to grant the registration, it must notify the applicant within 14 days after making the decision. 
+
+(5) If the regulator does not make a decision within 120 days after receiving the application or additional information requested under regulation 268, the regulator is taken to have refused to grant the registration applied for. 
+
+Note 
+
+A refusal to grant a registration (including under subregulation (5)) is a reviewable decision (see regulation 676). 
+
+270 Refusal of registration—process 
+
+(1) If the regulator proposes to refuse to grant a registration, the regulator must give the applicant a written notice: 
+
+(a) informing the applicant of the reasons for the proposed refusal; and   
+(b) advising the applicant that the applicant may, by a specified date, (being not less than 28 days after giving the notice) make a submission to the regulator in relation to the proposed refusal. 
+
+(2) After the date specified in a notice under subregulation (1), the regulator must: 
+
+(a) if the applicant has made a submission in relation to the proposed refusal to grant the registration—consider that submission; and   
+(b) whether or not the applicant has made a submission—decide whether to grant or refuse to grant the registration; and 
+
+<<<PAGE 204>>>
+
+Part 5.3 Registration of Plant Designs and Items of Plant (c) within 14 days after making that decision, give the applicant written notice of the decision, including the reasons for the decision. 
+
+
+
+Note 
+
+A refusal to grant a registration is a reviewable decision (see regulation 676). 
+
+271 Conditions of registration 
+
+(1) The regulator may impose any conditions it considers appropriate on the registration of an item of plant. 
+
+(2) Without limiting subregulation (1), the regulator may impose conditions in relation to 1 of more of the following: 
+
+(a) the use and maintenance of the item of plant;   
+(b) the recording or keeping of information;   
+(c) the provision of information to the regulator. 
+
+Notes 
+
+1 A person must comply with the conditions of registration (see section 45 of the Act).   
+2 A decision to impose a condition on a registration is a reviewable decision (see regulation 676). 
+
+272 Duration of registration 
+
+A registration of an item of plant takes effect on the day it is granted and expires 5 years after that day. 
+
+Note 
+
+See the jurisdictional notes in the Appendix. 
+
+273 Plant registration number 
+
+(1) This regulation applies if the regulator registers an item of plant.   
+(2) The regulator must issue a plant registration number for the plant to the registration holder within 14 days after that registration.   
+(3) The registration holder must give the plant registration number to the person with management or control of the plant at a workplace as soon as practicable after being issued with the number under subregulation (2). Maximum penalty: tier I monetary penalty.   
+(4) The person with management or control of the plant at a workplace must ensure that the plant registration number is marked on the item of plant. 
+
+<<<PAGE 205>>>
+
+Part 5.3 Registration of Plant Designs and Items of Plant 
+
+Maximum penalty: tier I monetary penalty. 
+
+274 Registration document 
+
+(1) If the regulator registers an item of plant, the regulator must issue to the applicant within 14 days a registration document in the form determined by the regulator. 
+
+(2) The registration document must include the following: 
+
+(a) the name of the registration holder;   
+(b) if the registration holder conducts the business or undertaking under a business name, that business name;   
+(c) the registration number for the item of plant;   
+(d) any conditions imposed on the registration by the regulator;   
+(e) the date on which the plant was first commissioned or first registered, whichever occurred first;   
+(f) the date on which the registration was granted;   
+(g) the expiry date of the registration. 
+
+275 Registration document to be available 
+
+(1) The holder of the registration of an item of plant must keep the registration document available for inspection under the Act. Maximum penalty: tier I monetary penalty.   
+(2) Subregulation (1) does not apply if the registration document is not in the registration holder's possession because: (a) it has been returned to the regulator under regulation 287; or (b) the registration holder has applied for, but has not received, a replacement registration document under regulation 288. 
+
+276 Regulator may renew registration 
+
+The regulator may, on application, renew the registration of an item of plant. 
+
+277 Application for renewal 
+
+(1) An application for renewal of a registration of an item of plant must be made in the manner and form required by the regulator. 
+
+(2) The application must include the following information: 
+
+(a) the applicant's name;   
+(b) any evidence of identity required by the regulator; 
+
+<<<PAGE 206>>>
+
+Part 5.3 Registration of Plant Designs and Items of Plant 
+
+(c) if the applicant conducts the business or undertaking under a business name, that business name and a certificate or other written evidence of the registration of the business name;   
+(d) the registration number of the item of plant;   
+(e) a declaration that the item of plant has been maintained, inspected and tested in accordance with regulation 213. 
+
+Note 
+
+See section 268 of the Act for offences relating to the giving of false or misleading information under the Act or these Regulations. 
+
+(3) The application must be accompanied by the relevant fee.   
+(4) The application must be made before the expiry of the registration. 
+
+278 Registration continues in force until application is decided 
+
+If a registration holder applies under regulation 277 for the renewal of a registration, the registration is taken to continue in force from the day it would, apart from this regulation, have ended until the registration holder is given notice of the decision on the application. 
+
+279 Decision on application 
+
+(1) The regulator must renew the registration of an item of plant if the regulator is satisfied that: 
+
+(a) the application for renewal has been made in accordance with this Division; and   
+(b) the plant has been maintained, inspected and tested in accordance with regulation 213. 
+
+(2) For the purposes of this Division: 
+
+(a) regulation 268 applies as if a reference in that regulation to an application for registration were a reference to an application to renew registration; and   
+(b) regulations 269 (except subregulation (5)), 271 and 272 apply as if a reference in those regulations to the grant of a registration were a reference to the renewal of a registration; and   
+(c) regulation 270 applies as if a reference in that regulation to a refusal to grant a registration were a reference to a refusal to renew a registration. 
+
+Note 
+
+A refusal to renew a registration is a reviewable decision (see regulation 676). 
+
+<<<PAGE 207>>>
+
+Model Work Health and Safety Regulations 
+
+Part 5.3 Registration of Plant Designs and Items of Plant 
+
+280 Status of registration during review 
+
+(1) If the regulator gives the registration holder written notice of a decision to refuse to renew the registration, the registration continues to have effect in accordance with this regulation. 
+
+(2) If the registration holder does not apply for internal review, the registration continues to have effect until the last of the following events: 
+
+(a) the expiry of the registration;   
+(b) the end of the period for applying for an internal review. 
+
+(3) If the registration holder applies for an internal review, the registration continues to have effect until the earlier of the following events: 
+
+(a) the registration holder withdraws the application for review;   
+(b) the regulator makes a decision on the review. 
+
+(4) If the registration holder does not apply for an external review, the registration continues to have effect until the end of the time for applying for an external review. 
+
+(5) If the registration holder applies for an external review, the registration continues to have effect until the earlier of the following events: 
+
+(a) the registration holder withdraws the application for review;   
+(b) [the external review body] makes a decision on the review. 
+
+Note 
+
+See the jurisdictional note in the Appendix. 
+
+(6) The registration continues to have effect under this regulation even if its expiry date passes. 
+
+Division 5Changes to registration and registration documents 
+
+281 Application of Division 
+
+This Division applies to: 
+
+(a) the registration of a design of an item of plant; and (b) the registration of an item of plant. 
+
+282 Changes to information 
+
+(1) A registration holder must give the regulator written notice of any change to: 
+
+<<<PAGE 208>>>
+
+Part 5.3 Registration of Plant Designs and Items of Plant 
+
+(a) the registration holder's name; or   
+(b) any of the information referred to in regulations 250, 255(1), 266 or 268(1) within 14 days after the registration holder becomes aware of the change. 
+
+Maximum penalty: tier I monetary penalty. 
+
+(2) Subregulation (1) applies whether the information was given in the application for grant of the registration or in any other circumstance. 
+
+(3) Without limiting subregulation (1), a registration holder for an item of plant must give written notice to the regulator if: 
+
+(a) the item of plant is altered to an extent or in a way that requires the plant to be subject to new control measures; or   
+(b) the item of plant is usually fixed and is relocated; or   
+(c) the registration holder no longer has management or control of the item of plant. 
+
+283 Amendment of registration imposed by regulator 
+
+(1) The regulator may, on its own initiative, amend a registration, including by amending the registration to: 
+
+(a) vary or delete a condition of the registration; or (b) impose a new condition on the registration. 
+
+(2) Before amending a registration, the regulator must give the registration holder written notice: 
+
+(a) setting out the proposed amendment and the reasons for it; and   
+(b) advising the registration holder that the registration holder may make a submission to the regulator in relation to the proposed amendment within a specified period (being not less than 28 days from the date of the notice). 
+
+(3) After the date specified in a notice under subregulation (2), the regulator must: 
+
+(a) if the registration holder has made a submission in relation to the proposed amendment—consider that submission; and   
+(b) whether or not the registration holder has made a submission—decide: (i) to make the proposed amendment; or (ii) not to make any amendment; or 
+
+<<<PAGE 209>>>
+
+Part 5.3 Registration of Plant Designs and Items of Plant (iii) to make a different amendment that results from consideration of any submission made by the registration holder; and 
+
+
+
+(c) within 14 days after making that decision, give the registration holder written notice that: 
+
+(i) sets out the amendment, if any, or states that no amendment is to be made; and   
+(ii) if a submission was made in relation to the proposed amendment—sets out the regulator's reasons for making the amendment; and   
+(iii) specifies the date (being not less than the 28 days after the registration holder is given the notice) on which the amendment, if any, takes effect. 
+
+Note 
+
+A decision to amend a registration is a reviewable decision (see regulation 676). 
+
+284 Amendment on application by registration holder 
+
+(1) The regulator, on application by the registration holder, may amend a registration, including by amending the registration to vary or delete a condition of the registration. 
+
+(2) If the regulator proposes to refuse to amend the registration, the regulator must give the registration holder a written notice: 
+
+(a) informing the registration holder of the proposed refusal to amend the registration and the reasons for the proposed refusal; and 
+
+(b) advising the registration holder that the registration holder may, by a specified date (being not less than 28 days after giving the notice), make a submission to the regulator in relation to the proposed refusal. 
+
+(3) After the date specified in a notice under subregulation (2), the regulator must: 
+
+(a) if the registration holder has made a submission in relation to the proposed refusal—consider that submission; and   
+(b) whether or not the registration holder has made a submission—decide: (i) to make the amendment applied for; or 
+
+<<<PAGE 210>>>
+
+Model Work Health and Safety Regulations 
+
+Part 5.3 Registration of Plant Designs and Items of Plant 
+
+(ii) not to make any amendment; or   
+(iii) to make a different amendment that results from consideration of any submission made by the registration holder; and 
+
+(c) within 14 days after making that decision, give the registration holder written notice of the decision in accordance with this regulation. 
+
+(4) If the regulator makes the amendment applied for, the notice under subregulation (3)(c) must specify the date (being not less than 28 days after the registration holder is given the notice) on which the amendment takes effect. 
+
+(5) If the regulator refuses to make the amendment or makes a different amendment, the notice under subregulation (3)(c) must: 
+
+(a) if a submission was made in relation to the proposed refusal of the amendment applied for—set out the reasons for the regulator's decision; and 
+
+(b) if the regulator makes a different amendment: 
+
+(i) set out the amendment; and   
+(ii) specify the date (being not less than 28 days after the licence holder is given the notice) on which the amendment takes effect. 
+
+Note 
+
+A refusal to make the amendment applied for, or a decision to make a different amendment, is a reviewable decision (see regulation 676). 
+
+285 Minor corrections to registration 
+
+The regulator may make minor amendments to a registration, including an amendment: 
+
+(a) to correct an obvious error; or   
+(b) to change an address; or   
+(c) that does not impose a significant burden on the registration holder. 
+
+286 Regulator to give amended registration document 
+
+If the regulator amends a registration and considers that the registration document requires amendment, the regulator must give the registration holder an amended registration document within 14 days after making the decision to amend the registration. 
+
+<<<PAGE 211>>>
+
+Model Work Health and Safety Regulations 
+
+Part 5.3 Registration of Plant Designs and Items of Plant 
+
+287 Registration holder to return registration document 
+
+A registration holder must return the registration document to the regulator for amendment at the written request of the regulator within the time specified in the request. 
+
+Maximum penalty: tier I monetary penalty. 
+
+288 Replacement registration document 
+
+(1) A registration holder must notify the regulator as soon as practicable if the registration document is lost, stolen or destroyed. Maximum penalty: tier I monetary penalty. 
+
+(2) If a registration document is lost, stolen or destroyed, the registration holder may apply to the regulator for a replacement document. 
+
+Note 
+
+A registration holder is required to keep a registration document available for inspection (see regulation 275). 
+
+(3) An application for a replacement registration document must be made in the manner and form required by the regulator. 
+
+(4) The application must: 
+
+(a) include a declaration describing the circumstances in which the original document was lost, stolen or destroyed; and Note See section 268 of the Act for offences relating to the giving of false or misleading information under the Act or these Regulations.   
+(b) be accompanied by the relevant fee. 
+
+(5) The regulator must issue a replacement registration document if satisfied that the original document was lost, stolen or destroyed. 
+
+(6) If the regulator refuses to issue a replacement registration document, it must give the registration holder written notice of this decision, including the reasons for the decision within 14 days of making the decision. 
+
+Note 
+
+A refusal to issue a replacement registration document is a reviewable decision (see regulation 676). 
+
+Division 6—Cancellation of registration 
+
+Note 
+
+See the jurisdictional note in the Appendix. 
+
+<<<PAGE 212>>>
+
+Model Work Health and Safety Regulations 
+
+Part 5.3 Registration of Plant Designs and Items of Plant 
+
+288A Application of Division 
+
+This Division applies to: 
+
+(a) the registration of a design of an item of plant; and (b) the registration of an item of plant. 
+
+288B Regulator may cancel registration 
+
+The regulator may cancel a registration if satisfied that: 
+
+(a) the registration holder, in applying for the registration: 
+
+(i) gave information that was false or misleading in a material particular; or   
+(ii) failed to give any material information that should have been given; or 
+
+(b) the design of the item of plant, or the item of plant (as applicable), is unsafe. 
+
+Note 
+
+A decision to cancel a registration is a reviewable decision (see regulation 676). 
+
+288C Cancellation process 
+
+(1) Before cancelling a registration, the regulator must give the registration holder written notice: 
+
+(a) setting out the proposal to cancel the registration and the reasons for it; and   
+(b) advising the registration holder that the registration holder may make a submission to the regulator in relation to the proposed cancellation within a specified period (being not less than 28 days from the date of the notice). 
+
+(2) After the date specified in a notice under subregulation (1), the regulator must: 
+
+(a) if the registration holder has made a submission in relation to the proposed cancellation—consider that submission; and   
+(b) whether or not the registration holder has made a submission, decide: (i) to cancel the registration; or (ii) not to cancel the registration; and 
+
+(c) within 14 days after making that decision, give the registration holder written notice that: 
+
+<<<PAGE 213>>>
+
+Model Work Health and Safety Regulations 
+
+Part 5.3 Registration of Plant Designs and Items of Plant 
+
+(i) states whether or not the registration is cancelled; and   
+(ii) if a submission was made in relation to the proposed cancellation—sets out the regulator's reasons for cancelling the registration; and   
+(iii) specifies the date on which the cancellation, if any, takes effect. 
+
+Note 
+
+A decision to cancel a registration is a reviewable decision (see regulation 676). 
+
+288D Registration holder to return registration document 
+
+A registration holder who receives a cancellation notice under regulation 288C must return the registration document to the regulator at the written request of the regulator within the time specified in the request. 
+
+Maximum penalty: tier I monetary penalty. 
+
+<<<PAGE 214>>>
+
+CHAPTER 6 CONSTRUCTION WORK 
+
+Part 6.1 Preliminary 
+
+289 Meaning of construction work 
+
+(1) In this Chapter, construction work means any work carried out in connection with the construction, alteration, conversion, fitting-out, commissioning, renovation, repair, maintenance, refurbishment, demolition, decommissioning or dismantling of a structure. 
+
+(2) Without limiting subregulation (1), construction work includes the following: 
+
+(a) any installation or testing carried out in connection with an activity referred to in subregulation (1);   
+(b) the removal from the workplace of any product or waste resulting from demolition;   
+(c) the prefabrication or testing of elements, at a place specifically established for the construction work, for use in construction work;   
+(d) the assembly of prefabricated elements to form a structure, or the disassembly of prefabricated elements forming part of a structure;   
+(e) the installation, testing or maintenance of an essential service in relation to a structure;   
+(f) any work connected with an excavation;   
+(g) any work connected with any preparatory work or site preparation (including landscaping as part of site preparation) carried out in connection with an activity referred to in subregulation (1);   
+(h) an activity referred to in subregulation (1), that is carried out on, under or near water, including work on buoys and obstructions to navigation. 
+
+(3) In this Chapter, construction work does not include any of the following: 
+
+(a) the manufacture of plant;   
+(b) the prefabrication of elements, other than at a place specifically established for the construction work, for use in construction work; 
+
+<<<PAGE 215>>>
+
+Model Work Health and Safety Regulations 
+
+Part 6.1 Preliminary 
+
+(c) the construction or assembly of a structure that once constructed or assembled is intended to be transported to another place;   
+(d) testing, maintenance or repair work of a minor nature carried out in connection with a structure;   
+(e) mining or the exploration for or extraction of minerals. 
+
+290 Meaning of structure 
+
+(1) In this Chapter, structure has the same meaning as it has in the Act. 
+
+Examples 
+
+1 A roadway or pathway.   
+2 A ship or submarine.   
+3 Foundations, earth retention works and other earthworks, including river works and sea defence works.   
+4 Formwork, falsework or any other structure designed or used to provide support, access or containment during construction work.   
+5 An airfield.   
+6 A dock, harbour, channel, bridge, viaduct, lagoon or dam.   
+7 A sewer or sewerage or drainage works. 
+
+(2) This Chapter does not apply to plant unless: 
+
+(a) the plant is: 
+
+(i) a ship or submarine; or   
+(ii) a pipe or pipeline; or   
+(iii) an underground tank; or   
+(iv) designed or used to provide support, access or containment during work in connection with construction work; or   
+(b) work on the plant relates to work that is carried out in connection with construction work; or   
+(c) the plant is fixed plant on which outage work or overhaul work that involves or may involve work being carried out by 5 or more persons conducting businesses or undertakings at any point in time. 
+
+
+
+Note 
+
+This Chapter does not apply to the manufacture of plant (see regulation 289(3)(a)). 
+
+<<<PAGE 216>>>
+
+291 Meaning of high risk construction work 
+
+In this Chapter, high risk construction work means construction work that: 
+
+(a) involves a risk of a person falling more than 2 metres; or   
+(b) is carried out on a telecommunication tower; or   
+(c) involves demolition of an element of a structure that is loadbearing or otherwise related to the physical integrity of the structure; or   
+(d) involves, or is likely to involve, the disturbance of asbestos; or   
+(e) involves structural alterations or repairs that require temporary support to prevent collapse; or   
+(f) is carried out in or near a confined space; or   
+(g) is carried out in or near: (i) a shaft or trench with an excavated depth greater than 1⋅5 metres; or (ii) a tunnel; or   
+(h) involves the use of explosives; or   
+(i) is carried out on or near pressurised gas distribution mains or piping; or   
+(j) is carried out on or near chemical, fuel or refrigerant lines; or   
+(k) is carried out on or near energised electrical installations or services; or   
+(l) is carried out in an area that may have a contaminated or flammable atmosphere; or   
+(m) involves tilt-up or precast concrete; or   
+(n) is carried out on, in or adjacent to a road, railway, shipping lane or other traffic corridor that is in use by traffic other than pedestrians; or   
+(o) is carried out in an area at a workplace in which there is any movement of powered mobile plant; or   
+(p) is carried out in an area in which there are artificial extremes of temperature; or   
+(q) is carried out in or near water or other liquid that involves a risk of drowning; or 
+
+<<<PAGE 217>>>
+
+Model Work Health and Safety Regulations 
+
+(r) involves diving work. 
+
+292 Meaning of construction project 
+
+In this Chapter, a construction project is a project that involves construction work where the cost of the construction work is \$250 000 or more. 
+
+293 Meaning of principal contractor 
+
+(1) In this Chapter, a person conducting a business or undertaking that commissions a construction project is, subject to this regulation, the principal contractor for the project. 
+
+(2) If the person referred to in subregulation (1) engages another person conducting a business or undertaking as principal contractor for the construction project and authorises the person to have management or control of the workplace and to discharge the duties of a principal contractor under this Chapter, the person so engaged is the principal contractor for the project. 
+
+(3) If the owner of residential premises is an individual who directly or indirectly engages a person conducting a business or undertaking to undertake a construction project in relation to the premises, the person so engaged is the principal contractor for the project if the person has management or control of the workplace. 
+
+(4) A construction project has only one principal contractor at any specific time. 
+
+Note 
+
+A person with management or control of a workplace must comply with section 20 of the Act. 
+
+<<<PAGE 218>>>
+
+Part 6.2 Duties of Designer of Structure and Person Who Commissions Construction Work 
+
+294 Person who commissions work must consult with designer (1) A person conducting a business or undertaking that commissions construction work in relation to a structure must, so far as is reasonably practicable, consult with the designer of the whole or any part of the structure about how to ensure that risks to health and safety arising from the design during the construction work are: 
+
+
+
+(a) eliminated, so far as is reasonably practicable; or (b) if it is not reasonably practicable to eliminate the risks, minimised so far as is reasonably practicable. 
+
+Maximum penalty: tier G monetary penalty. 
+
+(2) Consultation must include giving the designer any information that the person who commissions the construction work has in relation to the hazards and risks at the workplace where the construction work is to be carried out. 
+
+295 Designer must give safety report to person who commissions design 
+
+(1) The designer of a structure or any part of a structure that is to be constructed must give the person conducting a business or undertaking who commissioned the design a written report that specifies the hazards relating to the design of the structure that, so far as the designer is reasonably aware: 
+
+(a) create a risk to the health or safety of persons who are to carry out any construction work on the structure or part; and   
+(b) are associated only with the particular design and not with other designs of the same type of structure. 
+
+Maximum penalty: tier G monetary penalty. 
+
+(2) If the person conducting a business or undertaking who commissions a construction project did not commission the design of the construction project, the person must take all reasonable steps to obtain a copy of the written report referred to in subregulation (1) in relation to that design. 
+
+Maximum penalty: tier G monetary penalty. 
+
+296 Person who commissions project must give information to principal contractor 
+
+If a person conducting a business or undertaking that commissions a construction project engages a principal contractor for the project, 
+
+<<<PAGE 219>>>
+
+Model Work Health and Safety Regulations 
+
+Part 6.2 Duties of Designer of Structure and Person Who Commissions Construction Work 
+
+the person must give the principal contractor any information the person has in relation to hazards and risks at or in the vicinity of the workplace where the construction work is to be carried out. 
+
+Maximum penalty: tier G monetary penalty. 
+
+<<<PAGE 220>>>
+
+Part 6.3 Duties of Person Conducting Business or Undertaking 
+
+Note 
+
+As a principal contractor is a person conducting a business or undertaking, this Part also applies to a principal contractor. 
+
+Division 1 General 
+
+297 Management of risks to health and safety 
+
+A person conducting a business or undertaking must manage risks associated with the carrying out of construction work in accordance with Part 3.1. 
+
+Note 
+
+WHS Act—section 19 (see regulation 9). 
+
+298 Security of workplace 
+
+(1) A person with management or control of a workplace at which construction work is carried out must ensure, so far as is reasonably practicable, that the workplace is secured from unauthorised access. Maximum penalty: tier G monetary penalty. 
+
+(2) In complying with subregulation (1), the person must have regard to all relevant matters, including: 
+
+(a) risks to health and safety arising from unauthorised access to the workplace; and   
+(b) the likelihood of unauthorised access occurring; and Example The proximity of the workplace to places frequented by children, including schools, parks and shopping precincts.   
+(c) to the extent that unauthorised access to the workplace cannot be prevented—how to isolate hazards within the workplace. 

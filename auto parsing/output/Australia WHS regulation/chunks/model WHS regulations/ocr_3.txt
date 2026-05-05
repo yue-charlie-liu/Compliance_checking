@@ -1,0 +1,659 @@
+<<<Page 35>>>
+
+dogging work means: 
+
+(a) the application of slinging techniques, including the selection and inspection of lifting gear, to safely sling a load; or   
+(b) the directing of a plant operator in the movement of a load when the load is out of the operator's view. 
+
+duty holder, in Part 3.1, means a person referred to in regulation 32. 
+
+EANx, in Part 4.8, means a mixture of oxygen and nitrogen in which the volume of oxygen is at least 22%. 
+
+earthmoving machinery means operator controlled plant used to excavate, load, transport, compact or spread earth, overburden, rubble, spoil, aggregate or similar material, but does not include a tractor or industrial lift truck. 
+
+electrical equipment—see regulation 144 (and regulation 148 for Division 3 of Part 4.7). 
+
+electrical installation—see regulation 145 (and regulation 148 for Division 3 of Part 4.7). 
+
+electrical risk means risk to a person of death, shock or other injury caused directly or indirectly by electricity. 
+
+<<<PAGE 36>>>
+
+Model Work Health and Safety Regulations 
+
+electrical work—see regulation 146. 
+
+electricity supply authority means [............]. 
+
+Note 
+
+See the jurisdictional note in the Appendix. 
+
+emergency service organisation means [.............]. 
+
+Note 
+
+See the jurisdictional note in the Appendix. 
+
+emergency service worker means [.............]. 
+
+Note 
+
+See the jurisdictional note in the Appendix. 
+
+engineered stone—see regulation 529A(1). 
+
+engineering control means a control measure that is physical in nature, including a mechanical device or process. 
+
+entry, by a person into a confined space, means the person's head or upper body is in the confined space or within the boundary of the confined space. 
+
+essential services means the supply of: 
+
+(a) gas, water, sewerage, telecommunications, electricity and similar services; or (b) chemicals, fuel and refrigerant in pipes or lines. 
+
+excavation means a trench, tunnel or shaft, but does not include: 
+
+(a) a mine; or   
+(b) a bore to which a [relevant water law] applies; or Note See the jurisdictional note in the Appendix.   
+(c) a trench for use as a place of interment. 
+
+excavation work means work to: 
+
+(a) make an excavation; or (b) fill or partly fill an excavation. 
+
+exposure standard, except in Part 4.1, means an exposure standard in the Workplace Exposure Standard for Airborne Contaminants. 
+
+exposure standard for noise—see regulation 56. 
+
+<<<PAGE 37>>>
+
+Model Work Health and Safety Regulations 
+
+external review means an external review under Part 11.1. 
+
+extra-low voltage means voltage that does not exceed 50 volts alternating current (50V AC) or 120 volts ripple-free direct current (120V ripple-free DC). 
+
+facility, in Chapter 9, means a workplace at which Schedule 15 chemicals are present or likely to be present. 
+
+fall arrest system means plant or material designed to arrest a fall. 
+
+Example 
+
+An industrial safety net, a catch platform, a safety harness system (other than a system that relies entirely on a restraint technique system). 
+
+fault, in relation to plant, means a break or defect that may cause the plant to present a risk to health and safety. 
+
+female of reproductive capacity, in Part 7.2, means a female other than a female who provides information stating that she is not of reproductive capacity. 
+
+fire risk hazardous chemical means a hazardous chemical that: 
+
+(a) is any of the following: 
+
+(i) a flammable gas;   
+(ii) a flammable liquid (hazard category 1 to 3);   
+(iii) a flammable solid;   
+(iv) a substance liable to spontaneous combustion;   
+(v) a substance which, in contact with water, emits flammable gases;   
+(vi) an oxidizing substance;   
+(vii) an organic peroxide; and 
+
+(b) burns readily or supports combustion. 
+
+fitness criteria, in relation to diving work, means the fitness criteria specified in clause M4 of Appendix M to AS/NZS 2299.1:2015 (Occupational diving operations—Standard operational practice). 
+
+flammable gas has the same meaning as it has in the GHS. 
+
+flammable liquid means a flammable liquid within the meaning of the GHS that has a flash point of less than 93°C. 
+
+forklift truck, in Schedules 3 and 4, means a powered industrial truck equipped with lifting media made up of a mast and an elevating load carriage to which is attached a pair of fork arms or other arms that can be raised 900mm or more above the ground, but does not include a pedestrian-operated truck or a pallet truck. 
+
+<<<PAGE 38>>>
+
+
+
+friable asbestos means material that: 
+
+(a) is in a powder form or that can be crumbled, pulverised or reduced to a powder by hand pressure when dry; and (b) contains asbestos. 
+
+gantry crane means a crane that: 
+
+(a) consists of a bridge beam or beams supported at one or both ends by legs mounted to end carriages; and   
+(b) is capable of travelling on supporting surfaces or deck levels, whether fixed or not; and   
+(c) has a crab with 1 or more hoisting units arranged to travel across the bridge. 
+
+gas cylinder means a rigid vessel: 
+
+(a) that does not exceed 3000 litres water capacity and is without openings or integral attachments on the shell other than at the ends; and   
+(b) that is designed for the storage and transport of gas under pressure; and   
+(c) that is covered by AS 2030.1:2009 (Gas cylinders— General requirements). 
+
+general construction induction training means training delivered in Australia by an RTO for the specified VET course for general construction induction training. 
+
+general construction induction training card means: 
+
+(a) in Division 2 of Part 6.5—a general construction induction training card issued under that Division; 
+
+(b) in any other case—a general construction induction training card issued: 
+
+(i) under Division 2 of Part 6.5 or under a corresponding WHS law; or   
+(ii) by an RTO under an agreement between the regulator and an RTO or a corresponding regulator and an RTO. 
+
+<<<PAGE 39>>>
+
+Model Work Health and Safety Regulations 
+
+Note 
+
+See the jurisdictional note in the Appendix. 
+
+general construction induction training certification means a certification for the completion of the specified VET course for general construction induction training. 
+
+general diving work means work carried out in or under water while breathing compressed gas, and includes: 
+
+(a) incidental diving work; and (b) limited scientific diving work, but does not include high risk diving work. 
+
+
+
+genuine research means systematic investigative or experimental activities that are carried out for either acquiring new knowledge (whether or not the knowledge will have a specific practical application) or creating new or improved materials, products, devices, processes or services. 
+
+GHS means the Globally Harmonised System of Classification and Labelling of Chemicals, Seventh revised edition, published by the United Nations as modified under Schedule 6. 
+
+Note 
+
+The Schedule 6 tables replace some tables in the GHS. 
+
+GHS 3 means the Globally Harmonised System of Classification and Labelling of Chemicals, Third revised edition, published by the United Nations as modified under Schedule 6. 
+
+Note 
+
+The Schedule 6 tables replace some tables in GHS 3. 
+
+hazard category means a division of criteria within a hazard class in the GHS. 
+
+hazard class means the nature of a physical, health or environmental hazard under the GHS. 
+
+hazard pictogram means a graphical composition, including a symbol plus other graphical elements, that is assigned in the GHS to a hazard class or hazard category. 
+
+hazard statement means a statement assigned in the GHS to a hazard class or hazard category describing the nature of the hazards of a hazardous chemical including, if appropriate, the degree of hazard. 
+
+hazardous area means an area in which: 
+
+<<<PAGE 40>>>
+
+Model Work Health and Safety Regulations 
+
+(a) an explosive gas is present in the atmosphere in a quantity that requires special precautions to be taken for the construction, installation and use of plant; or   
+(b) a combustible dust is present, or could reasonably be expected to be present, in the atmosphere in a quantity that requires special precautions to be taken for the construction, installation and use of plant. 
+
+hazardous chemical means a substance, mixture or article that satisfies the criteria for any one or more hazard classes in the GHS (including a classification referred to in Schedule 6), unless the only hazard class or classes for which the substance, mixture or article satisfies the criteria are any one or more of the following: 
+
+(a) acute toxicity—oral—category 5;   
+(b) acute toxicity—dermal—category 5;   
+(c) acute toxicity—inhalation—category 5;   
+(d) skin corrosion/irritation—category 3;   
+(e) aspiration hazard—category 2;   
+(f) flammable gas—category 2;   
+(g) acute hazard to the aquatic environment—category 1, 2 or 3;   
+(h) chronic hazard to the aquatic environment—category 1, 2, 3 or 4;   
+(i) hazardous to the ozone layer. 
+
+Note 
+
+The Schedule 6 tables replace some tables in the GHS. 
+
+hazardous manual task means a task that requires a person to lift, lower, push, pull, carry or otherwise move, hold or restrain any person, animal or thing that involves 1 or more of the following: 
+
+(a) repetitive or sustained force;   
+(b) high or sudden force;   
+(c) repetitive movement;   
+(d) sustained or awkward posture;   
+(e) exposure to vibration. 
+
+<<<PAGE 41>>>
+
+Model Work Health and Safety Regulations 
+
+Part 1.1 Introductory Matters 
+
+Examples 
+
+1 A task requiring a person to restrain live animals. 2 A task requiring a person to lift or move loads that are unstable or unbalanced or are difficult to grasp or hold. 3 A task requiring a person to sort objects on a conveyor belt. 
+
+Hazchem Code means a Hazchem Code under the ADG Code, also known as an Emergency Action Code. 
+
+head or upper body means the area of a person's body at or above the person's shoulders. 
+
+health monitoring, of a person, means monitoring the person to identify changes in the person's health status because of exposure to certain substances. 
+
+heritage boiler means a boiler that: 
+
+(a) was manufactured before 1952; and (b) is used for a historical purpose or activity, including an activity that is ancillary to a historical activity. 
+
+Examples 
+
+1 Historical activity: a historical display, parade, demonstration or reenactment.   
+2 Activity ancillary to a historical activity: restoring, maintaining, modifying, servicing, repairing or housing a boiler used, or to be used, for a historical activity. 
+
+high risk, in relation to the processing of a CSS, means the processing of a CSS that is reasonably likely to result in a risk to the health of a person at the workplace. 
+
+high risk construction work—see regulation 291. 
+
+high risk diving work means work: 
+
+(a) carried out in or under water or any other liquid while breathing compressed gas; and 
+
+(b) involving 1 or more of the following: 
+
+(i) construction work; 
+
+Notes 
+
+1 Subparagraph (ii) includes some additional constructionrelated activities.   
+2 For construction work generally, see Chapter 6. For the meaning of construction work, see regulation 289. 
+
+(ii) work of the kind described in regulation 289(3)(d); 
+
+<<<PAGE 42>>>
+
+Model Work Health and Safety Regulations 
+
+Part 1.1 Introductory Matters 
+
+(iii) inspection work carried out in order to determine whether or not work described in subparagraph (i) or (ii) is necessary;   
+(iv) the recovery or salvage of a large structure or large item of plant for commercial purposes, 
+
+but does not include minor work carried out in the sea or the waters of a bay or inlet or a marina that involves cleaning, inspecting, maintaining or searching for a vessel or mooring. 
+
+high risk work means any work set out in Schedule 3 as being within the scope of a high risk work licence. 
+
+high risk work licence means any of the licences listed in Schedule 3. 
+
+hoist means an appliance intended for raising or lowering a load or people, and includes an elevating work platform, a mast climbing work platform, personnel and materials hoist, scaffolding hoist and serial hoist, but does not include a lift or building maintenance equipment. 
+
+ignition source means a source of energy capable of igniting flammable or combustible substances. 
+
+importer, in relation to plant, a substance or a structure, has the same meaning as it has in section 24 of the Act. 
+
+incidental diving work means general diving work that: 
+
+(a) is incidental to the conduct of the business or undertaking in which the diving work is carried out; and 
+
+Example 
+
+Acting underwater is incidental to the business or undertaking of filming. 
+
+(b) involves limited diving. 
+
+independent, in relation to clearance inspections and air monitoring under Chapter 8, means: 
+
+(a) not involved in the removal of the asbestos; and (b) not involved in a business or undertaking involved in the removal of the asbestos, 
+
+in relation to which the inspection or monitoring is conducted. 
+
+industrial lift truck means powered mobile plant, designed to move goods, materials or equipment that is equipped with an elevating load carriage and is in the normal course of use 
+
+<<<PAGE 43>>>
+
+Model Work Health and Safety Regulations 
+
+equipped with a load-holding attachment, but does not include a mobile crane or earthmoving machinery. 
+
+industrial robot means plant that is a multifunctional manipulator and its controllers, capable of handling materials, parts or tools, or specialised devices, through variable programmed motions for the performance of a variety of tasks. 
+
+inflatable device (continuously blown) means an amusement device that is an inflatable device that relies on a continuous supply of air pressure to maintain its shape. 
+
+in situ asbestos means asbestos or ACM fixed or installed in a structure, equipment or plant, but does not include naturally occurring asbestos. 
+
+intermediate bulk container (IBC) has the same meaning as IBC has in the ADG Code. 
+
+internal review means internal review under Part 11.1. 
+
+in transit, in relation to a thing, means that the thing: 
+
+(a) is supplied to, or stored at, a workplace in containers that are not opened at the workplace; and   
+(b) is not used at the workplace; and   
+(c) is kept at the workplace for not more than 5 consecutive days. 
+
+lead means lead metal, lead alloys, inorganic lead compounds and lead salts of organic acids. 
+
+lead process—see regulation 392. 
+
+lead process area means a workplace or part of a workplace where a lead process is carried out. 
+
+lead risk work—see regulation 394. 
+
+licence holder means: 
+
+(a) in the case of a high risk work licence—the person who is licensed to carry out the work; or   
+(b) in the case of an asbestos assessor licence—the person who is licensed: (i) to carry out air monitoring during Class A asbestos removal work; and (ii) to carry out clearance inspections of Class A asbestos removal work; and 
+
+<<<PAGE 44>>>
+
+Model Work Health and Safety Regulations 
+
+Part 1.1 Introductory Matters (iii) to issue clearance certificates in relation to Class A asbestos removal work; or 
+
+
+
+(c) in the case of an asbestos removal licence—the person conducting the business or undertaking to whom the licence is granted; or 
+
+(d) in the case of a major hazard facility licence—the operator of the major hazard facility to whom the licence is granted or transferred. 
+
+licensed asbestos assessor means a person who holds an asbestos assessor licence. 
+
+licensed asbestos removalist means a person conducting a business or undertaking who is licensed under these Regulations to carry out Class A asbestos removal work or Class B asbestos removal work. 
+
+licensed asbestos removal work means asbestos removal work for which a Class A asbestos removal licence or Class B asbestos removal licence is required. 
+
+licensed major hazard facility means a major hazard facility that is licensed under Part 9.7. 
+
+lift means plant that is, or is intended to be, permanently installed in or attached to a structure, in which people, goods or materials may be raised or lowered within a car or cage, or on a platform and the movement of which is restricted by a guide or guides, and includes: 
+
+(a) a chairlift and stairway lift; and   
+(b) any supporting structure, machinery, equipment, gear, lift well, enclosures and entrances. 
+
+limited diving means diving that does not involve any of the following: 
+
+(a) diving to a depth below 30 metres;   
+(b) the need for a decompression stop;   
+(c) the use of mechanical lifting equipment or a buoyancy lifting device;   
+(d) diving beneath anything that would require the diver to move sideways before being able to ascend;   
+(e) the use of plant that is powered from the surface; 
+
+<<<PAGE 45>>>
+
+(f) diving for more than 28 days during a period of 6 months. 
+
+limited scientific diving work means general diving work that: 
+
+(a) is carried out for the purpose of professional scientific research, natural resource management or scientific research as an educational activity; and 
+
+(b) involves only limited diving. 
+
+local authority, in relation to a facility, means the local authority for the local authority area in which the facility and the surrounding area are located. 
+
+local community, in relation to a major hazard facility, means the community in the surrounding area. 
+
+lower explosive limit (LEL), in relation to a flammable gas, vapour or mist, means the concentration of the gas, vapour or mist in air below which the propagation of a flame does not occur on contact with an ignition source. 
+
+maintain, in relation to plant or a structure in Chapter 5, includes repair or servicing of plant or a structure. 
+
+major hazard facility means a facility: 
+
+(a) at which Schedule 15 chemicals are present or likely to be present in a quantity that exceeds their threshold quantity; or   
+(b) that is determined by the regulator under Part 9.2 to be a major hazard facility. 
+
+major hazard facility licence means a licence granted under Part 9.7 in relation to a major hazard facility. 
+
+major incident—see regulation 531. 
+
+major incident hazard means a hazard that could cause, or contribute to causing, a major incident. 
+
+manifest means a written summary of the hazardous chemicals used, handled or stored at a workplace. 
+
+Note 
+
+See Schedule 12 (Manifest requirements) for what a manifest must contain. 
+
+manifest quantity, in relation to a Schedule 11 hazardous chemical, means the manifest quantity referred to in Schedule 11, table 11.1, column 5 for that hazardous chemical. 
+
+<<<PAGE 46>>>
+
+Model Work Health and Safety Regulations manufacturer, in relation to plant, a substance or a structure, has the same meaning as it has in section 23 of the Act. 
+
+
+
+mast climbing work platform means a hoist with a working platform used for temporary purposes to raise personnel and materials to the working position by means of a drive system mounted on an extendable mast that may be tied to a structure. 
+
+materials hoist means a hoist that: 
+
+(a) consists of a car, bucket or platform cantilevered from, and travelling up and down outside, a face of the support of a structure; and   
+(b) is used for hoisting things and substances but not persons. 
+
+membrane filter method means the membrane filter method described in the Guidance Note on the Membrane Filter Method for Estimating Airborne Asbestos Fibres [NOHSC:3003 (2005)]. 
+
+mixture in Part 7.1, means a combination of, or a solution composed of, 2 or more substances that do not react with each other. 
+
+mobile crane means a crane capable of travelling over a supporting surface without the need for fixed runways and relying only on gravity for stability. 
+
+modification, in relation to a facility—see regulation 534. 
+
+musculoskeletal disorder means an injury to, or disease of, the musculoskeletal system, whether occurring suddenly or over time, but does not include an injury caused by crushing, entrapment or cutting resulting principally from the mechanical operation of plant. 
+
+NATA means the National Association of Testing Authorities, Australia. 
+
+NATA-accredited laboratory means a testing laboratory accredited by NATA, or recognised by NATA either solely or with someone else. 
+
+naturally occurring asbestos means the natural geological occurrence of asbestos minerals found in association with geological deposits including rock, sediment or soil. 
+
+<<<PAGE 47>>>
+
+non-friable asbestos means material containing asbestos that is not friable asbestos, including material containing asbestos fibres reinforced with a bonding compound. 
+
+Note 
+
+Non-friable asbestos may become friable asbestos through deterioration (see definition of friable asbestos). 
+
+non-slewing mobile crane means a mobile crane incorporating a boom or jib that cannot be slewed, and includes: 
+
+(a) an articulated mobile crane; or (b) a locomotive crane, 
+
+but does not include vehicle tow trucks. 
+
+notice of satisfactory assessment means a notice stating that the person to whom it is issued has successfully completed a specified VET course. 
+
+operator, in relation to a facility or a proposed facility—see regulation 533. 
+
+operator protective device, includes a roll-over protective structure, falling object protective structure, operator restraining device and seat belt. 
+
+order-picking forklift truck, in Schedules 3 and 4, means a forklift truck where the operator's controls are incorporated with the lifting media and elevate with the lifting media. 
+
+packaged hazardous chemicals means Schedule 11 hazardous chemicals in a container with: 
+
+(a) a capacity not exceeding 500 litres; or (b) a net mass not exceeding 500 kilograms. 
+
+passenger ropeway means a powered ropeway used for transporting, in a horizontal or inclined plane, passengers moved by a carrier that is: 
+
+(a) attached to or supported by a moving rope; or (b) attached to a moving rope but supported by a standing rope or other overhead structure, 
+
+including, in relation to the powered ropeway, the prime mover, any associated transmission machinery and any supporting structure and equipment, but does not include any of the following: 
+
+<<<PAGE 48>>>
+
+Model Work Health and Safety Regulations 
+
+(c) a cog railway;   
+(d) a cable car running on rails;   
+(e) a flying fox or similar device;   
+(f) an elevating system for vehicles or boat style carriers associated with amusement devices. Examples An elevating system for a log ride or boat flume ride. 
+
+person with management or control of plant at a workplace has the same meaning as it has in section 21 of the Act. 
+
+person with management or control of a workplace has the same meaning as it has in section 20 of the Act. 
+
+personal protective equipment means anything used or worn by a person to minimise risk to the person's health and safety, including air supplied respiratory equipment. 
+
+personnel and materials hoist means a hoist: 
+
+(a) that is a cantilever hoist, a tower hoist or several winches configured to operate as a hoist; and (b) that is intended to carry goods, materials or people. 
+
+pipeline means pipe work that crosses a boundary of a workplace, beginning or ending at the nearest fluid or slurry control point (along the axis of the pipeline) to the boundary. 
+
+pipe work means a pipe or assembly of pipes, pipe fittings, valves and pipe accessories used to convey a hazardous chemical. 
+
+placard means a sign or notice: 
+
+(a) displayed or intended for display in a prominent place, or next to a container or storage area for hazardous chemicals at a workplace; and   
+(b) that contains information about the hazardous chemical stored in the container or storage area. 
+
+placard quantity, in relation to a Schedule 11 hazardous chemical, means the placard quantity referred to in Schedule 11, table 11.1 column 4 for the Schedule 11 hazardous chemical. 
+
+plant, in Parts 5.2 and 5.3, includes a structure. 
+
+platform height, in relation to an inflatable device (continuously blown), means the height of the highest part of the device designed to support persons using it (the platform), as measured from the surface supporting the device to the top surface of the platform when the device is inflated but unloaded. 
+
+<<<PAGE 49>>>
+
+
+
+porcelain product does not include a product that contains resin. 
+
+portal boom crane means a boom crane or a jib crane that is mounted on a portal frame that, in turn, is supported on runways along which the crane travels. 
+
+powered mobile plant means plant that is provided with some form of self-propulsion that is ordinarily under the direct control of an operator. 
+
+precautionary statement means a phrase prescribed by the GHS that describes measures that are recommended to be taken to prevent or minimise: 
+
+(a) the adverse effects of exposure to a hazardous chemical; or (b) improper handling of a hazardous chemical. 
+
+presence-sensing safeguarding system includes: 
+
+(a) a sensing system that uses 1 or more forms of radiation either self-generated or otherwise generated by pressure; and   
+(b) the interface between the final switching devices of the sensing system and the machine primary control elements; and   
+(c) the machine stopping capabilities, by which the presence of a person or part of a person within the sensing field will cause the dangerous parts of a machine to be brought to a safe state. 
+
+pressure equipment means boilers, pressure vessels and pressure piping. 
+
+pressure piping: 
+
+(a) means an assembly of pipes, pipe fittings, valves and pipe accessories subject to internal or external pressure and used to contain or convey fluid or to transmit fluid pressure; and   
+(b) includes distribution headers, bolting, gaskets, pipe supports and pressure containing accessories; but 
+
+<<<PAGE 50>>>
+
+Model Work Health and Safety Regulations 
+
+(c) does not include: 
+
+(i) a boiler or pressure vessel; or (ii) any piping that is regulated under [..............]. 
+
+Note 
+
+See jurisdictional note in the Appendix. 
+
+pressure vessel: 
+
+(a) means a vessel subject to internal or external pressure; and 
+
+(b) includes: 
+
+(i) interconnected parts and components, valves, gauges and other fittings up to the first point of connection to connecting piping; and   
+(ii) fired heaters; and   
+(iii) gas cylinders; but 
+
+(c) does not include a boiler or pressure piping. 
+
+primary emergency service organisation means [..............]. 
+
+Note 
+
+See the jurisdictional note in the Appendix. 
+
+principal contractor, in relation to a construction project—see regulation 293. 
+
+processing, in relation to a CSS—see regulation 529A. 
+
+product identifier means the name or number used to identify a product on a label or in a safety data sheet. 
+
+prohibited carcinogen means a substance: 
+
+(a) listed in Schedule 10, table 10.1, column 2; and (b) present in a concentration of: 
+
+
+
+(i) for a solid or liquid—0·1% or more, determined as a weight/weight (w/w) concentration; and   
+(ii) for a gas—0·1% or more, determined as a volume/volume (v/v) concentration. 
+
+proposed facility means: 
+
+(a) an existing workplace that is to become a facility due to the introduction of Schedule 15 chemicals; or 
+
+<<<PAGE 51>>>
+
+Model Work Health and Safety Regulations 
+
+(b) a facility that is being designed or constructed. 
+
+proposed major hazard facility means: 
+
+(a) an existing facility or other workplace that is to become a major hazard facility due to the introduction of Schedule 15 chemicals or the addition of further Schedule 15 chemicals; or 
+
+(b) a major hazard facility that is being designed or constructed. 
+
+psychosocial hazard—see regulation 55A. 
+
+psychosocial risk—see regulation 55B. 
+
+quantity, in Chapter 7, means: 
+
+(a) for a hazardous chemical that is not a liquid or a gas or a gas under pressure and is in a container or storage or handling system—the mass in kilograms of the hazardous chemical in the container or storage or handling system; and   
+(b) for a hazardous chemical that is a liquid and is not a gas under pressure and is in a container or storage or handling system—the net capacity in litres of the container or storage or handling system; and   
+(c) for a hazardous chemical that is a gas or gas under pressure in a container or storage or handling system— the water capacity in litres of the container or storage or handling system; and   
+(d) for a hazardous chemical that is not a liquid and is in bulk and not in a container—the undivided mass in kilograms; and   
+(e) for a hazardous chemical that is a thing and is not a gas— the net capacity of the part of the thing that comprises a hazardous chemical. 
+
+reach stacker means a powered reach stacker that incorporates an attachment for lifting and lowering a shipping container. 
+
+reciprocating steam engine means equipment that is driven by steam acting on a piston causing the piston to move, and includes an expanding (steam) reciprocating engine. 
+
+<<<PAGE 52>>>
+
+Model Work Health and Safety Regulations registered medical practitioner means a person registered under the Health Practitioner Regulation National Law to practise in the medical profession (other than as a student). 
+
+
+
+registered training organisation (RTO) means a training organisation listed as a registered training organisation on the National Register established under the National Vocational Education and Training Regulator Act 2011 of the Commonwealth. 
+
+Note 
+
+See the jurisdictional note in the Appendix. 
+
+relevant fee, in relation to a matter, means the fee specified in Schedule 2 for that matter. 
+
+Note 
+
+See the jurisdictional notes in the Appendix. 
+
+research chemical means a substance or mixture that: 
+
+(a) is manufactured in a laboratory for genuine research; and (b) is not for use or supply for a purpose other than analysis or genuine research. 
+
+respirable asbestos fibre means an asbestos fibre that: 
+
+(a) is less than 3 micrometres wide; and (b) more than 5 micrometres long; and (c) has a length to width ratio of more than 3:1. 
+
+restricted carcinogen means a substance: 
+
+(a) listed in Schedule 10, table 10.2, column 2 for a use listed in column 3; and 
+
+(b) present in a concentration of: 
+
+(i) for a solid or liquid—0·1% or more, determined as a weight/weight (w/w) concentration; and   
+(ii) for a gas—0·1% or more, determined as a volume/volume (v/v) concentration. 
+
+retailer means a person whose principal business is supplying consumer products to members of the public who are not engaged in the further supply of those products. 
+
+rigging work means: 
+
+<<<PAGE 53>>>
+
+Model Work Health and Safety Regulations 
+
+(a) the use of mechanical load shifting equipment and associated gear to move, place or secure a load using plant, equipment or members of a structure to ensure the stability of those members; or 
+
+(b) the setting up or dismantling of cranes or hoists. 
+
+safe oxygen level means a minimum oxygen content of air of 19·5% by volume under normal atmospheric pressure and a maximum oxygen content of air of 23·5% by volume under normal atmospheric pressure. 
+
+Safe Work Australia means Safe Work Australia as established under section 5 of the Safe Work Australia Act 2008 of the Commonwealth. 
+
+safe work method statement means: 
+
+(a) in relation to electrical work on energised electrical equipment—a safe work method statement prepared under regulation 161;   
+(b) in relation to high risk construction work—a safe work method statement referred to in regulation 299 (as revised under regulation 302). 
+
+safety data sheet means a safety data sheet prepared under regulation 330 or 331. 
+
+scaffold means a temporary structure specifically erected to support access or working platforms. 
+
+scaffolding work means erecting, altering or dismantling a temporary structure that is or has been erected to support a platform and from which a person or object could fall more than 4 metres from the platform or the structure. 

@@ -1,0 +1,39 @@
+{
+    "title": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
+    "enactedOn": "05-09-2024",
+    "jurisdiction": "Council of Europe",
+    "implementedBy": "Council of Europe member states and other signatories",
+    "numberedSegments": [
+        "Chapter",
+        "Article"
+    ],
+    "unnumberedSegments": [
+        "Preamble"
+    ],
+    "headerSkipped": "CETS 225 – Artificial Intelligence, 5.IX.2024\n__________________________________________________________________________________",
+    "footerSkipped": "Page number",
+    "llmSummary": "This Convention establishes a legal framework to ensure that AI systems respect human rights, democracy and the rule of law throughout their lifecycle. It mandates signatory states to implement measures proportionate to the risks posed by AI technologies.",
+    "content": [
+        {
+            "type": "Unnumbered",
+            "id": "",
+            "title": "Preamble",
+            "text": "The member States of the Council of Europe and the other signatories hereto,\\nConsidering that the aim of the Council of Europe is to achieve greater unity between its members, based in particular on the respect for human rights, democracy and the rule of law;\\nRecognising the value of fostering co-operation between the Parties to this Convention and of extending such co-operation to other States that share the same values;\\nConscious of the accelerating developments in science and technology and the profound changes brought about through activities within the lifecycle of artificial intelligence systems, which have the potential to promote human prosperity as well as individual and societal well￾being, sustainable development, gender equality and the empowerment of all women and girls, as well as other important goals and interests, by enhancing progress and innovation;\\nRecognising that activities within the lifecycle of artificial intelligence systems may offer unprecedented opportunities to protect and promote human rights, democracy and the rule of law;\\nConcerned that certain activities within the lifecycle of artificial intelligence systems may undermine human dignity and individual autonomy, human rights, democracy and the rule of law;\\nConcerned about the risks of discrimination in digital contexts, particularly those involving artificial intelligence systems, and their potential effect of creating or aggravating inequalities, including those experienced by women and individuals in vulnerable situations, regarding the enjoyment of their human rights and their full, equal and effective participation in economic, social, cultural and political affairs;\\nConcerned by the misuse of artificial intelligence systems and opposing the use of such systems for repressive purposes in violation of international human rights law, including through arbitrary or unlawful surveillance and censorship practices that erode privacy and individual autonomy;\\nConscious of the fact that human rights, democracy and the rule of law are inherently interwoven;"
+        },
+        {
+            "type": "Chapter",
+            "id": "I",
+            "title": "General provisions",
+            "text": "",
+            "subsegments": [
+                {
+                    "type": "Article",
+                    "id": "1",
+                    "title": "Object and purpose",
+                    "text": "1 The provisions of this Convention aim to ensure that activities within the lifecycle of artificial intelligence systems are fully consistent with human rights, democracy and the rule of law.\\n2 Each Party shall adopt or maintain appropriate legislative, administrative or other measures to give effect to the provisions set out in this Convention. These measures shall be graduated and differentiated as may be necessary in view of the severity and probability of the occurrence of adverse impacts on human rights, democracy and the rule of law throughout the lifecycle of artificial intelligence systems. This may include specific or horizontal measures that apply irrespective of the type of technology used.",
+                    "subsegments": []
+                }
+            ]
+        }
+    ]
+}
