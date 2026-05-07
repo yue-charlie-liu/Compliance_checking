@@ -175,7 +175,7 @@ def generate_html(
         .stat.not-relevant {{ border-left: 4px solid #d3d3d3; }}
         .stat-value {{ font-size: 24px; font-weight: bold; color: #333; }}
         .stat-label {{ font-size: 12px; color: #666; margin-top: 5px; }}
-        .heatmap-container {{ background: #fafafa; border-radius: 8px; padding: 15px; margin-bottom: 30px; box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.06); }}
+        .heatmap-container {{ background: #fafafa; border-radius: 8px; padding: 15px; margin-bottom: 30px; box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.06); overflow-x: auto; }}
         .legend {{ display: flex; justify-content: center; gap: 30px; margin-top: 20px; flex-wrap: wrap; }}
         .legend-item {{ display: flex; align-items: center; gap: 10px; font-size: 14px; }}
         .legend-color {{ width: 30px; height: 30px; border-radius: 4px; border: 1px solid #ddd; }}
@@ -183,7 +183,7 @@ def generate_html(
         .legend-color.non-compliant {{ background: #ff6b6b; }}
         .legend-color.not-relevant {{ background: #d3d3d3; }}
         .footer {{ text-align: center; color: #999; font-size: 12px; margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; }}
-        #heatmap {{ width: 100%; height: 700px; }}
+        #heatmap {{ width: 100%; min-width: 1200px; height: 700px; }}
         .info-box {{ background: #f0f7ff; border-left: 4px solid #667eea; padding: 15px; border-radius: 4px; margin-bottom: 20px; font-size: 13px; color: #333; }}
         .info-box strong {{ color: #667eea; }}
     </style>
@@ -233,13 +233,18 @@ def generate_html(
             }},
             hoverinfo: 'skip'
         }};
+        const minCellSize = 24;
+        const maxWidth = 3200;
+        const maxHeight = 2400;
+        const width = Math.min(maxWidth, Math.max(1200, provisionIds.length * minCellSize));
+        const height = Math.min(maxHeight, Math.max(700, sourceIds.length * minCellSize));
         const layout = {{
             title: {{ text: '<b>Compliance Status Heatmap</b><br><sub>Hover over cells to view details</sub>', x: 0.5, xanchor: 'center', font: {{ size: 18 }} }},
             xaxis: {{ title: 'WHS Regulation Provisions (' + provisionIds.length + ' items)', showticklabels: false }},
             yaxis: {{ title: 'Source Documents (' + sourceIds.length + ' items)', showticklabels: false }},
-            width: null,
-            height: 700,
-            margin: {{ l: 100, r: 200, t: 120, b: 120 }},
+            width: width,
+            height: height,
+            margin: {{ l: 120, r: 200, t: 120, b: 120 }},
             plot_bgcolor: '#fff',
             paper_bgcolor: '#fff',
             font: {{ family: 'Segoe UI, Tahoma, Geneva, Verdana, sans-serif' }}
