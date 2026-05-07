@@ -173,116 +173,114 @@ def generate_html(
     source_count,
     provision_count,
 ) -> str:
-    colorscale = [
-        [0, '#d3d3d3'],
-        [0.5, '#ff6b6b'],
-        [1, '#51cf66'],
-    ]
+    # 颜色定义
+    color_map = {
+        0: '#e0e0e0',  # Not Relevant (Grey)
+        1: '#ff6b6b',  # Non-Compliant (Red)
+        2: '#51cf66'   # Compliant (Green)
+    }
+
+    # 将 Heatmap 矩阵转换为 Scatter 点集，方便控制形状
+    scatter_x = []
+    scatter_y = []
+    scatter_colors = []
+    scatter_text = []
+    
+    for r in range(len(source_ids)):
+        for c in range(len(provision_ids)):
+            scatter_x.append(c)
+            scatter_y.append(len(source_ids) - 1 - r) # 倒序排列，让第一行在最上面
+            scatter_colors.append(color_map[heatmap_data[r][c]])
+            scatter_text.append(hover_texts[r][c])
 
     html = f"""<!DOCTYPE html>
-<html lang=\"en\">
+<html lang="en">
 <head>
-    <meta charset=\"UTF-8\">
-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">
-    <title>Compliance Status Interactive Heatmap</title>
-    <script src=\"https://cdn.plot.ly/plotly-latest.min.js\"></script>
+    <meta charset="UTF-8">
+    <title>Compliance Policy Dashboard</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <style>
-        * {{ margin: 0; padding: 0; box-sizing: border-box; }}
-        body {{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); min-height: 100vh; padding: 20px; }}
-        .container {{ max-width: 1600px; margin: 0 auto; background: white; border-radius: 10px; box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3); padding: 30px; }}
-        .header {{ text-align: center; margin-bottom: 30px; }}
-        .header h1 {{ color: #333; font-size: 28px; margin-bottom: 10px; }}
-        .header p {{ color: #666; font-size: 14px; }}
-        .stats {{ display: flex; justify-content: center; gap: 30px; margin-bottom: 30px; flex-wrap: wrap; }}
-        .stat {{ text-align: center; padding: 15px 25px; border-radius: 8px; background: #f5f5f5; }}
-        .stat.compliant {{ border-left: 4px solid #51cf66; }}
-        .stat.non-compliant {{ border-left: 4px solid #ff6b6b; }}
-        .stat.not-relevant {{ border-left: 4px solid #d3d3d3; }}
-        .stat-value {{ font-size: 24px; font-weight: bold; color: #333; }}
-        .stat-label {{ font-size: 12px; color: #666; margin-top: 5px; }}
-        .heatmap-container {{ background: #fafafa; border-radius: 8px; padding: 15px; margin-bottom: 30px; box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.06); overflow-x: auto; }}
-        .legend {{ display: flex; justify-content: center; gap: 30px; margin-top: 20px; flex-wrap: wrap; }}
-        .legend-item {{ display: flex; align-items: center; gap: 10px; font-size: 14px; }}
-        .legend-color {{ width: 30px; height: 30px; border-radius: 4px; border: 1px solid #ddd; }}
-        .legend-color.compliant {{ background: #51cf66; }}
-        .legend-color.non-compliant {{ background: #ff6b6b; }}
-        .legend-color.not-relevant {{ background: #d3d3d3; }}
-        .footer {{ text-align: center; color: #999; font-size: 12px; margin-top: 20px; padding-top: 20px; border-top: 1px solid #eee; }}
-        #heatmap {{ width: 100%; min-width: 1200px; height: 700px; }}
-        .info-box {{ background: #f0f7ff; border-left: 4px solid #667eea; padding: 15px; border-radius: 4px; margin-bottom: 20px; font-size: 13px; color: #333; }}
-        .info-box strong {{ color: #667eea; }}
+        body {{ font-family: 'Inter', system-ui, sans-serif; background: #f8f9fa; padding: 40px; }}
+        .container {{ max-width: 1200px; margin: 0 auto; background: white; border-radius: 16px; box-shadow: 0 4px 20px rgba(0,0,0,0.08); padding: 40px; }}
+        .header {{ margin-bottom: 40px; border-bottom: 2px solid #eee; padding-bottom: 20px; }}
+        .header h1 {{ color: #1a1a1a; font-size: 24px; }}
+        .stats-bar {{ display: flex; gap: 20px; margin-bottom: 30px; }}
+        .stat-card {{ flex: 1; padding: 20px; border-radius: 12px; text-align: center; color: white; }}
+        .bg-green {{ background: #51cf66; }}
+        .bg-red {{ background: #ff6b6b; }}
+        .bg-grey {{ background: #adb5bd; }}
+        .stat-value {{ font-size: 28px; font-weight: bold; }}
+        #chart-area {{ width: 100%; height: {max(600, len(source_ids) * 60)}px; }}
     </style>
 </head>
 <body>
-    <div class=\"container\">
-        <div class=\"header\">
-            <h1>🔍 Compliance Status Interactive Heatmap</h1>
-            <p>Hover over cells to view detailed compliance information.</p>
+    <div class="container">
+        <div class="header">
+            <h1>Policy Compliance Overview</h1>
+            <p>Visual status of CSIRO policies vs WHS regulations</p>
         </div>
-        <div class=\"info-box\">
-            <strong>ℹ️ How to use:</strong> Hover over any colored cell to see the source ID, provision ID, compliance status, match score, reasoning, and remediation.
+        
+        <div class="stats-bar">
+            <div class="stat-card bg-green">
+                <div class="stat-value">{stats['compliant']}</div>
+                <div>Compliant Items</div>
+            </div>
+            <div class="stat-card bg-red">
+                <div class="stat-value">{stats['non_compliant']}</div>
+                <div>Non-Compliant Items</div>
+            </div>
+            <div class="stat-card bg-grey">
+                <div class="stat-value">{stats['not_relevant']}</div>
+                <div>Not Relevant</div>
+            </div>
         </div>
-        <div class=\"stats\">
-            <div class=\"stat compliant\"><div class=\"stat-value\">{stats['compliant']}</div><div class=\"stat-label\">Compliant</div></div>
-            <div class=\"stat non-compliant\"><div class=\"stat-value\">{stats['non_compliant']}</div><div class=\"stat-label\">Non-Compliant</div></div>
-            <div class=\"stat not-relevant\"><div class=\"stat-value\">{stats['not_relevant']}</div><div class=\"stat-label\">Not Relevant</div></div>
-        </div>
-        <div class=\"legend\">
-            <div class=\"legend-item\"><div class=\"legend-color compliant\"></div><span><b>Compliant:</b> Relevant & Compliant</span></div>
-            <div class=\"legend-item\"><div class=\"legend-color non-compliant\"></div><span><b>Non-Compliant:</b> Relevant & Not Compliant</span></div>
-            <div class=\"legend-item\"><div class=\"legend-color not-relevant\"></div><span><b>Not Relevant:</b> Not applicable</span></div>
-        </div>
-        <div class=\"heatmap-container\"><div id=\"heatmap\"></div></div>
-        <div class=\"footer\"><p>Generated by Compliance Checking System | {source_count} Sources × {provision_count} Provisions = {source_count * provision_count:,} cells</p></div>
+
+        <div id="chart-area"></div>
     </div>
+
     <script>
-        const heatmapData = {json.dumps(heatmap_data)};
-        const sourceIds = {json.dumps(source_ids)};
-        const provisionIds = {json.dumps(provision_ids)};
-        const hoverTexts = {json.dumps(hover_texts)};
-        const colorscale = {json.dumps(colorscale)};
-        const trace = {{
-            z: heatmapData,
-            x: provisionIds,
-            y: sourceIds,
-            type: 'heatmap',
-            colorscale: colorscale,
-            customdata: hoverTexts,
-            hovertemplate: '%{{customdata}}<extra></extra>',
-            colorbar: {{
-                title: 'Status',
-                tickvals: [0, 1, 2],
-                ticktext: ['Not Relevant', 'Non-Compliant', 'Compliant'],
-                thickness: 20,
-                len: 0.7
+        const data = [{{
+            x: {json.dumps(scatter_x)},
+            y: {json.dumps(scatter_y)},
+            mode: 'markers',
+            marker: {{
+                size: 35,
+                symbol: 'square-rounded', // 胶囊/圆角矩形效果
+                color: {json.dumps(scatter_colors)},
+                line: {{ color: 'white', width: 2 }}
             }},
-            hoverinfo: 'skip',
-            line: {{ width: 1, color: '#ffffff' }}
-        }};
-        const minCellSize = 24;
-        const maxWidth = 3200;
-        const maxHeight = 2400;
-        const width = Math.min(maxWidth, Math.max(1200, provisionIds.length * minCellSize));
-        const height = Math.min(maxHeight, Math.max(700, sourceIds.length * minCellSize));
+            text: {json.dumps(scatter_text)},
+            hoverinfo: 'text',
+            type: 'scatter'
+        }}];
+
         const layout = {{
-            title: {{ text: '<b>Compliance Status Heatmap</b><br><sub>Hover over cells to view details</sub>', x: 0.5, xanchor: 'center', font: {{ size: 18 }} }},
-            xaxis: {{ title: 'WHS Regulation Provisions (' + provisionIds.length + ' items)', showticklabels: false, scaleanchor: 'y', scaleratio: 1 }},
-            yaxis: {{ title: 'Source Documents (' + sourceIds.length + ' items)', showticklabels: false }},
-            width: width,
-            height: height,
-            margin: {{ l: 120, r: 200, t: 120, b: 120 }},
-            plot_bgcolor: '#fff',
-            paper_bgcolor: '#fff',
-            font: {{ family: 'Segoe UI, Tahoma, Geneva, Verdana, sans-serif' }}
+            showlegend: false,
+            plot_bgcolor: '#ffffff',
+            xaxis: {{
+                showgrid: false,
+                zeroline: false,
+                tickvals: {json.dumps(list(range(len(provision_ids))))},
+                ticktext: {json.dumps(provision_ids)},
+                side: 'top',
+                tickangle: -45
+            }},
+            yaxis: {{
+                showgrid: true,
+                gridcolor: '#f0f0f0',
+                tickvals: {json.dumps(list(range(len(source_ids))))},
+                ticktext: {json.dumps(source_ids[::-1])}, # 对应 y 轴倒序
+                tickfont: {{ size: 16, color: '#333', weight: 'bold' }}
+            }},
+            margin: {{ l: 200, r: 50, t: 150, b: 50 }},
+            hovermode: 'closest'
         }};
-        const config = {{ responsive: true, displayModeBar: true, displaylogo: false, modeBarButtonsToRemove: ['lasso2d', 'select2d'] }};
-        Plotly.newPlot('heatmap', [trace], layout, config);
-        window.addEventListener('resize', () => Plotly.Plots.resize('heatmap'));
+
+        Plotly.newPlot('chart-area', data, layout, {{responsive: true, displayModeBar: false}});
     </script>
 </body>
 </html>"""
     return html
-
 
 if __name__ == "__main__":
     print("=" * 70)
