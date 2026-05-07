@@ -127,21 +127,25 @@ def create_interactive_heatmap() -> None:
                 stats["not_relevant"] += 1
 
             heatmap_data[source_idx, target_idx] = value
-            hover_lines = [
-                f"<b>Source ID:</b> {source_ids[source_idx]}",
-                f"<b>Provision ID:</b> {provision_ids[target_idx]}",
-                f"<b>Status:</b> {status}",
-                f"<b>Relevance:</b> {'Yes' if is_relevant else 'No'}",
-                f"<b>Match Score:</b> {match_score:.3f}",
-            ]
             if is_relevant is True:
+                hover_lines = [
+                    f"<b>Source ID:</b> {source_ids[source_idx]}",
+                    f"<b>Provision ID:</b> {provision_ids[target_idx]}",
+                    f"<b>Status:</b> {status}",
+                    f"<b>Relevance:</b> {'Yes' if is_relevant else 'No'}",
+                    f"<b>Match Score:</b> {match_score:.3f}",
+                ]
                 hover_lines.append(f"<b>Compliant:</b> {'Yes' if compliant else 'No'}")
-            if reasoning:
-                hover_lines.append(f"<br><b>Reasoning:</b> {wrap_text(reasoning, 70)}")
-            if remediation:
-                hover_lines.append(f"<br><b>Remediation:</b> {wrap_text(remediation, 70)}")
+                if reasoning:
+                    hover_lines.append(f"<br><b>Reasoning:</b> {wrap_text(reasoning, 70)}")
+                if remediation:
+                    hover_lines.append(f"<br><b>Remediation:</b> {wrap_text(remediation, 70)}")
 
-            hover_texts[source_idx][target_idx] = "<br>".join(hover_lines)
+                hover_texts[source_idx][target_idx] = "<br>".join(hover_lines)
+
+            else:
+                # 灰色（不相关）Cell 文本直接设为空
+                hover_texts[source_idx][target_idx] = ""
 
     print(f"\nCompliance Statistics:")
     print(f"  - Compliant (Green): {stats['compliant']}")
@@ -240,6 +244,8 @@ def generate_html(
     </div>
 
     <script>
+        const hoverTexts = {json.dumps(scatter_text)};
+        const hoverInfoArray = hoverTexts.map(t => t ? 'text' : 'skip');
         const data = [{{
             x: {json.dumps(scatter_x)},
             y: {json.dumps(scatter_y)},
@@ -259,6 +265,11 @@ def generate_html(
             showlegend: false,
             plot_bgcolor: '#ffffff',
             xaxis: {{
+                title: {{ 
+                    text: '<b>Target:</b> Model WHS regulation', 
+                    font: {{ size: 14, color: '#666' }},
+                    standoff: 20
+                }},
                 showgrid: false,
                 zeroline: false,
                 tickvals: {json.dumps(list(range(len(provision_ids))))},
@@ -269,7 +280,13 @@ def generate_html(
                 tickposition: 'inside'
             }},
             yaxis: {{
+                title: {{ 
+                    text: '<b>Target:</b> CSIRO Electrical policies', 
+                    font: {{ size: 14, color: '#666' }},
+                    standoff: 20
+                }},
                 showgrid: false,
+                zeroline: false,
                 tickvals: {json.dumps(list(range(len(source_ids))))},
                 ticktext: {json.dumps(source_ids[::-1])}, 
                 tickfont: {{ size: 12, color: '#333' }},
