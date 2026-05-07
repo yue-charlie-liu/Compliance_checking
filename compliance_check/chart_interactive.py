@@ -240,7 +240,7 @@ def generate_html(
             y: {json.dumps(scatter_y)},
             mode: 'markers',
             marker: {{
-                size: 35,
+                size: 50,
                 symbol: 'square',
                 color: {json.dumps(scatter_colors)},
                 line: {{ color: 'white', width: 2 }}
@@ -268,6 +268,8 @@ def generate_html(
                 ticktext: {json.dumps(source_ids[::-1])}, 
                 tickfont: {{ size: 16, color: '#333', weight: 'bold' }}
             }},
+            width: Math.max(1200, {len(provision_ids)} * 50),
+            height: Math.max(700, {len(source_ids)} * 50),
             margin: {{ l: 200, r: 50, t: 150, b: 50 }},
             hovermode: 'closest'
         }};
