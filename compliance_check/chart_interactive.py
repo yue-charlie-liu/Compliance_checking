@@ -127,7 +127,7 @@ def create_interactive_heatmap() -> None:
                 stats["not_relevant"] += 1
 
             heatmap_data[source_idx, target_idx] = value
-            if is_relevant is True:
+            if is_relevant is True and compliant is not None:
                 hover_lines = [
                     f"<b>Source ID:</b> {source_ids[source_idx]}",
                     f"<b>Provision ID:</b> {provision_ids[target_idx]}",
@@ -266,7 +266,7 @@ def generate_html(
             plot_bgcolor: '#ffffff',
             xaxis: {{
                 title: {{ 
-                    text: '<b>Target:</b> Model WHS regulation', 
+                    text: '<b>Model WHS regulation</b>', 
                     font: {{ size: 14, color: '#666' }},
                     standoff: 20
                 }},
@@ -281,7 +281,7 @@ def generate_html(
             }},
             yaxis: {{
                 title: {{ 
-                    text: '<b>Target:</b> CSIRO Electrical policies', 
+                    text: '<b>CSIRO Electrical policies</b>', 
                     font: {{ size: 14, color: '#666' }},
                     standoff: 20
                 }},
