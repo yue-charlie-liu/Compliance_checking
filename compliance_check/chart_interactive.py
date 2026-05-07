@@ -215,7 +215,7 @@ def generate_html(
         .bg-grey {{ background: #adb5bd; }}
         .stat-value {{ font-size: 28px; font-weight: bold; }}
         .plotly .hoverlayer .hovertext {{ max-width: none !important; width: auto !important; white-space: normal !important; word-wrap: break-word !important; }}
-        #chart-area {{ width: 100%; height: {max(600, len(source_ids) * 60)}px; }}
+        #chart-area {{ width: 100%; height: {max(600, len(source_ids) * 50)}px; overflow: auto; }}
     </style>
 </head>
 <body>
@@ -245,7 +245,7 @@ def generate_html(
             y: {json.dumps(scatter_y)},
             mode: 'markers',
             marker: {{
-                size: 35,
+                size: 30,
                 symbol: 'square',
                 color: {json.dumps(scatter_colors)},
                 line: {{ color: 'white', width: 2 }}
@@ -263,17 +263,19 @@ def generate_html(
                 zeroline: false,
                 tickvals: {json.dumps(list(range(len(provision_ids))))},
                 ticktext: {json.dumps(provision_ids)},
+                tickfont: {{ size: 12, color: '#333' }},
                 side: 'top',
-                tickangle: -45
+                tickangle: 0,
+                tickposition: 'inside'
             }},
             yaxis: {{
-                showgrid: true,
-                gridcolor: '#f0f0f0',
+                showgrid: false,
                 tickvals: {json.dumps(list(range(len(source_ids))))},
                 ticktext: {json.dumps(source_ids[::-1])}, 
-                tickfont: {{ size: 16, color: '#333', weight: 'bold' }}
+                tickfont: {{ size: 12, color: '#333' }},
+                tickposition: 'inside'
             }},
-            margin: {{ l: 200, r: 50, t: 150, b: 50 }},
+            margin: {{ l: 180, r: 50, t: 120, b: 50 }},
             hovermode: 'closest'
         }};
 
