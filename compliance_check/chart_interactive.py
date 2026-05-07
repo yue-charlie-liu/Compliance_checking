@@ -85,6 +85,7 @@ def create_interactive_heatmap() -> None:
     source_titles = relevant_source_titles
     provision_ids = relevant_provision_ids
     provision_titles = relevant_provision_titles
+    source_index = {title: idx for idx, title in enumerate(source_titles)}
 
     print(f"Found {len(source_titles)} relevant source titles")
     print(f"Found {len(provision_titles)} relevant provision titles")
@@ -94,11 +95,11 @@ def create_interactive_heatmap() -> None:
     hover_texts = [["" for _ in range(len(provision_titles))] for _ in range(len(source_titles))]
     stats = {"compliant": 0, "non_compliant": 0, "not_relevant": 0}
 
-    source_idx = 0
     for item in check_results:
         source_title = item.get("source_title", "").strip()
-        if not source_title:
+        if source_title not in source_index:
             continue
+        source_idx = source_index[source_title]
         matches = item.get("matches", [])
         for match in matches:
             target_title = match.get("target_title", "").strip()
@@ -141,7 +142,6 @@ def create_interactive_heatmap() -> None:
                 hover_lines.append(f"<br><b>Remediation:</b> {remediation[:250]}")
 
             hover_texts[source_idx][target_idx] = "<br>".join(hover_lines)
-        source_idx += 1
 
     print(f"\nCompliance Statistics:")
     print(f"  - Compliant (Green): {stats['compliant']}")
