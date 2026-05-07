@@ -137,9 +137,9 @@ def create_interactive_heatmap() -> None:
             if is_relevant is True:
                 hover_lines.append(f"<b>Compliant:</b> {'Yes' if compliant else 'No'}")
             if reasoning:
-                hover_lines.append(f"<br><b>Reasoning:</b> {reasoning[:250]}")
+                hover_lines.append(f"<br><b>Reasoning:</b> {wrap_text(reasoning, 70)}")
             if remediation:
-                hover_lines.append(f"<br><b>Remediation:</b> {remediation[:250]}")
+                hover_lines.append(f"<br><b>Remediation:</b> {wrap_text(remediation, 70)}")
 
             hover_texts[source_idx][target_idx] = "<br>".join(hover_lines)
 
@@ -163,6 +163,10 @@ def create_interactive_heatmap() -> None:
     output_file.write_text(html_content, encoding='utf-8')
     print(f"✓ Interactive heatmap saved to {output_file}")
 
+def wrap_text(text, width=70):
+    if not text: return ""
+    import textwrap
+    return "<br>".join(textwrap.wrap(text, width=width))
 
 def generate_html(
     heatmap_data,
@@ -210,6 +214,7 @@ def generate_html(
         .bg-red {{ background: #ff6b6b; }}
         .bg-grey {{ background: #adb5bd; }}
         .stat-value {{ font-size: 28px; font-weight: bold; }}
+        .plotly .hoverlayer .hovertext {{ max-width: none !important; width: auto !important; white-space: normal !important; word-wrap: break-word !important; }}
         #chart-area {{ width: 100%; height: {max(600, len(source_ids) * 60)}px; }}
     </style>
 </head>
@@ -240,7 +245,7 @@ def generate_html(
             y: {json.dumps(scatter_y)},
             mode: 'markers',
             marker: {{
-                size: 50,
+                size: 35,
                 symbol: 'square',
                 color: {json.dumps(scatter_colors)},
                 line: {{ color: 'white', width: 2 }}
@@ -268,8 +273,6 @@ def generate_html(
                 ticktext: {json.dumps(source_ids[::-1])}, 
                 tickfont: {{ size: 16, color: '#333', weight: 'bold' }}
             }},
-            width: Math.max(1200, {len(provision_ids)} * 50),
-            height: Math.max(700, {len(source_ids)} * 50),
             margin: {{ l: 200, r: 50, t: 150, b: 50 }},
             hovermode: 'closest'
         }};
