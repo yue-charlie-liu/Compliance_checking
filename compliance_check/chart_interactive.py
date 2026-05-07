@@ -41,28 +41,53 @@ def create_interactive_heatmap() -> None:
     print(f"Loading WHS regulations from {whs_regulations_file}")
     whs_regulations = load_json(whs_regulations_file)
 
+    relevant_provision_titles = []
+    relevant_provision_ids = []
+    relevant_provision_set = set()
     provision_titles = []
     provision_ids = []
     provision_index = {}
+
+    relevant_source_titles = []
+    relevant_source_ids = []
+    relevant_source_set = set()
+
+    for item in check_results:
+        source_title = item.get("source_title", "").strip()
+        if not source_title:
+            continue
+        matches = item.get("matches", [])
+        for match in matches:
+            target_title = match.get("target_title", "").strip()
+            if not target_title:
+                continue
+            compliance = match.get("compliance", {})
+            if compliance.get("is_relevant") is True and compliance.get("compliant") is not None:
+                relevant_source_set.add(source_title)
+                relevant_provision_set.add(target_title)
+
     for item in whs_regulations:
         title = item.get("title", "").strip()
-        if not title:
+        if not title or title not in relevant_provision_set:
             continue
-        provision_ids.append(extract_id(title))
-        provision_titles.append(title)
-        provision_index[title] = len(provision_ids) - 1
+        relevant_provision_ids.append(extract_id(title))
+        relevant_provision_titles.append(title)
+        provision_index[title] = len(relevant_provision_ids) - 1
 
-    source_ids = []
-    source_titles = []
     for item in check_results:
         title = item.get("source_title", "").strip()
-        if not title:
+        if not title or title not in relevant_source_set:
             continue
-        source_ids.append(extract_id(title))
-        source_titles.append(title)
+        relevant_source_ids.append(extract_id(title))
+        relevant_source_titles.append(title)
 
-    print(f"Found {len(source_titles)} source titles")
-    print(f"Found {len(provision_titles)} provision titles")
+    source_ids = relevant_source_ids
+    source_titles = relevant_source_titles
+    provision_ids = relevant_provision_ids
+    provision_titles = relevant_provision_titles
+
+    print(f"Found {len(source_titles)} relevant source titles")
+    print(f"Found {len(provision_titles)} relevant provision titles")
     print(f"Creating interactive {len(source_titles)} x {len(provision_titles)} heatmap")
 
     heatmap_data = np.zeros((len(source_titles), len(provision_titles)), dtype=int)
