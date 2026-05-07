@@ -124,7 +124,7 @@ def compute_matches_from_to(source_provisions: list, target_provisions: list, so
         result.append(out)
     
     os.makedirs(output_dir, exist_ok=True)
-    output_file = os.path.join(output_dir, f"{source_name}_to_{target_name}.json")
+    output_file = os.path.join(output_dir, f"{source_name}.json")
     compact_dump(result, output_file)
     print(f"Saved → {output_file} ({len(result)} items)")
 

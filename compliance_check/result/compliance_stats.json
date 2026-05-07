@@ -1,0 +1,9 @@
+{
+  "total_cells": 18788,
+  "compliant": 11,
+  "non_compliant": 139,
+  "not_relevant": 87,
+  "null_compliance": 43,
+  "compliance_rate": 7.33,
+  "relevance_rate": 63.29
+}
