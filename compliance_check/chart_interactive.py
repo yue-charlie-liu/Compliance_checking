@@ -256,7 +256,8 @@ def generate_html(
                 thickness: 20,
                 len: 0.7
             }},
-            hoverinfo: 'skip'
+            hoverinfo: 'skip',
+            line: {{ width: 1, color: '#ffffff' }}
         }};
         const minCellSize = 24;
         const maxWidth = 3200;
@@ -265,7 +266,7 @@ def generate_html(
         const height = Math.min(maxHeight, Math.max(700, sourceIds.length * minCellSize));
         const layout = {{
             title: {{ text: '<b>Compliance Status Heatmap</b><br><sub>Hover over cells to view details</sub>', x: 0.5, xanchor: 'center', font: {{ size: 18 }} }},
-            xaxis: {{ title: 'WHS Regulation Provisions (' + provisionIds.length + ' items)', showticklabels: false }},
+            xaxis: {{ title: 'WHS Regulation Provisions (' + provisionIds.length + ' items)', showticklabels: false, scaleanchor: 'y', scaleratio: 1 }},
             yaxis: {{ title: 'Source Documents (' + sourceIds.length + ' items)', showticklabels: false }},
             width: width,
             height: height,
