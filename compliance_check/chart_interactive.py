@@ -146,7 +146,7 @@ def create_interactive_heatmap() -> None:
     print(f"\nCompliance Statistics:")
     print(f"  - Compliant (Green): {stats['compliant']}")
     print(f"  - Non-compliant (Red): {stats['non_compliant']}")
-    print(f"  - Not Relevant (Grey): {stats['not_relevant']}")
+    # print(f"  - Not Relevant (Grey): {stats['not_relevant']}")
 
     html_content = generate_html(
         heatmap_data.tolist(),
@@ -229,10 +229,6 @@ def generate_html(
                 <div class="stat-value">{stats['non_compliant']}</div>
                 <div>Non-Compliant Items</div>
             </div>
-            <div class="stat-card bg-grey">
-                <div class="stat-value">{stats['not_relevant']}</div>
-                <div>Not Relevant</div>
-            </div>
         </div>
 
         <div id="chart-area"></div>
@@ -245,7 +241,7 @@ def generate_html(
             mode: 'markers',
             marker: {{
                 size: 35,
-                symbol: 'square-rounded', // 胶囊/圆角矩形效果
+                symbol: 'square',
                 color: {json.dumps(scatter_colors)},
                 line: {{ color: 'white', width: 2 }}
             }},
@@ -269,7 +265,7 @@ def generate_html(
                 showgrid: true,
                 gridcolor: '#f0f0f0',
                 tickvals: {json.dumps(list(range(len(source_ids))))},
-                ticktext: {json.dumps(source_ids[::-1])}, # 对应 y 轴倒序
+                ticktext: {json.dumps(source_ids[::-1])}, 
                 tickfont: {{ size: 16, color: '#333', weight: 'bold' }}
             }},
             margin: {{ l: 200, r: 50, t: 150, b: 50 }},
