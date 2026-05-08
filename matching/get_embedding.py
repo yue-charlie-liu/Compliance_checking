@@ -7,6 +7,7 @@ from openai import OpenAI
 import sys
 import hashlib
 from datetime import datetime
+from requests.exceptions import ConnectionError, Timeout, RequestException
 
 # -----------------------
 # Config
@@ -32,14 +33,27 @@ def hash_id(text: str):
     """Stable hash ID for unique identification"""
     return hashlib.md5(text.encode()).hexdigest()
 
-def get_embedding(text: str):
-    """Call OpenAI to get embedding"""
+def get_embedding(text: str, retries: int = 3):
+    """Call OpenAI to get embedding with retry logic for connection errors"""
     text = text[:CLIP_LENGTH]
-    response = client.embeddings.create(
-        model=MODEL,
-        input=text
-    )
-    return response.data[0].embedding
+    
+    for attempt in range(retries):
+        try:
+            response = client.embeddings.create(
+                model=MODEL,
+                input=text
+            )
+            return response.data[0].embedding
+        except (ConnectionError, Timeout) as e:
+            if attempt < retries - 1:
+                wait_time = 2 ** attempt
+                print(f"  ⚠️ Connection error (attempt {attempt + 1}/{retries}): {type(e).__name__}. Retrying in {wait_time}s...")
+                time.sleep(wait_time)
+                continue
+            else:
+                raise
+        except Exception as e:
+            raise
 
 def load_existing(path: Path):
     """Load existing embeddings and index by title"""
@@ -58,6 +72,9 @@ def process_all_files():
     files = sorted(f for f in INPUT_DIR.iterdir() if f.suffix == ".json")
 
     print(f"Found {len(files)} flatten json files")
+    
+    connection_errors = []
+    api_errors = []
 
     for input_path in files:
         output_path = OUTPUT_DIR / input_path.name
@@ -97,8 +114,19 @@ def process_all_files():
             if regenerate and text:
                 try:
                     emb = get_embedding(text)
+                except (ConnectionError, Timeout) as e:
+                    connection_errors.append({
+                        "title": title,
+                        "error": f"{type(e).__name__}: {str(e)[:100]}"
+                    })
+                    print(f"❌ Connection error for '{title}': {type(e).__name__}")
+                    emb = None
                 except Exception as e:
-                    print(f"⚠️ Error generating embedding for '{title}': {e}")
+                    api_errors.append({
+                        "title": title,
+                        "error": f"{type(e).__name__}: {str(e)[:100]}"
+                    })
+                    print(f"⚠️ API error for '{title}': {type(e).__name__}")
                     emb = None
             else:
                 emb = existing_index.get(title, {}).get("embedding")
@@ -121,6 +149,27 @@ def process_all_files():
             json.dump(updated_data, f, ensure_ascii=False, indent=2)
 
         print(f"✅ Saved → {output_path} ({len(updated_data)} items)")
+
+    # Report errors
+    print("\n" + "="*70)
+    if connection_errors:
+        print(f"🔴 CONNECTION ERRORS ({len(connection_errors)} items):")
+        for err in connection_errors[:10]:
+            print(f"  - {err['title']}: {err['error']}")
+        if len(connection_errors) > 10:
+            print(f"  ... and {len(connection_errors) - 10} more")
+    else:
+        print("✅ No connection errors detected")
+    
+    if api_errors:
+        print(f"\n⚠️ API ERRORS ({len(api_errors)} items):")
+        for err in api_errors[:10]:
+            print(f"  - {err['title']}: {err['error']}")
+        if len(api_errors) > 10:
+            print(f"  ... and {len(api_errors) - 10} more")
+    else:
+        print("✅ No API errors detected")
+    print("="*70)
 
     print("\n🎉 All files processed.")
 

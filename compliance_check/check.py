@@ -2,6 +2,7 @@ import json
 import os
 import sys
 import time
+import random
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
 from openai import OpenAI
@@ -23,7 +24,7 @@ OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 MAX_RETRIES = 3
 RETRY_DELAY = 3
 MODEL = "gpt-5.2"
-N_JOBS = 5  # Use all available CPU cores
+N_JOBS = 1  # Use all available CPU cores
 
 
 def load_json(path: Path) -> Any:
@@ -67,12 +68,12 @@ def build_flattened_index() -> Dict[str, Dict[str, Dict[str, Any]]]:
 def call_compliance_gpt(source_text: str, target_text: str, client: OpenAI) -> Dict[str, Any]:
     """Check compliance between source and target texts using GPT-5.2."""
     prompt = f"""You are a compliance analyst. 
-Follow these two steps to analyze the relationship between the SOURCE and TARGET texts.
+Follow these two steps to analyze the relationship between the POLICY and PROVISION texts.
 
-SOURCE TEXT:
+POLICY TEXT:
 {source_text}
 
-TARGET TEXT:
+PROVISION TEXT:
 {target_text}
 
 STEP 1: Determine if these two texts are functionally related such that a compliance check is necessary. 
@@ -83,9 +84,11 @@ STEP 2: If related, perform the compliance check.
 Return only JSON with these fields:
 - is_relevant: true or false (Result of STEP 1)
 - compliant: true, false, or null (null if is_relevant is false)
-- reasoning: explanation of relevance and compliance status
+- reasoning: explanation of compliance status (null if is_relevant is false)
 - remediation: suggested action if not compliant; otherwise empty
 """
+    
+    # time.sleep(random.uniform(0, 2))
 
     for attempt in range(1, MAX_RETRIES + 1):
         try:

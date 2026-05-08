@@ -12,37 +12,29 @@
     {
       "source_title": "2.2 What is electrical work?",
       "total_matches": 10,
-      "compliant": 1,
-      "non_compliant": 2,
-      "not_relevant": 7,
-      "compliance_rate": 33.33
-    },
-    {
-      "source_title": "2.3 What is not electrical work?",
-      "total_matches": 10,
       "compliant": 0,
       "non_compliant": 4,
       "not_relevant": 6,
       "compliance_rate": 0.0
     },
     {
-      "source_title": "3 HSE Risk Management",
-      "total_matches": 10,
-      "compliant": 1,
-      "non_compliant": 9,
-      "not_relevant": 0,
-      "compliance_rate": 10.0
-    },
-    {
-      "source_title": "4.1 Electrical worker competency",
+      "source_title": "2.3 What is not electrical work?",
       "total_matches": 10,
       "compliant": 0,
-      "non_compliant": 7,
-      "not_relevant": 3,
+      "non_compliant": 8,
+      "not_relevant": 2,
       "compliance_rate": 0.0
     },
     {
-      "source_title": "4.2 Electrical work – who can do what?",
+      "source_title": "3 HSE Risk Management",
+      "total_matches": 10,
+      "compliant": 1,
+      "non_compliant": 6,
+      "not_relevant": 3,
+      "compliance_rate": 14.29
+    },
+    {
+      "source_title": "4.1 Electrical worker competency",
       "total_matches": 10,
       "compliant": 0,
       "non_compliant": 9,
@@ -50,52 +42,60 @@
       "compliance_rate": 0.0
     },
     {
-      "source_title": "4.3 Electrical competency assessment",
+      "source_title": "4.2 Electrical work – who can do what?",
       "total_matches": 10,
       "compliant": 0,
-      "non_compliant": 4,
-      "not_relevant": 6,
+      "non_compliant": 8,
+      "not_relevant": 2,
       "compliance_rate": 0.0
+    },
+    {
+      "source_title": "4.3 Electrical competency assessment",
+      "total_matches": 10,
+      "compliant": 2,
+      "non_compliant": 5,
+      "not_relevant": 3,
+      "compliance_rate": 28.57
     },
     {
       "source_title": "4.4 Verification of electrical competency",
-      "total_matches": 10,
-      "compliant": 0,
-      "non_compliant": 5,
-      "not_relevant": 5,
-      "compliance_rate": 0.0
-    },
-    {
-      "source_title": "5.1 General electrical work principles",
-      "total_matches": 10,
-      "compliant": 0,
-      "non_compliant": 0,
-      "not_relevant": 10,
-      "compliance_rate": null
-    },
-    {
-      "source_title": "5.2 Tools and Equipment",
-      "total_matches": 10,
-      "compliant": 0,
-      "non_compliant": 5,
-      "not_relevant": 5,
-      "compliance_rate": 0.0
-    },
-    {
-      "source_title": "5.3 Working on a different site",
-      "total_matches": 10,
-      "compliant": 0,
-      "non_compliant": 1,
-      "not_relevant": 9,
-      "compliance_rate": 0.0
-    },
-    {
-      "source_title": "6.1 Lock out and tag out",
       "total_matches": 10,
       "compliant": 1,
       "non_compliant": 5,
       "not_relevant": 4,
       "compliance_rate": 16.67
+    },
+    {
+      "source_title": "5.1 General electrical work principles",
+      "total_matches": 10,
+      "compliant": 3,
+      "non_compliant": 6,
+      "not_relevant": 1,
+      "compliance_rate": 33.33
+    },
+    {
+      "source_title": "5.2 Tools and Equipment",
+      "total_matches": 10,
+      "compliant": 3,
+      "non_compliant": 5,
+      "not_relevant": 2,
+      "compliance_rate": 37.5
+    },
+    {
+      "source_title": "5.3 Working on a different site",
+      "total_matches": 10,
+      "compliant": 0,
+      "non_compliant": 2,
+      "not_relevant": 8,
+      "compliance_rate": 0.0
+    },
+    {
+      "source_title": "6.1 Lock out and tag out",
+      "total_matches": 10,
+      "compliant": 2,
+      "non_compliant": 3,
+      "not_relevant": 5,
+      "compliance_rate": 40.0
     },
     {
       "source_title": "6.2 Isolation locks",
@@ -109,121 +109,121 @@
       "source_title": "7.1 Planning energised electrical work",
       "total_matches": 10,
       "compliant": 0,
-      "non_compliant": 8,
-      "not_relevant": 2,
+      "non_compliant": 5,
+      "not_relevant": 5,
       "compliance_rate": 0.0
     },
     {
       "source_title": "7.2 Application to undertake energised electrical work",
       "total_matches": 10,
       "compliant": 1,
-      "non_compliant": 6,
-      "not_relevant": 3,
-      "compliance_rate": 14.29
+      "non_compliant": 7,
+      "not_relevant": 2,
+      "compliance_rate": 12.5
     },
     {
       "source_title": "7.3 Carrying out energised electrical work",
       "total_matches": 10,
       "compliant": 1,
-      "non_compliant": 5,
-      "not_relevant": 4,
-      "compliance_rate": 16.67
+      "non_compliant": 4,
+      "not_relevant": 5,
+      "compliance_rate": 20.0
     },
     {
       "source_title": "7.4 Safe Work Instructions",
       "total_matches": 10,
-      "compliant": 0,
+      "compliant": 1,
       "non_compliant": 8,
-      "not_relevant": 2,
-      "compliance_rate": 0.0
+      "not_relevant": 1,
+      "compliance_rate": 11.11
     },
     {
       "source_title": "7.5 Safety Observers",
       "total_matches": 10,
       "compliant": 0,
-      "non_compliant": 1,
-      "not_relevant": 9,
+      "non_compliant": 4,
+      "not_relevant": 6,
       "compliance_rate": 0.0
     },
     {
       "source_title": "7.6 Other considerations",
       "total_matches": 10,
-      "compliant": 0,
-      "non_compliant": 7,
-      "not_relevant": 3,
-      "compliance_rate": 0.0
+      "compliant": 1,
+      "non_compliant": 8,
+      "not_relevant": 1,
+      "compliance_rate": 11.11
     },
     {
       "source_title": "7.7 Energised electrical work – testing and fault-finding",
       "total_matches": 10,
       "compliant": 2,
-      "non_compliant": 8,
-      "not_relevant": 0,
-      "compliance_rate": 20.0
+      "non_compliant": 6,
+      "not_relevant": 2,
+      "compliance_rate": 25.0
     },
     {
       "source_title": "8.1 Purchasing of equipment",
       "total_matches": 10,
-      "compliant": 0,
-      "non_compliant": 3,
-      "not_relevant": 7,
-      "compliance_rate": 0.0
+      "compliant": 3,
+      "non_compliant": 4,
+      "not_relevant": 3,
+      "compliance_rate": 42.86
     },
     {
       "source_title": "8.2 Modifications to electrical equipment",
       "total_matches": 10,
       "compliant": 0,
-      "non_compliant": 9,
-      "not_relevant": 1,
+      "non_compliant": 10,
+      "not_relevant": 0,
       "compliance_rate": 0.0
     },
     {
       "source_title": "8.3 Disposal of electrical equipment",
       "total_matches": 10,
-      "compliant": 0,
-      "non_compliant": 2,
-      "not_relevant": 8,
-      "compliance_rate": 0.0
+      "compliant": 1,
+      "non_compliant": 3,
+      "not_relevant": 6,
+      "compliance_rate": 25.0
     },
     {
       "source_title": "8.4 Inspection, testing and tagging",
       "total_matches": 10,
-      "compliant": 1,
-      "non_compliant": 6,
-      "not_relevant": 3,
-      "compliance_rate": 14.29
+      "compliant": 3,
+      "non_compliant": 3,
+      "not_relevant": 4,
+      "compliance_rate": 50.0
     },
     {
       "source_title": "9.1 Business Unit and Site Electrical Safety Officers",
       "total_matches": 10,
-      "compliant": 0,
-      "non_compliant": 1,
-      "not_relevant": 9,
-      "compliance_rate": 0.0
+      "compliant": 1,
+      "non_compliant": 3,
+      "not_relevant": 6,
+      "compliance_rate": 25.0
     },
     {
       "source_title": "9.2 Electrical Safety Officer competencies",
       "total_matches": 10,
       "compliant": 0,
-      "non_compliant": 3,
-      "not_relevant": 7,
+      "non_compliant": 5,
+      "not_relevant": 5,
       "compliance_rate": 0.0
     },
     {
       "source_title": "9.3 Letters of appointment",
       "total_matches": 10,
       "compliant": 0,
-      "non_compliant": 1,
-      "not_relevant": 9,
-      "compliance_rate": 0.0
+      "non_compliant": 0,
+      "not_relevant": 10,
+      "compliance_rate": null
     },
     {
       "source_title": "9.4 Duties of Electrical Safety Officers",
       "total_matches": 10,
-      "compliant": 0,
-      "non_compliant": 4,
-      "not_relevant": 6,
-      "compliance_rate": 0.0
+      "compliant": 1,
+      "non_compliant": 7,
+      "not_relevant": 2,
+      "compliance_rate": 12.5
     }
   ]
 }

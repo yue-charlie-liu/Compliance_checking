@@ -169,6 +169,12 @@ def create_interactive_heatmap() -> None:
 
 def wrap_text(text, width=70):
     if not text: return ""
+
+    if isinstance(text, list):
+        text = " ".join([str(i) for i in text])
+    
+    text = str(text)
+
     import textwrap
     return "<br>".join(textwrap.wrap(text, width=width))
 
